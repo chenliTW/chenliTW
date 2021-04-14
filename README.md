@@ -1,13 +1,13 @@
 Last Update Time: 
-Wed Apr 14 16:30:36 UTC 2021
+Wed Apr 14 16:53:44 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/  A man was reading The Canterbury Tales \
-| one Saturday morning, when his wife     |
-| asked "What have you got there?"        |
-\ Replied he, "Just my cup and Chaucer."  /
- -----------------------------------------
+ ______________________________________
+/ Q: How many Marxists does it take to \
+| screw in a light bulb? A: None: The  |
+| light bulb contains the seeds of its |
+\ own revolution.                      /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
