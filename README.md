@@ -1,1 +1,4 @@
-![](https://github-readme-stats.vercel.app/api?username=chenlitw)\n
+Last Update Time: 
+Wed Apr 14 11:09:28 CST 2021
+<br>[![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)]<br>
+```
