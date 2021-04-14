@@ -1,17 +1,14 @@
 Last Update Time: 
-Wed Apr 14 04:00:19 UTC 2021
+Wed Apr 14 04:12:28 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ April 1                              \
-|                                      |
-| This is the day upon which we are    |
-| reminded of what we are on the other |
-| three hundred and sixty-four.        |
-|                                      |
-| -- Mark Twain, "Pudd'nhead Wilson's  |
-\ Calendar"                            /
- --------------------------------------
+ _________________________________________
+/ Q: What's the difference between a dead \
+| dog in the road and a dead              |
+|                                         |
+| lawyer in the road? A: There are skid   |
+\ marks in front of the dog.              /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
