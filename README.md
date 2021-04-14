@@ -1,10 +1,12 @@
 Last Update Time: 
-Wed Apr 14 22:59:01 UTC 2021
+Wed Apr 14 23:10:33 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-< You have taken yourself too seriously. >
- ----------------------------------------
+ ______________________________________
+/ Q: What happens when four WASPs find \
+| themselves in the same room? A: A    |
+\ dinner party.                        /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
