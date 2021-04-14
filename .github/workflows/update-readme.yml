@@ -18,8 +18,8 @@ jobs:
         echo "\`\`\`" >> README.md
         fortune | cowsay >> README.md
         echo "\`\`\`" >> README.md
-        echo "[![](https://github-readme-stats.vercel.app/api?username=chenlitw)]" >> README.md
-        echo "[![](https://github-readme-stats.vercel.app/api/top-langs/?username=chenlitw)()]" >> README.md
+        echo "![](https://github-readme-stats.vercel.app/api?username=chenlitw)" >> README.md
+        echo "![](https://github-readme-stats.vercel.app/api/top-langs/?username=chenlitw)" >> README.md
     - name: push
       run: |
         git add .
