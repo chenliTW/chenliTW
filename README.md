@@ -1,15 +1,10 @@
 Last Update Time: 
-Thu Apr 15 08:24:31 UTC 2021
+Thu Apr 15 08:39:38 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ The difference between the right word \
-| and the almost right word is the      |
-| difference between lightning and the  |
-| lightning bug.                        |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ _________________________________
+< You too can wear a nose mitten. >
+ ---------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
