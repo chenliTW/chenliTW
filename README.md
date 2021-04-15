@@ -1,11 +1,10 @@
 Last Update Time: 
-Thu Apr 15 17:04:28 UTC 2021
+Thu Apr 15 17:28:17 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Try to have as good a life as you can \
-\ under the circumstances.              /
- ---------------------------------------
+ _________________________________________
+< Exercise caution in your daily affairs. >
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
