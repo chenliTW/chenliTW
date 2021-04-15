@@ -1,16 +1,10 @@
 Last Update Time: 
-Thu Apr 15 20:45:09 UTC 2021
+Thu Apr 15 20:53:17 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Whoever has lived long enough to find   \
-| out what life is, knows how deep a debt |
-| of gratitude we owe to Adam, the first  |
-| great benefactor of our race. He        |
-| brought death into the world.           |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
+/ Are you ever going to do the dishes? Or \
+\ will you change your major to biology?  /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
