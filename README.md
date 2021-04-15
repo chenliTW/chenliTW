@@ -1,10 +1,17 @@
 Last Update Time: 
-Thu Apr 15 20:53:17 UTC 2021
+Thu Apr 15 21:02:40 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Are you ever going to do the dishes? Or \
-\ will you change your major to biology?  /
+/ Persons attempting to find a motive in  \
+| this narrative will be prosecuted;      |
+| persons attempting to find a moral in   |
+| it will be banished; persons attempting |
+| to find a plot in it will be shot. By   |
+| Order of the Author                     |
+|                                         |
+| -- Mark Twain, "The Adventures of       |
+\ Huckleberry Finn"                       /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
