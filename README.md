@@ -1,14 +1,11 @@
 Last Update Time: 
-Thu Apr 15 04:57:16 UTC 2021
+Thu Apr 15 05:10:05 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Q: What does a WASP Mom make for   \
-| dinner? A: A crisp salad, a hearty |
-| soup, a lovely entree, followed by |
-|                                    |
-\ a delicious dessert.               /
- ------------------------------------
+ _________________________________________
+/ An avocado-tone refrigerator would look \
+\ good on your resume.                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
