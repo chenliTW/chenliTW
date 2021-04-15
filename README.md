@@ -1,13 +1,12 @@
 Last Update Time: 
-Thu Apr 15 22:28:08 UTC 2021
+Thu Apr 15 22:42:03 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ It usually takes more than three weeks \
-| to prepare a good impromptu speech.    |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ ______________________________________
+/ Your reasoning is excellent -- it's  \
+| only your basic assumptions that are |
+\ wrong.                               /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
