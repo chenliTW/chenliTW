@@ -1,13 +1,13 @@
 Last Update Time: 
-Fri Apr 16 03:13:17 UTC 2021
+Fri Apr 16 03:30:33 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: How many Marxists does it take to \
-| screw in a light bulb? A: None: The  |
-| light bulb contains the seeds of its |
-\ own revolution.                      /
- --------------------------------------
+ ________________________________________
+/ Q: How many Harvard MBA's does it take \
+| to screw in a light bulb? A: Just one. |
+| He grasps it firmly and the universe   |
+\ revolves around him.                   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
