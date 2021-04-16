@@ -1,11 +1,11 @@
 Last Update Time: 
-Fri Apr 16 08:08:28 UTC 2021
+Fri Apr 16 08:23:47 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ You will be attacked by a beast who has \
-| the body of a wolf, the tail of a lion, |
-\ and the face of Donald Duck.            /
+/ Q: What do you say to a New Yorker with \
+| a job? A: Big Mac, fries and a Coke,    |
+\ please!                                 /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
