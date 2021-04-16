@@ -1,14 +1,11 @@
 Last Update Time: 
-Fri Apr 16 20:10:57 UTC 2021
+Fri Apr 16 20:26:06 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ After all, all he did was string  \
-| together a lot of old, well-known |
-| quotations.                       |
-|                                   |
-\ -- H. L. Mencken, on Shakespeare  /
- -----------------------------------
+ _________________________________________
+/ Ships are safe in harbor, but they were \
+\ never meant to stay there.              /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
