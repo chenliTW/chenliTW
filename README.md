@@ -1,13 +1,11 @@
 Last Update Time: 
-Fri Apr 16 03:59:20 UTC 2021
+Fri Apr 16 04:11:23 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ If two people love each other, there \
-| can be no happy end to it.           |
-|                                      |
-\ -- Ernest Hemingway                  /
- --------------------------------------
+ _________________________________________
+/ You will step on the night soil of many \
+\ countries.                              /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
