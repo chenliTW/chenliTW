@@ -1,15 +1,13 @@
 Last Update Time: 
-Fri Apr 16 06:17:46 UTC 2021
+Fri Apr 16 06:33:05 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ If you pick up a starving dog and make \
-| him prosperous, he will not bite you.  |
-| This is the principal difference       |
-| between a dog and a man.               |
+/ Its name is Public Opinion. It is held \
+| in reverence. It settles everything.   |
+| Some think it is the voice of God.     |
 |                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
+\ -- Mark Twain                          /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
