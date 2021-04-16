@@ -1,14 +1,10 @@
 Last Update Time: 
-Fri Apr 16 02:17:12 UTC 2021
+Fri Apr 16 02:37:36 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ There are more things in heaven and   \
-| earth, Horatio, than are dreamt of in |
-| your philosophy.                      |
-|                                       |
-\ -- Wm. Shakespeare, "Hamlet"          /
- ---------------------------------------
+ _________________________________
+< You will be successful in love. >
+ ---------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
