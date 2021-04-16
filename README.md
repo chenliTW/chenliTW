@@ -1,10 +1,17 @@
 Last Update Time: 
-Fri Apr 16 04:45:39 UTC 2021
+Fri Apr 16 04:59:49 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-< Your aim is high and to the right. >
- ------------------------------------
+ _________________________________________
+/ Gratitude and treachery are merely the  \
+| two extremities of the same procession. |
+| You have seen all of it that is worth   |
+| staying for when the band and the gaudy |
+| officials have gone by.                 |
+|                                         |
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
