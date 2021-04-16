@@ -1,14 +1,12 @@
 Last Update Time: 
-Fri Apr 16 06:33:05 UTC 2021
+Fri Apr 16 06:46:35 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Its name is Public Opinion. It is held \
-| in reverence. It settles everything.   |
-| Some think it is the voice of God.     |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _________________________________________
+/ You will be attacked by a beast who has \
+| the body of a wolf, the tail of a lion, |
+\ and the face of Donald Duck.            /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
