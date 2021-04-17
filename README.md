@@ -1,15 +1,22 @@
 Last Update Time: 
-Sat Apr 17 13:41:38 UTC 2021
+Sat Apr 17 13:51:46 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why did the chicken cross the road? \
-| A: To see his friend Gregory peck.     |
-|                                        |
-| Q: Why did the chicken cross the       |
-| playground? A: To get to the other     |
-\ slide.                                 /
- ----------------------------------------
+ _________________________________________
+/ I reverently believe that the maker who \
+| made us all makes everything in New     |
+| England, but the weather. I don't know  |
+| who makes that, but I think it must be  |
+| raw apprentices in the weather-clerks   |
+| factory who experiment and learn how,   |
+| in New England, for board and clothes,  |
+| and then are promoted to make weather   |
+| for countries that require a good       |
+| article, and will take their custom     |
+| elsewhere if they don't get it.         |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
