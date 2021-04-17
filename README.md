@@ -1,10 +1,11 @@
 Last Update Time: 
-Sat Apr 17 10:28:05 UTC 2021
+Sat Apr 17 10:40:52 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- __________________________
-< Advancement in position. >
- --------------------------
+ ________________________________________
+/ Green light in A.M. for new projects.  \
+\ Red light in P.M. for traffic tickets. /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
