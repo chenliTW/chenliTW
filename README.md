@@ -1,12 +1,13 @@
 Last Update Time: 
-Sun Apr 18 19:41:42 UTC 2021
+Sun Apr 18 19:50:11 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How many lawyers does it take to    \
-| change a light bulb? A: One. Only it's |
-\ his light bulb when he's done.         /
- ----------------------------------------
+ ______________________________________
+/ Go not to the elves for counsel, for \
+| they will say both yes and no.       |
+|                                      |
+\ -- J.R.R. Tolkien                    /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
