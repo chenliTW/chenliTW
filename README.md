@@ -1,16 +1,19 @@
 Last Update Time: 
-Sat Apr 17 23:57:47 UTC 2021
+Sun Apr 18 00:23:40 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How do you shoot a blue elephant? A: \
-| With a blue-elephant gun.               |
+/ The camel died quite suddenly on the    \
+| second day, and Selena fretted sullenly |
+| and, buffing her already impeccable     |
+| nails -- not for the first time since   |
+| the journey begain -- pondered snidely  |
+| if this would dissolve into a vignette  |
+| of minor inconveniences like all the    |
+| other holidays spent with Basil.        |
 |                                         |
-| Q: How do you shoot a pink elephant? A: |
-| Twist its trunk until it turns blue,    |
-| then shoot it with                      |
-|                                         |
-\ a blue-elephant gun.                    /
+| -- Winning sentence, 1983 Bulwer-Lytton |
+\ bad fiction contest.                    /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
