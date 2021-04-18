@@ -1,13 +1,14 @@
 Last Update Time: 
-Sun Apr 18 09:39:05 UTC 2021
+Sun Apr 18 09:51:52 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: Why should you always serve a       \
-| Southern Carolina football man         |
+/ A classic is something that everyone   \
+| wants to have read and nobody wants to |
+| read.                                  |
 |                                        |
-| soup in a plate? A: 'Cause if you give |
-\ him a bowl, he'll throw it away.       /
+| -- Mark Twain, "The Disappearance of   |
+\ Literature"                            /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
