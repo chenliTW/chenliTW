@@ -1,16 +1,13 @@
 Last Update Time: 
-Mon Apr 19 10:20:35 UTC 2021
+Mon Apr 19 10:35:13 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How do you shoot a blue elephant? A: \
-| With a blue-elephant gun.               |
+/ If one cannot enjoy reading a book over \
+| and over again, there is no use in      |
+| reading it at all.                      |
 |                                         |
-| Q: How do you shoot a pink elephant? A: |
-| Twist its trunk until it turns blue,    |
-| then shoot it with                      |
-|                                         |
-\ a blue-elephant gun.                    /
+\ -- Oscar Wilde                          /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
