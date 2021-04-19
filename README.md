@@ -1,11 +1,11 @@
 Last Update Time: 
-Mon Apr 19 13:54:50 UTC 2021
+Mon Apr 19 13:59:44 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ You'll never be the man your mother \
-\ was!                                /
- -------------------------------------
+ _______________________________________
+/ If you sow your wild oats, hope for a \
+\ crop failure.                         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
