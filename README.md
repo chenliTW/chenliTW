@@ -1,11 +1,12 @@
 Last Update Time: 
-Mon Apr 19 09:03:14 UTC 2021
+Mon Apr 19 09:16:24 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: What's a WASP's idea of             \
-\ open-mindedness? A: Dating a Canadian. /
- ----------------------------------------
+ ______________________________________
+/ You plan things that you do not even \
+| attempt because of your extreme      |
+\ caution.                             /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
