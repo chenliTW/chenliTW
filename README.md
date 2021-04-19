@@ -1,11 +1,10 @@
 Last Update Time: 
-Mon Apr 19 19:41:33 UTC 2021
+Mon Apr 19 19:49:52 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _______________________________________
-/ Q: What's the difference between USL  \
-| and the Titanic? A: The Titanic had a |
-\ band.                                 /
+/ You get along very well with everyone \
+\ except animals and people.            /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
