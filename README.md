@@ -1,10 +1,10 @@
 Last Update Time: 
-Mon Apr 19 22:04:37 UTC 2021
+Mon Apr 19 22:18:28 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-< You will contract a rare disease. >
- -----------------------------------
+ _______________________________
+< Keep it short for pithy sake. >
+ -------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
