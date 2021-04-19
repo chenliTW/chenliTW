@@ -1,14 +1,20 @@
 Last Update Time: 
-Mon Apr 19 08:41:47 UTC 2021
+Mon Apr 19 08:53:49 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ He that is giddy thinks the world turns \
-| round.                                  |
-|                                         |
-| -- William Shakespeare, "The Taming of  |
-\ the Shrew"                              /
- -----------------------------------------
+ ________________________________________
+/ Q: How does the Polish Constitution    \
+| differ from the American? A: Under the |
+| Polish Constitution citizens are       |
+| guaranteed freedom of                  |
+|                                        |
+| speech, but under the United States    |
+| constitution they are                  |
+|                                        |
+| guaranteed freedom after speech.       |
+|                                        |
+\ -- being told in Poland, 1987          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
