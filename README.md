@@ -1,12 +1,12 @@
 Last Update Time: 
-Tue Apr 20 14:54:51 UTC 2021
+Tue Apr 20 15:05:01 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ What I tell you three times is true. \
-|                                      |
-\ -- Lewis Carroll                     /
- --------------------------------------
+ _____________________________________
+/ Q: Why did the astrophysicist order \
+| three hamburgers? A: Because he was |
+\ hungry.                             /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
