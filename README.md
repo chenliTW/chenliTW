@@ -1,16 +1,13 @@
 Last Update Time: 
-Tue Apr 20 15:59:51 UTC 2021
+Tue Apr 20 16:11:26 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The holy passion of Friendship is of so \
-| sweet and steady and loyal and enduring |
-| a nature that it will last through a    |
-| whole lifetime, if not asked to lend    |
-| money.                                  |
+/ If more of us valued food and cheer and \
+| song above hoarded gold, it would be a  |
+| merrier world.                          |
 |                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
+\ -- J.R.R. Tolkien                       /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
