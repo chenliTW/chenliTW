@@ -1,15 +1,13 @@
 Last Update Time: 
-Tue Apr 20 15:18:30 UTC 2021
+Tue Apr 20 15:33:55 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ It is often the case that the man who  \
-| can't tell a lie thinks he is the best |
-| judge of one.                          |
-|                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
- ----------------------------------------
+ _______________________________________
+/ Q: What do monsters eat? A: Things.   \
+|                                       |
+| Q: What do monsters drink? A: Coke.   |
+\ (Because Things go better with Coke.) /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
