@@ -1,13 +1,11 @@
 Last Update Time: 
-Tue Apr 20 04:37:19 UTC 2021
+Tue Apr 20 04:52:04 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Lord, what fools these mortals be! \
-|                                    |
-| -- William Shakespeare, "A         |
-\ Midsummer-Night's Dream"           /
- ------------------------------------
+ _______________________________________
+/ If you sow your wild oats, hope for a \
+\ crop failure.                         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
