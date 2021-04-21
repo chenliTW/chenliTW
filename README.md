@@ -1,11 +1,10 @@
 Last Update Time: 
-Wed Apr 21 21:34:28 UTC 2021
+Wed Apr 21 21:46:53 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You will be the last person to buy a \
-\ Chrysler.                            /
- --------------------------------------
+ _____________________________________
+< Q: Are we not men? A: We are Vaxen. >
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
