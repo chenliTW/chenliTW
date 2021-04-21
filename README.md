@@ -1,11 +1,12 @@
 Last Update Time: 
-Wed Apr 21 15:43:15 UTC 2021
+Wed Apr 21 15:56:12 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Expect the worst, it's the least you \
-\ can do.                              /
- --------------------------------------
+ _________________________________________
+/ Q: What's the difference between an     \
+| Irish wedding and an Irish wake? A: One |
+\ less drunk.                             /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
