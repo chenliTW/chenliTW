@@ -1,29 +1,11 @@
 Last Update Time: 
-Wed Apr 21 03:02:12 UTC 2021
+Wed Apr 21 03:15:32 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Gone With The Wind LITE(tm)           \
-|                                       |
-| -- by Margaret Mitchell               |
-|                                       |
-| A woman only likes men she can't have |
-| and the South gets trashed.           |
-|                                       |
-| Gift of the Magi LITE(tm)             |
-|                                       |
-| -- by O. Henry                        |
-|                                       |
-| A husband and wife forget to register |
-| their gift preferences.               |
-|                                       |
-| The Old Man and the Sea LITE(tm)      |
-|                                       |
-| -- by Ernest Hemingway                |
-|                                       |
-| An old man goes fishing, but doesn't  |
-\ have much luck.                       /
- ---------------------------------------
+ _________________________________________
+/ You attempt things that you do not even \
+\ plan because of your extreme stupidity. /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
