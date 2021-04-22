@@ -1,16 +1,11 @@
 Last Update Time: 
-Thu Apr 22 10:06:01 UTC 2021
+Thu Apr 22 10:20:11 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ "I understand this is your first dead   \
-| client," Sabian was saying. The         |
-| absurdity of the statement made me want |
-| to laugh but they don't call me Deadpan |
-| Allie and lie.                          |
-|                                         |
-\ -- Pat Cadigan, "Mindplayers"           /
- -----------------------------------------
+ _____________________________________
+/ Your goose is cooked. (Your current \
+\ chick is burned up too!)            /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
