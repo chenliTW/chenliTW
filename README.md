@@ -1,14 +1,11 @@
 Last Update Time: 
-Wed Apr 21 23:55:14 UTC 2021
+Thu Apr 22 00:19:38 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Always the dullness of the fool is the \
-| whetstone of the wits.                 |
-|                                        |
-| -- William Shakespeare, "As You Like   |
-\ It"                                    /
- ----------------------------------------
+ _______________________________________
+/ Don't hate yourself in the morning -- \
+\ sleep till noon.                      /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
