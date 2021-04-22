@@ -1,11 +1,12 @@
 Last Update Time: 
-Thu Apr 22 17:36:50 UTC 2021
+Thu Apr 22 17:59:04 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Excellent time to become a missing \
-\ person.                            /
- ------------------------------------
+ _____________________________________
+/ Q: How do you stop an elephant from \
+| charging? A: Take away his credit   |
+\ cards.                              /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
