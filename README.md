@@ -1,13 +1,11 @@
 Last Update Time: 
-Thu Apr 22 01:44:39 UTC 2021
+Thu Apr 22 02:13:55 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Rebellion lay in his way, and he found \
-| it.                                    |
-|                                        |
-\ -- William Shakespeare, "Henry IV"     /
- ----------------------------------------
+ _____________________________________
+/ Your goose is cooked. (Your current \
+\ chick is burned up too!)            /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
