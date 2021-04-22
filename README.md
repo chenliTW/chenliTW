@@ -1,12 +1,13 @@
 Last Update Time: 
-Thu Apr 22 12:39:10 UTC 2021
+Thu Apr 22 12:58:11 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: What do you have when you have a   \
-| lawyer buried up to his neck in sand? |
-\ A: Not enough sand.                   /
- ---------------------------------------
+ ____________________________________
+/ Lord, what fools these mortals be! \
+|                                    |
+| -- William Shakespeare, "A         |
+\ Midsummer-Night's Dream"           /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
