@@ -1,10 +1,12 @@
 Last Update Time: 
-Fri Apr 23 05:27:42 UTC 2021
+Fri Apr 23 05:42:38 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________
-< Blow it out your ear. >
- -----------------------
+ _______________________________________
+/ You'll wish that you had done some of \
+| the hard things when they were easier |
+\ to do.                                /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
