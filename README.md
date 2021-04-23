@@ -1,12 +1,19 @@
 Last Update Time: 
-Fri Apr 23 14:03:55 UTC 2021
+Fri Apr 23 14:17:12 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: How many supply-siders does it take \
-| to change a light bulb? A: None. The   |
-| darkness will cause the light bulb to  |
-\ change by itself.                      /
+/ For there are moments when one can     \
+| neither think nor feel. And if one can |
+| neither think nor feel, she thought,   |
+| where is one?                          |
+|                                        |
+| -- Virginia Woolf, "To the Lighthouse" |
+|                                        |
+| [Quoted in "VMS Internals and Data     |
+| Structures", V4.4, when                |
+|                                        |
+\ referring to powerfail recovery.]      /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
