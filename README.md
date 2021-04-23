@@ -1,12 +1,12 @@
 Last Update Time: 
-Fri Apr 23 01:37:50 UTC 2021
+Fri Apr 23 02:08:23 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You'll feel devilish tonight. Toss      \
-| dynamite caps under a flamenco dancer's |
-\ heel.                                   /
- -----------------------------------------
+ ________________________________________
+/ Q: Why did the lone ranger kill Tonto? \
+| A: He found out what "kimosabe" really |
+\ means.                                 /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
