@@ -1,14 +1,10 @@
 Last Update Time: 
-Fri Apr 23 03:25:56 UTC 2021
+Fri Apr 23 03:42:51 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ In a museum in Havana, there are two    \
-| skulls of Christopher Columbus, "one    |
-| when he was a boy and one when he was a |
-| man."                                   |
-|                                         |
-\ -- Mark Twain                           /
+/ Q: What's tan and black and looks great \
+\ on a lawyer? A: A doberman.             /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
