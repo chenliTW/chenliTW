@@ -1,10 +1,12 @@
 Last Update Time: 
-Sat Apr 24 10:40:10 UTC 2021
+Sat Apr 24 10:52:32 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-< You are magnetic in your bearing. >
- -----------------------------------
+ _________________________________________
+/ Q: What's the difference between a Mac  \
+| and an Etch-a-Sketch? A: You don't have |
+\ to shake the Mac to clear the screen.   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
