@@ -1,10 +1,22 @@
 Last Update Time: 
-Sat Apr 24 07:52:50 UTC 2021
+Sat Apr 24 08:02:14 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Your reasoning powers are good, and you \
-\ are a fairly good planner.              /
+/ "What's this? Trix? Aunt! Trix? You?    \
+| You're after the prize! What is it?" He |
+| picked up the box and studied the back. |
+| "A glow-in-the-dark squid! Have you got |
+| it out of there yet?" He tilted the     |
+| box, angling the little colored balls   |
+| of cereal so as to see the bottom, and  |
+| nearly spilling them onto the table     |
+| top. "Here it is!" He hauled out a      |
+| little cream-colored, glitter-sprinkled |
+| squid, three-inches long and made out   |
+| of rubbery plastic.                     |
+|                                         |
+\ -- James P. Blaylock, "The Last Coin"   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
