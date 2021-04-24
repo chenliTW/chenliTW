@@ -1,11 +1,11 @@
 Last Update Time: 
-Sat Apr 24 07:44:13 UTC 2021
+Sat Apr 24 07:52:50 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Expect the worst, it's the least you \
-\ can do.                              /
- --------------------------------------
+ _________________________________________
+/ Your reasoning powers are good, and you \
+\ are a fairly good planner.              /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
