@@ -1,15 +1,11 @@
 Last Update Time: 
-Sat Apr 24 14:03:52 UTC 2021
+Sat Apr 24 14:17:03 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Your manuscript is both good and       \
-| original, but the part that is good is |
-| not original and the part that is      |
-| original is not good.                  |
-|                                        |
-\ -- Samuel Johnson                      /
- ----------------------------------------
+ ______________________________________
+/ Do nothing unless you must, and when \
+\ you must act -- hesitate.            /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
