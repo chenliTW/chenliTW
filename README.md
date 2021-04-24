@@ -1,12 +1,10 @@
 Last Update Time: 
-Sat Apr 24 06:34:51 UTC 2021
+Sat Apr 24 06:49:56 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________
-/ Don't worry. Life's too long. \
-|                               |
-\ -- Vincent Sardi, Jr.         /
- -------------------------------
+ ____________________________________
+< You will be married within a year. >
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
