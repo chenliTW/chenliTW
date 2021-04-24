@@ -1,14 +1,14 @@
 Last Update Time: 
-Sat Apr 24 21:57:25 UTC 2021
+Sat Apr 24 22:08:41 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How do you play religious roulette? \
-| A: You stand around in a circle and    |
-| blaspheme and see who gets             |
-|                                        |
-\ struck by lightning first.             /
- ----------------------------------------
+ _________________________________________
+/ He that is giddy thinks the world turns \
+| round.                                  |
+|                                         |
+| -- William Shakespeare, "The Taming of  |
+\ the Shrew"                              /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
