@@ -1,14 +1,10 @@
 Last Update Time: 
-Sun Apr 25 23:06:25 UTC 2021
+Sun Apr 25 23:20:41 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Sometimes I wonder if I'm in my right \
-| mind. Then it passes off and I'm as   |
-| intelligent as ever.                  |
-|                                       |
-\ -- Samuel Beckett, "Endgame"          /
- ---------------------------------------
+ ________________________
+< Snow Day -- stay home. >
+ ------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
