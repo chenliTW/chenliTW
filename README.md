@@ -1,17 +1,15 @@
 Last Update Time: 
-Sun Apr 25 16:44:57 UTC 2021
+Sun Apr 25 17:10:45 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ You mentioned your name as if I should \
-| recognize it, but beyond the obvious   |
-| facts that you are a bachelor, a       |
-| solicitor, a freemason, and an         |
-| asthmatic, I know nothing whatever     |
-| about you.                             |
+/ If you pick up a starving dog and make \
+| him prosperous, he will not bite you.  |
+| This is the principal difference       |
+| between a dog and a man.               |
 |                                        |
-| -- Sherlock Holmes, "The Norwood       |
-\ Builder"                               /
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
