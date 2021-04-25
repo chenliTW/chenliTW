@@ -1,19 +1,13 @@
 Last Update Time: 
-Sun Apr 25 03:22:36 UTC 2021
+Sun Apr 25 03:39:53 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The camel died quite suddenly on the    \
-| second day, and Selena fretted sullenly |
-| and, buffing her already impeccable     |
-| nails -- not for the first time since   |
-| the journey begain -- pondered snidely  |
-| if this would dissolve into a vignette  |
-| of minor inconveniences like all the    |
-| other holidays spent with Basil.        |
+/ Q: What do you call a principal female  \
+| opera singer whose high C               |
 |                                         |
-| -- Winning sentence, 1983 Bulwer-Lytton |
-\ bad fiction contest.                    /
+| is lower than those of other principal  |
+\ female opera singers? A: A deep C diva. /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
