@@ -1,13 +1,10 @@
 Last Update Time: 
-Mon Apr 26 17:56:18 UTC 2021
+Mon Apr 26 18:16:27 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _____________________________________
-/ When angry, count four; when very   \
-| angry, swear.                       |
-|                                     |
-| -- Mark Twain, "Pudd'nhead Wilson's |
-\ Calendar"                           /
+/ Don't relax! It's only your tension \
+\ that's holding you together.        /
  -------------------------------------
         \   ^__^
          \  (oo)\_______
