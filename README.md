@@ -1,16 +1,13 @@
 Last Update Time: 
-Mon Apr 26 13:50:49 UTC 2021
+Mon Apr 26 13:59:12 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Training is everything. The peach was \
-| once a bitter almond; cauliflower is  |
-| nothing but cabbage with a college    |
-| education.                            |
-|                                       |
-| -- Mark Twain, "Pudd'nhead Wilson's   |
-\ Calendar"                             /
- ---------------------------------------
+ _________________________________________
+/ Q: What do you get when you cross a     \
+| mobster with an international standard? |
+| A: You get someone who makes you an     |
+\ offer that you can't understand!        /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
