@@ -1,11 +1,11 @@
 Last Update Time: 
-Tue Apr 27 21:53:03 UTC 2021
+Tue Apr 27 22:02:17 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ You have the capacity to learn from \
-\ mistakes. You'll learn a lot today. /
- -------------------------------------
+ _________________________________________
+/ Q: What is the difference between Texas \
+\ and yogurt? A: Yogurt has culture.      /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
