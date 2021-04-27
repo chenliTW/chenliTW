@@ -1,11 +1,22 @@
 Last Update Time: 
-Tue Apr 27 20:54:02 UTC 2021
+Tue Apr 27 21:03:30 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Try to have as good a life as you can \
-\ under the circumstances.              /
- ---------------------------------------
+ _________________________________________
+/  "You have heard me speak of Professor  \
+| Moriarty?"                              |
+|                                         |
+| "The famous scientific criminal, as     |
+| famous among crooks as --"              |
+|                                         |
+| "My blushes, Watson," Holmes murmured,  |
+| in a deprecating voice.                 |
+|                                         |
+| "I was about to say 'as he is unknown   |
+| to the public.'"                        |
+|                                         |
+\ -- A. Conan Doyle, "The Valley of Fear" /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
