@@ -1,12 +1,11 @@
 Last Update Time: 
-Tue Apr 27 21:42:31 UTC 2021
+Tue Apr 27 21:53:03 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What do Winnie the Pooh and John the \
-| Baptist have in common? A: The same     |
-\ middle name.                            /
- -----------------------------------------
+ _____________________________________
+/ You have the capacity to learn from \
+\ mistakes. You'll learn a lot today. /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
