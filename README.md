@@ -1,11 +1,10 @@
 Last Update Time: 
-Tue Apr 27 15:44:21 UTC 2021
+Tue Apr 27 15:57:37 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You like to form new friendships and \
-\ make new acquaintances.              /
- --------------------------------------
+ ____________________________
+< Just to have it is enough. >
+ ----------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
