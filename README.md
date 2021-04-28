@@ -1,11 +1,10 @@
 Last Update Time: 
-Wed Apr 28 01:50:25 UTC 2021
+Wed Apr 28 02:19:55 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Good day to let down old friends who \
-\ need help.                           /
- --------------------------------------
+ ________________________________________
+< You have taken yourself too seriously. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
