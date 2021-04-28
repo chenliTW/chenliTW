@@ -1,11 +1,11 @@
 Last Update Time: 
-Wed Apr 28 19:47:22 UTC 2021
+Wed Apr 28 19:55:52 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________
-/ It was all so different before \
-\ everything changed.            /
- --------------------------------
+ _________________________________________
+/ You don't become a failure until you're \
+\ satisfied with being one.               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
