@@ -1,12 +1,11 @@
 Last Update Time: 
-Wed Apr 28 23:12:18 UTC 2021
+Wed Apr 28 23:28:13 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Try to relax and enjoy the crisis. \
-|                                    |
-\ -- Ashleigh Brilliant              /
- ------------------------------------
+ _________________________________________
+/ You're ugly and your mother dresses you \
+\ funny.                                  /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
