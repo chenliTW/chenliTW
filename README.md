@@ -1,11 +1,11 @@
 Last Update Time: 
-Wed Apr 28 18:59:30 UTC 2021
+Wed Apr 28 19:13:37 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ You will be Told about it Tomorrow. Go \
-\ Home and Prepare Thyself.              /
- ----------------------------------------
+ ______________________________________
+/ You are a fluke of the universe; you \
+\ have no right to be here.            /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
