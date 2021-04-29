@@ -1,11 +1,11 @@
 Last Update Time: 
-Thu Apr 29 15:39:29 UTC 2021
+Thu Apr 29 15:59:11 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You seek to shield those you love and \
-\ you like the role of the provider.    /
- ---------------------------------------
+ _________________________________________
+/ Q: What is the difference between Texas \
+\ and yogurt? A: Yogurt has culture.      /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
