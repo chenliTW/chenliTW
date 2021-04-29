@@ -1,14 +1,14 @@
 Last Update Time: 
-Thu Apr 29 21:50:06 UTC 2021
+Thu Apr 29 21:58:47 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What's the difference between a dead \
-| dog in the road and a dead              |
-|                                         |
-| lawyer in the road? A: There are skid   |
-\ marks in front of the dog.              /
- -----------------------------------------
+ ________________________________________
+/ It is a wise father that knows his own \
+| child.                                 |
+|                                        |
+| -- William Shakespeare, "The Merchant  |
+\ of Venice"                             /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
