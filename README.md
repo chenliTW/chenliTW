@@ -1,14 +1,14 @@
 Last Update Time: 
-Thu Apr 29 09:20:04 UTC 2021
+Thu Apr 29 09:41:38 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ In the first place, God made idiots; \
-| this was for practice; then he made  |
-| school boards.                       |
-|                                      |
-\ -- Mark Twain                        /
- --------------------------------------
+ ________________________________________
+/ Reader, suppose you were an idiot. And \
+| suppose you were a member of Congress. |
+| But I repeat myself.                   |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
