@@ -1,11 +1,11 @@
 Last Update Time: 
-Fri Apr 30 20:44:46 UTC 2021
+Fri Apr 30 20:53:15 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ You will gain money by a fattening \
-\ action.                            /
- ------------------------------------
+ _________________________________________
+/ If your life was a horse, you'd have to \
+\ shoot it.                               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
