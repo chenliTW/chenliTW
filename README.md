@@ -1,11 +1,10 @@
 Last Update Time: 
-Fri Apr 30 13:09:13 UTC 2021
+Fri Apr 30 13:38:02 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________
-/ You will engage in a profitable \
-\ business activity.              /
- ---------------------------------
+ ___________________________
+< You have no real enemies. >
+ ---------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
