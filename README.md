@@ -1,15 +1,11 @@
 Last Update Time: 
-Sat May  1 08:40:03 UTC 2021
+Sat May  1 08:57:03 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How many psychiatrists does it take  \
-| to change a light bulb? A: Only one,    |
-| but it takes a long time, and the light |
-| bulb has                                |
-|                                         |
-\ to really want to change.               /
- -----------------------------------------
+ ________________________________________
+/ Q: Why was Stonehenge abandoned? A: It \
+\ wasn't IBM compatible.                 /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
