@@ -1,12 +1,17 @@
 Last Update Time: 
-Sun May  2 23:13:44 UTC 2021
+Sun May  2 23:38:31 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ It's lucky you're going so slowly, \
-| because you're going in the wrong  |
-\ direction.                         /
- ------------------------------------
+ _________________________________________
+/ Q: How do you shoot a blue elephant? A: \
+| With a blue-elephant gun.               |
+|                                         |
+| Q: How do you shoot a pink elephant? A: |
+| Twist its trunk until it turns blue,    |
+| then shoot it with                      |
+|                                         |
+\ a blue-elephant gun.                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
