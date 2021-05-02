@@ -1,11 +1,10 @@
 Last Update Time: 
-Sun May  2 06:59:24 UTC 2021
+Sun May  2 07:27:52 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You are deeply attached to your friends \
-\ and acquaintances.                      /
- -----------------------------------------
+ _______________________________________
+< Be careful! UGLY strikes 9 out of 10! >
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
