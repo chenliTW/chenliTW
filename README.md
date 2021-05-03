@@ -1,17 +1,13 @@
 Last Update Time: 
-Mon May  3 10:59:20 UTC 2021
+Mon May  3 11:24:37 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Steady movement is more important than \
-| speed, much of the time. So long as    |
-| there is a regular progression of      |
-| stimuli to get your mental hooks into, |
-| there is room for lateral movement.    |
-| Once this begins, its rate is a matter |
-| of discretion.                         |
+/ Q: What do you call a WASP who doesn't \
+| work for his father, isn't a           |
 |                                        |
-\ -- Corwin, Prince of Amber             /
+| lawyer, and believes in social causes? |
+\ A: A failure.                          /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
