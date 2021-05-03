@@ -1,10 +1,11 @@
 Last Update Time: 
-Mon May  3 07:00:24 UTC 2021
+Mon May  3 07:29:20 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-< Q: Are we not men? A: We are Vaxen. >
- -------------------------------------
+ _________________________________________
+/ Your mode of life will be changed for   \
+\ the better because of new developments. /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
