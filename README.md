@@ -1,13 +1,11 @@
 Last Update Time: 
-Tue May  4 23:27:17 UTC 2021
+Tue May  4 23:48:21 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________
-/ The surest protection against \
-| temptation is cowardice.      |
-|                               |
-\ -- Mark Twain                 /
- -------------------------------
+ ___________________________________
+/ Be security conscious -- National \
+\ defense is at stake.              /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
