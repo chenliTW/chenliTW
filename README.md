@@ -1,12 +1,16 @@
 Last Update Time: 
-Tue May  4 07:03:39 UTC 2021
+Tue May  4 07:28:58 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ You have a reputation for being        \
-| thoroughly reliable and trustworthy. A |
-\ pity that it's totally undeserved.     /
- ----------------------------------------
+ _________________________________________
+/ Q: Where's the Lone Ranger take his     \
+| garbage? A: To the dump, to the dump,   |
+| to the dump dump dump!                  |
+|                                         |
+| Q: What's the Pink Panther say when he  |
+| steps on an ant hill? A: Dead ant, dead |
+\ ant, dead ant dead ant dead ant...      /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
