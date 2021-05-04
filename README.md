@@ -1,10 +1,11 @@
 Last Update Time: 
-Tue May  4 04:33:56 UTC 2021
+Tue May  4 04:58:17 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________
-< Do not overtax your powers. >
- -----------------------------
+ _________________________________________
+/ Don't read any sky-writing for the next \
+\ two weeks.                              /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
