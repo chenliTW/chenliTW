@@ -1,11 +1,10 @@
 Last Update Time: 
-Tue May  4 18:38:20 UTC 2021
+Tue May  4 19:00:59 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You will feel hungry again in another \
-\ hour.                                 /
- ---------------------------------------
+ ________________________
+< Be different: conform. >
+ ------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
