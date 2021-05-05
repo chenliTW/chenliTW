@@ -1,13 +1,12 @@
 Last Update Time: 
-Wed May  5 07:45:52 UTC 2021
+Wed May  5 07:54:32 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ He is now rising from affluence to \
-| poverty.                           |
-|                                    |
-\ -- Mark Twain                      /
- ------------------------------------
+ _______________________________________
+/ Q: Why did the programmer call his    \
+| mother long distance? A: Because that |
+\ was her name.                         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
