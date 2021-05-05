@@ -1,10 +1,11 @@
 Last Update Time: 
-Wed May  5 18:36:04 UTC 2021
+Wed May  5 19:00:16 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-< You will have a long and boring life. >
- ---------------------------------------
+ _____________________________________
+/ Your goose is cooked. (Your current \
+\ chick is burned up too!)            /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
