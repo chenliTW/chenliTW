@@ -1,11 +1,10 @@
 Last Update Time: 
-Thu May  6 17:26:05 UTC 2021
+Thu May  6 18:03:37 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Don't tell any big lies today. Small \
-\ ones can be just as effective.       /
- --------------------------------------
+ ___________________________
+< Condense soup, not books! >
+ ---------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
