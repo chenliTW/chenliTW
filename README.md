@@ -1,14 +1,18 @@
 Last Update Time: 
-Thu May  6 06:17:21 UTC 2021
+Thu May  6 06:47:10 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ The secret source of humor is not joy \
-| but sorrow; there is no humor in      |
-| Heaven.                               |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ _________________________________________
+/ Persons attempting to find a motive in  \
+| this narrative will be prosecuted;      |
+| persons attempting to find a moral in   |
+| it will be banished; persons attempting |
+| to find a plot in it will be shot. By   |
+| Order of the Author                     |
+|                                         |
+| -- Mark Twain, "The Adventures of       |
+\ Huckleberry Finn"                       /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
