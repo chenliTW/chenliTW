@@ -1,12 +1,12 @@
 Last Update Time: 
-Sat May  8 20:43:50 UTC 2021
+Sat May  8 20:52:02 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ______________________________________
-/ Q: How many Marxists does it take to \
-| screw in a light bulb? A: None: The  |
-| light bulb contains the seeds of its |
-\ own revolution.                      /
+/ Let me take you a button-hole lower. \
+|                                      |
+| -- William Shakespeare, "Love's      |
+\ Labour's Lost"                       /
  --------------------------------------
         \   ^__^
          \  (oo)\_______
