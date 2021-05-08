@@ -1,12 +1,11 @@
 Last Update Time: 
-Sat May  8 20:52:02 UTC 2021
+Sat May  8 21:01:19 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ______________________________________
-/ Let me take you a button-hole lower. \
-|                                      |
-| -- William Shakespeare, "Love's      |
-\ Labour's Lost"                       /
+/ Q: How can you tell when a Burroughs \
+| salesman is lying? A: When his lips  |
+\ move.                                /
  --------------------------------------
         \   ^__^
          \  (oo)\_______
