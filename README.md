@@ -1,12 +1,14 @@
 Last Update Time: 
-Sat May  8 09:45:18 UTC 2021
+Sat May  8 09:56:17 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Good night to spend with family, but \
-| avoid arguments with your mate's new |
-\ lover.                               /
- --------------------------------------
+ ________________________________________
+/ What good is an obscenity trial except \
+| to popularize literature?              |
+|                                        |
+| -- Nero Wolfe, "The League of          |
+\ Frightened Men"                        /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
