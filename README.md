@@ -1,20 +1,14 @@
 Last Update Time: 
-Sat May  8 07:01:09 UTC 2021
+Sat May  8 07:28:58 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Unless hours were cups of sack, and    \
-| minutes capons, and clocks the tongues |
-| of bawds, and dials the signs of       |
-| leaping houses, and the blessed sun    |
-| himself a fair, hot wench in           |
-| flame-colored taffeta, I see no reason |
-| why thou shouldst be so superfluous to |
-| demand the time of the day. I wasted   |
-| time and now doth time waste me.       |
-|                                        |
-\ -- William Shakespeare                 /
- ----------------------------------------
+ _________________________________________
+/ Q: Why do ducks have big flat feet? A:  \
+| To stamp out forest fires.              |
+|                                         |
+| Q: Why do elephants have big flat feet? |
+\ A: To stamp out flaming ducks.          /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
