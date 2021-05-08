@@ -1,13 +1,22 @@
 Last Update Time: 
-Sat May  8 08:41:54 UTC 2021
+Sat May  8 08:55:50 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Alas, how love can trifle with itself! \
-|                                        |
-| -- William Shakespeare, "The Two       |
-\ Gentlemen of Verona"                   /
- ----------------------------------------
+ _________________________________________
+/ Awash with unfocused desire, Everett    \
+| twisted the lobe of his one remaining   |
+| ear and felt the presence of somebody   |
+| else behind him, which caused terror to |
+| push through his nervous system like a  |
+| flash flood roaring down the mid-fork   |
+| of the Feather River before the         |
+| completion of the Oroville Dam in 1959. |
+|                                         |
+| -- Grand Panjandrum's Special Award,    |
+| 1984 Bulwer-Lytton                      |
+|                                         |
+\ bad fiction contest.                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
