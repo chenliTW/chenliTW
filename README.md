@@ -1,12 +1,10 @@
 Last Update Time: 
-Sun May  9 08:49:33 UTC 2021
+Sun May  9 08:58:10 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Try to relax and enjoy the crisis. \
-|                                    |
-\ -- Ashleigh Brilliant              /
- ------------------------------------
+ ___________________
+< Are you a turtle? >
+ -------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
