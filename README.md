@@ -1,24 +1,18 @@
 Last Update Time: 
-Sun May  9 13:58:02 UTC 2021
+Sun May  9 14:23:56 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many IBM types does it take to   \
-| change a light bulb? A: Fifteen. One to |
-| do it, and fourteen to write document   |
-| number                                  |
+/ "I wonder", he said to himself, "what's \
+| in a book while it's closed. Oh, I know |
+| it's full of letters printed on paper,  |
+| but all the same, something must be     |
+| happening, because as soon as I open    |
+| it, there's a whole story with people I |
+| don't know yet and all kinds of         |
+| adventures and battles."                |
 |                                         |
-| GC7500439-0001, Multitasking            |
-| Incandescent Source System Facility,    |
-|                                         |
-| of which 10% of the pages state only    |
-| "This page intentionally                |
-|                                         |
-| left blank", and 20% of the definitions |
-| are of the form "A:.....                |
-|                                         |
-| consists of sequences of non-blank      |
-\ characters separated by blanks".        /
+\ -- Bastian B. Bux                       /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
