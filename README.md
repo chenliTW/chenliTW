@@ -1,12 +1,29 @@
 Last Update Time: 
-Sun May  9 19:51:34 UTC 2021
+Sun May  9 20:00:19 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: How many marketing people does it \
-| take to change a light bulb? A: I'll |
-\ have to get back to you on that.     /
- --------------------------------------
+ _______________________________________
+/ Gone With The Wind LITE(tm)           \
+|                                       |
+| -- by Margaret Mitchell               |
+|                                       |
+| A woman only likes men she can't have |
+| and the South gets trashed.           |
+|                                       |
+| Gift of the Magi LITE(tm)             |
+|                                       |
+| -- by O. Henry                        |
+|                                       |
+| A husband and wife forget to register |
+| their gift preferences.               |
+|                                       |
+| The Old Man and the Sea LITE(tm)      |
+|                                       |
+| -- by Ernest Hemingway                |
+|                                       |
+| An old man goes fishing, but doesn't  |
+\ have much luck.                       /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
