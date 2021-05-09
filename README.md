@@ -1,14 +1,12 @@
 Last Update Time: 
-Sun May  9 07:48:18 UTC 2021
+Sun May  9 07:56:47 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How do you play religious roulette? \
-| A: You stand around in a circle and    |
-| blaspheme and see who gets             |
-|                                        |
-\ struck by lightning first.             /
- ----------------------------------------
+ _________________________________________
+/ Q: What do you get when you cross the   \
+| Godfather with an attorney? A: An offer |
+\ you can't understand.                   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
