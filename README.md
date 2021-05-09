@@ -1,11 +1,11 @@
 Last Update Time: 
-Sun May  9 12:32:04 UTC 2021
+Sun May  9 13:04:05 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: What do they call the alphabet in \
-\ Arkansas? A: The impossible dream.   /
- --------------------------------------
+ _______________________________________
+/ Q: What is purple and commutes? A: An \
+\ Abelian grape.                        /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
