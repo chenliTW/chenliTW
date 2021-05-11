@@ -1,14 +1,15 @@
 Last Update Time: 
-Tue May 11 05:58:08 UTC 2021
+Tue May 11 06:32:35 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ FORTUNE PROVIDES QUESTIONS FOR THE \
-| GREAT ANSWERS: #13 A: Doc, Happy,  |
-| Bashful, Dopey, Sneezy, Sleepy, &  |
-| Grumpy Q: Who were the Democratic  |
-\ presidential candidates?           /
- ------------------------------------
+ ________________________________________
+/ Why is it that we rejoice at a birth   \
+| and grieve at a funeral? It is because |
+| we are not the person involved.        |
+|                                        |
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
