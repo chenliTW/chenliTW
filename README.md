@@ -1,10 +1,14 @@
 Last Update Time: 
-Tue May 11 05:49:22 UTC 2021
+Tue May 11 05:58:08 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-< The time is right to make new friends. >
- ----------------------------------------
+ ____________________________________
+/ FORTUNE PROVIDES QUESTIONS FOR THE \
+| GREAT ANSWERS: #13 A: Doc, Happy,  |
+| Bashful, Dopey, Sneezy, Sleepy, &  |
+| Grumpy Q: Who were the Democratic  |
+\ presidential candidates?           /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
