@@ -1,12 +1,11 @@
 Last Update Time: 
-Wed May 12 10:47:47 UTC 2021
+Wed May 12 10:57:56 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Give thought to your reputation.       \
-| Consider changing name and moving to a |
-\ new town.                              /
- ----------------------------------------
+ _________________________________________
+/ Q: What do you call a blind, deaf-mute, \
+\ quadraplegic Virginian? A: Trustworthy. /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
