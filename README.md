@@ -1,11 +1,10 @@
 Last Update Time: 
-Wed May 12 07:30:12 UTC 2021
+Wed May 12 07:48:23 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ Q: What is green and lives in the \
-\ ocean? A: Moby Pickle.            /
- -----------------------------------
+ _____________________________________
+< Q: Are we not men? A: We are Vaxen. >
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
