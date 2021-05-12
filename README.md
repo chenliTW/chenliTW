@@ -1,12 +1,11 @@
 Last Update Time: 
-Wed May 12 21:51:41 UTC 2021
+Wed May 12 22:00:16 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ FORTUNE PROVIDES QUESTIONS FOR THE     \
-| GREAT ANSWERS: #15 A: The Royal        |
-| Canadian Mounted Police. Q: What was   |
-\ the greatest achievement in taxidermy? /
+/ Q: How many lawyers does it take to    \
+| change a light bulb? A: One. Only it's |
+\ his light bulb when he's done.         /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
