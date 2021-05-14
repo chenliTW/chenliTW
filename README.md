@@ -1,19 +1,13 @@
 Last Update Time: 
-Fri May 14 11:22:58 UTC 2021
+Fri May 14 11:39:32 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ We should be careful to get out of an   \
-| experience only the wisdom that is in   |
-| it - and stay there, lest we be like    |
-| the cat that sits down on a hot         |
-| stove-lid. She will never sit down on a |
-| hot stove-lid again - and that is well; |
-| but also she will never sit down on a   |
-| cold one any more.                      |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ _______________________________________
+/ Q: How many IBM CPU's does it take to \
+| do a logical right shift? A: 33. 1 to |
+| hold the bits and 32 to push the      |
+\ register.                             /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
