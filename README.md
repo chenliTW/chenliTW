@@ -1,11 +1,11 @@
 Last Update Time: 
-Fri May 14 17:02:43 UTC 2021
+Fri May 14 17:54:31 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You are deeply attached to your friends \
-\ and acquaintances.                      /
- -----------------------------------------
+ ___________________________________
+/ Try to get all of your posthumous \
+\ medals in advance.                /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
