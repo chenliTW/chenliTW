@@ -1,11 +1,10 @@
 Last Update Time: 
-Fri May 14 08:34:26 UTC 2021
+Fri May 14 08:57:19 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Don't look now, but there is a          \
-\ multi-legged creature on your shoulder. /
- -----------------------------------------
+ __________________________________
+< You will pass away very quickly. >
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
