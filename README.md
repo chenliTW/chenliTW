@@ -1,11 +1,10 @@
 Last Update Time: 
-Fri May 14 21:32:55 UTC 2021
+Fri May 14 21:51:12 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: What's a light-year? A: One-third \
-\ less calories than a regular year.   /
- --------------------------------------
+ ________________________
+< Be different: conform. >
+ ------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
