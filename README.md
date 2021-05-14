@@ -1,11 +1,11 @@
 Last Update Time: 
-Fri May 14 19:47:07 UTC 2021
+Fri May 14 19:55:29 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You worry too much about your job. Stop \
-\ it. You are not paid enough to worry.   /
- -----------------------------------------
+ ______________________________________
+/ Abandon the search for Truth; settle \
+\ for a good fantasy.                  /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
