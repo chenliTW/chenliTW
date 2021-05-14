@@ -1,13 +1,13 @@
 Last Update Time: 
-Fri May 14 05:43:15 UTC 2021
+Fri May 14 05:57:21 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ An honest tale speeds best being   \
-| plainly told.                      |
-|                                    |
-\ -- William Shakespeare, "Henry VI" /
- ------------------------------------
+ ________________________________________
+/ Q: What looks like a cat, flies like a \
+| bat, brays like a donkey, and          |
+|                                        |
+\ plays like a monkey? A: Nothing.       /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
