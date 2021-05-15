@@ -1,11 +1,11 @@
 Last Update Time: 
-Sat May 15 07:30:04 UTC 2021
+Sat May 15 07:48:47 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________
-/ Never look up when dragons fly \
-\ overhead.                      /
- --------------------------------
+ _________________________________________
+/ Q: What's tan and black and looks great \
+\ on a lawyer? A: A doberman.             /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
