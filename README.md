@@ -1,12 +1,11 @@
 Last Update Time: 
-Sat May 15 15:58:26 UTC 2021
+Sat May 15 16:50:17 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ English literature's performing flea. \
-|                                       |
-\ -- Sean O'Casey on P. G. Wodehouse    /
- ---------------------------------------
+ _________________________________________
+/ You're ugly and your mother dresses you \
+\ funny.                                  /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
