@@ -1,11 +1,12 @@
 Last Update Time: 
-Sun May 16 20:26:13 UTC 2021
+Sun May 16 20:45:39 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Are you making all this up as you go \
-\ along?                               /
- --------------------------------------
+ ________________________________________
+/ If you learn one useless thing every   \
+| day, in a single year you'll learn 365 |
+\ useless things.                        /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
