@@ -1,10 +1,13 @@
 Last Update Time: 
-Sun May 16 03:20:53 UTC 2021
+Sun May 16 04:00:15 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-< Be careful! UGLY strikes 9 out of 10! >
- ---------------------------------------
+ _________________________________________
+/  A man was reading The Canterbury Tales \
+| one Saturday morning, when his wife     |
+| asked "What have you got there?"        |
+\ Replied he, "Just my cup and Chaucer."  /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
