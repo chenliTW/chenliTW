@@ -1,12 +1,10 @@
 Last Update Time: 
-Sun May 16 02:46:42 UTC 2021
+Sun May 16 03:20:53 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- __________________________________
-/ Someone is speaking well of you. \
-|                                  |
-\ How unusual!                     /
- ----------------------------------
+ _______________________________________
+< Be careful! UGLY strikes 9 out of 10! >
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
