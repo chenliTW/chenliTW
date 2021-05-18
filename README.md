@@ -1,13 +1,11 @@
 Last Update Time: 
-Tue May 18 23:00:42 UTC 2021
+Tue May 18 23:31:32 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ There's small choice in rotten apples. \
-|                                        |
-| -- William Shakespeare, "The Taming of |
-\ the Shrew"                             /
- ----------------------------------------
+ _____________________________________
+/ You will be awarded the Nobel Peace \
+\ Prize... posthumously.              /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
