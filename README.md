@@ -1,10 +1,13 @@
 Last Update Time: 
-Tue May 18 13:36:18 UTC 2021
+Tue May 18 13:55:02 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Tuesday After Lunch is the cosmic time \
-\ of the week.                           /
+/ Q: What do you call a WASP who doesn't \
+| work for his father, isn't a           |
+|                                        |
+| lawyer, and believes in social causes? |
+\ A: A failure.                          /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
