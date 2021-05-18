@@ -1,13 +1,10 @@
 Last Update Time: 
-Tue May 18 07:33:36 UTC 2021
+Tue May 18 07:51:25 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Let me take you a button-hole lower. \
-|                                      |
-| -- William Shakespeare, "Love's      |
-\ Labour's Lost"                       /
- --------------------------------------
+ _____________________________
+< Do not overtax your powers. >
+ -----------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
