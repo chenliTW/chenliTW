@@ -1,12 +1,15 @@
 Last Update Time: 
-Tue May 18 20:54:50 UTC 2021
+Tue May 18 21:17:02 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You will lose your present job and have \
-| to become a door to door mayonnaise     |
-\ salesman.                               /
- -----------------------------------------
+ ________________________________________
+/ Your manuscript is both good and       \
+| original, but the part that is good is |
+| not original and the part that is      |
+| original is not good.                  |
+|                                        |
+\ -- Samuel Johnson                      /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
