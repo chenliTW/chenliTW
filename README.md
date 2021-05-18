@@ -1,13 +1,11 @@
 Last Update Time: 
-Tue May 18 21:53:28 UTC 2021
+Tue May 18 22:12:17 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Truth is the most valuable thing we \
-| have -- so let us economize it.     |
-|                                     |
-\ -- Mark Twain                       /
- -------------------------------------
+ ______________________________________
+/ Hope that the day after you die is a \
+\ nice day.                            /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
