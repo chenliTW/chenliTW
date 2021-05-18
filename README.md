@@ -1,15 +1,11 @@
 Last Update Time: 
-Tue May 18 21:17:02 UTC 2021
+Tue May 18 21:38:37 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Your manuscript is both good and       \
-| original, but the part that is good is |
-| not original and the part that is      |
-| original is not good.                  |
-|                                        |
-\ -- Samuel Johnson                      /
- ----------------------------------------
+ _______________________________________
+/ A visit to a strange place will bring \
+\ fresh work.                           /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
