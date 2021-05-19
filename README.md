@@ -1,11 +1,12 @@
 Last Update Time: 
-Tue May 18 23:53:53 UTC 2021
+Wed May 19 00:43:32 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Your boss climbed the corporate ladder, \
-\ wrong by wrong.                         /
- -----------------------------------------
+ ________________________________
+/ question = ( to ) ? be : ! be; \
+|                                |
+\ -- Wm. Shakespeare             /
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
