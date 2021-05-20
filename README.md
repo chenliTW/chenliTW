@@ -1,11 +1,12 @@
 Last Update Time: 
-Thu May 20 01:21:26 UTC 2021
+Thu May 20 02:32:36 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ Q: Who cuts the grass on Walton's \
-\ Mountain? A: Lawn Boy.            /
- -----------------------------------
+ ________________________________________
+/ Q: How many lawyers does it take to    \
+| change a light bulb? A: One. Only it's |
+\ his light bulb when he's done.         /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
