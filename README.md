@@ -1,11 +1,11 @@
 Last Update Time: 
-Thu May 20 07:32:12 UTC 2021
+Thu May 20 07:50:20 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Chicken Little only has to be right \
-\ once.                               /
- -------------------------------------
+ _______________________________________
+/ Communicate! It can't make things any \
+\ worse.                                /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
