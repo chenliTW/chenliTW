@@ -1,20 +1,16 @@
 Last Update Time: 
-Fri May 21 15:20:19 UTC 2021
+Fri May 21 15:46:26 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ For there are moments when one can     \
-| neither think nor feel. And if one can |
-| neither think nor feel, she thought,   |
-| where is one?                          |
-|                                        |
-| -- Virginia Woolf, "To the Lighthouse" |
-|                                        |
-| [Quoted in "VMS Internals and Data     |
-| Structures", V4.4, when                |
-|                                        |
-\ referring to powerfail recovery.]      /
- ----------------------------------------
+ _______________________________________
+/ For years a secret shame destroyed my \
+| peace-- I'd not read Eliot, Auden or  |
+| MacNiece. But now I think a thought   |
+| that brings me hope: Neither had      |
+| Chaucer, Shakespeare, Milton, Pope.   |
+|                                       |
+\ -- Justin Richardson.                 /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
