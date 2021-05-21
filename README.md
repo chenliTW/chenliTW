@@ -1,13 +1,12 @@
 Last Update Time: 
-Fri May 21 07:34:23 UTC 2021
+Fri May 21 07:51:39 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Clothes make the man. Naked people have \
-| little or no influence on society.      |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ _________________
+/ A is for Apple. \
+|                 |
+\ -- Hester Pryne /
+ -----------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
