@@ -1,13 +1,11 @@
 Last Update Time: 
-Sat May 22 22:26:16 UTC 2021
+Sat May 22 22:49:40 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Writing is turning one's worst moments \
-| into money.                            |
-|                                        |
-\ -- J.P. Donleavy                       /
- ----------------------------------------
+ ______________________________________
+/ You like to form new friendships and \
+\ make new acquaintances.              /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
