@@ -1,14 +1,14 @@
 Last Update Time: 
-Sat May 22 13:58:28 UTC 2021
+Sat May 22 14:24:26 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Grief can take care of itself; but to \
-| get the full value of a joy you must  |
-| have somebody to divide it with.      |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ ____________________________________
+/ FORTUNE PROVIDES QUESTIONS FOR THE \
+| GREAT ANSWERS: #13 A: Doc, Happy,  |
+| Bashful, Dopey, Sneezy, Sleepy, &  |
+| Grumpy Q: Who were the Democratic  |
+\ presidential candidates?           /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
