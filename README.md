@@ -1,12 +1,9 @@
 Last Update Time: 
-Sat May 22 18:16:56 UTC 2021
+Sat May 22 19:02:00 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ It is so very hard to be an             \
-| on-your-own-take-care-of-yourself-becau |
-| se-there-is-no-one-else-to-do-it-for-yo |
-\ u grown-up.                             /
+< If you can read this, you're too close. >
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
