@@ -1,11 +1,10 @@
 Last Update Time: 
-Sat May 22 16:48:44 UTC 2021
+Sat May 22 17:34:57 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Beauty and harmony are as necessary to \
-\ you as the very breath of life.        /
- ----------------------------------------
+ ________________________
+< Don't get to bragging. >
+ ------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
