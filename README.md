@@ -1,12 +1,11 @@
 Last Update Time: 
-Sun May 23 19:47:35 UTC 2021
+Sun May 23 19:56:11 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: What do you have when you have a   \
-| lawyer buried up to his neck in sand? |
-\ A: Not enough sand.                   /
- ---------------------------------------
+ ________________________________________
+/ Increased knowledge will help you now. \
+\ Have mate's phone bugged.              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
