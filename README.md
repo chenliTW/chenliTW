@@ -1,11 +1,10 @@
 Last Update Time: 
-Sun May 23 10:30:02 UTC 2021
+Sun May 23 10:51:51 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Your object is to save the world, while \
-\ still leading a pleasant life.          /
- -----------------------------------------
+ ________________________________________
+< You will be misunderstood by everyone. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
