@@ -1,14 +1,11 @@
 Last Update Time: 
-Sun May 23 18:59:52 UTC 2021
+Sun May 23 19:30:56 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ The lunatic, the lover, and the poet, \
-| Are of imagination all compact...     |
-|                                       |
-| -- Wm. Shakespeare, "A Midsummer      |
-\ Night's Dream"                        /
- ---------------------------------------
+ ________________________________________
+/ Your boss is a few sandwiches short of \
+\ a picnic.                              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
