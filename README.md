@@ -1,10 +1,11 @@
 Last Update Time: 
-Sun May 23 10:51:51 UTC 2021
+Sun May 23 11:00:27 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-< You will be misunderstood by everyone. >
- ----------------------------------------
+ ___________________________________
+/ You will be called upon to help a \
+\ friend in trouble.                /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
