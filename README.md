@@ -1,14 +1,10 @@
 Last Update Time: 
-Sun May 23 01:58:30 UTC 2021
+Sun May 23 03:01:49 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ A banker is a fellow who lends you his \
-| umbrella when the sun is shining and   |
-| wants it back the minute it begins to  |
-| rain.                                  |
-|                                        |
-\ -- Mark Twain                          /
+/ Think twice before speaking, but don't \
+\ say "think think click click".         /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
