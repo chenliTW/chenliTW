@@ -1,11 +1,13 @@
 Last Update Time: 
-Sun May 23 03:01:49 UTC 2021
+Sun May 23 03:53:10 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Think twice before speaking, but don't \
-\ say "think think click click".         /
- ----------------------------------------
+ _______________________________________
+/ Kindness is a language which the deaf \
+| can hear and the blind can read.      |
+|                                       |
+\ -- Mark Twain                         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
