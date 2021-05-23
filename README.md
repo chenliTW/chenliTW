@@ -1,11 +1,11 @@
 Last Update Time: 
-Sun May 23 16:57:00 UTC 2021
+Sun May 23 17:51:22 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You will reach the highest possible   \
-\ point in your business or profession. /
- ---------------------------------------
+ ________________________________________
+/ Increased knowledge will help you now. \
+\ Have mate's phone bugged.              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
