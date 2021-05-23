@@ -1,12 +1,11 @@
 Last Update Time: 
-Sun May 23 16:02:37 UTC 2021
+Sun May 23 16:57:00 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: How many Martians does it take to \
-| screw in a light bulb? A: One and a  |
-\ half.                                /
- --------------------------------------
+ _______________________________________
+/ You will reach the highest possible   \
+\ point in your business or profession. /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
