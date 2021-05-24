@@ -1,11 +1,14 @@
 Last Update Time: 
-Mon May 24 13:21:58 UTC 2021
+Mon May 24 13:54:49 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You would if you could but you can't so \
-\ you won't.                              /
- -----------------------------------------
+ ______________________________________
+/ In the first place, God made idiots; \
+| this was for practice; then he made  |
+| school boards.                       |
+|                                      |
+\ -- Mark Twain                        /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
