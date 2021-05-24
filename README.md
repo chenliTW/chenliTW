@@ -1,11 +1,14 @@
 Last Update Time: 
-Mon May 24 09:28:39 UTC 2021
+Mon May 24 09:56:11 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ Don't look back, the lemmings are \
-\ gaining on you.                   /
- -----------------------------------
+ _____________________________________
+/ Many a writer seems to think he is  \
+| never profound except when he can't |
+| understand his own meaning.         |
+|                                     |
+\ -- George D. Prentice               /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
