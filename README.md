@@ -1,14 +1,10 @@
 Last Update Time: 
-Wed May 26 23:05:54 UTC 2021
+Wed May 26 23:43:30 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Soap and education are not as sudden as \
-| a massacre, but they are more deadly in |
-| the long run.                           |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ _____________________________
+< Give him an evasive answer. >
+ -----------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
