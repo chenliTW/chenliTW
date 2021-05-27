@@ -1,18 +1,11 @@
 Last Update Time: 
-Thu May 27 07:17:08 UTC 2021
+Thu May 27 08:10:51 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________
-/ To be or not to be.            \
-|                                |
-| -- Shakespeare To do is to be. |
-|                                |
-| -- Nietzsche To be is to do.   |
-|                                |
-| -- Sartre Do be do be do.      |
-|                                |
-\ -- Sinatra                     /
- --------------------------------
+ _____________________________________
+/ You single-handedly fought your way \
+\ into this hopeless mess.            /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
