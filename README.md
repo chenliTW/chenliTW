@@ -1,13 +1,11 @@
 Last Update Time: 
-Sat May 29 11:19:08 UTC 2021
+Sat May 29 12:04:52 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: How many Marxists does it take to \
-| screw in a light bulb? A: None: The  |
-| light bulb contains the seeds of its |
-\ own revolution.                      /
- --------------------------------------
+ _____________________________________
+/ You are dishonest, but never to the \
+\ point of hurting a friend.          /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
