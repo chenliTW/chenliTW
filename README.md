@@ -1,11 +1,11 @@
 Last Update Time: 
-Sat May 29 23:13:18 UTC 2021
+Sat May 29 23:56:08 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Accent on helpful side of your nature. \
-\ Drain the moat.                        /
- ----------------------------------------
+ _________________________________________
+/ Q: What's tan and black and looks great \
+\ on a lawyer? A: A doberman.             /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
