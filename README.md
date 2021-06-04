@@ -1,14 +1,12 @@
 Last Update Time: 
-Fri Jun  4 20:10:24 UTC 2021
+Fri Jun  4 21:26:14 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ A classic is something that everyone   \
-| wants to have read and nobody wants to |
-| read.                                  |
+/ There's small choice in rotten apples. \
 |                                        |
-| -- Mark Twain, "The Disappearance of   |
-\ Literature"                            /
+| -- William Shakespeare, "The Taming of |
+\ the Shrew"                             /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
