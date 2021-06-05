@@ -1,10 +1,11 @@
 Last Update Time: 
-Sat Jun  5 22:05:58 UTC 2021
+Sat Jun  5 22:48:02 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-< You will triumph over your enemy. >
- -----------------------------------
+ ______________________________________
+/ Abandon the search for Truth; settle \
+\ for a good fantasy.                  /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
