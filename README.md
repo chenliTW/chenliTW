@@ -1,13 +1,12 @@
 Last Update Time: 
-Fri Jun  4 23:59:09 UTC 2021
+Sat Jun  5 01:58:39 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ The whole world is a tuxedo and you are \
-| a pair of brown shoes.                  |
-|                                         |
-\ -- George Gobel                         /
- -----------------------------------------
+ ________________________________________
+/ You can do very well in speculation    \
+| where land or anything to do with dirt |
+\ is concerned.                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
