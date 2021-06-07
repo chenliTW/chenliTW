@@ -1,20 +1,13 @@
 Last Update Time: 
-Mon Jun  7 16:36:38 UTC 2021
+Mon Jun  7 18:53:41 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/  The Priest's grey nimbus in a niche    \
-| where he dressed discreetly. I will not |
-| sleep here tonight. Home also I cannot  |
-| go.                                     |
+/ Q: How does a hacker fix a function     \
+| which                                   |
 |                                         |
-| A voice, sweetened and sustained,       |
-| called to him from the sea. Turning the |
-| curve he waved his hand. A sleek brown  |
-| head, a seal's, far out on the water,   |
-| round. Usurper.                         |
-|                                         |
-\ -- James Joyce, "Ulysses"               /
+| doesn't work for all of the elements in |
+\ its domain? A: He changes the domain.   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
