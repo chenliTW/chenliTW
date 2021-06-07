@@ -1,13 +1,11 @@
 Last Update Time: 
-Mon Jun  7 00:21:08 UTC 2021
+Mon Jun  7 02:34:14 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How many college football players   \
-| does it take to screw in a light bulb? |
-| A: Only one, but he gets three credits |
-\ for it.                                /
- ----------------------------------------
+ ______________________________________
+/ A tall, dark stranger will have more \
+\ fun than you.                        /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
