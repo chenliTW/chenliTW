@@ -1,15 +1,14 @@
 Last Update Time: 
-Wed Jun  9 00:00:12 UTC 2021
+Wed Jun  9 01:23:28 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ O, it is excellent To have a giant's    \
-| strength; but it is tyrannous To use it |
-| like a giant.                           |
-|                                         |
-| -- Shakespeare, "Measure for Measure",  |
-\ II, 2                                   /
- -----------------------------------------
+ ________________________________________
+/ You may my glories and my state        \
+| dispose, But not my griefs; still am I |
+| king of those.                         |
+|                                        |
+\ -- William Shakespeare, "Richard II"   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
