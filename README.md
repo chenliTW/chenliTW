@@ -1,12 +1,11 @@
 Last Update Time: 
-Wed Jun  9 11:43:54 UTC 2021
+Wed Jun  9 11:52:32 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ You have a reputation for being        \
-| thoroughly reliable and trustworthy. A |
-\ pity that it's totally undeserved.     /
- ----------------------------------------
+ ______________________________________
+/ Q: How much does it cost to ride the \
+\ Unibus? A: 2 bits.                   /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
