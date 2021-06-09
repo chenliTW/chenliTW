@@ -1,15 +1,11 @@
 Last Update Time: 
-Wed Jun  9 05:47:10 UTC 2021
+Wed Jun  9 06:13:01 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ There is an old time toast which is     \
-| golden for its beauty. "When you ascend |
-| the hill of prosperity may you not meet |
-| a friend."                              |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ _____________________________________
+/ Your talents will be recognized and \
+\ suitably rewarded.                  /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
