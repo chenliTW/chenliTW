@@ -1,17 +1,11 @@
 Last Update Time: 
-Thu Jun 10 14:05:31 UTC 2021
+Thu Jun 10 14:30:12 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Whoever has lived long enough to find   \
-| out what life is, knows how deep a debt |
-| of gratitude we owe to Adam, the first  |
-| great benefactor of our race. He        |
-| brought death into the world.           |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
- -----------------------------------------
+ _______________________________________
+/ Don't plan any hasty moves. You'll be \
+\ evicted soon anyway.                  /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
