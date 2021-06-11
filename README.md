@@ -1,13 +1,13 @@
 Last Update Time: 
-Fri Jun 11 21:49:44 UTC 2021
+Fri Jun 11 21:58:15 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ He is now rising from affluence to \
-| poverty.                           |
-|                                    |
-\ -- Mark Twain                      /
- ------------------------------------
+ ______________________________________
+/ When one burns one's bridges, what a \
+| very nice fire it makes.             |
+|                                      |
+\ -- Dylan Thomas                      /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
