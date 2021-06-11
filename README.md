@@ -1,10 +1,12 @@
 Last Update Time: 
-Fri Jun 11 22:52:01 UTC 2021
+Fri Jun 11 23:00:47 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-< You will be divorced within a year. >
- -------------------------------------
+ ______________________________________
+/ You need no longer worry about the   \
+| future. This time tomorrow you'll be |
+\ dead.                                /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
