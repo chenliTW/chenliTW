@@ -1,11 +1,14 @@
 Last Update Time: 
-Fri Jun 11 10:54:35 UTC 2021
+Fri Jun 11 11:12:47 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Many changes of mind and mood; do not \
-\ hesitate too long.                    /
- ---------------------------------------
+ ________________________________________
+/ Q: What do you call a WASP who doesn't \
+| work for his father, isn't a           |
+|                                        |
+| lawyer, and believes in social causes? |
+\ A: A failure.                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
