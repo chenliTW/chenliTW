@@ -1,11 +1,11 @@
 Last Update Time: 
-Fri Jun 11 04:33:49 UTC 2021
+Fri Jun 11 05:00:28 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You feel a whole lot more like you do \
-\ now than you did when you used to.    /
- ---------------------------------------
+ ______________________________________
+/ Abandon the search for Truth; settle \
+\ for a good fantasy.                  /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
