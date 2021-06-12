@@ -1,11 +1,13 @@
 Last Update Time: 
-Sat Jun 12 18:32:36 UTC 2021
+Sat Jun 12 18:57:53 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Go to a movie tonight. Darkness becomes \
-\ you.                                    /
- -----------------------------------------
+ _______________________________
+/ The surest protection against \
+| temptation is cowardice.      |
+|                               |
+\ -- Mark Twain                 /
+ -------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
