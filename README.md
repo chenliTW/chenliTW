@@ -1,11 +1,13 @@
 Last Update Time: 
-Sun Jun 13 07:46:48 UTC 2021
+Sun Jun 13 07:55:17 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Your object is to save the world, while \
-\ still leading a pleasant life.          /
- -----------------------------------------
+ ________________________________________
+/ A long-forgotten loved one will appear \
+| soon.                                  |
+|                                        |
+\ Buy the negatives at any price.        /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
