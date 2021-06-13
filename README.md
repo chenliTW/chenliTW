@@ -1,10 +1,11 @@
 Last Update Time: 
-Sun Jun 13 02:16:08 UTC 2021
+Sun Jun 13 02:52:13 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-< Be careful! UGLY strikes 9 out of 10! >
- ---------------------------------------
+ _________________________________________
+/ Your object is to save the world, while \
+\ still leading a pleasant life.          /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
