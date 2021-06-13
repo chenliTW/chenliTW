@@ -1,15 +1,12 @@
 Last Update Time: 
-Sun Jun 13 20:56:19 UTC 2021
+Sun Jun 13 21:20:50 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ All say, "How hard it is that we have  \
-| to die"--a strange complaint to come   |
-| from the mouths of people who have had |
-| to live.                               |
+/ Water, taken in moderation cannot hurt \
+| anybody.                               |
 |                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
+\ -- Mark Twain                          /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
