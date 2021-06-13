@@ -1,14 +1,14 @@
 Last Update Time: 
-Sun Jun 13 05:48:09 UTC 2021
+Sun Jun 13 05:56:52 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ "You have been in Afghanistan, I       \
-| perceive."                             |
-|                                        |
-| -- Sir Arthur Conan Doyle, "A Study in |
-\ Scarlet"                               /
- ----------------------------------------
+ _________________________________________
+/ The fashion wears out more apparel than \
+| the man.                                |
+|                                         |
+| -- William Shakespeare, "Much Ado About |
+\ Nothing"                                /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
