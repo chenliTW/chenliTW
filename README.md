@@ -1,11 +1,11 @@
 Last Update Time: 
-Mon Jun 14 14:10:31 UTC 2021
+Mon Jun 14 14:29:39 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Learn to pause -- or nothing worthwhile \
-\ can catch up to you.                    /
- -----------------------------------------
+ ______________________________________
+/ You could live a better life, if you \
+\ had a better mind and a better body. /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
