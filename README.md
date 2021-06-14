@@ -1,13 +1,11 @@
 Last Update Time: 
-Mon Jun 14 09:55:52 UTC 2021
+Mon Jun 14 10:23:47 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Kindness is a language which the deaf \
-| can hear and the blind can read.      |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ ___________________________________
+/ Q: How many WASPs does it take to \
+\ change a light bulb? A: One.      /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
