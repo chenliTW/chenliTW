@@ -1,12 +1,13 @@
 Last Update Time: 
-Tue Jun 15 11:40:32 UTC 2021
+Tue Jun 15 11:48:59 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ I fell asleep reading a dull book, and \
-| I dreamt that I was reading on, so I   |
-\ woke up from sheer boredom.            /
- ----------------------------------------
+ ______________________________________
+/ If two people love each other, there \
+| can be no happy end to it.           |
+|                                      |
+\ -- Ernest Hemingway                  /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
