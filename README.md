@@ -1,11 +1,11 @@
 Last Update Time: 
-Tue Jun 15 10:25:17 UTC 2021
+Tue Jun 15 10:44:50 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________
-/ Never look up when dragons fly \
-\ overhead.                      /
- --------------------------------
+ _________________________________________
+/ You attempt things that you do not even \
+\ plan because of your extreme stupidity. /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
