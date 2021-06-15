@@ -1,11 +1,15 @@
 Last Update Time: 
-Tue Jun 15 05:06:44 UTC 2021
+Tue Jun 15 05:30:55 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Green light in A.M. for new projects.  \
-\ Red light in P.M. for traffic tickets. /
- ----------------------------------------
+ _________________________________________
+/ Q: How many Bell Labs Vice Presidents   \
+| does it take to change a light bulb? A: |
+| That's proprietary information. Answer  |
+| available from AT&T on payment          |
+|                                         |
+\ of license fee (binary only).           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
