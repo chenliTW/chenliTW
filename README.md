@@ -1,14 +1,18 @@
 Last Update Time: 
-Wed Jun 16 07:52:27 UTC 2021
+Wed Jun 16 08:03:22 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Whenever you find that you are on the \
-| side of the majority, it is time to   |
-| reform.                               |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ ________________________________________
+/ Q: Why don't Scotsmen ever have coffee \
+| the way they like it? A: Well, they    |
+| like it with two lumps of sugar. If    |
+| they drink                             |
+|                                        |
+| it at home, they only take one, and if |
+| they drink it while                    |
+|                                        |
+\ visiting, they always take three.      /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
