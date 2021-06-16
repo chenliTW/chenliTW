@@ -1,13 +1,10 @@
 Last Update Time: 
-Wed Jun 16 09:42:48 UTC 2021
+Wed Jun 16 09:55:17 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Seeing that death, a necessary end,     \
-| Will come when it will come.            |
-|                                         |
-\ -- William Shakespeare, "Julius Caesar" /
- -----------------------------------------
+ _________________
+< You look tired. >
+ -----------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
