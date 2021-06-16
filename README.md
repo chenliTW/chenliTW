@@ -1,12 +1,13 @@
 Last Update Time: 
-Wed Jun 16 17:16:06 UTC 2021
+Wed Jun 16 17:50:41 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ You may be gone tomorrow, but that \
-| doesn't mean that you weren't here |
-\ today.                             /
- ------------------------------------
+ _________________________________________
+/ It is so very hard to be an             \
+| on-your-own-take-care-of-yourself-becau |
+| se-there-is-no-one-else-to-do-it-for-yo |
+\ u grown-up.                             /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
