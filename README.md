@@ -1,12 +1,14 @@
 Last Update Time: 
-Thu Jun 17 15:28:58 UTC 2021
+Thu Jun 17 15:55:44 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What do Winnie the Pooh and John the \
-| Baptist have in common? A: The same     |
-\ middle name.                            /
- -----------------------------------------
+ _______________________________________
+/ Anyone who has had a bull by the tail \
+| knows five or six more things than    |
+| someone who hasn't.                   |
+|                                       |
+\ -- Mark Twain                         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
