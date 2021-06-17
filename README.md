@@ -1,12 +1,11 @@
 Last Update Time: 
-Thu Jun 17 05:45:15 UTC 2021
+Thu Jun 17 05:53:54 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ What no spouse of a writer can ever    \
-| understand is that a writer is working |
-\ when he's staring out the window.      /
- ----------------------------------------
+ _______________________________________
+/ Q: Why don't lawyers go to the beach? \
+\ A: The cats keep trying to bury them. /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
