@@ -1,12 +1,13 @@
 Last Update Time: 
-Thu Jun 17 14:05:13 UTC 2021
+Thu Jun 17 14:25:16 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: What happens when four WASPs find \
-| themselves in the same room? A: A    |
-\ dinner party.                        /
- --------------------------------------
+ _____________________________________
+/ Truth is the most valuable thing we \
+| have -- so let us economize it.     |
+|                                     |
+\ -- Mark Twain                       /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
