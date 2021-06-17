@@ -1,13 +1,11 @@
 Last Update Time: 
-Thu Jun 17 14:25:16 UTC 2021
+Thu Jun 17 14:40:40 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Truth is the most valuable thing we \
-| have -- so let us economize it.     |
-|                                     |
-\ -- Mark Twain                       /
- -------------------------------------
+ _________________________________________
+/ You are deeply attached to your friends \
+\ and acquaintances.                      /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
