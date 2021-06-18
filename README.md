@@ -1,22 +1,14 @@
 Last Update Time: 
-Fri Jun 18 14:43:06 UTC 2021
+Fri Jun 18 14:51:44 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/  My dear People.                        \
-|                                         |
-| My dear Bagginses and Boffins, and my   |
-| dear Tooks and Brandybucks, and Grubbs, |
-| and Chubbs, and Burrowses, and          |
-| Hornblowers, and Bolgers, Bracegirdles, |
-| Goodbodies, Brockhouses and Proudfoots. |
-| Also my good Sackville Bagginses that I |
-| welcome back at last to Bag End. Today  |
-| is my one hundred and eleventh          |
-| birthday: I am eleventy-one today!"     |
-|                                         |
-\ -- J. R. R. Tolkien                     /
- -----------------------------------------
+ ________________________________________
+/ You may my glories and my state        \
+| dispose, But not my griefs; still am I |
+| king of those.                         |
+|                                        |
+\ -- William Shakespeare, "Richard II"   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
