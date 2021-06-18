@@ -1,16 +1,11 @@
 Last Update Time: 
-Fri Jun 18 15:55:32 UTC 2021
+Fri Jun 18 16:32:48 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ In India, "cold weather" is merely a    \
-| conventional phrase and has come into   |
-| use through the necessity of having     |
-| some way to distinguish between weather |
-| which will melt a brass door-knob and   |
-| weather which will only make it mushy.  |
-|                                         |
-\ -- Mark Twain                           /
+/ Next Friday will not be your lucky day. \
+| As a matter of fact, you don't have a   |
+\ lucky day this year.                    /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
