@@ -1,13 +1,14 @@
 Last Update Time: 
-Fri Jun 18 07:59:18 UTC 2021
+Fri Jun 18 08:27:15 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ There's small choice in rotten apples. \
-|                                        |
-| -- William Shakespeare, "The Taming of |
-\ the Shrew"                             /
- ----------------------------------------
+ _________________________________________
+/ Knucklehead: "Knock, knock" Pee Wee:    \
+| "Who's there?" Knucklehead: "Little ol' |
+| lady." Pee Wee: "Liddle ol' lady who?"  |
+| Knucklehead: "I didn't know you could   |
+\ yodel"                                  /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
