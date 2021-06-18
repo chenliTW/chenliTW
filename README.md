@@ -1,12 +1,11 @@
 Last Update Time: 
-Fri Jun 18 22:00:26 UTC 2021
+Fri Jun 18 22:25:12 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________
-/ When in doubt, tell the truth. \
-|                                |
-\ -- Mark Twain                  /
- --------------------------------
+ _______________________________________
+/ You seek to shield those you love and \
+\ you like the role of the provider.    /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
