@@ -1,12 +1,13 @@
 Last Update Time: 
-Sat Jun 19 12:26:20 UTC 2021
+Sat Jun 19 13:05:07 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Writing is turning one's worst moments \
-| into money.                            |
+/ Q: What do you call a WASP who doesn't \
+| work for his father, isn't a           |
 |                                        |
-\ -- J.P. Donleavy                       /
+| lawyer, and believes in social causes? |
+\ A: A failure.                          /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
