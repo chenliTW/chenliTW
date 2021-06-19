@@ -1,14 +1,14 @@
 Last Update Time: 
-Sat Jun 19 19:29:06 UTC 2021
+Sat Jun 19 19:38:38 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ ROMEO: Courage, man; the hurt cannot be \
-| much. MERCUTIO: No, 'tis not so deep as |
-| a well, nor so wide                     |
+/ Q: Know what the difference between     \
+| your latest project                     |
 |                                         |
-| as a church-door; but 'tis enough,      |
-\ 'twill serve.                           /
+| and putting wings on an elephant is? A: |
+| Who knows? The elephant *might* fly,    |
+\ heh, heh...                             /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
