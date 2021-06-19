@@ -1,14 +1,11 @@
 Last Update Time: 
-Sat Jun 19 03:01:51 UTC 2021
+Sat Jun 19 03:31:33 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Noise proves nothing. Often a hen who \
-| has merely laid an egg cackles as if  |
-| she laid an asteroid.                 |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ ________________________________________
+/ You will obey or molten silver will be \
+\ poured into your ears.                 /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
