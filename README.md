@@ -1,11 +1,10 @@
 Last Update Time: 
-Sat Jun 19 11:38:07 UTC 2021
+Sat Jun 19 11:46:33 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ You will gain money by a fattening \
-\ action.                            /
- ------------------------------------
+ ________________________
+< Don't get to bragging. >
+ ------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
