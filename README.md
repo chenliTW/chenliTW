@@ -1,13 +1,10 @@
 Last Update Time: 
-Sun Jun 20 02:23:14 UTC 2021
+Sun Jun 20 02:55:02 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Never laugh at live dragons.           \
-|                                        |
-| -- Bilbo Baggins [J.R.R. Tolkien, "The |
-\ Hobbit"]                               /
- ----------------------------------------
+ ____________________________________
+< Be cautious in your daily affairs. >
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
