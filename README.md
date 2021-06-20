@@ -1,11 +1,14 @@
 Last Update Time: 
-Sun Jun 20 15:00:11 UTC 2021
+Sun Jun 20 15:29:01 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You will be given a post of trust and \
-\ responsibility.                       /
- ---------------------------------------
+ _____________________________________
+/ As to the Adjective: when in doubt, \
+| strike it out.                      |
+|                                     |
+| -- Mark Twain, "Pudd'nhead Wilson's |
+\ Calendar"                           /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
