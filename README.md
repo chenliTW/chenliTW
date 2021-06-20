@@ -1,11 +1,10 @@
 Last Update Time: 
-Sun Jun 20 05:22:34 UTC 2021
+Sun Jun 20 05:37:05 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Everything that you know is wrong, but \
-\ you can be straightened out.           /
- ----------------------------------------
+ _____________________________
+< Avoid reality at all costs. >
+ -----------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
