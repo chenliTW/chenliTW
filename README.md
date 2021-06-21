@@ -1,10 +1,9 @@
 Last Update Time: 
-Mon Jun 21 02:54:11 UTC 2021
+Mon Jun 21 03:14:49 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _____________________________________
-/ Things will be bright in P.M. A cop \
-\ will shine a light in your face.    /
+< You will be divorced within a year. >
  -------------------------------------
         \   ^__^
          \  (oo)\_______
