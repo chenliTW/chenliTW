@@ -1,13 +1,12 @@
 Last Update Time: 
-Mon Jun 21 13:51:32 UTC 2021
+Mon Jun 21 13:59:55 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: Why is Christmas just like a day at \
-| the office? A: You do all of the work  |
-| and the fat guy in the suit            |
+/ Writing is turning one's worst moments \
+| into money.                            |
 |                                        |
-\ gets all the credit.                   /
+\ -- J.P. Donleavy                       /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
