@@ -1,13 +1,13 @@
 Last Update Time: 
-Mon Jun 21 11:41:21 UTC 2021
+Mon Jun 21 11:49:48 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ FORTUNE PROVIDES QUESTIONS FOR THE     \
-| GREAT ANSWERS: #15 A: The Royal        |
-| Canadian Mounted Police. Q: What was   |
-\ the greatest achievement in taxidermy? /
- ----------------------------------------
+ _________________________________________
+/ Q: What do you get when you cross a     \
+| mobster with an international standard? |
+| A: You get someone who makes you an     |
+\ offer that you can't understand!        /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
