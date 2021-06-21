@@ -1,13 +1,13 @@
 Last Update Time: 
-Sun Jun 20 23:57:47 UTC 2021
+Mon Jun 21 01:16:46 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _______________________________________
-/ Q: What do you call the money you pay \
-| to the government when                |
+/ Whenever you find that you are on the \
+| side of the majority, it is time to   |
+| reform.                               |
 |                                       |
-| you ride into the country on the back |
-\ of an elephant? A: A howdah duty.     /
+\ -- Mark Twain                         /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
