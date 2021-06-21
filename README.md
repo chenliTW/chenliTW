@@ -1,65 +1,20 @@
 Last Update Time: 
-Mon Jun 21 08:32:49 UTC 2021
+Mon Jun 21 08:52:48 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many members of the U.S.S.       \
-| Enterprise does it take to change a     |
+/  The Priest's grey nimbus in a niche    \
+| where he dressed discreetly. I will not |
+| sleep here tonight. Home also I cannot  |
+| go.                                     |
 |                                         |
-| light bulb? A: Seven. Scotty has to     |
-| report to Captain Kirk that the light   |
-| bulb in                                 |
+| A voice, sweetened and sustained,       |
+| called to him from the sea. Turning the |
+| curve he waved his hand. A sleek brown  |
+| head, a seal's, far out on the water,   |
+| round. Usurper.                         |
 |                                         |
-| the Engineering Section is getting dim, |
-| at which point Kirk will send           |
-|                                         |
-| Bones to pronounce the bulb dead        |
-| (although he'll immediately claim       |
-|                                         |
-| that he's a doctor, not an              |
-| electrician). Scotty, after checking    |
-|                                         |
-| around, realizes that they have no more |
-| new light bulbs, and complains          |
-|                                         |
-| that he "canna" see in the dark. Kirk   |
-| will make an emergency stop at          |
-|                                         |
-| the next uncharted planet, Alpha Regula |
-| IV, to procure a light bulb             |
-|                                         |
-| from the natives, who, are friendly,    |
-| but seem to be hiding something.        |
-|                                         |
-| Kirk, Spock, Bones, Yeoman Rand and two |
-| red shirt security officers             |
-|                                         |
-| beam down to the planet, where the two  |
-| security officers are promply           |
-|                                         |
-| killed by the natives, and the rest of  |
-| the landing party is captured.          |
-|                                         |
-| As something begins to develop between  |
-| the Captain and Yeoman Rand,            |
-|                                         |
-| Scotty, back in orbit, is attacked by a |
-| Klingon destroyer and must              |
-|                                         |
-| warp out of orbit. Although badly       |
-| outgunned, he cripples the Klingon      |
-|                                         |
-| and races back to the planet in order   |
-| to rescue Kirk et. al. who have         |
-|                                         |
-| just saved the natives' from an awful   |
-| fate and, as a reward, been             |
-|                                         |
-| given all light bulbs they can carry.   |
-| The new bulb is then inserted           |
-|                                         |
-| and the Enterprise continues on its     |
-\ five year mission.                      /
+\ -- James Joyce, "Ulysses"               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
