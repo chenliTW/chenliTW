@@ -1,13 +1,11 @@
 Last Update Time: 
-Mon Jun 21 20:45:53 UTC 2021
+Mon Jun 21 20:54:22 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Tempt not a desperate man.         \
-|                                    |
-| -- William Shakespeare, "Romeo and |
-\ Juliet"                            /
- ------------------------------------
+ _______________________________________
+/ Q: What is purple and commutes? A: An \
+\ Abelian grape.                        /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
