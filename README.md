@@ -1,14 +1,23 @@
 Last Update Time: 
-Tue Jun 22 13:52:00 UTC 2021
+Tue Jun 22 13:59:29 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ There is always one thing to remember: \
-| writers are always selling somebody    |
-| out.                                   |
+/ Q: How many hardware engineers does it \
+| take to change a light bulb? A: None.  |
+| We'll fix it in software.              |
 |                                        |
-| -- Joan Didion, "Slouching Towards     |
-\ Bethlehem"                             /
+| Q: How many system programmers does it |
+| take to change a light bulb? A: None.  |
+| The application can work around it.    |
+|                                        |
+| Q: How many software engineers does it |
+| take to change a light bulb? A: None.  |
+| We'll document it in the manual.       |
+|                                        |
+| Q: How many tech writers does it take  |
+| to change a light bulb? A: None. The   |
+\ user can figure it out.                /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
