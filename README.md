@@ -1,14 +1,16 @@
 Last Update Time: 
-Tue Jun 22 15:19:17 UTC 2021
+Tue Jun 22 15:45:22 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Nothing so needs reforming as other \
-| people's habits.                    |
-|                                     |
-| -- Mark Twain, "Pudd'nhead Wilson's |
-\ Calendar"                           /
- -------------------------------------
+ _________________________________________
+/ All I know is what the words know, and  \
+| dead things, and that makes a handsome  |
+| little sum, with a beginning and a      |
+| middle and an end, as in the well-built |
+| phrase and the long sonata of the dead. |
+|                                         |
+\ -- Samuel Beckett                       /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
