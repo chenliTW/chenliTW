@@ -1,11 +1,10 @@
 Last Update Time: 
-Tue Jun 22 17:58:53 UTC 2021
+Tue Jun 22 18:30:35 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Write yourself a threatening letter and \
-\ pen a defiant reply.                    /
- -----------------------------------------
+ ________________________________________
+< You have taken yourself too seriously. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
