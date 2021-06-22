@@ -1,16 +1,13 @@
 Last Update Time: 
-Tue Jun 22 15:45:22 UTC 2021
+Tue Jun 22 16:01:34 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ All I know is what the words know, and  \
-| dead things, and that makes a handsome  |
-| little sum, with a beginning and a      |
-| middle and an end, as in the well-built |
-| phrase and the long sonata of the dead. |
-|                                         |
-\ -- Samuel Beckett                       /
- -----------------------------------------
+ ______________________________________
+/ Every why hath a wherefore.          \
+|                                      |
+| -- William Shakespeare, "A Comedy of |
+\ Errors"                              /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
