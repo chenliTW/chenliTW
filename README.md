@@ -1,14 +1,15 @@
 Last Update Time: 
-Tue Jun 22 07:30:17 UTC 2021
+Tue Jun 22 07:43:41 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why does Washington have the most   \
-| lawyers per capita and                 |
-|                                        |
-| New Jersey the most toxic waste dumps? |
-\ A: God gave New Jersey first choice.   /
- ----------------------------------------
+ _________________________________________
+/ A hundred years from now it is very     \
+| likely that [of Twain's works] "The     |
+| Jumping Frog" alone will be remembered. |
+|                                         |
+| -- Harry Thurston Peck (Editor of "The  |
+\ Bookman"), January 1901.                /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
