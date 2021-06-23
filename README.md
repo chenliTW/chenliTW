@@ -1,10 +1,10 @@
 Last Update Time: 
-Wed Jun 23 02:58:52 UTC 2021
+Wed Jun 23 03:25:17 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _____________________________________
-/ Your goose is cooked. (Your current \
-\ chick is burned up too!)            /
+/ Beware of a tall black man with one \
+\ blond shoe.                         /
  -------------------------------------
         \   ^__^
          \  (oo)\_______
