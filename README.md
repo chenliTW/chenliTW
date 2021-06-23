@@ -1,13 +1,12 @@
 Last Update Time: 
-Wed Jun 23 18:33:09 UTC 2021
+Wed Jun 23 18:52:38 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ In the Spring, I have counted 136       \
-| different kinds of weather inside of 24 |
-| hours.                                  |
-|                                         |
-\ -- Mark Twain, on New England weather   /
+/  A man was reading The Canterbury Tales \
+| one Saturday morning, when his wife     |
+| asked "What have you got there?"        |
+\ Replied he, "Just my cup and Chaucer."  /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
