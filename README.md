@@ -1,14 +1,14 @@
 Last Update Time: 
-Wed Jun 23 16:29:54 UTC 2021
+Wed Jun 23 17:01:08 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Few things are harder to put up with  \
-| than the annoyance of a good example. |
-|                                       |
-| -- "Mark Twain, Pudd'nhead Wilson's   |
-\ Calendar"                             /
- ---------------------------------------
+ _____________________________________
+/ The mind is its own place, and in   \
+| itself Can make a Heav'n of Hell, a |
+| Hell of Heav'n.                     |
+|                                     |
+\ -- John Milton                      /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
