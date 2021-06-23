@@ -1,11 +1,11 @@
 Last Update Time: 
-Wed Jun 23 03:25:17 UTC 2021
+Wed Jun 23 03:43:57 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Beware of a tall black man with one \
-\ blond shoe.                         /
- -------------------------------------
+ ________________________________________
+/ Love is in the offing. Be affectionate \
+\ to one who adores you.                 /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
