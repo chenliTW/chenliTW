@@ -1,15 +1,11 @@
 Last Update Time: 
-Thu Jun 24 20:42:02 UTC 2021
+Thu Jun 24 20:53:50 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- __________________________________
-/ Knock, knock!                    \
-|                                  |
-| Who's there? Sam and Janet.      |
-|                                  |
-| Sam and Janet who? Sam and Janet |
-\ Evening...                       /
- ----------------------------------
+ ___________________________________
+/ You have literary talent that you \
+\ should take pains to develop.     /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
