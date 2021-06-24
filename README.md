@@ -1,11 +1,11 @@
 Last Update Time: 
-Thu Jun 24 09:48:32 UTC 2021
+Thu Jun 24 10:00:15 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Don't look now, but there is a          \
-\ multi-legged creature on your shoulder. /
- -----------------------------------------
+ _____________________________________
+/ Someone whom you reject today, will \
+\ reject you tomorrow.                /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
