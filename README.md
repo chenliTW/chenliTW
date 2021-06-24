@@ -1,15 +1,14 @@
 Last Update Time: 
-Thu Jun 24 02:47:11 UTC 2021
+Thu Jun 24 02:58:58 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ One of the most striking differences  \
-| between a cat and a lie is that a cat |
-| has only nine lives.                  |
-|                                       |
-| -- Mark Twain, "Pudd'nhead Wilson's   |
-\ Calendar"                             /
- ---------------------------------------
+ _____________________________________
+/ Many a writer seems to think he is  \
+| never profound except when he can't |
+| understand his own meaning.         |
+|                                     |
+\ -- George D. Prentice               /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
