@@ -1,12 +1,12 @@
 Last Update Time: 
-Fri Jun 25 13:19:11 UTC 2021
+Fri Jun 25 13:37:10 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _______________________________________
-/ Kindness is a language which the deaf \
-| can hear and the blind can read.      |
+/ As flies to wanton boys are we to the \
+| gods; they kill us for their sport.   |
 |                                       |
-\ -- Mark Twain                         /
+\ -- Shakespeare, "King Lear"           /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
