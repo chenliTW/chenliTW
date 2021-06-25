@@ -1,17 +1,14 @@
 Last Update Time: 
-Fri Jun 25 17:22:42 UTC 2021
+Fri Jun 25 17:43:46 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ In India, "cold weather" is merely a    \
-| conventional phrase and has come into   |
-| use through the necessity of having     |
-| some way to distinguish between weather |
-| which will melt a brass door-knob and   |
-| weather which will only make it mushy.  |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ _______________________________________
+/ Sometimes I wonder if I'm in my right \
+| mind. Then it passes off and I'm as   |
+| intelligent as ever.                  |
+|                                       |
+\ -- Samuel Beckett, "Endgame"          /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
