@@ -1,13 +1,11 @@
 Last Update Time: 
-Fri Jun 25 22:38:51 UTC 2021
+Fri Jun 25 22:50:35 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Be careful of reading health books, you \
-| might die of a misprint.                |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ___________________________________
+/ Do not sleep in a eucalyptus tree \
+\ tonight.                          /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
