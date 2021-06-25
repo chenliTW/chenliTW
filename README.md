@@ -1,18 +1,12 @@
 Last Update Time: 
-Fri Jun 25 14:47:06 UTC 2021
+Fri Jun 25 14:59:02 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Behold, the fool saith, "Put not all    \
-| thine eggs in the one basket"--which is |
-| but a manner of saying, "Scatter your   |
-| money and your attention;" but the wise |
-| man saith, "Put all your eggs in the    |
-| one basket and--WATCH THAT BASKET."     |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
- -----------------------------------------
+ ______________________________________
+/ You're definitely on their list. The \
+| question to ask next is what list it |
+\ is.                                  /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
