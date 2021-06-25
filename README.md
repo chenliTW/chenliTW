@@ -1,14 +1,11 @@
 Last Update Time: 
-Fri Jun 25 20:42:46 UTC 2021
+Fri Jun 25 20:54:44 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ There are more things in heaven and   \
-| earth, Horatio, than are dreamt of in |
-| your philosophy.                      |
-|                                       |
-\ -- Wm. Shakespeare, "Hamlet"          /
- ---------------------------------------
+ ___________________________________
+/ Don't look back, the lemmings are \
+\ gaining on you.                   /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
