@@ -1,12 +1,13 @@
 Last Update Time: 
-Fri Jun 25 13:37:10 UTC 2021
+Fri Jun 25 13:49:17 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _______________________________________
-/ As flies to wanton boys are we to the \
-| gods; they kill us for their sport.   |
+/ Don't go around saying the world owes \
+| you a living. The world owes you      |
+| nothing. It was here first.           |
 |                                       |
-\ -- Shakespeare, "King Lear"           /
+\ -- Mark Twain                         /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
