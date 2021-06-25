@@ -1,11 +1,11 @@
 Last Update Time: 
-Fri Jun 25 08:47:58 UTC 2021
+Fri Jun 25 08:59:48 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Your boss is a few sandwiches short of \
-\ a picnic.                              /
- ----------------------------------------
+ ____________________________________
+/ Look afar and see the end from the \
+\ beginning.                         /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
