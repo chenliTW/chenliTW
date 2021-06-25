@@ -1,13 +1,13 @@
 Last Update Time: 
-Fri Jun 25 11:51:46 UTC 2021
+Fri Jun 25 12:14:27 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ They spell it "da Vinci" and pronounce  \
-| it "da Vinchy". Foreigners always spell |
-| better than they pronounce.             |
+/ Q: How do you catch a unique rabbit? A: \
+| Unique up on it!                        |
 |                                         |
-\ -- Mark Twain                           /
+| Q: How do you catch a tame rabbit? A:   |
+\ The tame way!                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
