@@ -1,10 +1,10 @@
 Last Update Time: 
-Fri Jun 25 18:22:34 UTC 2021
+Fri Jun 25 18:46:02 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ You've been leading a dog's life. Stay \
-\ off the furniture.                     /
+/ Alimony and bribes will engage a large \
+\ share of your wealth.                  /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
