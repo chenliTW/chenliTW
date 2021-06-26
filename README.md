@@ -1,13 +1,12 @@
 Last Update Time: 
-Sat Jun 26 19:19:42 UTC 2021
+Sat Jun 26 19:31:56 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ He that is giddy thinks the world turns \
-| round.                                  |
+/ If you tell the truth you don't have to \
+| remember anything.                      |
 |                                         |
-| -- William Shakespeare, "The Taming of  |
-\ the Shrew"                              /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
