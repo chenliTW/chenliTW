@@ -1,11 +1,12 @@
 Last Update Time: 
-Sat Jun 26 11:12:11 UTC 2021
+Sat Jun 26 11:27:08 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ You have a will that can be influenced \
-\ by all with whom you come in contact.  /
- ----------------------------------------
+ _____________________________________
+/ Q: Why did the astrophysicist order \
+| three hamburgers? A: Because he was |
+\ hungry.                             /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
