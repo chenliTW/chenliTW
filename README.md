@@ -1,13 +1,11 @@
 Last Update Time: 
-Sat Jun 26 07:32:25 UTC 2021
+Sat Jun 26 07:44:15 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ An honest tale speeds best being   \
-| plainly told.                      |
-|                                    |
-\ -- William Shakespeare, "Henry VI" /
- ------------------------------------
+ _____________________________________
+/ Your talents will be recognized and \
+\ suitably rewarded.                  /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
