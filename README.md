@@ -1,12 +1,11 @@
 Last Update Time: 
-Sat Jun 26 20:18:14 UTC 2021
+Sat Jun 26 20:32:18 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ How apt the poor are to be proud.       \
-|                                         |
-\ -- William Shakespeare, "Twelfth-Night" /
- -----------------------------------------
+ _____________________________________
+/ Don't get stuck in a closet -- wear \
+\ yourself out.                       /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
