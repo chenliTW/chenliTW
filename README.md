@@ -1,14 +1,14 @@
 Last Update Time: 
-Sat Jun 26 11:39:13 UTC 2021
+Sat Jun 26 11:50:41 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Q: What does a WASP Mom make for   \
-| dinner? A: A crisp salad, a hearty |
-| soup, a lovely entree, followed by |
-|                                    |
-\ a delicious dessert.               /
- ------------------------------------
+ ______________________________________
+/ I was gratified to be able to answer \
+| promptly, and I did. I said I didn't |
+| know.                                |
+|                                      |
+\ -- Mark Twain                        /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
