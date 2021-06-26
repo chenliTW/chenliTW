@@ -1,14 +1,11 @@
 Last Update Time: 
-Sat Jun 26 21:36:41 UTC 2021
+Sat Jun 26 21:48:45 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Work consists of whatever a body is   \
-| obliged to do. Play consists of       |
-| whatever a body is not obliged to do. |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ ___________________________________
+/ Q: How many WASPs does it take to \
+\ change a light bulb? A: One.      /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
