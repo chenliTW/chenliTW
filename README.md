@@ -1,13 +1,10 @@
 Last Update Time: 
-Sat Jun 26 09:58:25 UTC 2021
+Sat Jun 26 10:25:02 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ A kind of Batman of contemporary    \
-| letters.                            |
-|                                     |
-\ -- Philip Larkin on Anthony Burgess /
- -------------------------------------
+ _______________________________________
+< You will inherit millions of dollars. >
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
