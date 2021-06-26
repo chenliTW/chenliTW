@@ -1,11 +1,11 @@
 Last Update Time: 
-Sat Jun 26 08:38:28 UTC 2021
+Sat Jun 26 08:50:35 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ Your nature demands love and your \
-\ happiness depends on it.          /
- -----------------------------------
+ _____________________________________
+/ You'll feel much better once you've \
+\ given up hope.                      /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
