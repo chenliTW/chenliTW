@@ -1,11 +1,11 @@
 Last Update Time: 
-Sat Jun 26 07:44:15 UTC 2021
+Sat Jun 26 07:55:50 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Your talents will be recognized and \
-\ suitably rewarded.                  /
- -------------------------------------
+ _________________________________
+/ You are taking yourself far too \
+\ seriously.                      /
+ ---------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
