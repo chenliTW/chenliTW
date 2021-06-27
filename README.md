@@ -1,16 +1,11 @@
 Last Update Time: 
-Sun Jun 27 21:49:17 UTC 2021
+Sun Jun 27 22:02:23 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: Where's the Lone Ranger take his     \
-| garbage? A: To the dump, to the dump,   |
-| to the dump dump dump!                  |
-|                                         |
-| Q: What's the Pink Panther say when he  |
-| steps on an ant hill? A: Dead ant, dead |
-\ ant, dead ant dead ant dead ant...      /
- -----------------------------------------
+ ________________________________________
+/ Let me put it this way: today is going \
+\ to be a learning experience.           /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
