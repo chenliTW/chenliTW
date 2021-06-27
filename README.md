@@ -1,13 +1,11 @@
 Last Update Time: 
-Sun Jun 27 14:54:15 UTC 2021
+Sun Jun 27 15:18:08 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ FORTUNE PROVIDES QUESTIONS FOR THE      \
-| GREAT ANSWERS: #5 A: The Halls of       |
-| Montezuma and the Shores of Tripoli. Q: |
-| Name two families whose kids won't join |
-\ the Marines.                            /
+/ Be free and open and breezy! Enjoy!     \
+| Things won't get any better so get used |
+\ to it.                                  /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
