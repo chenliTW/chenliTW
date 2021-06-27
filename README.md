@@ -1,13 +1,12 @@
 Last Update Time: 
-Sun Jun 27 22:52:11 UTC 2021
+Sun Jun 27 23:10:45 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ If you laid all of our laws end to end, \
-| there would be no end.                  |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ____________________________________
+/ You may be gone tomorrow, but that \
+| doesn't mean that you weren't here |
+\ today.                             /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
