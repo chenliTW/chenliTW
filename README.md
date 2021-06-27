@@ -1,13 +1,15 @@
 Last Update Time: 
-Sun Jun 27 13:32:52 UTC 2021
+Sun Jun 27 13:44:40 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How many supply-siders does it take \
-| to change a light bulb? A: None. The   |
-| darkness will cause the light bulb to  |
-\ change by itself.                      /
- ----------------------------------------
+ _________________________________________
+/ Q: How many Zen masters does it take to \
+| screw in a light bulb? A: None. The     |
+| Universe spins the bulb, and the Zen    |
+| master stays out                        |
+|                                         |
+\ of the way.                             /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
