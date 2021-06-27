@@ -1,11 +1,10 @@
 Last Update Time: 
-Sun Jun 27 23:30:30 UTC 2021
+Sun Jun 27 23:43:03 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You're ugly and your mother dresses you \
-\ funny.                                  /
- -----------------------------------------
+ _____________________________
+< Your lucky color has faded. >
+ -----------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
