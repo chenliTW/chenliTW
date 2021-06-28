@@ -1,10 +1,13 @@
 Last Update Time: 
-Mon Jun 28 13:50:55 UTC 2021
+Mon Jun 28 14:09:18 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-< You will inherit millions of dollars. >
- ---------------------------------------
+ ________________________________________
+/ Writing is turning one's worst moments \
+| into money.                            |
+|                                        |
+\ -- J.P. Donleavy                       /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
