@@ -1,14 +1,14 @@
 Last Update Time: 
-Mon Jun 28 17:27:30 UTC 2021
+Mon Jun 28 18:08:38 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ There is always one thing to remember: \
-| writers are always selling somebody    |
-| out.                                   |
+/ My only love sprung from my only hate! \
+| Too early seen unknown, and known too  |
+| late!                                  |
 |                                        |
-| -- Joan Didion, "Slouching Towards     |
-\ Bethlehem"                             /
+| -- William Shakespeare, "Romeo and     |
+\ Juliet"                                /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
