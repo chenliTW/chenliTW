@@ -1,14 +1,14 @@
 Last Update Time: 
-Mon Jun 28 10:43:11 UTC 2021
+Mon Jun 28 10:56:03 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ If more of us valued food and cheer and \
-| song above hoarded gold, it would be a  |
-| merrier world.                          |
-|                                         |
-\ -- J.R.R. Tolkien                       /
- -----------------------------------------
+ ______________________________________
+/ In the first place, God made idiots; \
+| this was for practice; then he made  |
+| school boards.                       |
+|                                      |
+\ -- Mark Twain                        /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
