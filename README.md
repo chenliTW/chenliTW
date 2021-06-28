@@ -1,12 +1,13 @@
 Last Update Time: 
-Mon Jun 28 02:39:02 UTC 2021
+Mon Jun 28 02:54:29 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: What do you have when you have a   \
-| lawyer buried up to his neck in sand? |
-\ A: Not enough sand.                   /
- ---------------------------------------
+ _________________________________________
+/ Clothes make the man. Naked people have \
+| little or no influence on society.      |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
