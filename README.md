@@ -1,11 +1,11 @@
 Last Update Time: 
-Mon Jun 28 03:51:36 UTC 2021
+Mon Jun 28 04:11:42 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Hope that the day after you die is a \
-\ nice day.                            /
- --------------------------------------
+ _______________________________________
+/ Your society will be sought by people \
+\ of taste and refinement.              /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
