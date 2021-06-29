@@ -1,10 +1,18 @@
 Last Update Time: 
-Tue Jun 29 02:53:34 UTC 2021
+Tue Jun 29 03:13:22 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-< Are you sure the back door is locked? >
- ---------------------------------------
+ _________________________________________
+/ Behold, the fool saith, "Put not all    \
+| thine eggs in the one basket"--which is |
+| but a manner of saying, "Scatter your   |
+| money and your attention;" but the wise |
+| man saith, "Put all your eggs in the    |
+| one basket and--WATCH THAT BASKET."     |
+|                                         |
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
