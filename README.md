@@ -1,11 +1,12 @@
 Last Update Time: 
-Tue Jun 29 07:28:41 UTC 2021
+Tue Jun 29 07:40:02 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ Don't look back, the lemmings are \
-\ gaining on you.                   /
- -----------------------------------
+ _______________________________________
+/ You had some happiness once, but your \
+| parents moved away, and you had to    |
+\ leave it behind.                      /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
