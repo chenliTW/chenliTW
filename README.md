@@ -1,13 +1,12 @@
 Last Update Time: 
-Tue Jun 29 10:42:23 UTC 2021
+Tue Jun 29 10:54:10 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ There is a great discovery still to be \
-| made in Literature: that of paying     |
-| literary men by the quantity they do   |
-\ NOT write.                             /
- ----------------------------------------
+ _________________________________________
+/ You will lose your present job and have \
+| to become a door to door mayonnaise     |
+\ salesman.                               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
