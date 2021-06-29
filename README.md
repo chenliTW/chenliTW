@@ -1,10 +1,9 @@
 Last Update Time: 
-Tue Jun 29 13:16:46 UTC 2021
+Tue Jun 29 13:36:22 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________
-/ She is not refined. She is not \
-| unrefined. She keeps a parrot. |
+/ When in doubt, tell the truth. \
 |                                |
 \ -- Mark Twain                  /
  --------------------------------
