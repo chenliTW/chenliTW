@@ -1,11 +1,12 @@
 Last Update Time: 
-Tue Jun 29 06:53:45 UTC 2021
+Tue Jun 29 07:11:51 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Expect the worst, it's the least you \
-\ can do.                              /
- --------------------------------------
+ ________________________________________
+/ Q: Why do mountain climbers rope       \
+| themselves together? A: To prevent the |
+\ sensible ones from going home.         /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
