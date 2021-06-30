@@ -1,12 +1,11 @@
 Last Update Time: 
-Wed Jun 30 03:26:48 UTC 2021
+Wed Jun 30 03:46:56 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Q: Why did the germ cross the      \
-| microscope? A: To get to the other |
-\ slide.                             /
- ------------------------------------
+ _______________________________________
+/ You shall be rewarded for a dastardly \
+\ deed.                                 /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
