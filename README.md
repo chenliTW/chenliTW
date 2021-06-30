@@ -1,15 +1,16 @@
 Last Update Time: 
-Wed Jun 30 13:43:32 UTC 2021
+Wed Jun 30 13:55:09 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: Minnesotans ask, "Why aren't there \
-| more pharmacists from Alabama?" A:    |
-| Easy. It's because they can't figure  |
-| out how to get the little             |
-|                                       |
-\ bottles into the typewriter.          /
- ---------------------------------------
+ _________________________________________
+/ Q: How many bureaucrats does it take to \
+| screw in a light bulb? A: Two. One to   |
+| assure everyone that everything         |
+| possible is being                       |
+|                                         |
+| done while the other screws the bulb    |
+\ into the water faucet.                  /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
