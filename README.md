@@ -1,14 +1,11 @@
 Last Update Time: 
-Wed Jun 30 19:14:54 UTC 2021
+Wed Jun 30 19:26:42 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ No group of professionals meets except \
-| to conspire against the public at      |
-| large.                                 |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ ____________________________________
+/ You will pioneer the first Martian \
+\ colony.                            /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
