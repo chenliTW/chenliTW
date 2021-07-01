@@ -1,11 +1,14 @@
 Last Update Time: 
-Thu Jul  1 22:56:17 UTC 2021
+Thu Jul  1 23:21:17 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Someone whom you reject today, will \
-\ reject you tomorrow.                /
- -------------------------------------
+ _________________________________________
+/ Q: What's the difference between a dead \
+| dog in the road and a dead              |
+|                                         |
+| lawyer in the road? A: There are skid   |
+\ marks in front of the dog.              /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
