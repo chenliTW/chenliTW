@@ -1,11 +1,12 @@
 Last Update Time: 
-Fri Jul  2 05:39:02 UTC 2021
+Fri Jul  2 05:50:56 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ You will be Told about it Tomorrow. Go \
-\ Home and Prepare Thyself.              /
- ----------------------------------------
+ _______________________________________
+/ You'll wish that you had done some of \
+| the hard things when they were easier |
+\ to do.                                /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
