@@ -1,14 +1,13 @@
 Last Update Time: 
-Fri Jul  2 21:23:17 UTC 2021
+Fri Jul  2 21:39:10 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ I was gratified to be able to answer \
-| promptly, and I did. I said I didn't |
-| know.                                |
-|                                      |
-\ -- Mark Twain                        /
- --------------------------------------
+ _________________________________________
+/ Seeing that death, a necessary end,     \
+| Will come when it will come.            |
+|                                         |
+\ -- William Shakespeare, "Julius Caesar" /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
