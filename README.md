@@ -1,12 +1,11 @@
 Last Update Time: 
-Fri Jul  2 16:31:22 UTC 2021
+Fri Jul  2 17:05:58 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You had some happiness once, but your \
-| parents moved away, and you had to    |
-\ leave it behind.                      /
- ---------------------------------------
+ ______________________________________
+/ Try to value useful qualities in one \
+\ who loves you.                       /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
