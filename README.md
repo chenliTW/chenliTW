@@ -1,10 +1,11 @@
 Last Update Time: 
-Fri Jul  2 19:36:15 UTC 2021
+Fri Jul  2 19:47:33 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- __________________________
-< Bridge ahead. Pay troll. >
- --------------------------
+ _________________________________________
+/ You will be reincarnated as a toad; and \
+\ you will be much happier.               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
