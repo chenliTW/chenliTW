@@ -1,15 +1,10 @@
 Last Update Time: 
-Sat Jul  3 22:34:18 UTC 2021
+Sat Jul  3 22:46:12 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How many psychiatrists does it take  \
-| to change a light bulb? A: Only one,    |
-| but it takes a long time, and the light |
-| bulb has                                |
-|                                         |
-\ to really want to change.               /
- -----------------------------------------
+ _________________________
+< You now have Asian Flu. >
+ -------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
