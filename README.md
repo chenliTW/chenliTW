@@ -1,13 +1,11 @@
 Last Update Time: 
-Sat Jul  3 12:15:06 UTC 2021
+Sat Jul  3 12:49:32 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ "You have been in Afghanistan, I       \
-| perceive."                             |
-|                                        |
-| -- Sir Arthur Conan Doyle, "A Study in |
-\ Scarlet"                               /
+/ What no spouse of a writer can ever    \
+| understand is that a writer is working |
+\ when he's staring out the window.      /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
