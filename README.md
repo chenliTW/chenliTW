@@ -1,11 +1,11 @@
 Last Update Time: 
-Sat Jul  3 05:36:44 UTC 2021
+Sat Jul  3 05:48:37 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Q: What is the difference between a \
-\ duck? A: One leg is both the same.  /
- -------------------------------------
+ ________________________________________
+/ You will be winged by an anti-aircraft \
+\ battery.                               /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
