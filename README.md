@@ -1,12 +1,14 @@
 Last Update Time: 
-Sat Jul  3 11:51:56 UTC 2021
+Sat Jul  3 12:15:06 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Q: What is printed on the bottom of \
-| beer bottles in Minnesota? A: Open  |
-\ other end.                          /
- -------------------------------------
+ ________________________________________
+/ "You have been in Afghanistan, I       \
+| perceive."                             |
+|                                        |
+| -- Sir Arthur Conan Doyle, "A Study in |
+\ Scarlet"                               /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
