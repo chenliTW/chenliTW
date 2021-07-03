@@ -1,11 +1,10 @@
 Last Update Time: 
-Fri Jul  2 23:50:47 UTC 2021
+Sat Jul  3 00:23:30 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Expect the worst, it's the least you \
-\ can do.                              /
- --------------------------------------
+ __________________________
+< Bridge ahead. Pay troll. >
+ --------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
