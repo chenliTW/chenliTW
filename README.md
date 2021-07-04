@@ -1,14 +1,12 @@
 Last Update Time: 
-Sun Jul  4 16:11:05 UTC 2021
+Sun Jul  4 16:50:57 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How do you catch a unique rabbit? A: \
-| Unique up on it!                        |
-|                                         |
-| Q: How do you catch a tame rabbit? A:   |
-\ The tame way!                           /
- -----------------------------------------
+ _______________________________________
+/ Q: What's the difference between USL  \
+| and the Titanic? A: The Titanic had a |
+\ band.                                 /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
