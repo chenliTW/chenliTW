@@ -1,12 +1,12 @@
 Last Update Time: 
-Mon Jul  5 12:15:53 UTC 2021
+Mon Jul  5 12:51:30 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ It's lucky you're going so slowly, \
-| because you're going in the wrong  |
-\ direction.                         /
- ------------------------------------
+ _______________________________________
+/ Q: How many IBM 370's does it take to \
+| execute a job? A: Four, three to hold |
+\ it down, and one to rip its head off. /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
