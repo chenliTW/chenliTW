@@ -1,13 +1,11 @@
 Last Update Time: 
-Mon Jul  5 19:43:19 UTC 2021
+Mon Jul  5 19:55:07 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How many Harvard MBA's does it take \
-| to screw in a light bulb? A: Just one. |
-| He grasps it firmly and the universe   |
-\ revolves around him.                   /
- ----------------------------------------
+ _____________________________________
+/ You recoil from the crude; you tend \
+\ naturally toward the exquisite.     /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
