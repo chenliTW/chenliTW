@@ -1,10 +1,13 @@
 Last Update Time: 
-Mon Jul  5 19:31:19 UTC 2021
+Mon Jul  5 19:43:19 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________
-< Don't feed the bats tonight. >
- ------------------------------
+ ________________________________________
+/ Q: How many Harvard MBA's does it take \
+| to screw in a light bulb? A: Just one. |
+| He grasps it firmly and the universe   |
+\ revolves around him.                   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
