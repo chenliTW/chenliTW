@@ -1,14 +1,13 @@
 Last Update Time: 
-Mon Jul  5 23:01:54 UTC 2021
+Mon Jul  5 23:23:54 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Sometimes I wonder if I'm in my right \
-| mind. Then it passes off and I'm as   |
-| intelligent as ever.                  |
-|                                       |
-\ -- Samuel Beckett, "Endgame"          /
- ---------------------------------------
+ _________________________________________
+/ The abuse of greatness is when it       \
+| disjoins remorse from power.            |
+|                                         |
+\ -- William Shakespeare, "Julius Caesar" /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
