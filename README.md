@@ -1,13 +1,11 @@
 Last Update Time: 
-Tue Jul  6 14:14:33 UTC 2021
+Tue Jul  6 14:28:30 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ When one burns one's bridges, what a \
-| very nice fire it makes.             |
-|                                      |
-\ -- Dylan Thomas                      /
- --------------------------------------
+ _____________________________________
+/ Don't relax! It's only your tension \
+\ that's holding you together.        /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
