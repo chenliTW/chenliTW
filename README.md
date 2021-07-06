@@ -1,13 +1,10 @@
 Last Update Time: 
-Tue Jul  6 13:08:27 UTC 2021
+Tue Jul  6 13:30:47 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Always do right. This will gratify some \
-| people and astonish the rest.           |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ________________________________________
+< Avoid gunfire in the bathroom tonight. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
