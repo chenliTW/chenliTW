@@ -1,11 +1,10 @@
 Last Update Time: 
-Wed Jul  7 18:14:21 UTC 2021
+Wed Jul  7 18:41:30 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ______________________________________
-/ You're definitely on their list. The \
-| question to ask next is what list it |
-\ is.                                  /
+/ Your own qualities will help prevent \
+\ your advancement in the world.       /
  --------------------------------------
         \   ^__^
          \  (oo)\_______
