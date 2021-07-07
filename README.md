@@ -1,11 +1,12 @@
 Last Update Time: 
-Wed Jul  7 08:20:25 UTC 2021
+Wed Jul  7 08:38:03 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You are only young once, but you can \
-\ stay immature indefinitely.          /
- --------------------------------------
+ _____________________________________
+/ Q: What is printed on the bottom of \
+| beer bottles in Minnesota? A: Open  |
+\ other end.                          /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
