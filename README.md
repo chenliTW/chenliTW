@@ -1,13 +1,14 @@
 Last Update Time: 
-Wed Jul  7 23:36:00 UTC 2021
+Wed Jul  7 23:47:54 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ I think we are in Rats' Alley where the \
-| dead men lost their bones.              |
-|                                         |
-\ -- T.S. Eliot                           /
- -----------------------------------------
+ _____________________________________
+/ When angry, count four; when very   \
+| angry, swear.                       |
+|                                     |
+| -- Mark Twain, "Pudd'nhead Wilson's |
+\ Calendar"                           /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
