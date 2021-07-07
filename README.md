@@ -1,15 +1,16 @@
 Last Update Time: 
-Wed Jul  7 02:14:32 UTC 2021
+Wed Jul  7 02:41:35 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: Minnesotans ask, "Why aren't there \
-| more pharmacists from Alabama?" A:    |
-| Easy. It's because they can't figure  |
-| out how to get the little             |
-|                                       |
-\ bottles into the typewriter.          /
- ---------------------------------------
+ ________________________________________
+/ All say, "How hard it is that we have  \
+| to die"--a strange complaint to come   |
+| from the mouths of people who have had |
+| to live.                               |
+|                                        |
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
