@@ -1,10 +1,11 @@
 Last Update Time: 
-Thu Jul  8 08:39:38 UTC 2021
+Thu Jul  8 08:51:35 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- __________________________________
-< Someone is speaking well of you. >
- ----------------------------------
+ _________________________________________
+/ Learn to pause -- or nothing worthwhile \
+\ can catch up to you.                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
