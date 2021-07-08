@@ -1,14 +1,12 @@
 Last Update Time: 
-Thu Jul  8 19:17:08 UTC 2021
+Thu Jul  8 19:28:46 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: Know what the difference between     \
-| your latest project                     |
+/ The abuse of greatness is when it       \
+| disjoins remorse from power.            |
 |                                         |
-| and putting wings on an elephant is? A: |
-| Who knows? The elephant *might* fly,    |
-\ heh, heh...                             /
+\ -- William Shakespeare, "Julius Caesar" /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
