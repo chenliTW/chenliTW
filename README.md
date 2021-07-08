@@ -1,10 +1,11 @@
 Last Update Time: 
-Thu Jul  8 18:22:42 UTC 2021
+Thu Jul  8 18:46:19 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ It may or may not be worthwhile, but it \
-\ still has to be done.                   /
+/ You will lose your present job and have \
+| to become a door to door mayonnaise     |
+\ salesman.                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
