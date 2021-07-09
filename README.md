@@ -1,12 +1,12 @@
 Last Update Time: 
-Fri Jul  9 06:10:39 UTC 2021
+Fri Jul  9 06:40:07 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Having nothing, nothing can he lose. \
-|                                      |
-\ -- William Shakespeare, "Henry VI"   /
- --------------------------------------
+ ________________________________________
+/ Q: Why do mountain climbers rope       \
+| themselves together? A: To prevent the |
+\ sensible ones from going home.         /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
