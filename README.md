@@ -1,11 +1,14 @@
 Last Update Time: 
-Fri Jul  9 08:50:51 UTC 2021
+Fri Jul  9 09:07:39 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Fine day to work off excess energy. \
-\ Steal something heavy.              /
- -------------------------------------
+ ________________________________________
+/ "You have been in Afghanistan, I       \
+| perceive."                             |
+|                                        |
+| -- Sir Arthur Conan Doyle, "A Study in |
+\ Scarlet"                               /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
