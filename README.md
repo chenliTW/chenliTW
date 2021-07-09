@@ -1,12 +1,11 @@
 Last Update Time: 
-Fri Jul  9 03:07:59 UTC 2021
+Fri Jul  9 03:32:25 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ If you learn one useless thing every   \
-| day, in a single year you'll learn 365 |
-\ useless things.                        /
- ----------------------------------------
+ _________________________________________
+/ Your fly might be open (but don't check \
+\ it just now).                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
