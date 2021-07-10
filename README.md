@@ -1,12 +1,11 @@
 Last Update Time: 
-Sat Jul 10 21:56:39 UTC 2021
+Sat Jul 10 22:20:40 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: What do agnostic, insomniac       \
-| dyslexics do at night? A: Stay awake |
-\ and wonder if there's a dog.         /
- --------------------------------------
+ _______________________________________
+/ You will be held hostage by a radical \
+\ group.                                /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
