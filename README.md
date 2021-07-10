@@ -1,14 +1,14 @@
 Last Update Time: 
-Sat Jul 10 22:35:52 UTC 2021
+Sat Jul 10 22:47:46 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ O, it is excellent To have a giant's    \
-| strength; but it is tyrannous To use it |
-| like a giant.                           |
+/ Let us endeavor so to live that when we \
+| come to die even the undertaker will be |
+| sorry.                                  |
 |                                         |
-| -- Shakespeare, "Measure for Measure",  |
-\ II, 2                                   /
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
