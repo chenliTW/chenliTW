@@ -1,15 +1,11 @@
 Last Update Time: 
-Sat Jul 10 10:57:44 UTC 2021
+Sat Jul 10 11:17:22 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: Minnesotans ask, "Why aren't there \
-| more pharmacists from Alabama?" A:    |
-| Easy. It's because they can't figure  |
-| out how to get the little             |
-|                                       |
-\ bottles into the typewriter.          /
- ---------------------------------------
+ _________________________________________
+/ Of course you have a purpose -- to find \
+\ a purpose.                              /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
