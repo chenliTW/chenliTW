@@ -1,12 +1,11 @@
 Last Update Time: 
-Sat Jul 10 17:37:11 UTC 2021
+Sat Jul 10 17:49:10 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ What no spouse of a writer can ever    \
-| understand is that a writer is working |
-\ when he's staring out the window.      /
- ----------------------------------------
+ __________________________________
+/ You are going to have a new love \
+\ affair.                          /
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
