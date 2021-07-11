@@ -1,11 +1,14 @@
 Last Update Time: 
-Sun Jul 11 10:14:21 UTC 2021
+Sun Jul 11 10:34:36 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Your boyfriend takes chocolate from \
-\ strangers.                          /
- -------------------------------------
+ _________________________________________
+/ Q: Why do ducks have big flat feet? A:  \
+| To stamp out forest fires.              |
+|                                         |
+| Q: Why do elephants have big flat feet? |
+\ A: To stamp out flaming ducks.          /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
