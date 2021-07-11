@@ -1,12 +1,15 @@
 Last Update Time: 
-Sun Jul 11 21:48:46 UTC 2021
+Sun Jul 11 22:01:19 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ What no spouse of a writer can ever    \
-| understand is that a writer is working |
-\ when he's staring out the window.      /
- ----------------------------------------
+ _________________________________________
+/ A hundred years from now it is very     \
+| likely that [of Twain's works] "The     |
+| Jumping Frog" alone will be remembered. |
+|                                         |
+| -- Harry Thurston Peck (Editor of "The  |
+\ Bookman"), January 1901.                /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
