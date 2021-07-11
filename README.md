@@ -1,14 +1,13 @@
 Last Update Time: 
-Sun Jul 11 02:10:04 UTC 2021
+Sun Jul 11 02:38:14 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What's the difference between a dead \
-| dog in the road and a dead              |
-|                                         |
-| lawyer in the road? A: There are skid   |
-\ marks in front of the dog.              /
- -----------------------------------------
+ ______________________________________
+/ Let me take you a button-hole lower. \
+|                                      |
+| -- William Shakespeare, "Love's      |
+\ Labour's Lost"                       /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
