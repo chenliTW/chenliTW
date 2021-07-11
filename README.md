@@ -1,10 +1,11 @@
 Last Update Time: 
-Sun Jul 11 21:37:10 UTC 2021
+Sun Jul 11 21:48:46 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ You will inherit some money or a small \
-\ piece of land.                         /
+/ What no spouse of a writer can ever    \
+| understand is that a writer is working |
+\ when he's staring out the window.      /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
