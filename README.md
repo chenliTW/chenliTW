@@ -1,12 +1,11 @@
 Last Update Time: 
-Mon Jul 12 22:39:58 UTC 2021
+Mon Jul 12 22:51:38 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Q: How do you stop an elephant from \
-| charging? A: Take away his credit   |
-\ cards.                              /
- -------------------------------------
+ ______________________________________
+/ You like to form new friendships and \
+\ make new acquaintances.              /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
