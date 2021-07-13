@@ -1,12 +1,10 @@
 Last Update Time: 
-Tue Jul 13 15:46:34 UTC 2021
+Tue Jul 13 15:58:18 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: How many Martians does it take to \
-| screw in a light bulb? A: One and a  |
-\ half.                                /
- --------------------------------------
+ ____________________________________
+< There is a 20% chance of tomorrow. >
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
