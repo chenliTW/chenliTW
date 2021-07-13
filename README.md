@@ -1,22 +1,12 @@
 Last Update Time: 
-Tue Jul 13 13:12:05 UTC 2021
+Tue Jul 13 13:35:32 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ I reverently believe that the maker who \
-| made us all makes everything in New     |
-| England, but the weather. I don't know  |
-| who makes that, but I think it must be  |
-| raw apprentices in the weather-clerks   |
-| factory who experiment and learn how,   |
-| in New England, for board and clothes,  |
-| and then are promoted to make weather   |
-| for countries that require a good       |
-| article, and will take their custom     |
-| elsewhere if they don't get it.         |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ________________________________________
+/ Give thought to your reputation.       \
+| Consider changing name and moving to a |
+\ new town.                              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
