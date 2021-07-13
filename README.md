@@ -1,11 +1,12 @@
 Last Update Time: 
-Tue Jul 13 01:51:49 UTC 2021
+Tue Jul 13 02:23:42 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________
-/ Q: What is the sound of one cat \
-\ napping? A: Mu.                 /
- ---------------------------------
+ ________________________________________
+/ Q: Why do firemen wear red suspenders? \
+| A: To conform with departmental        |
+\ regulations concerning uniform dress.  /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
