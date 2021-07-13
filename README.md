@@ -1,13 +1,13 @@
 Last Update Time: 
-Tue Jul 13 08:36:36 UTC 2021
+Tue Jul 13 08:48:13 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ The first thing we do, let's kill all   \
-| the lawyers.                            |
-|                                         |
-\ -- Wm. Shakespeare, "Henry VI", Part IV /
- -----------------------------------------
+ _______________________________
+/ The surest protection against \
+| temptation is cowardice.      |
+|                               |
+\ -- Mark Twain                 /
+ -------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
