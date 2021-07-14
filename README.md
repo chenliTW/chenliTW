@@ -1,11 +1,11 @@
 Last Update Time: 
-Wed Jul 14 21:22:32 UTC 2021
+Wed Jul 14 21:38:46 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Are you making all this up as you go \
-\ along?                               /
- --------------------------------------
+ _________________________________________
+/ You will always get the greatest        \
+\ recognition for the job you least like. /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
