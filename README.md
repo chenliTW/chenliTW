@@ -1,13 +1,12 @@
 Last Update Time: 
-Wed Jul 14 19:21:22 UTC 2021
+Wed Jul 14 19:33:07 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________
-/ She is not refined. She is not \
-| unrefined. She keeps a parrot. |
-|                                |
-\ -- Mark Twain                  /
- --------------------------------
+ ____________________________________
+/ You're currently going through a   \
+| difficult transition period called |
+\ "Life."                            /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
