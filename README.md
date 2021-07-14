@@ -1,23 +1,40 @@
 Last Update Time: 
-Wed Jul 14 10:52:04 UTC 2021
+Wed Jul 14 11:08:40 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many journalists does it take to \
-| screw in a light bulb? A: Three. One to |
-| report it as an inspired government     |
-| program to bring                        |
+/  "...The name of the song is called     \
+| 'Haddocks' Eyes'!"                      |
 |                                         |
-| light to the people, one to report it   |
-| as a diabolical government plot         |
+| "Oh, that's the name of the song, is    |
+| it?" Alice said, trying to feel         |
+| interested.                             |
 |                                         |
-| to deprive the poor of darkness, and    |
-| one to win a Pulitzer prize for         |
+| "No, you don't understand," the Knight  |
+| said, looking a little vexed. "That's   |
+| what the name is called. The name       |
+| really is, 'The Aged Aged Man.'"        |
 |                                         |
-| reporting that Electric Company hired a |
-| light bulb-assassin to break            |
+| "Then I ought to have said "That's what |
+| the song is called'?" Alice corrected   |
+| herself.                                |
 |                                         |
-\ the bulb in the first place.            /
+| "No, you oughtn't: that's quite another |
+| thing! The song is called 'Ways and     |
+| Means': but that's only what it is      |
+| called you know!"                       |
+|                                         |
+| "Well, what is the song then?" said     |
+| Alice, who was by this time completely  |
+| bewildered.                             |
+|                                         |
+| "I was coming to that," the Knight      |
+| said. "The song really is "A-sitting on |
+| a Gate": and the tune's my own          |
+| invention."                             |
+|                                         |
+| -- Lewis Carroll, "Through the Looking  |
+\ Glass"                                  /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
