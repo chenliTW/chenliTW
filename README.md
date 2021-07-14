@@ -1,11 +1,12 @@
 Last Update Time: 
-Wed Jul 14 22:54:06 UTC 2021
+Wed Jul 14 23:15:10 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Q: What is purple and conquered the \
-\ world? A: Alexander the Grape.      /
- -------------------------------------
+ _________________________________________
+/ You will be attacked by a beast who has \
+| the body of a wolf, the tail of a lion, |
+\ and the face of Donald Duck.            /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
