@@ -1,13 +1,13 @@
 Last Update Time: 
-Thu Jul 15 13:12:59 UTC 2021
+Thu Jul 15 13:33:23 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Tempt not a desperate man.         \
-|                                    |
-| -- William Shakespeare, "Romeo and |
-\ Juliet"                            /
- ------------------------------------
+ _________________________________________
+/  A man was reading The Canterbury Tales \
+| one Saturday morning, when his wife     |
+| asked "What have you got there?"        |
+\ Replied he, "Just my cup and Chaucer."  /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
