@@ -1,15 +1,11 @@
 Last Update Time: 
-Thu Jul 15 21:46:01 UTC 2021
+Thu Jul 15 21:58:01 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ O, it is excellent To have a giant's    \
-| strength; but it is tyrannous To use it |
-| like a giant.                           |
-|                                         |
-| -- Shakespeare, "Measure for Measure",  |
-\ II, 2                                   /
- -----------------------------------------
+ ______________________________________
+/ You're not my type. For that matter, \
+\ you're not even my species!!!        /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
