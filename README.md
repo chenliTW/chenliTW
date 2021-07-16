@@ -1,12 +1,14 @@
 Last Update Time: 
-Fri Jul 16 17:07:54 UTC 2021
+Fri Jul 16 17:35:58 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Writing is turning one's worst moments \
-| into money.                            |
+/ I don't know half of you half as well  \
+| as I should like; and I like less than |
+| half of you half as well as you        |
+| deserve.                               |
 |                                        |
-\ -- J.P. Donleavy                       /
+\ -- J. R. R. Tolkien                    /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
