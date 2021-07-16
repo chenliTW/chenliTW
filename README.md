@@ -1,12 +1,10 @@
 Last Update Time: 
-Fri Jul 16 03:18:54 UTC 2021
+Fri Jul 16 03:38:13 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ You learn to write as if to someone \
-| else because NEXT YEAR YOU WILL BE  |
-\ "SOMEONE ELSE."                     /
- -------------------------------------
+ ________________________
+< Snow Day -- stay home. >
+ ------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
