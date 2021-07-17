@@ -1,14 +1,13 @@
 Last Update Time: 
-Fri Jul 16 23:54:29 UTC 2021
+Sat Jul 17 00:52:29 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ The devil can cite Scripture for his  \
-| purpose.                              |
-|                                       |
-| -- William Shakespeare, "The Merchant |
-\ of Venice"                            /
- ---------------------------------------
+ ______________________________________
+/ "Not Hercules could have knock'd out \
+| his brains, for he had none."        |
+|                                      |
+\ -- Shakespeare                       /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
