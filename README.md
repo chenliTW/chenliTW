@@ -1,10 +1,11 @@
 Last Update Time: 
-Sat Jul 17 13:35:16 UTC 2021
+Sat Jul 17 13:47:09 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________
-< Your lucky color has faded. >
- -----------------------------
+ _________________________________________
+/ You attempt things that you do not even \
+\ plan because of your extreme stupidity. /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
