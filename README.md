@@ -1,11 +1,10 @@
 Last Update Time: 
-Sun Jul 18 11:53:56 UTC 2021
+Sun Jul 18 12:22:04 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ It may or may not be worthwhile, but it \
-\ still has to be done.                   /
- -----------------------------------------
+ _______________________________________
+< You will have a long and boring life. >
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
