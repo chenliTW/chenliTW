@@ -1,13 +1,12 @@
 Last Update Time: 
-Sun Jul 18 21:56:11 UTC 2021
+Sun Jul 18 22:19:46 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ______________________________________
-/ The human race is a race of cowards; \
-| and I am not only marching in that   |
-| procession but carrying a banner.    |
+/ When one burns one's bridges, what a \
+| very nice fire it makes.             |
 |                                      |
-\ -- Mark Twain                        /
+\ -- Dylan Thomas                      /
  --------------------------------------
         \   ^__^
          \  (oo)\_______
