@@ -1,13 +1,11 @@
 Last Update Time: 
-Sun Jul 18 14:54:39 UTC 2021
+Sun Jul 18 15:18:57 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Lord, what fools these mortals be! \
-|                                    |
-| -- William Shakespeare, "A         |
-\ Midsummer-Night's Dream"           /
- ------------------------------------
+ _________________________________________
+/ Learn to pause -- or nothing worthwhile \
+\ can catch up to you.                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
