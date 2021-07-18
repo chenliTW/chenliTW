@@ -1,10 +1,10 @@
 Last Update Time: 
-Sun Jul 18 15:18:57 UTC 2021
+Sun Jul 18 15:40:29 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Learn to pause -- or nothing worthwhile \
-\ can catch up to you.                    /
+/ If you stand on your head, you will get \
+\ footprints in your hair.                /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
