@@ -1,12 +1,11 @@
 Last Update Time: 
-Sun Jul 18 01:15:02 UTC 2021
+Sun Jul 18 02:07:37 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ He hath eaten me out of house and home. \
-|                                         |
-\ -- William Shakespeare, "Henry IV"      /
- -----------------------------------------
+ ______________________________________
+/ Q: What do they call the alphabet in \
+\ Arkansas? A: The impossible dream.   /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
