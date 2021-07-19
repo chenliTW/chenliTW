@@ -1,12 +1,13 @@
 Last Update Time: 
-Mon Jul 19 22:31:50 UTC 2021
+Mon Jul 19 22:43:41 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: How did you get into artificial   \
-| intelligence? A: Seemed logical -- I |
-\ didn't have any real intelligence.   /
- --------------------------------------
+ _____________________________________
+/ Nothing so needs reforming as other \
+| people's habits.                    |
+|                                     |
+\ -- Mark Twain                       /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
