@@ -1,15 +1,14 @@
 Last Update Time: 
-Mon Jul 19 09:48:01 UTC 2021
+Mon Jul 19 09:59:58 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ The man who sets out to carry a cat by \
-| its tail learns something that will    |
-| always be useful and which never will  |
-| grow dim or doubtful.                  |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _________________________________________
+/ He that is giddy thinks the world turns \
+| round.                                  |
+|                                         |
+| -- William Shakespeare, "The Taming of  |
+\ the Shrew"                              /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
