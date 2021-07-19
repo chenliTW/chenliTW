@@ -1,11 +1,12 @@
 Last Update Time: 
-Mon Jul 19 15:54:45 UTC 2021
+Mon Jul 19 16:27:07 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You will be imprisoned for contributing \
-\ your time and skill to a bank robbery.  /
- -----------------------------------------
+ _____________________________________
+/ Q: Why did the astrophysicist order \
+| three hamburgers? A: Because he was |
+\ hungry.                             /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
