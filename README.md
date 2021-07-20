@@ -1,12 +1,15 @@
 Last Update Time: 
-Tue Jul 20 22:55:17 UTC 2021
+Tue Jul 20 23:17:46 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ If you learn one useless thing every   \
-| day, in a single year you'll learn 365 |
-\ useless things.                        /
- ----------------------------------------
+ _________________________________________
+/ Q: How many psychiatrists does it take  \
+| to change a light bulb? A: Only one,    |
+| but it takes a long time, and the light |
+| bulb has                                |
+|                                         |
+\ to really want to change.               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
