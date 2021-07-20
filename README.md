@@ -1,21 +1,47 @@
 Last Update Time: 
-Tue Jul 20 02:12:48 UTC 2021
+Tue Jul 20 02:41:34 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Even the clearest and most perfect      \
-| circumstantial evidence is likely to be |
-| at fault, after all, and therefore      |
-| ought to be received with great         |
-| caution. Take the case of any pencil,   |
-| sharpened by any woman; if you have     |
-| witnesses, you will find she did it     |
-| with a knife; but if you take simply    |
-| the aspect of the pencil, you will say  |
-| that she did it with her teeth.         |
+/ Like an expensive sports car,           \
+| fine-tuned and well-built, Portia was   |
+| sleek, shapely, and gorgeous, her red   |
+| jumpsuit moulding her body, which was   |
+| as warm as seatcovers in July, her hair |
+| as dark as new tires, her eyes flashing |
+| like bright hubcaps, and her lips as    |
+| dewy as the beads of fresh rain on the  |
+| hood; she was a woman driven -- fueled  |
+| by a single accelerant -- and she       |
+| needed a man, a man who wouldn't shift  |
+| from his views, a man to steer her      |
+| along the right road: a man like Alf    |
+| Romeo.                                  |
 |                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
+| -- Rachel Sheeley, winner               |
+|                                         |
+| The hair ball blocking the drain of the |
+| shower reminded Laura she would never   |
+| see her little dog Pritzi again.        |
+|                                         |
+| -- Claudia Fields, runner-up            |
+|                                         |
+| It could have been an organically based |
+| disturbance of the brain -- perhaps a   |
+| tumor or a metabolic deficiency -- but  |
+| after a thorough neurological exam it   |
+| was determined that Byron was simply a  |
+| jerk.                                   |
+|                                         |
+| -- Jeff Jahnke, runner-up               |
+|                                         |
+| Winners in the 7th Annual Bulwer-Lytton |
+| Bad Writing Contest. The contest is     |
+| named after the author of the immortal  |
+| lines: "It was a dark and stormy        |
+| night." The object of the contest is to |
+| write the opening sentence of the worst |
+\ possible novel.                         /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
