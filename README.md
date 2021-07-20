@@ -1,12 +1,12 @@
 Last Update Time: 
-Tue Jul 20 09:35:43 UTC 2021
+Tue Jul 20 09:48:12 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: How many supply-siders does it take \
-| to change a light bulb? A: None. The   |
-| darkness will cause the light bulb to  |
-\ change by itself.                      /
+/ There is a great discovery still to be \
+| made in Literature: that of paying     |
+| literary men by the quantity they do   |
+\ NOT write.                             /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
