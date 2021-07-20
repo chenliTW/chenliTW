@@ -1,17 +1,35 @@
 Last Update Time: 
-Tue Jul 20 23:43:23 UTC 2021
+Tue Jul 20 23:55:11 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The only people for me are the mad ones \
-| -- the ones who are mad to live, mad to |
-| talk, mad to be saved, desirous of      |
-| everything at the same time, the ones   |
-| who never yawn or say a commonplace     |
-| thing, but burn, burn, burn like        |
-| fabulous yellow Roman candles.          |
+/ Courage is resistance to fear, mastery  \
+| of fear--not absence of fear. Except a  |
+| creature be part coward it is not a     |
+| compliment to say it is brave; it is    |
+| merely a loose misapplication of the    |
+| word. Consider the flea!--incomparably  |
+| the bravest of all the creatures of     |
+| God, if ignorance of fear were courage. |
+| Whether you are asleep or awake he will |
+| attack you, caring nothing for the fact |
+| that in bulk and strength you are to    |
+| him as are the massed armies of the     |
+| earth to a sucking child; he lives both |
+| day and night and all days and nights   |
+| in the very lap of peril and the        |
+| immediate presence of death, and yet is |
+| no more afraid than is the man who      |
+| walks the streets of a city that was    |
+| threatened by an earthquake ten         |
+| centuries before. When we speak of      |
+| Clive, Nelson, and Putnam as men who    |
+| "didn't know what fear was," we ought   |
+| always to add the flea--and put him at  |
+| the head of the procession.             |
 |                                         |
-\ -- Jack Kerouac, "On the Road"          /
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
