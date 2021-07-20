@@ -1,11 +1,10 @@
 Last Update Time: 
-Tue Jul 20 13:46:56 UTC 2021
+Tue Jul 20 14:00:03 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Q: What is the difference between a \
-\ duck? A: One leg is both the same.  /
- -------------------------------------
+ ______________________________________
+< You're at the end of the road again. >
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
