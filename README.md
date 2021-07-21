@@ -1,11 +1,10 @@
 Last Update Time: 
-Wed Jul 21 10:25:56 UTC 2021
+Wed Jul 21 10:42:42 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You are deeply attached to your friends \
-\ and acquaintances.                      /
- -----------------------------------------
+ _____________________________
+< Do not overtax your powers. >
+ -----------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
