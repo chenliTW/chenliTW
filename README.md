@@ -1,12 +1,16 @@
 Last Update Time: 
-Wed Jul 21 12:12:35 UTC 2021
+Wed Jul 21 12:50:21 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: "What is the burning question on the \
-| mind of every dyslexic                  |
+/ The holy passion of Friendship is of so \
+| sweet and steady and loyal and enduring |
+| a nature that it will last through a    |
+| whole lifetime, if not asked to lend    |
+| money.                                  |
 |                                         |
-\ existentialist?" A: "Is there a dog?"   /
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
