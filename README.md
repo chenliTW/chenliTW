@@ -1,11 +1,10 @@
 Last Update Time: 
-Wed Jul 21 02:37:25 UTC 2021
+Wed Jul 21 02:51:28 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You attempt things that you do not even \
-\ plan because of your extreme stupidity. /
- -----------------------------------------
+ ________________________________________
+< You have taken yourself too seriously. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
