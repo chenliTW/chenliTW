@@ -1,13 +1,10 @@
 Last Update Time: 
-Wed Jul 21 01:00:07 UTC 2021
+Wed Jul 21 02:06:55 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ If one cannot enjoy reading a book over \
-| and over again, there is no use in      |
-| reading it at all.                      |
-|                                         |
-\ -- Oscar Wilde                          /
+/ And do you think (fop that I am) that I \
+\ could be the Scarlet Pumpernickel?      /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
