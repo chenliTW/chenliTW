@@ -1,11 +1,11 @@
 Last Update Time: 
-Wed Jul 21 19:45:54 UTC 2021
+Wed Jul 21 19:58:02 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You will gain money by a speculation or \
-\ lottery.                                /
- -----------------------------------------
+ _______________________________________
+/ Q: How do you save a drowning lawyer? \
+\ A: Throw him a rock.                  /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
