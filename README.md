@@ -1,13 +1,18 @@
 Last Update Time: 
-Thu Jul 22 05:08:34 UTC 2021
+Thu Jul 22 05:23:54 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ He is now rising from affluence to \
-| poverty.                           |
-|                                    |
-\ -- Mark Twain                      /
- ------------------------------------
+ ________________________________________
+/ Steady movement is more important than \
+| speed, much of the time. So long as    |
+| there is a regular progression of      |
+| stimuli to get your mental hooks into, |
+| there is room for lateral movement.    |
+| Once this begins, its rate is a matter |
+| of discretion.                         |
+|                                        |
+\ -- Corwin, Prince of Amber             /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
