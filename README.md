@@ -1,12 +1,11 @@
 Last Update Time: 
-Thu Jul 22 14:30:56 UTC 2021
+Thu Jul 22 14:42:39 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________
-/ When in doubt, tell the truth. \
-|                                |
-\ -- Mark Twain                  /
- --------------------------------
+ _______________________________________
+/ Today is the first day of the rest of \
+\ the mess.                             /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
