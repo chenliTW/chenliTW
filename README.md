@@ -1,13 +1,10 @@
 Last Update Time: 
-Thu Jul 22 11:08:51 UTC 2021
+Thu Jul 22 11:25:13 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Hain't we got all the fools in town on \
-| our side? And hain't that a big enough |
-| majority in any town?                  |
-|                                        |
-\ -- Mark Twain, "Huckleberry Finn"      /
+/ You own a dog, but you can only feed a \
+\ cat.                                   /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
