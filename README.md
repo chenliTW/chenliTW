@@ -1,14 +1,12 @@
 Last Update Time: 
-Thu Jul 22 19:33:59 UTC 2021
+Thu Jul 22 19:45:58 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ FORTUNE PROVIDES QUESTIONS FOR THE \
-| GREAT ANSWERS: #13 A: Doc, Happy,  |
-| Bashful, Dopey, Sneezy, Sleepy, &  |
-| Grumpy Q: Who were the Democratic  |
-\ presidential candidates?           /
- ------------------------------------
+ ______________________________________
+/ Many pages make a thick book, except \
+| for pocket Bibles which are on very  |
+\ very thin paper.                     /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
