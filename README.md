@@ -1,13 +1,11 @@
 Last Update Time: 
-Thu Jul 22 23:21:14 UTC 2021
+Thu Jul 22 23:35:13 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: What looks like a cat, flies like a \
-| bat, brays like a donkey, and          |
-|                                        |
-\ plays like a monkey? A: Nothing.       /
- ----------------------------------------
+ ______________________________________
+/ Try to value useful qualities in one \
+\ who loves you.                       /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
