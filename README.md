@@ -1,12 +1,10 @@
 Last Update Time: 
-Fri Jul 23 03:48:39 UTC 2021
+Fri Jul 23 04:00:47 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Extreme fear can neither fight nor fly. \
-|                                         |
-| -- William Shakespeare, "The Rape of    |
-\ Lucrece"                                /
+/ Your reasoning powers are good, and you \
+\ are a fairly good planner.              /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
