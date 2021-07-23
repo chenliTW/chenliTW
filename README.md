@@ -1,11 +1,11 @@
 Last Update Time: 
-Fri Jul 23 14:44:10 UTC 2021
+Fri Jul 23 14:56:24 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ You own a dog, but you can only feed a \
-\ cat.                                   /
- ----------------------------------------
+ _____________________________________
+/ You have the capacity to learn from \
+\ mistakes. You'll learn a lot today. /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
