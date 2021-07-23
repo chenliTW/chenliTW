@@ -1,10 +1,11 @@
 Last Update Time: 
-Thu Jul 22 23:59:00 UTC 2021
+Fri Jul 23 01:12:04 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- __________________________________
-< Never reveal your best argument. >
- ----------------------------------
+ ______________________________________
+/ You have an unusual equipment for    \
+\ success. Be sure to use it properly. /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
