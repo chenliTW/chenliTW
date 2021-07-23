@@ -1,10 +1,11 @@
 Last Update Time: 
-Fri Jul 23 23:30:51 UTC 2021
+Fri Jul 23 23:42:53 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________
-< You too can wear a nose mitten. >
- ---------------------------------
+ _______________________________________
+/ Your society will be sought by people \
+\ of taste and refinement.              /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
