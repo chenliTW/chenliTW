@@ -1,11 +1,13 @@
 Last Update Time: 
-Fri Jul 23 03:09:46 UTC 2021
+Fri Jul 23 03:33:31 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________
-/ Tonight's the night: Sleep in a \
-\ eucalyptus tree.                /
- ---------------------------------
+ _________________________________________
+/ He that breaks a thing to find out what \
+| it is has left the path of wisdom.      |
+|                                         |
+\ -- J.R.R. Tolkien                       /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
