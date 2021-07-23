@@ -1,18 +1,16 @@
 Last Update Time: 
-Fri Jul 23 11:28:32 UTC 2021
+Fri Jul 23 11:40:21 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ I got a hint of things to come when I   \
-| overheard my boss lamenting, 'The books |
-| are done and we still don't have an     |
-| author! I must sign someone today!      |
-|                                         |
-| -- Tamim Ansary, "Edutopia Magazine,    |
-| Issue 2, November 2004"                 |
-|                                         |
-\ on the topic of school textbooks        /
- -----------------------------------------
+ _________________________________
+/ AWAKE! FEAR! FIRE! FOES! AWAKE! \
+|                                 |
+| FEAR! FIRE! FOES!               |
+|                                 |
+| AWAKE! AWAKE!                   |
+|                                 |
+\ -- J. R. R. Tolkien             /
+ ---------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
