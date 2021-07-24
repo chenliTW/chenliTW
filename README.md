@@ -1,14 +1,14 @@
 Last Update Time: 
-Sat Jul 24 06:38:13 UTC 2021
+Sat Jul 24 06:56:06 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ My only love sprung from my only hate! \
-| Too early seen unknown, and known too  |
-| late!                                  |
+/ A classic is something that everyone   \
+| wants to have read and nobody wants to |
+| read.                                  |
 |                                        |
-| -- William Shakespeare, "Romeo and     |
-\ Juliet"                                /
+| -- Mark Twain, "The Disappearance of   |
+\ Literature"                            /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
