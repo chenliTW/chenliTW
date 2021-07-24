@@ -1,13 +1,11 @@
 Last Update Time: 
-Sat Jul 24 19:29:44 UTC 2021
+Sat Jul 24 19:41:44 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ All things that are, are with more   \
-| spirit chased than enjoyed.          |
-|                                      |
-\ -- Shakespeare, "Merchant of Venice" /
- --------------------------------------
+ _________________________________________
+/ Don't read any sky-writing for the next \
+\ two weeks.                              /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
