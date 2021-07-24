@@ -1,11 +1,29 @@
 Last Update Time: 
-Sat Jul 24 14:21:13 UTC 2021
+Sat Jul 24 14:33:14 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ Q: What is green and lives in the \
-\ ocean? A: Moby Pickle.            /
- -----------------------------------
+ _______________________________________
+/ Gone With The Wind LITE(tm)           \
+|                                       |
+| -- by Margaret Mitchell               |
+|                                       |
+| A woman only likes men she can't have |
+| and the South gets trashed.           |
+|                                       |
+| Gift of the Magi LITE(tm)             |
+|                                       |
+| -- by O. Henry                        |
+|                                       |
+| A husband and wife forget to register |
+| their gift preferences.               |
+|                                       |
+| The Old Man and the Sea LITE(tm)      |
+|                                       |
+| -- by Ernest Hemingway                |
+|                                       |
+| An old man goes fishing, but doesn't  |
+\ have much luck.                       /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
