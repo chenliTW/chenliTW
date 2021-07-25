@@ -1,14 +1,13 @@
 Last Update Time: 
-Sun Jul 25 17:56:46 UTC 2021
+Sun Jul 25 18:26:11 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Fame is a vapor; popularity an          \
-| accident; the only earthly certainty is |
-| oblivion.                               |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ______________________________________
+/ "Not Hercules could have knock'd out \
+| his brains, for he had none."        |
+|                                      |
+\ -- Shakespeare                       /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
