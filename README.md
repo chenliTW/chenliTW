@@ -1,14 +1,17 @@
 Last Update Time: 
-Mon Jul 26 06:15:22 UTC 2021
+Mon Jul 26 06:43:36 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why does Washington have the most   \
-| lawyers per capita and                 |
-|                                        |
-| New Jersey the most toxic waste dumps? |
-\ A: God gave New Jersey first choice.   /
- ----------------------------------------
+ _______________________________________
+/ Fortune: You will be attacked next    \
+| Wednesday at 3:15 p.m. by six samurai |
+| sword wielding purple fish glued to   |
+| Harley-Davidson motorcycles.          |
+|                                       |
+| Oh, and have a nice day!              |
+|                                       |
+\ -- Bryce Nesbitt '84                  /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
