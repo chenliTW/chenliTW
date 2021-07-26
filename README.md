@@ -1,11 +1,13 @@
 Last Update Time: 
-Mon Jul 26 15:55:49 UTC 2021
+Mon Jul 26 16:31:25 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________
-/ You may get an opportunity for \
-\ advancement today. Watch it!   /
- --------------------------------
+ ____________________________________
+/ A horse! A horse! My kingdom for a \
+| horse!                             |
+|                                    |
+\ -- Wm. Shakespeare, "Richard III"  /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
