@@ -1,11 +1,28 @@
 Last Update Time: 
-Tue Jul 27 10:43:24 UTC 2021
+Tue Jul 27 10:55:18 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _______________________________________
-/ You should emulate your heros, but    \
-| don't carry it too far. Especially if |
-\ they are dead.                        /
+/ Gone With The Wind LITE(tm)           \
+|                                       |
+| -- by Margaret Mitchell               |
+|                                       |
+| A woman only likes men she can't have |
+| and the South gets trashed.           |
+|                                       |
+| Gift of the Magi LITE(tm)             |
+|                                       |
+| -- by O. Henry                        |
+|                                       |
+| A husband and wife forget to register |
+| their gift preferences.               |
+|                                       |
+| The Old Man and the Sea LITE(tm)      |
+|                                       |
+| -- by Ernest Hemingway                |
+|                                       |
+| An old man goes fishing, but doesn't  |
+\ have much luck.                       /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
