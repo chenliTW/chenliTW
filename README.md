@@ -1,11 +1,14 @@
 Last Update Time: 
-Tue Jul 27 19:57:39 UTC 2021
+Tue Jul 27 20:20:24 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ You own a dog, but you can only feed a \
-\ cat.                                   /
- ----------------------------------------
+ _______________________________________
+/ The devil can cite Scripture for his  \
+| purpose.                              |
+|                                       |
+| -- William Shakespeare, "The Merchant |
+\ of Venice"                            /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
