@@ -1,12 +1,17 @@
 Last Update Time: 
-Wed Jul 28 22:39:18 UTC 2021
+Wed Jul 28 22:51:10 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: How many marketing people does it \
-| take to change a light bulb? A: I'll |
-\ have to get back to you on that.     /
- --------------------------------------
+ _________________________________________
+/ Swerve me? The path to my fixed purpose \
+| is laid with iron rails, whereon my     |
+| soul is grooved to run. Over unsounded  |
+| gorges, through the rifled hearts of    |
+| mountains, under torrents' beds,        |
+| unerringly I rush!                      |
+|                                         |
+\ -- Captain Ahab, "Moby Dick"            /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
