@@ -1,11 +1,10 @@
 Last Update Time: 
-Wed Jul 28 17:05:40 UTC 2021
+Wed Jul 28 17:34:25 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You will have domestic happiness and \
-\ faithful friends.                    /
- --------------------------------------
+ ____________________
+< Beware of Bigfoot! >
+ --------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
