@@ -1,13 +1,11 @@
 Last Update Time: 
-Wed Jul 28 20:36:00 UTC 2021
+Wed Jul 28 20:47:47 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You have an unusual magnetic         \
-| personality. Don't walk too close to |
-| metal objects which are not fastened |
-\ down.                                /
- --------------------------------------
+ ________________________________________
+/ You prefer the company of the opposite \
+\ sex, but are well liked by your own.   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
