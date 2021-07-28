@@ -1,11 +1,14 @@
 Last Update Time: 
-Wed Jul 28 09:33:15 UTC 2021
+Wed Jul 28 09:47:37 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The Public is merely a multiplied "me." \
+/ Q: How many mathematicians does it take \
+| to screw in a light bulb? A: One. He    |
+| gives it to six Californians, thereby   |
+| reducing the problem                    |
 |                                         |
-\ -- Mark Twain                           /
+\ to the earlier joke.                    /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
