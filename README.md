@@ -1,12 +1,11 @@
 Last Update Time: 
-Wed Jul 28 07:32:56 UTC 2021
+Wed Jul 28 07:44:32 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: "What is the burning question on the \
-| mind of every dyslexic                  |
+/ The better part of valor is discretion. \
 |                                         |
-\ existentialist?" A: "Is there a dog?"   /
+\ -- William Shakespeare, "Henry IV"      /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
