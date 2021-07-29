@@ -1,11 +1,12 @@
 Last Update Time: 
-Thu Jul 29 23:39:45 UTC 2021
+Thu Jul 29 23:52:33 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ Time to be aggressive. Go after a \
-\ tattooed Virgo.                   /
- -----------------------------------
+ _______________________________________
+/ Q: What's tiny and yellow and very,   \
+| very, dangerous? A: A canary with the |
+\ super-user password.                  /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
