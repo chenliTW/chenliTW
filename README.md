@@ -1,12 +1,13 @@
 Last Update Time: 
-Fri Jul 30 10:41:21 UTC 2021
+Fri Jul 30 10:53:07 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: How many Martians does it take to \
-| screw in a light bulb? A: One and a  |
-\ half.                                /
- --------------------------------------
+ _________________________________________
+/ The first thing we do, let's kill all   \
+| the lawyers.                            |
+|                                         |
+\ -- Wm. Shakespeare, "Henry VI", Part IV /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
