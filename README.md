@@ -1,13 +1,10 @@
 Last Update Time: 
-Fri Jul 30 06:41:02 UTC 2021
+Fri Jul 30 06:57:44 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: "What is the burning question on the \
-| mind of every dyslexic                  |
-|                                         |
-\ existentialist?" A: "Is there a dog?"   /
- -----------------------------------------
+ _______________________________________
+< You will be run over by a beer truck. >
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
