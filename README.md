@@ -1,11 +1,10 @@
 Last Update Time: 
-Fri Jul 30 11:26:10 UTC 2021
+Fri Jul 30 11:38:00 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You will be imprisoned for contributing \
-\ your time and skill to a bank robbery.  /
- -----------------------------------------
+ ________________________________________
+< You have a truly strong individuality. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
