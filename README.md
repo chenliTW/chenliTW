@@ -1,12 +1,12 @@
 Last Update Time: 
-Fri Jul 30 22:25:55 UTC 2021
+Fri Jul 30 22:40:45 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You should emulate your heros, but    \
-| don't carry it too far. Especially if |
-\ they are dead.                        /
- ---------------------------------------
+ _________________________________________
+/ Next Friday will not be your lucky day. \
+| As a matter of fact, you don't have a   |
+\ lucky day this year.                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
