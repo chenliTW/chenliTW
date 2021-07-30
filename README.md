@@ -1,11 +1,11 @@
 Last Update Time: 
-Fri Jul 30 08:50:04 UTC 2021
+Fri Jul 30 09:05:49 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You don't become a failure until you're \
-\ satisfied with being one.               /
- -----------------------------------------
+ ________________________________________
+/ Q: Why did the WASP cross the road? A: \
+\ To get to the middle.                  /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
