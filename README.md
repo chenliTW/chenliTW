@@ -1,10 +1,9 @@
 Last Update Time: 
-Sat Jul 31 18:50:25 UTC 2021
+Sat Jul 31 19:05:04 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ You possess a mind not merely twisted, \
-\ but actually sprained.                 /
+< Your ignorance cramps my conversation. >
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
