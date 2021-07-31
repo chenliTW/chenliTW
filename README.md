@@ -1,12 +1,13 @@
 Last Update Time: 
-Sat Jul 31 14:36:43 UTC 2021
+Sat Jul 31 14:48:38 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why do mountain climbers rope       \
-| themselves together? A: To prevent the |
-\ sensible ones from going home.         /
- ----------------------------------------
+ _________________________________________
+/ Patch griefs with proverbs.             \
+|                                         |
+| -- William Shakespeare, "Much Ado About |
+\ Nothing"                                /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
