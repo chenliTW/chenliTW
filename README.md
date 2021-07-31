@@ -1,14 +1,22 @@
 Last Update Time: 
-Sat Jul 31 14:07:56 UTC 2021
+Sat Jul 31 14:24:46 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many mathematicians does it take \
-| to screw in a light bulb? A: One. He    |
-| gives it to six Californians, thereby   |
-| reducing the problem                    |
+/ "What's this? Trix? Aunt! Trix? You?    \
+| You're after the prize! What is it?" He |
+| picked up the box and studied the back. |
+| "A glow-in-the-dark squid! Have you got |
+| it out of there yet?" He tilted the     |
+| box, angling the little colored balls   |
+| of cereal so as to see the bottom, and  |
+| nearly spilling them onto the table     |
+| top. "Here it is!" He hauled out a      |
+| little cream-colored, glitter-sprinkled |
+| squid, three-inches long and made out   |
+| of rubbery plastic.                     |
 |                                         |
-\ to the earlier joke.                    /
+\ -- James P. Blaylock, "The Last Coin"   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
