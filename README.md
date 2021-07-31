@@ -1,11 +1,13 @@
 Last Update Time: 
-Sat Jul 31 20:44:07 UTC 2021
+Sat Jul 31 20:55:56 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Lady Luck brings added income today. \
-\ Lady friend takes it away tonight.   /
- --------------------------------------
+ _________________________________________
+/ It is so very hard to be an             \
+| on-your-own-take-care-of-yourself-becau |
+| se-there-is-no-one-else-to-do-it-for-yo |
+\ u grown-up.                             /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
