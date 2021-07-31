@@ -1,14 +1,14 @@
 Last Update Time: 
-Sat Jul 31 13:51:18 UTC 2021
+Sat Jul 31 14:07:56 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ There is no hunting like the hunting of \
-| man, and those who have hunted armed    |
-| men long enough and liked it, never     |
-| care for anything else thereafter.      |
+/ Q: How many mathematicians does it take \
+| to screw in a light bulb? A: One. He    |
+| gives it to six Californians, thereby   |
+| reducing the problem                    |
 |                                         |
-\ -- Ernest Hemingway                     /
+\ to the earlier joke.                    /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
