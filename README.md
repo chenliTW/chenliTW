@@ -1,15 +1,11 @@
 Last Update Time: 
-Sun Aug  1 12:19:13 UTC 2021
+Sun Aug  1 12:51:30 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many bureaucrats does it take to \
-| screw in a light bulb? A: Two. One to   |
-| assure everyone that everything         |
-| possible is being                       |
+/ The better part of valor is discretion. \
 |                                         |
-| done while the other screws the bulb    |
-\ into the water faucet.                  /
+\ -- William Shakespeare, "Henry IV"      /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
