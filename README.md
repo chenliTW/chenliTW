@@ -1,11 +1,14 @@
 Last Update Time: 
-Mon Aug  2 17:04:23 UTC 2021
+Mon Aug  2 17:31:47 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You two ought to be more careful--your  \
-\ love could drag on for years and years. /
- -----------------------------------------
+ ________________________________________
+/ Q: What do you call a WASP who doesn't \
+| work for his father, isn't a           |
+|                                        |
+| lawyer, and believes in social causes? |
+\ A: A failure.                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
