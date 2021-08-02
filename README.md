@@ -1,11 +1,10 @@
 Last Update Time: 
-Mon Aug  2 17:46:16 UTC 2021
+Mon Aug  2 17:58:05 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You don't become a failure until you're \
-\ satisfied with being one.               /
- -----------------------------------------
+ ________________________
+< Cold hands, no gloves. >
+ ------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
