@@ -1,10 +1,11 @@
 Last Update Time: 
-Mon Aug  2 17:58:05 UTC 2021
+Mon Aug  2 18:28:15 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________
-< Cold hands, no gloves. >
- ------------------------
+ _____________________________________
+/ Your talents will be recognized and \
+\ suitably rewarded.                  /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
