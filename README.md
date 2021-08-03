@@ -1,11 +1,12 @@
 Last Update Time: 
-Tue Aug  3 10:45:47 UTC 2021
+Tue Aug  3 10:57:38 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You have an unusual understanding of \
-\ the problems of human relationships. /
- --------------------------------------
+ ____________________________________
+/ It's lucky you're going so slowly, \
+| because you're going in the wrong  |
+\ direction.                         /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
