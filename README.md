@@ -1,16 +1,15 @@
 Last Update Time: 
-Tue Aug  3 22:54:14 UTC 2021
+Tue Aug  3 23:15:40 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Q: What do you call a blind        \
-| pre-historic animal? A:            |
-| Diyathinkhesaurus.                 |
-|                                    |
-| Q: What do you call a blind        |
-| pre-historic animal with a dog? A: |
-\ Diyathinkhesaurus Rex.             /
- ------------------------------------
+ _______________________________________
+/ The difference between the right word \
+| and the almost right word is the      |
+| difference between lightning and the  |
+| lightning bug.                        |
+|                                       |
+\ -- Mark Twain                         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
