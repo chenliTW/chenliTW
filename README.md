@@ -1,11 +1,11 @@
 Last Update Time: 
-Thu Aug  5 17:06:41 UTC 2021
+Thu Aug  5 17:34:13 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Don't hate yourself in the morning -- \
-\ sleep till noon.                      /
- ---------------------------------------
+ ___________________________________
+/ That secret you've been guarding, \
+\ isn't.                            /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
