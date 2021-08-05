@@ -1,13 +1,14 @@
 Last Update Time: 
-Thu Aug  5 21:22:57 UTC 2021
+Thu Aug  5 21:38:40 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ The smallest worm will turn being  \
-| trodden on.                        |
-|                                    |
-\ -- William Shakespeare, "Henry VI" /
- ------------------------------------
+ ________________________________________
+/ "You have been in Afghanistan, I       \
+| perceive."                             |
+|                                        |
+| -- Sir Arthur Conan Doyle, "A Study in |
+\ Scarlet"                               /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
