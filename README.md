@@ -1,11 +1,11 @@
 Last Update Time: 
-Thu Aug  5 19:45:26 UTC 2021
+Thu Aug  5 19:57:20 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Abandon the search for Truth; settle \
-\ for a good fantasy.                  /
- --------------------------------------
+ ________________________________________
+/ You have a will that can be influenced \
+\ by all with whom you come in contact.  /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
