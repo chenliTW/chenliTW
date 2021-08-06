@@ -1,11 +1,13 @@
 Last Update Time: 
-Fri Aug  6 03:04:10 UTC 2021
+Fri Aug  6 03:29:06 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why did the tachyon cross the road? \
-\ A: Because it was on the other side.   /
- ----------------------------------------
+ _________________________________________
+/ Q: "What is the burning question on the \
+| mind of every dyslexic                  |
+|                                         |
+\ existentialist?" A: "Is there a dog?"   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
