@@ -1,11 +1,10 @@
 Last Update Time: 
-Fri Aug  6 02:49:29 UTC 2021
+Fri Aug  6 03:04:10 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ What no spouse of a writer can ever    \
-| understand is that a writer is working |
-\ when he's staring out the window.      /
+/ Q: Why did the tachyon cross the road? \
+\ A: Because it was on the other side.   /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
