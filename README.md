@@ -1,14 +1,13 @@
 Last Update Time: 
-Fri Aug  6 12:52:41 UTC 2021
+Fri Aug  6 13:21:34 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many Bell Labs Vice Presidents   \
-| does it take to change a light bulb? A: |
-| That's proprietary information. Answer  |
-| available from AT&T on payment          |
+/ If more of us valued food and cheer and \
+| song above hoarded gold, it would be a  |
+| merrier world.                          |
 |                                         |
-\ of license fee (binary only).           /
+\ -- J.R.R. Tolkien                       /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
