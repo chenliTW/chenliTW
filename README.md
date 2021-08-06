@@ -1,14 +1,15 @@
 Last Update Time: 
-Fri Aug  6 19:57:27 UTC 2021
+Fri Aug  6 20:22:11 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Q: What does a WASP Mom make for   \
-| dinner? A: A crisp salad, a hearty |
-| soup, a lovely entree, followed by |
-|                                    |
-\ a delicious dessert.               /
- ------------------------------------
+ ________________________________________
+/ Q: Why do people who live near Niagara \
+| Falls have flat foreheads? A: Because  |
+| every morning they wake up thinking    |
+| "What *is* that noise?                 |
+|                                        |
+\ Oh, right, *of course*!                /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
