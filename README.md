@@ -1,14 +1,15 @@
 Last Update Time: 
-Sat Aug  7 15:33:28 UTC 2021
+Sat Aug  7 15:49:40 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ If one cannot enjoy reading a book over \
-| and over again, there is no use in      |
-| reading it at all.                      |
-|                                         |
-\ -- Oscar Wilde                          /
- -----------------------------------------
+ ________________________________________
+/ It has long been an axiom of mine that \
+| the little things are infinitely the   |
+| most important.                        |
+|                                        |
+| -- Sir Arthur Conan Doyle, "A Case of  |
+\ Identity"                              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
