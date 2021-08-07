@@ -1,11 +1,13 @@
 Last Update Time: 
-Sat Aug  7 05:16:52 UTC 2021
+Sat Aug  7 05:29:04 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You will be held hostage by a radical \
-\ group.                                /
- ---------------------------------------
+ ______________________________________
+/ Go not to the elves for counsel, for \
+| they will say both yes and no.       |
+|                                      |
+\ -- J.R.R. Tolkien                    /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
