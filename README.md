@@ -1,15 +1,12 @@
 Last Update Time: 
-Fri Aug  6 23:52:27 UTC 2021
+Sat Aug  7 00:34:51 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ F.S. Fitzgerald to Hemingway:        \
-|                                      |
-| "Ernest, the rich are different from |
-| us." Hemingway:                      |
-|                                      |
-\ "Yes. They have more money."         /
- --------------------------------------
+ ____________________________________
+/ You tread upon my patience.        \
+|                                    |
+\ -- William Shakespeare, "Henry IV" /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
