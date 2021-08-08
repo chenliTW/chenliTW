@@ -1,13 +1,10 @@
 Last Update Time: 
-Sat Aug  7 23:57:58 UTC 2021
+Sun Aug  8 01:10:40 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ You may my glories and my state        \
-| dispose, But not my griefs; still am I |
-| king of those.                         |
-|                                        |
-\ -- William Shakespeare, "Richard II"   /
+/ Q: What's buried in Grant's tomb? A: A \
+\ corpse.                                /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
