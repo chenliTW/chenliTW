@@ -1,13 +1,10 @@
 Last Update Time: 
-Sun Aug  8 08:26:21 UTC 2021
+Sun Aug  8 08:42:16 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Hell is empty and all the devils are \
-| here.                                |
-|                                      |
-\ -- Wm. Shakespeare, "The Tempest"    /
- --------------------------------------
+ _____________________________
+< You will never know hunger. >
+ -----------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
