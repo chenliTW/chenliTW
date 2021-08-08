@@ -1,10 +1,11 @@
 Last Update Time: 
-Sun Aug  8 07:48:40 UTC 2021
+Sun Aug  8 08:01:12 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-< If you can read this, you're too close. >
- -----------------------------------------
+ _____________________________________
+/ Don't you feel more like you do now \
+\ than you did when you came in?      /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
