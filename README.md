@@ -1,12 +1,14 @@
 Last Update Time: 
-Mon Aug  9 05:26:09 UTC 2021
+Mon Aug  9 05:37:41 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Your motives for doing whatever good \
-| deed you may have in mind will be    |
-\ misinterpreted by somebody.          /
- --------------------------------------
+ _________________________________________
+/ Q: What's the difference between a dead \
+| dog in the road and a dead              |
+|                                         |
+| lawyer in the road? A: There are skid   |
+\ marks in front of the dog.              /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
