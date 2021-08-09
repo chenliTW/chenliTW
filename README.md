@@ -1,14 +1,10 @@
 Last Update Time: 
-Mon Aug  9 17:26:53 UTC 2021
+Mon Aug  9 17:46:23 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ It is by the fortune of God that, in   \
-| this country, we have three benefits:  |
-| freedom of speech, freedom of thought, |
-| and the wisdom never to use either.    |
-|                                        |
-\ -- Mark Twain                          /
+/ Avert misunderstanding by calm, poise, \
+\ and balance.                           /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
