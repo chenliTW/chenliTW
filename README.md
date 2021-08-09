@@ -1,12 +1,15 @@
 Last Update Time: 
-Mon Aug  9 16:19:04 UTC 2021
+Mon Aug  9 16:57:11 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You will lose your present job and have \
-| to become a door to door mayonnaise     |
-\ salesman.                               /
- -----------------------------------------
+ _______________________________________
+/ Q: Minnesotans ask, "Why aren't there \
+| more pharmacists from Alabama?" A:    |
+| Easy. It's because they can't figure  |
+| out how to get the little             |
+|                                       |
+\ bottles into the typewriter.          /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
