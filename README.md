@@ -1,11 +1,11 @@
 Last Update Time: 
-Mon Aug  9 11:57:57 UTC 2021
+Mon Aug  9 12:37:04 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Your own qualities will help prevent \
-\ your advancement in the world.       /
- --------------------------------------
+ _______________________________________
+/ Q: How do you save a drowning lawyer? \
+\ A: Throw him a rock.                  /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
