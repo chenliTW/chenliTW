@@ -1,11 +1,13 @@
 Last Update Time: 
-Mon Aug  9 09:43:11 UTC 2021
+Mon Aug  9 09:55:38 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Learn to pause -- or nothing worthwhile \
-\ can catch up to you.                    /
- -----------------------------------------
+ ________________________________________
+/ Q: How many Harvard MBA's does it take \
+| to screw in a light bulb? A: Just one. |
+| He grasps it firmly and the universe   |
+\ revolves around him.                   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
