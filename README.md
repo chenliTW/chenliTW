@@ -1,15 +1,11 @@
 Last Update Time: 
-Wed Aug 11 18:55:17 UTC 2021
+Wed Aug 11 19:14:31 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ My only love sprung from my only hate! \
-| Too early seen unknown, and known too  |
-| late!                                  |
-|                                        |
-| -- William Shakespeare, "Romeo and     |
-\ Juliet"                                /
- ----------------------------------------
+ ______________________________________
+/ You will be the last person to buy a \
+\ Chrysler.                            /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
