@@ -1,14 +1,20 @@
 Last Update Time: 
-Wed Aug 11 07:20:20 UTC 2021
+Wed Aug 11 07:32:20 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ After all, all he did was string  \
-| together a lot of old, well-known |
-| quotations.                       |
-|                                   |
-\ -- H. L. Mencken, on Shakespeare  /
- -----------------------------------
+ _________________________________________
+/ The notes blatted skyward as they rose  \
+| over the Canada geese, feathered rumps  |
+| mooning the day, webbed appendages      |
+| frantically pedaling unseen bicycles in |
+| their search for sustenance, driven by  |
+| cruel Nature's maxim, 'Ya wanna eat, ya |
+| gotta work,' and at last I knew         |
+| Pittsburgh.                             |
+|                                         |
+| -- Winning sentence, 1987 Bulwer-Lytton |
+\ bad fiction contest.                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
