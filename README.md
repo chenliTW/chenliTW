@@ -1,10 +1,10 @@
 Last Update Time: 
-Wed Aug 11 15:23:34 UTC 2021
+Wed Aug 11 15:44:06 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: What's yellow, and equivalent to the \
-\ Axiom of Choice? A: Zorn's Lemon.       /
+/ Your object is to save the world, while \
+\ still leading a pleasant life.          /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
