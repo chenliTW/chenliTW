@@ -1,13 +1,10 @@
 Last Update Time: 
-Wed Aug 11 20:27:55 UTC 2021
+Wed Aug 11 20:40:43 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The fashion wears out more apparel than \
-| the man.                                |
-|                                         |
-| -- William Shakespeare, "Much Ado About |
-\ Nothing"                                /
+/ Your object is to save the world, while \
+\ still leading a pleasant life.          /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
