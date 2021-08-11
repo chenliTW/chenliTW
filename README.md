@@ -1,15 +1,20 @@
 Last Update Time: 
-Wed Aug 11 03:12:18 UTC 2021
+Wed Aug 11 03:35:13 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ When I reflect upon the number of       \
-| disagreeable people who I know who have |
-| gone to a better world, I am moved to   |
-| lead a different life.                  |
+/ A morgue is a morgue is a morgue. They  \
+| can paint the walls with aggressively   |
+| cheerful primary colors and splashy     |
+| bold graphics, but it's still a holding |
+| place for the dead until they can be    |
+| parted out to organ banks. Not that I   |
+| would have cared normally but my        |
+| viewpoint was skewed. The relentless    |
+| pleasance of the room I sat in seemed   |
+| only grotesque.                         |
 |                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
+\ -- Pat Cadigan, "Mindplayers"           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
