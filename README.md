@@ -1,14 +1,16 @@
 Last Update Time: 
-Thu Aug 12 10:58:15 UTC 2021
+Thu Aug 12 11:18:03 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why does Washington have the most   \
-| lawyers per capita and                 |
-|                                        |
-| New Jersey the most toxic waste dumps? |
-\ A: God gave New Jersey first choice.   /
- ----------------------------------------
+ _______________________________________
+/ Training is everything. The peach was \
+| once a bitter almond; cauliflower is  |
+| nothing but cabbage with a college    |
+| education.                            |
+|                                       |
+| -- Mark Twain, "Pudd'nhead Wilson's   |
+\ Calendar"                             /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
