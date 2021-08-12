@@ -1,13 +1,11 @@
 Last Update Time: 
-Thu Aug 12 04:28:42 UTC 2021
+Thu Aug 12 04:52:35 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ When one burns one's bridges, what a \
-| very nice fire it makes.             |
-|                                      |
-\ -- Dylan Thomas                      /
- --------------------------------------
+ _______________________________________
+/ Today is the first day of the rest of \
+\ the mess.                             /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
