@@ -1,16 +1,12 @@
 Last Update Time: 
-Thu Aug 12 11:18:03 UTC 2021
+Thu Aug 12 11:30:10 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Training is everything. The peach was \
-| once a bitter almond; cauliflower is  |
-| nothing but cabbage with a college    |
-| education.                            |
-|                                       |
-| -- Mark Twain, "Pudd'nhead Wilson's   |
-\ Calendar"                             /
- ---------------------------------------
+ ___________________________
+/ Too much is just enough.  \
+|                           |
+\ -- Mark Twain, on whiskey /
+ ---------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
