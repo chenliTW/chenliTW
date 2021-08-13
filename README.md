@@ -1,35 +1,49 @@
 Last Update Time: 
-Fri Aug 13 15:09:19 UTC 2021
+Fri Aug 13 15:34:21 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Courage is resistance to fear, mastery  \
-| of fear--not absence of fear. Except a  |
-| creature be part coward it is not a     |
-| compliment to say it is brave; it is    |
-| merely a loose misapplication of the    |
-| word. Consider the flea!--incomparably  |
-| the bravest of all the creatures of     |
-| God, if ignorance of fear were courage. |
-| Whether you are asleep or awake he will |
-| attack you, caring nothing for the fact |
-| that in bulk and strength you are to    |
-| him as are the massed armies of the     |
-| earth to a sucking child; he lives both |
-| day and night and all days and nights   |
-| in the very lap of peril and the        |
-| immediate presence of death, and yet is |
-| no more afraid than is the man who      |
-| walks the streets of a city that was    |
-| threatened by an earthquake ten         |
-| centuries before. When we speak of      |
-| Clive, Nelson, and Putnam as men who    |
-| "didn't know what fear was," we ought   |
-| always to add the flea--and put him at  |
-| the head of the procession.             |
+/ Well, anyway, I was reading this James  \
+| Bond book, and right away I realized    |
+| that like most books, it had too many   |
+| words. The plot was the same one that   |
+| all James Bond books have: An evil      |
+| person tries to blow up the world, but  |
+| James Bond kills him and his henchmen   |
+| and makes love to several attractive    |
+| women. There, that's it: 24 words. But  |
+| the guy who wrote the book took         |
+| *thousands* of words to say it.         |
 |                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
+| Or consider "The Brothers Karamazov",   |
+| by the famous Russian alcoholic Fyodor  |
+| Dostoyevsky. It's about these two       |
+| brothers who kill their father. Or      |
+| maybe only one of them kills the        |
+| father. It's impossible to tell because |
+| what they mostly do is talk for nearly  |
+| a thousand pages. If all Russians talk  |
+| as much as the Karamazovs did, I don't  |
+| see how they found time to become a     |
+| major world power.                      |
+|                                         |
+| I'm told that Dostoyevsky wrote "The    |
+| Brothers Karamazov" to raise the        |
+| question of whether there is a God. So  |
+| why didn't he just come right out and   |
+| say: "Is there a God? It sure beats the |
+| heck out of me."                        |
+|                                         |
+| Other famous works could easily have    |
+| been summarized in a few words:         |
+|                                         |
+| * "Moby Dick" -- Don't mess around with |
+| large whales because they symbolize     |
+|                                         |
+| nature and will kill you. * "A Tale of  |
+| Two Cities" -- French people are crazy. |
+|                                         |
+\ -- Dave Barry                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
