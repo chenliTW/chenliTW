@@ -1,13 +1,11 @@
 Last Update Time: 
-Fri Aug 13 19:20:01 UTC 2021
+Fri Aug 13 19:32:06 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Lay on, MacDuff, and curs'd be him who \
-| first cries, "Hold, enough!".          |
-|                                        |
-\ -- Shakespeare                         /
- ----------------------------------------
+ _______________________________________
+/ You shall be rewarded for a dastardly \
+\ deed.                                 /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
