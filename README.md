@@ -1,10 +1,11 @@
 Last Update Time: 
-Sat Aug 14 17:03:49 UTC 2021
+Sat Aug 14 17:29:17 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-< Courage is your greatest present need. >
- ----------------------------------------
+ ___________________________________
+/ Your heart is pure, and your mind \
+\ clear, and your soul devout.      /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
