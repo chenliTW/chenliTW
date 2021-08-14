@@ -1,13 +1,12 @@
 Last Update Time: 
-Sat Aug 14 06:07:05 UTC 2021
+Sat Aug 14 06:35:28 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Things past redress and now with me  \
-| past care.                           |
-|                                      |
-\ -- William Shakespeare, "Richard II" /
- --------------------------------------
+ _________________
+/ A is for Apple. \
+|                 |
+\ -- Hester Pryne /
+ -----------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
