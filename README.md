@@ -1,10 +1,11 @@
 Last Update Time: 
-Sat Aug 14 13:29:04 UTC 2021
+Sat Aug 14 13:40:52 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________
-< Your lucky color has faded. >
- -----------------------------
+ _____________________________________
+/ You have a deep appreciation of the \
+\ arts and music.                     /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
