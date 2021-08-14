@@ -1,21 +1,12 @@
 Last Update Time: 
-Sat Aug 14 20:23:01 UTC 2021
+Sat Aug 14 20:36:11 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ For the fashion of Minas Tirith was     \
-| such that it was built on seven levels, |
-| each delved into a hill, and about each |
-| was set a wall, and in each wall was a  |
-| gate.                                   |
+/ Clothes make the man. Naked people have \
+| little or no influence on society.      |
 |                                         |
-| -- J.R.R. Tolkien, "The Return of the   |
-| King"                                   |
-|                                         |
-| [Quoted in "VMS Internals and Data      |
-| Structures", V4.4, when                 |
-|                                         |
-\ referring to system overview.]          /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
