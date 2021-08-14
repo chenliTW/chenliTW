@@ -1,15 +1,13 @@
 Last Update Time: 
-Sat Aug 14 23:03:21 UTC 2021
+Sat Aug 14 23:24:31 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Your manuscript is both good and       \
-| original, but the part that is good is |
-| not original and the part that is      |
-| original is not good.                  |
-|                                        |
-\ -- Samuel Johnson                      /
- ----------------------------------------
+ _________________________________________
+/ Extreme fear can neither fight nor fly. \
+|                                         |
+| -- William Shakespeare, "The Rape of    |
+\ Lucrece"                                /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
