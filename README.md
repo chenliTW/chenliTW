@@ -1,12 +1,13 @@
 Last Update Time: 
-Sat Aug 14 02:14:11 UTC 2021
+Sat Aug 14 02:41:07 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The abuse of greatness is when it       \
-| disjoins remorse from power.            |
-|                                         |
-\ -- William Shakespeare, "Julius Caesar" /
+/ Knucklehead: "Knock, knock" Pee Wee:    \
+| "Who's there?" Knucklehead: "Little ol' |
+| lady." Pee Wee: "Liddle ol' lady who?"  |
+| Knucklehead: "I didn't know you could   |
+\ yodel"                                  /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
