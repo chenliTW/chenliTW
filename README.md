@@ -1,15 +1,11 @@
 Last Update Time: 
-Sat Aug 14 23:50:00 UTC 2021
+Sun Aug 15 00:20:42 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ It is by the fortune of God that, in   \
-| this country, we have three benefits:  |
-| freedom of speech, freedom of thought, |
-| and the wisdom never to use either.    |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _____________________________________
+/ You recoil from the crude; you tend \
+\ naturally toward the exquisite.     /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
