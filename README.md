@@ -1,15 +1,15 @@
 Last Update Time: 
-Sun Aug 15 08:07:26 UTC 2021
+Sun Aug 15 08:30:56 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ It is often the case that the man who  \
-| can't tell a lie thinks he is the best |
-| judge of one.                          |
-|                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
- ----------------------------------------
+ ______________________________________
+/ F.S. Fitzgerald to Hemingway:        \
+|                                      |
+| "Ernest, the rich are different from |
+| us." Hemingway:                      |
+|                                      |
+\ "Yes. They have more money."         /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
