@@ -1,13 +1,15 @@
 Last Update Time: 
-Sun Aug 15 18:41:38 UTC 2021
+Sun Aug 15 18:53:30 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You have an unusual magnetic         \
-| personality. Don't walk too close to |
-| metal objects which are not fastened |
-\ down.                                /
- --------------------------------------
+ _____________________________________
+/ Writing is easy; all you do is sit  \
+| staring at the blank sheet of paper |
+| until drops of blood form on your   |
+| forehead.                           |
+|                                     |
+\ -- Gene Fowler                      /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
