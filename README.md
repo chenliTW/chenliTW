@@ -1,14 +1,10 @@
 Last Update Time: 
-Sun Aug 15 11:36:21 UTC 2021
+Sun Aug 15 11:48:16 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ The fashion wears out more apparel than \
-| the man.                                |
-|                                         |
-| -- William Shakespeare, "Much Ado About |
-\ Nothing"                                /
- -----------------------------------------
+ _________________________
+< You now have Asian Flu. >
+ -------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
