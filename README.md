@@ -1,12 +1,13 @@
 Last Update Time: 
-Sun Aug 15 11:24:27 UTC 2021
+Sun Aug 15 11:36:21 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ FORTUNE PROVIDES QUESTIONS FOR THE      \
-| GREAT ANSWERS: #21 A: Dr. Livingston I. |
-| Presume. Q: What's Dr. Presume's full   |
-\ name?                                   /
+/ The fashion wears out more apparel than \
+| the man.                                |
+|                                         |
+| -- William Shakespeare, "Much Ado About |
+\ Nothing"                                /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
