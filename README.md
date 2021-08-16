@@ -1,11 +1,11 @@
 Last Update Time: 
-Mon Aug 16 14:55:06 UTC 2021
+Mon Aug 16 15:21:36 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Your talents will be recognized and \
-\ suitably rewarded.                  /
- -------------------------------------
+ _________________________________________
+/ Beware of a dark-haired man with a loud \
+\ tie.                                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
