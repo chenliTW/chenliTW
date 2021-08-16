@@ -1,11 +1,14 @@
 Last Update Time: 
-Mon Aug 16 15:21:36 UTC 2021
+Mon Aug 16 15:42:56 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Beware of a dark-haired man with a loud \
-\ tie.                                    /
- -----------------------------------------
+ ________________________________________
+/ Hain't we got all the fools in town on \
+| our side? And hain't that a big enough |
+| majority in any town?                  |
+|                                        |
+\ -- Mark Twain, "Huckleberry Finn"      /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
