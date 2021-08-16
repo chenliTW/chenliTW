@@ -1,16 +1,11 @@
 Last Update Time: 
-Mon Aug 16 10:36:32 UTC 2021
+Mon Aug 16 10:48:16 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ In India, "cold weather" is merely a    \
-| conventional phrase and has come into   |
-| use through the necessity of having     |
-| some way to distinguish between weather |
-| which will melt a brass door-knob and   |
-| weather which will only make it mushy.  |
-|                                         |
-\ -- Mark Twain                           /
+/ Better hope the life-inspector doesn't  \
+| come around while you have your life in |
+\ such a mess.                            /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
