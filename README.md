@@ -1,10 +1,10 @@
 Last Update Time: 
-Tue Aug 17 15:11:23 UTC 2021
+Tue Aug 17 15:35:42 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _______________________________________
-/ Communicate! It can't make things any \
-\ worse.                                /
+/ You have an ability to sense and know \
+\ higher truth.                         /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
