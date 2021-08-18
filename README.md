@@ -1,11 +1,39 @@
 Last Update Time: 
-Wed Aug 18 22:50:34 UTC 2021
+Wed Aug 18 23:07:00 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Your own qualities will help prevent \
-\ your advancement in the world.       /
- --------------------------------------
+ _________________________________________
+/ A Tale of Two Cities LITE(tm)           \
+|                                         |
+| -- by Charles Dickens                   |
+|                                         |
+| A lawyer who looks like a French        |
+| Nobleman is executed in his place.      |
+|                                         |
+| The Metamorphosis LITE(tm)              |
+|                                         |
+| -- by Franz Kafka                       |
+|                                         |
+| A man turns into a bug and his family   |
+| gets annoyed.                           |
+|                                         |
+| Lord of the Rings LITE(tm)              |
+|                                         |
+| -- by J. R. R. Tolkien                  |
+|                                         |
+| Some guys take a long vacation to throw |
+| a ring into a volcano.                  |
+|                                         |
+| Hamlet LITE(tm)                         |
+|                                         |
+| -- by Wm. Shakespeare                   |
+|                                         |
+| A college student on vacation with      |
+| family problems, a screwy               |
+|                                         |
+| girl-friend and a mother who won't act  |
+\ her age.                                /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
