@@ -1,10 +1,11 @@
 Last Update Time: 
-Wed Aug 18 19:44:44 UTC 2021
+Wed Aug 18 19:56:37 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-< You will be misunderstood by everyone. >
- ----------------------------------------
+ _______________________________________
+/ Try to have as good a life as you can \
+\ under the circumstances.              /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
