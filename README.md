@@ -1,22 +1,12 @@
 Last Update Time: 
-Wed Aug 18 21:21:13 UTC 2021
+Wed Aug 18 21:35:51 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Sheriff Chameleotoptor sighed with an  \
-| air of weary sadness, and then turned  |
-| to Doppelgutt and said 'The Senator    |
-| must really have been on a bender this |
-| time -- he left a party in Cleveland,  |
-| Ohio, at 11:30 last night, and they    |
-| found his car this morning in the      |
-| smokestack of a British aircraft       |
-| carrier in the Formosa Straits.'       |
+/ Never laugh at live dragons.           \
 |                                        |
-| -- Grand Panjandrum's Special Award,   |
-| 1985 Bulwer-Lytton                     |
-|                                        |
-\ bad fiction contest.                   /
+| -- Bilbo Baggins [J.R.R. Tolkien, "The |
+\ Hobbit"]                               /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
