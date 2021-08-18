@@ -1,13 +1,19 @@
 Last Update Time: 
-Wed Aug 18 15:12:05 UTC 2021
+Wed Aug 18 15:36:31 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How does a hacker fix a function     \
-| which                                   |
+/ The notes blatted skyward as they rose  \
+| over the Canada geese, feathered rumps  |
+| mooning the day, webbed appendages      |
+| frantically pedaling unseen bicycles in |
+| their search for sustenance, driven by  |
+| cruel Nature's maxim, 'Ya wanna eat, ya |
+| gotta work,' and at last I knew         |
+| Pittsburgh.                             |
 |                                         |
-| doesn't work for all of the elements in |
-\ its domain? A: He changes the domain.   /
+| -- Winning sentence, 1987 Bulwer-Lytton |
+\ bad fiction contest.                    /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
