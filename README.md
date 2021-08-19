@@ -1,13 +1,11 @@
 Last Update Time: 
-Thu Aug 19 18:13:34 UTC 2021
+Thu Aug 19 18:36:43 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ There's small choice in rotten apples. \
-|                                        |
-| -- William Shakespeare, "The Taming of |
-\ the Shrew"                             /
- ----------------------------------------
+ _______________________________________
+/ Don't you wish you had more energy... \
+\ or less ambition?                     /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
