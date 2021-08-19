@@ -1,13 +1,9 @@
 Last Update Time: 
-Thu Aug 19 15:13:44 UTC 2021
+Thu Aug 19 15:37:16 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _______________________________________
-/ Sometimes I wonder if I'm in my right \
-| mind. Then it passes off and I'm as   |
-| intelligent as ever.                  |
-|                                       |
-\ -- Samuel Beckett, "Endgame"          /
+< You will have a long and boring life. >
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
