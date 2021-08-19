@@ -1,19 +1,12 @@
 Last Update Time: 
-Thu Aug 19 17:52:32 UTC 2021
+Thu Aug 19 18:13:34 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ For there are moments when one can     \
-| neither think nor feel. And if one can |
-| neither think nor feel, she thought,   |
-| where is one?                          |
+/ There's small choice in rotten apples. \
 |                                        |
-| -- Virginia Woolf, "To the Lighthouse" |
-|                                        |
-| [Quoted in "VMS Internals and Data     |
-| Structures", V4.4, when                |
-|                                        |
-\ referring to powerfail recovery.]      /
+| -- William Shakespeare, "The Taming of |
+\ the Shrew"                             /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
