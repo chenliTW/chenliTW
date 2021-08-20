@@ -1,11 +1,11 @@
 Last Update Time: 
-Fri Aug 20 21:37:47 UTC 2021
+Fri Aug 20 21:49:52 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________
-/ Your lucky number has been \
-\ disconnected.              /
- ----------------------------
+ ________________________________________
+/ You will be Told about it Tomorrow. Go \
+\ Home and Prepare Thyself.              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
