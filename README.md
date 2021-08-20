@@ -1,11 +1,11 @@
 Last Update Time: 
-Fri Aug 20 22:27:18 UTC 2021
+Fri Aug 20 22:41:38 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ You will pioneer the first Martian \
-\ colony.                            /
- ------------------------------------
+ _____________________________________
+/ A visit to a fresh place will bring \
+\ strange work.                       /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
