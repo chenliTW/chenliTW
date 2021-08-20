@@ -1,14 +1,11 @@
 Last Update Time: 
-Fri Aug 20 19:46:38 UTC 2021
+Fri Aug 20 19:58:20 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: What do you call a WASP who doesn't \
-| work for his father, isn't a           |
-|                                        |
-| lawyer, and believes in social causes? |
-\ A: A failure.                          /
- ----------------------------------------
+ _________________________________________
+/ You have a strong appeal for members of \
+\ the opposite sex.                       /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
