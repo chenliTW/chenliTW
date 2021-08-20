@@ -1,11 +1,11 @@
 Last Update Time: 
-Fri Aug 20 11:32:49 UTC 2021
+Fri Aug 20 11:44:35 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You could live a better life, if you \
-\ had a better mind and a better body. /
- --------------------------------------
+ _________________________________________
+/ You will gain money by a speculation or \
+\ lottery.                                /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
