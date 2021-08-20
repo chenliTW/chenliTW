@@ -1,11 +1,11 @@
 Last Update Time: 
-Fri Aug 20 04:29:33 UTC 2021
+Fri Aug 20 04:54:46 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You don't become a failure until you're \
-\ satisfied with being one.               /
- -----------------------------------------
+ ___________________________________
+/ Be security conscious -- National \
+\ defense is at stake.              /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
