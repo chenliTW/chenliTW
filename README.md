@@ -1,13 +1,12 @@
 Last Update Time: 
-Sat Aug 21 18:20:38 UTC 2021
+Sat Aug 21 18:41:50 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ A kind of Batman of contemporary    \
-| letters.                            |
-|                                     |
-\ -- Philip Larkin on Anthony Burgess /
- -------------------------------------
+ ________________________________________
+/ Q: Why do firemen wear red suspenders? \
+| A: To conform with departmental        |
+\ regulations concerning uniform dress.  /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
