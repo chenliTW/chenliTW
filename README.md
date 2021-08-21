@@ -1,13 +1,13 @@
 Last Update Time: 
-Sat Aug 21 05:47:35 UTC 2021
+Sat Aug 21 05:59:25 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ When you are about to die, a wombat is \
-| better than no company at all.         |
+/ Q: Why does Washington have the most   \
+| lawyers per capita and                 |
 |                                        |
-| -- Roger Zelazny, "Doorways in the     |
-\ Sand"                                  /
+| New Jersey the most toxic waste dumps? |
+\ A: God gave New Jersey first choice.   /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
