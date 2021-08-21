@@ -1,18 +1,18 @@
 Last Update Time: 
-Sat Aug 21 03:55:30 UTC 2021
+Sat Aug 21 04:24:39 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Persons attempting to find a motive in  \
-| this narrative will be prosecuted;      |
-| persons attempting to find a moral in   |
-| it will be banished; persons attempting |
-| to find a plot in it will be shot. By   |
-| Order of the Author                     |
-|                                         |
-| -- Mark Twain, "The Adventures of       |
-\ Huckleberry Finn"                       /
- -----------------------------------------
+ ________________________________________
+/ It is easy to find fault, if one has   \
+| that disposition. There was once a man |
+| who, not being able to find any other  |
+| fault with his coal, complained that   |
+| there were too many prehistoric toads  |
+| in it.                                 |
+|                                        |
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
