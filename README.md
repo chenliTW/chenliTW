@@ -1,14 +1,16 @@
 Last Update Time: 
-Sat Aug 21 05:59:25 UTC 2021
+Sat Aug 21 06:28:42 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why does Washington have the most   \
-| lawyers per capita and                 |
-|                                        |
-| New Jersey the most toxic waste dumps? |
-\ A: God gave New Jersey first choice.   /
- ----------------------------------------
+ _________________________________________
+/ When I reflect upon the number of       \
+| disagreeable people who I know who have |
+| gone to a better world, I am moved to   |
+| lead a different life.                  |
+|                                         |
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
