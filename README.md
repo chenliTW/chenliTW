@@ -1,24 +1,21 @@
 Last Update Time: 
-Sat Aug 21 12:00:38 UTC 2021
+Sat Aug 21 12:37:21 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ In the space of one hundred and         \
-| seventy-six years the Mississippi has   |
-| shortened itself two hundred and        |
-| forty-two miles. Therefore ... in the   |
-| Old Silurian Period the Mississippi     |
-| River was upward of one million three   |
-| hundred thousand miles long ... seven   |
-| hundred and forty-two years from now    |
-| the Mississippi will be only a mile and |
-| three-quarters long. ... There is       |
-| something fascinating about science.    |
-| One gets such wholesome returns of      |
-| conjecture out of such a trifling       |
-| investment of fact.                     |
+/ Even the clearest and most perfect      \
+| circumstantial evidence is likely to be |
+| at fault, after all, and therefore      |
+| ought to be received with great         |
+| caution. Take the case of any pencil,   |
+| sharpened by any woman; if you have     |
+| witnesses, you will find she did it     |
+| with a knife; but if you take simply    |
+| the aspect of the pencil, you will say  |
+| that she did it with her teeth.         |
 |                                         |
-\ -- Mark Twain                           /
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
