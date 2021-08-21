@@ -1,10 +1,11 @@
 Last Update Time: 
-Sat Aug 21 21:21:16 UTC 2021
+Sat Aug 21 21:35:37 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-< Exercise caution in your daily affairs. >
- -----------------------------------------
+ ________________________________________
+/ Alimony and bribes will engage a large \
+\ share of your wealth.                  /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
