@@ -1,11 +1,12 @@
 Last Update Time: 
-Sat Aug 21 00:54:34 UTC 2021
+Sat Aug 21 01:55:09 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- __________________________________
-/ Break into jail and claim police \
-\ brutality.                       /
- ----------------------------------
+ _____________________________________
+/ Q: How do you stop an elephant from \
+| charging? A: Take away his credit   |
+\ cards.                              /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
