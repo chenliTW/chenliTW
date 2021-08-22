@@ -1,11 +1,11 @@
 Last Update Time: 
-Sun Aug 22 19:14:25 UTC 2021
+Sun Aug 22 19:26:09 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ Be security conscious -- National \
-\ defense is at stake.              /
- -----------------------------------
+ ____________________________________
+/ You're being followed. Cut out the \
+\ hanky-panky for a few days.        /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
