@@ -1,13 +1,11 @@
 Last Update Time: 
-Sun Aug 22 03:28:55 UTC 2021
+Sun Aug 22 03:46:21 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ It is so very hard to be an             \
-| on-your-own-take-care-of-yourself-becau |
-| se-there-is-no-one-else-to-do-it-for-yo |
-\ u grown-up.                             /
- -----------------------------------------
+ ________________________________________
+/ Good day for overcoming obstacles. Try \
+\ a steeplechase.                        /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
