@@ -1,12 +1,13 @@
 Last Update Time: 
-Sun Aug 22 23:31:20 UTC 2021
+Sun Aug 22 23:42:54 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ But, for my own part, it was Greek to   \
-| me.                                     |
+/ Soap and education are not as sudden as \
+| a massacre, but they are more deadly in |
+| the long run.                           |
 |                                         |
-\ -- William Shakespeare, "Julius Caesar" /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
