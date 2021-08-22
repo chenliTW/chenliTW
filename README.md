@@ -1,11 +1,12 @@
 Last Update Time: 
-Sun Aug 22 03:05:26 UTC 2021
+Sun Aug 22 03:28:55 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Next Friday will not be your lucky day. \
-| As a matter of fact, you don't have a   |
-\ lucky day this year.                    /
+/ It is so very hard to be an             \
+| on-your-own-take-care-of-yourself-becau |
+| se-there-is-no-one-else-to-do-it-for-yo |
+\ u grown-up.                             /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
