@@ -1,13 +1,20 @@
 Last Update Time: 
-Sun Aug 22 15:10:22 UTC 2021
+Sun Aug 22 15:33:14 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: Why is Christmas just like a day at \
-| the office? A: You do all of the work  |
-| and the fat guy in the suit            |
+/ The true Southern watermelon is a boon \
+| apart, and not to be mentioned with    |
+| commoner things. It is chief of the    |
+| world's luxuries, king by the grace of |
+| God over all the fruits of the earth.  |
+| When one has tasted it, he knows what  |
+| the angels eat. It was not a Southern  |
+| watermelon that Eve took; we know it   |
+| because she repented.                  |
 |                                        |
-\ gets all the credit.                   /
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
