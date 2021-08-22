@@ -1,11 +1,10 @@
 Last Update Time: 
-Sun Aug 22 21:52:07 UTC 2021
+Sun Aug 22 22:10:01 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You teach best what you most need to \
-\ learn.                               /
- --------------------------------------
+ ____________________
+< You'll be sorry... >
+ --------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
