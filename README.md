@@ -1,14 +1,13 @@
 Last Update Time: 
-Sun Aug 22 13:53:56 UTC 2021
+Sun Aug 22 14:12:59 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Always the dullness of the fool is the \
-| whetstone of the wits.                 |
-|                                        |
-| -- William Shakespeare, "As You Like   |
-\ It"                                    /
- ----------------------------------------
+ ______________________________________
+/ Hell is empty and all the devils are \
+| here.                                |
+|                                      |
+\ -- Wm. Shakespeare, "The Tempest"    /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
