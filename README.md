@@ -1,12 +1,11 @@
 Last Update Time: 
-Mon Aug 23 14:51:53 UTC 2021
+Mon Aug 23 15:09:05 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You will lose your present job and have \
-| to become a door to door mayonnaise     |
-\ salesman.                               /
- -----------------------------------------
+ _____________________________________
+/ Beware of a tall blond man with one \
+\ black shoe.                         /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
