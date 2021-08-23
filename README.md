@@ -1,12 +1,10 @@
 Last Update Time: 
-Mon Aug 23 09:00:04 UTC 2021
+Mon Aug 23 09:23:30 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What do little WASPs want to be when \
-| they grow up? A: The very best person   |
-\ they can possibly be.                   /
- -----------------------------------------
+ _______________________________________
+< You will have a long and boring life. >
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
