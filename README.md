@@ -1,13 +1,12 @@
 Last Update Time: 
-Mon Aug 23 22:35:51 UTC 2021
+Mon Aug 23 22:48:05 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Seeing that death, a necessary end,     \
-| Will come when it will come.            |
-|                                         |
-\ -- William Shakespeare, "Julius Caesar" /
- -----------------------------------------
+ ________________________________________
+/ You can do very well in speculation    \
+| where land or anything to do with dirt |
+\ is concerned.                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
