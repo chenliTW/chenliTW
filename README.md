@@ -1,11 +1,10 @@
 Last Update Time: 
-Mon Aug 23 22:48:05 UTC 2021
+Mon Aug 23 22:59:46 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ You can do very well in speculation    \
-| where land or anything to do with dirt |
-\ is concerned.                          /
+/ You will inherit some money or a small \
+\ piece of land.                         /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
