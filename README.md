@@ -1,15 +1,20 @@
 Last Update Time: 
-Mon Aug 23 21:43:49 UTC 2021
+Mon Aug 23 21:55:42 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How many Zen masters does it take to \
-| screw in a light bulb? A: None. The     |
-| Universe spins the bulb, and the Zen    |
-| master stays out                        |
-|                                         |
-\ of the way.                             /
- -----------------------------------------
+ ________________________________________
+/ Unless hours were cups of sack, and    \
+| minutes capons, and clocks the tongues |
+| of bawds, and dials the signs of       |
+| leaping houses, and the blessed sun    |
+| himself a fair, hot wench in           |
+| flame-colored taffeta, I see no reason |
+| why thou shouldst be so superfluous to |
+| demand the time of the day. I wasted   |
+| time and now doth time waste me.       |
+|                                        |
+\ -- William Shakespeare                 /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
