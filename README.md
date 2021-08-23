@@ -1,12 +1,10 @@
 Last Update Time: 
-Mon Aug 23 15:45:56 UTC 2021
+Mon Aug 23 15:58:04 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Man is the only animal that blushes -- \
-| or needs to.                           |
-|                                        |
-\ -- Mark Twain                          /
+/ Don't let your mind wander -- it's too \
+\ little to be let out alone.            /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
