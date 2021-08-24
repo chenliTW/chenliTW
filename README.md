@@ -1,14 +1,12 @@
 Last Update Time: 
-Tue Aug 24 20:36:52 UTC 2021
+Tue Aug 24 20:48:43 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Always the dullness of the fool is the \
-| whetstone of the wits.                 |
-|                                        |
-| -- William Shakespeare, "As You Like   |
-\ It"                                    /
- ----------------------------------------
+ _____________________________________
+/ You're growing out of some of your  \
+| problems, but there are others that |
+\ you're growing into.                /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
