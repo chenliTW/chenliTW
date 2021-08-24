@@ -1,18 +1,26 @@
 Last Update Time: 
-Tue Aug 24 15:16:44 UTC 2021
+Tue Aug 24 15:37:54 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ When I was younger, I could remember   \
-| anything, whether it had happened or   |
-| not; but my faculties are decaying now |
-| and soon I shall be so I cannot        |
-| remember any but the things that never |
-| happened. It is sad to go to pieces    |
-| like this but we all have to do it.    |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _________________________________________
+/ Q: How many Californians does it take   \
+| to screw in a light bulb? A: Five. One  |
+| to screw in the light bulb and four to  |
+| share the                               |
+|                                         |
+| experience. (Actually, Californians     |
+| don't screw in                          |
+|                                         |
+| light bulbs, they screw in hot tubs.)   |
+|                                         |
+| Q: How many Oregonians does it take to  |
+| screw in a light bulb? A: Three. One to |
+| screw in the light bulb and two to fend |
+| off all                                 |
+|                                         |
+| those Californians trying to share the  |
+\ experience.                             /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
