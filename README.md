@@ -1,11 +1,11 @@
 Last Update Time: 
-Tue Aug 24 23:22:15 UTC 2021
+Tue Aug 24 23:36:03 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You are a very redundant person, that's \
-\ what kind of person you are.            /
- -----------------------------------------
+ ________________________________________
+/ Keep emotionally active. Cater to your \
+\ favorite neurosis.                     /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
