@@ -1,14 +1,13 @@
 Last Update Time: 
-Tue Aug 24 18:51:43 UTC 2021
+Tue Aug 24 19:08:11 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ The man who sets out to carry a cat by \
-| its tail learns something that will    |
-| always be useful and which never will  |
-| grow dim or doubtful.                  |
+/ Q: Why should you always serve a       \
+| Southern Carolina football man         |
 |                                        |
-\ -- Mark Twain                          /
+| soup in a plate? A: 'Cause if you give |
+\ him a bowl, he'll throw it away.       /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
