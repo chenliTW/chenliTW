@@ -1,11 +1,11 @@
 Last Update Time: 
-Tue Aug 24 23:36:03 UTC 2021
+Tue Aug 24 23:48:06 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Keep emotionally active. Cater to your \
-\ favorite neurosis.                     /
- ----------------------------------------
+ _____________________________________
+/ Someone whom you reject today, will \
+\ reject you tomorrow.                /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
