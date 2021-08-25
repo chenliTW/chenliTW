@@ -1,14 +1,10 @@
 Last Update Time: 
-Wed Aug 25 04:17:29 UTC 2021
+Wed Aug 25 04:44:59 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why do the police always travel in  \
-| threes? A: One to do the reading, one  |
-| to do the writing, and the other keeps |
-|                                        |
-\ an eye on the two intellectuals.       /
- ----------------------------------------
+ _____________________________________
+< You will be divorced within a year. >
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
