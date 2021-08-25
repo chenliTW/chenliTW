@@ -1,12 +1,11 @@
 Last Update Time: 
-Wed Aug 25 15:45:11 UTC 2021
+Wed Aug 25 15:57:00 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why did the lone ranger kill Tonto? \
-| A: He found out what "kimosabe" really |
-\ means.                                 /
- ----------------------------------------
+ ____________________________________
+/ Q: What is orange and goes "click, \
+\ click?" A: A ball point carrot.    /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
