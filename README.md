@@ -1,11 +1,11 @@
 Last Update Time: 
-Thu Aug 26 06:56:08 UTC 2021
+Thu Aug 26 07:18:45 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ You will be audited by the Internal \
-\ Revenue Service.                    /
- -------------------------------------
+ ____________________________________
+/ Look afar and see the end from the \
+\ beginning.                         /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
