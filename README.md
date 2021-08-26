@@ -1,12 +1,11 @@
 Last Update Time: 
-Thu Aug 26 11:39:49 UTC 2021
+Thu Aug 26 11:51:49 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Good night to spend with family, but \
-| avoid arguments with your mate's new |
-\ lover.                               /
- --------------------------------------
+ ________________________________________
+/ Your boss is a few sandwiches short of \
+\ a picnic.                              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
