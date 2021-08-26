@@ -1,10 +1,11 @@
 Last Update Time: 
-Thu Aug 26 23:45:20 UTC 2021
+Thu Aug 26 23:57:24 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-< You have taken yourself too seriously. >
- ----------------------------------------
+ _______________________________________
+/ You seek to shield those you love and \
+\ you like the role of the provider.    /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
