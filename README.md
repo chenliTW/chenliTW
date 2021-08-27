@@ -1,10 +1,11 @@
 Last Update Time: 
-Fri Aug 27 15:12:51 UTC 2021
+Fri Aug 27 15:34:39 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-< There is a 20% chance of tomorrow. >
- ------------------------------------
+ _____________________________________
+/ You are dishonest, but never to the \
+\ point of hurting a friend.          /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
