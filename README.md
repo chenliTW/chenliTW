@@ -1,11 +1,10 @@
 Last Update Time: 
-Fri Aug 27 21:29:34 UTC 2021
+Fri Aug 27 21:41:34 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Love is in the offing. Be affectionate \
-\ to one who adores you.                 /
- ----------------------------------------
+ ________________________________
+< Long life is in store for you. >
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
