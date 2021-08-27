@@ -1,11 +1,11 @@
 Last Update Time: 
-Fri Aug 27 20:31:09 UTC 2021
+Fri Aug 27 20:43:03 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Try to value useful qualities in one \
-\ who loves you.                       /
- --------------------------------------
+ _____________________________________
+/ Beware of a tall blond man with one \
+\ black shoe.                         /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
