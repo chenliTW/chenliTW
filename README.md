@@ -1,11 +1,11 @@
 Last Update Time: 
-Fri Aug 27 20:12:39 UTC 2021
+Fri Aug 27 20:31:09 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Your boyfriend takes chocolate from \
-\ strangers.                          /
- -------------------------------------
+ ______________________________________
+/ Try to value useful qualities in one \
+\ who loves you.                       /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
