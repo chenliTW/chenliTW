@@ -1,11 +1,11 @@
 Last Update Time: 
-Sat Aug 28 07:39:56 UTC 2021
+Sat Aug 28 07:52:08 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ You are confused; but this is your \
-\ normal state.                      /
- ------------------------------------
+ _____________________________________
+/ You have the capacity to learn from \
+\ mistakes. You'll learn a lot today. /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
