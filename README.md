@@ -1,14 +1,10 @@
 Last Update Time: 
-Sat Aug 28 10:40:43 UTC 2021
+Sat Aug 28 10:52:48 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many psychiatrists does it take  \
-| to change a light bulb? A: Only one,    |
-| but it takes a long time, and the light |
-| bulb has                                |
-|                                         |
-\ to really want to change.               /
+/ Q: What's tan and black and looks great \
+\ on a lawyer? A: A doberman.             /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
