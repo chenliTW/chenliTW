@@ -1,11 +1,10 @@
 Last Update Time: 
-Sat Aug 28 21:42:02 UTC 2021
+Sat Aug 28 21:53:53 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ______________________________________
-/ Q: What does it say on the bottom of \
-| Coke cans in North Dakota? A: Open   |
-\ other end.                           /
+/ Q: What's hard going in and soft and \
+\ sticky coming out? A: Chewing gum.   /
  --------------------------------------
         \   ^__^
          \  (oo)\_______
