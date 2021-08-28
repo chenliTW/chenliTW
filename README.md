@@ -1,15 +1,12 @@
 Last Update Time: 
-Sat Aug 28 02:33:00 UTC 2021
+Sat Aug 28 02:48:35 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Your manuscript is both good and       \
-| original, but the part that is good is |
-| not original and the part that is      |
-| original is not good.                  |
-|                                        |
-\ -- Samuel Johnson                      /
- ----------------------------------------
+ _________________________________________
+/ Q: What do you say to a New Yorker with \
+| a job? A: Big Mac, fries and a Coke,    |
+\ please!                                 /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
