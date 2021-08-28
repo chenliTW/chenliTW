@@ -1,11 +1,11 @@
 Last Update Time: 
-Sat Aug 28 07:52:08 UTC 2021
+Sat Aug 28 08:12:08 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ You have the capacity to learn from \
-\ mistakes. You'll learn a lot today. /
- -------------------------------------
+ ________________________________________
+/ Q: Why did the chicken cross the road? \
+\ A: He was giving it last rites.        /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
