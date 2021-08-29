@@ -1,10 +1,12 @@
 Last Update Time: 
-Sun Aug 29 03:52:11 UTC 2021
+Sun Aug 29 04:13:38 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: What's a WASP's idea of             \
-\ open-mindedness? A: Dating a Canadian. /
+/ There's small choice in rotten apples. \
+|                                        |
+| -- William Shakespeare, "The Taming of |
+\ the Shrew"                             /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
