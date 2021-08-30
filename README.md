@@ -1,10 +1,12 @@
 Last Update Time: 
-Mon Aug 30 23:18:55 UTC 2021
+Mon Aug 30 23:32:38 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-< You will be surrounded by luxury. >
- -----------------------------------
+ _______________________________________
+/ You can create your own opportunities \
+| this week. Blackmail a senior         |
+\ executive.                            /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
