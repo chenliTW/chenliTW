@@ -1,13 +1,13 @@
 Last Update Time: 
-Mon Aug 30 06:23:05 UTC 2021
+Mon Aug 30 06:45:28 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: What's the difference betweeen USL \
-| and the Graf Zeppelin? A: The Graf    |
-| Zeppelin represented cutting edge     |
-\ technology for its time.              /
- ---------------------------------------
+ ________________________________
+/ All generalizations are false, \
+| including this one.            |
+|                                |
+\ -- Mark Twain                  /
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
