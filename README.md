@@ -1,14 +1,12 @@
 Last Update Time: 
-Mon Aug 30 12:35:10 UTC 2021
+Mon Aug 30 13:04:04 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ It is a wise father that knows his own \
-| child.                                 |
-|                                        |
-| -- William Shakespeare, "The Merchant  |
-\ of Venice"                             /
- ----------------------------------------
+ ________________________
+/ Don't Worry, Be Happy. \
+|                        |
+\ -- Meher Baba          /
+ ------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
