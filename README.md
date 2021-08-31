@@ -1,10 +1,11 @@
 Last Update Time: 
-Tue Aug 31 14:41:54 UTC 2021
+Tue Aug 31 14:52:10 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-< You have taken yourself too seriously. >
- ----------------------------------------
+ _________________________________________
+/ Your depth of comprehension may tend to \
+\ make you lax in worldly ways.           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
