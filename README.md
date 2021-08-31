@@ -1,12 +1,11 @@
 Last Update Time: 
-Tue Aug 31 08:59:58 UTC 2021
+Tue Aug 31 09:23:44 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What do Winnie the Pooh and John the \
-| Baptist have in common? A: The same     |
-\ middle name.                            /
- -----------------------------------------
+ ________________________________________
+/ Celebrate Hannibal Day this year. Take \
+\ an elephant to lunch.                  /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
