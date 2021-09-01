@@ -1,12 +1,11 @@
 Last Update Time: 
-Wed Sep  1 07:53:38 UTC 2021
+Wed Sep  1 08:16:40 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You can create your own opportunities \
-| this week. Blackmail a senior         |
-\ executive.                            /
- ---------------------------------------
+ _________________________________________
+/ Q: What lies on the bottom of the ocean \
+\ and twitches? A: A nervous wreck.       /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
