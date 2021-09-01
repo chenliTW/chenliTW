@@ -1,15 +1,13 @@
 Last Update Time: 
-Wed Sep  1 22:57:30 UTC 2021
+Wed Sep  1 23:23:40 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Why is it that we rejoice at a birth   \
-| and grieve at a funeral? It is because |
-| we are not the person involved.        |
-|                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
- ----------------------------------------
+ _____________________________________
+/ Nothing so needs reforming as other \
+| people's habits.                    |
+|                                     |
+\ -- Mark Twain                       /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
