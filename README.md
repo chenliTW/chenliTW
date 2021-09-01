@@ -1,11 +1,12 @@
 Last Update Time: 
-Wed Sep  1 07:41:51 UTC 2021
+Wed Sep  1 07:53:38 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- __________________________________
-/ Break into jail and claim police \
-\ brutality.                       /
- ----------------------------------
+ _______________________________________
+/ You can create your own opportunities \
+| this week. Blackmail a senior         |
+\ executive.                            /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
