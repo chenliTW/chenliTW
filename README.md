@@ -1,13 +1,11 @@
 Last Update Time: 
-Wed Sep  1 13:22:03 UTC 2021
+Wed Sep  1 13:37:28 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: What do monsters eat? A: Things.   \
-|                                       |
-| Q: What do monsters drink? A: Coke.   |
-\ (Because Things go better with Coke.) /
- ---------------------------------------
+ ______________________________________
+/ You are a fluke of the universe; you \
+\ have no right to be here.            /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
