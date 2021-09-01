@@ -1,14 +1,12 @@
 Last Update Time: 
-Wed Sep  1 16:34:40 UTC 2021
+Wed Sep  1 17:05:03 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ I must have a prodigious quantity of  \
-| mind; it takes me as much as a week   |
-| sometimes to make it up.              |
-|                                       |
-\ -- Mark Twain, "The Innocents Abroad" /
- ---------------------------------------
+ _________________________________________
+/ Q: What's the difference between a duck \
+| and an elephant? A: You can't get down  |
+\ off an elephant.                        /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
