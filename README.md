@@ -1,11 +1,10 @@
 Last Update Time: 
-Wed Sep  1 22:33:50 UTC 2021
+Wed Sep  1 22:46:02 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You attempt things that you do not even \
-\ plan because of your extreme stupidity. /
- -----------------------------------------
+ ________________________________________
+< Your supervisor is thinking about you. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
