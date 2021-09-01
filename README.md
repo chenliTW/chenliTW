@@ -1,11 +1,16 @@
 Last Update Time: 
-Wed Sep  1 09:00:26 UTC 2021
+Wed Sep  1 09:23:43 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You will probably marry after a very \
-\ brief courtship.                     /
- --------------------------------------
+ _________________________________________
+/ Q: How many Oregonians does it take to  \
+| screw in a light bulb? A: Three. One to |
+| screw in the light bulb and two to fend |
+| off all those                           |
+|                                         |
+| Californians trying to share the        |
+\ experience.                             /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
