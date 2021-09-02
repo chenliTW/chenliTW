@@ -1,13 +1,15 @@
 Last Update Time: 
-Thu Sep  2 08:46:55 UTC 2021
+Thu Sep  2 08:58:55 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: What do you call the scratches that \
-| you get when a female                  |
-|                                        |
-\ sheep bites you? A: Ewe nicks.         /
- ----------------------------------------
+ _______________________________________
+/ One of the most striking differences  \
+| between a cat and a lie is that a cat |
+| has only nine lives.                  |
+|                                       |
+| -- Mark Twain, "Pudd'nhead Wilson's   |
+\ Calendar"                             /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
