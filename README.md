@@ -1,14 +1,12 @@
 Last Update Time: 
-Thu Sep  2 03:40:26 UTC 2021
+Thu Sep  2 03:52:29 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ My only love sprung from my only hate! \
-| Too early seen unknown, and known too  |
-| late!                                  |
+/ Q: What do you call the scratches that \
+| you get when a female                  |
 |                                        |
-| -- William Shakespeare, "Romeo and     |
-\ Juliet"                                /
+\ sheep bites you? A: Ewe nicks.         /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
