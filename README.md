@@ -1,13 +1,11 @@
 Last Update Time: 
-Thu Sep  2 10:44:46 UTC 2021
+Thu Sep  2 10:56:33 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Man is the only animal that blushes -- \
-| or needs to.                           |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _____________________________________
+/ Q: What is the difference between a \
+\ duck? A: One leg is both the same.  /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
