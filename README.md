@@ -1,11 +1,10 @@
 Last Update Time: 
-Thu Sep  2 23:49:02 UTC 2021
+Fri Sep  3 00:13:13 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ What happened last night can happen \
-\ again.                              /
- -------------------------------------
+ __________________________________
+< Never reveal your best argument. >
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
