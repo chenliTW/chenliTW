@@ -1,11 +1,11 @@
 Last Update Time: 
-Sat Sep  4 03:44:37 UTC 2021
+Sat Sep  4 03:56:41 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ You will be married within a year, and \
-\ divorced within two.                   /
- ----------------------------------------
+ _______________________________________
+/ Try to have as good a life as you can \
+\ under the circumstances.              /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
