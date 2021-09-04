@@ -1,14 +1,11 @@
 Last Update Time: 
-Sat Sep  4 17:55:21 UTC 2021
+Sat Sep  4 18:20:48 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Reader, suppose you were an idiot. And \
-| suppose you were a member of Congress. |
-| But I repeat myself.                   |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _________________________________________
+/ You two ought to be more careful--your  \
+\ love could drag on for years and years. /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
