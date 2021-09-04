@@ -1,14 +1,13 @@
 Last Update Time: 
-Sat Sep  4 19:23:00 UTC 2021
+Sat Sep  4 19:35:27 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ The mind is its own place, and in   \
-| itself Can make a Heav'n of Hell, a |
-| Hell of Heav'n.                     |
-|                                     |
-\ -- John Milton                      /
- -------------------------------------
+ ______________________________________
+/ Go not to the elves for counsel, for \
+| they will say both yes and no.       |
+|                                      |
+\ -- J.R.R. Tolkien                    /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
