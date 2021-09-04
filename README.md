@@ -1,11 +1,11 @@
 Last Update Time: 
-Sat Sep  4 21:34:09 UTC 2021
+Sat Sep  4 21:46:00 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Never be led astray onto the path of \
-\ virtue.                              /
- --------------------------------------
+ ________________________________________
+/ Avert misunderstanding by calm, poise, \
+\ and balance.                           /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
