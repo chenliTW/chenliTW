@@ -1,13 +1,11 @@
 Last Update Time: 
-Fri Sep  3 23:48:28 UTC 2021
+Sat Sep  4 00:00:11 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ There is no distinctly native American \
-| criminal class except Congress.        |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _________________________________________
+/ You will experience a strong urge to do \
+\ good; but it will pass.                 /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
