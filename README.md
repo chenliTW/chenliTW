@@ -1,13 +1,14 @@
 Last Update Time: 
-Sat Sep  4 19:35:27 UTC 2021
+Sat Sep  4 19:47:00 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Go not to the elves for counsel, for \
-| they will say both yes and no.       |
-|                                      |
-\ -- J.R.R. Tolkien                    /
- --------------------------------------
+ _________________________________________
+/ Q: How does a hacker fix a function     \
+| which                                   |
+|                                         |
+| doesn't work for all of the elements in |
+\ its domain? A: He changes the domain.   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
