@@ -1,12 +1,12 @@
 Last Update Time: 
-Sun Sep  5 10:40:20 UTC 2021
+Sun Sep  5 10:52:14 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Good night to spend with family, but \
-| avoid arguments with your mate's new |
-\ lover.                               /
- --------------------------------------
+ _______________________________________
+/ You'll wish that you had done some of \
+| the hard things when they were easier |
+\ to do.                                /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
