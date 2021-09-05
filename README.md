@@ -1,14 +1,11 @@
 Last Update Time: 
-Sun Sep  5 23:47:33 UTC 2021
+Sun Sep  5 23:59:25 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ As to the Adjective: when in doubt, \
-| strike it out.                      |
-|                                     |
-| -- Mark Twain, "Pudd'nhead Wilson's |
-\ Calendar"                           /
- -------------------------------------
+ ____________________________________
+/ Don't worry so loud, your roommate \
+\ can't think.                       /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
