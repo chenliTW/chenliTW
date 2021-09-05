@@ -1,10 +1,10 @@
 Last Update Time: 
-Sun Sep  5 14:26:34 UTC 2021
+Sun Sep  5 14:38:28 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-< There is a 20% chance of tomorrow. >
- ------------------------------------
+ ______________________________________
+< You're at the end of the road again. >
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
