@@ -1,15 +1,12 @@
 Last Update Time: 
-Sun Sep  5 05:50:32 UTC 2021
+Sun Sep  5 06:08:04 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ There is no hunting like the hunting of \
-| man, and those who have hunted armed    |
-| men long enough and liked it, never     |
-| care for anything else thereafter.      |
-|                                         |
-\ -- Ernest Hemingway                     /
- -----------------------------------------
+ ____________________________________
+/ You may be gone tomorrow, but that \
+| doesn't mean that you weren't here |
+\ today.                             /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
