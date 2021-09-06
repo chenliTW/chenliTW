@@ -1,26 +1,18 @@
 Last Update Time: 
-Mon Sep  6 03:56:52 UTC 2021
+Mon Sep  6 04:29:06 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How many Californians does it take   \
-| to screw in a light bulb? A: Five. One  |
-| to screw in the light bulb and four to  |
-| share the                               |
-|                                         |
-| experience. (Actually, Californians     |
-| don't screw in                          |
-|                                         |
-| light bulbs, they screw in hot tubs.)   |
-|                                         |
-| Q: How many Oregonians does it take to  |
-| screw in a light bulb? A: Three. One to |
-| screw in the light bulb and two to fend |
-| off all                                 |
-|                                         |
-| those Californians trying to share the  |
-\ experience.                             /
- -----------------------------------------
+ ________________________________________
+/ Steady movement is more important than \
+| speed, much of the time. So long as    |
+| there is a regular progression of      |
+| stimuli to get your mental hooks into, |
+| there is room for lateral movement.    |
+| Once this begins, its rate is a matter |
+| of discretion.                         |
+|                                        |
+\ -- Corwin, Prince of Amber             /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
