@@ -1,17 +1,27 @@
 Last Update Time: 
-Mon Sep  6 04:29:06 UTC 2021
+Mon Sep  6 04:53:43 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Steady movement is more important than \
-| speed, much of the time. So long as    |
-| there is a regular progression of      |
-| stimuli to get your mental hooks into, |
-| there is room for lateral movement.    |
-| Once this begins, its rate is a matter |
-| of discretion.                         |
+/ Q: How many elephants can you fit in a \
+| VW Bug? A: Four. Two in the front, two |
+| in the back.                           |
 |                                        |
-\ -- Corwin, Prince of Amber             /
+| Q: How can you tell if an elephant is  |
+| in your refrigerator? A: There's a     |
+| footprint in the mayo.                 |
+|                                        |
+| Q: How can you tell if two elephants   |
+| are in your refrigerator? A: There's   |
+| two footprints in the mayo.            |
+|                                        |
+| Q: How can you tell if three elephants |
+| are in your refrigerator? A: The door  |
+| won't shut.                            |
+|                                        |
+| Q: How can you tell if four elephants  |
+| are in your refrigerator? A: There's a |
+\ VW Bug in your driveway.               /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
