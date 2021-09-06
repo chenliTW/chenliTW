@@ -1,11 +1,18 @@
 Last Update Time: 
-Mon Sep  6 09:39:00 UTC 2021
+Mon Sep  6 09:50:46 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: What's hard going in and soft and \
-\ sticky coming out? A: Chewing gum.   /
- --------------------------------------
+ _________________________________________
+/ Q: What did Tarzan say when he saw the  \
+| elephants coming over the hill? A: "The |
+| elephants are coming over the hill."    |
+|                                         |
+| Q: What did he say when saw them coming |
+| over the hill wearing                   |
+|                                         |
+| sunglasses? A: Nothing, for he didn't   |
+\ recognize them.                         /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
