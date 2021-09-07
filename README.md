@@ -1,14 +1,10 @@
 Last Update Time: 
-Tue Sep  7 22:45:26 UTC 2021
+Tue Sep  7 22:56:54 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why does Washington have the most   \
-| lawyers per capita and                 |
-|                                        |
-| New Jersey the most toxic waste dumps? |
-\ A: God gave New Jersey first choice.   /
- ----------------------------------------
+ _____________________
+< You should go home. >
+ ---------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
