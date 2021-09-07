@@ -1,13 +1,12 @@
 Last Update Time: 
-Tue Sep  7 19:40:47 UTC 2021
+Tue Sep  7 19:52:43 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ If you laid all of our laws end to end, \
-| there would be no end.                  |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ______________________________________
+/ Your reasoning is excellent -- it's  \
+| only your basic assumptions that are |
+\ wrong.                               /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
