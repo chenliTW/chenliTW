@@ -1,11 +1,10 @@
 Last Update Time: 
-Tue Sep  7 05:20:08 UTC 2021
+Tue Sep  7 05:32:22 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Your aims are high, and you are capable \
-\ of much.                                /
- -----------------------------------------
+ ________________________________________
+< Stay away from hurricanes for a while. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
