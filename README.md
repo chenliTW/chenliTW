@@ -1,12 +1,13 @@
 Last Update Time: 
-Wed Sep  8 15:51:47 UTC 2021
+Wed Sep  8 16:14:53 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You'll never see all the places, or  \
-| read all the books, but fortunately, |
-\ they're not all recommended.         /
- --------------------------------------
+ _______________________________
+/ The surest protection against \
+| temptation is cowardice.      |
+|                               |
+\ -- Mark Twain                 /
+ -------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
