@@ -1,14 +1,12 @@
 Last Update Time: 
-Thu Sep  9 04:27:24 UTC 2021
+Thu Sep  9 04:53:01 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: Why is it that the more accuracy you \
-| demand from an interpolation            |
-|                                         |
-| function, the more expensive it becomes |
-| to compute? A: That's the Law of Spline |
-\ Demand.                                 /
+/ FORTUNE PROVIDES QUESTIONS FOR THE      \
+| GREAT ANSWERS: #21 A: Dr. Livingston I. |
+| Presume. Q: What's Dr. Presume's full   |
+\ name?                                   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
