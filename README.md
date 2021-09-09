@@ -1,15 +1,10 @@
 Last Update Time: 
-Thu Sep  9 13:00:51 UTC 2021
+Thu Sep  9 13:28:25 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: Minnesotans ask, "Why aren't there \
-| more pharmacists from Alabama?" A:    |
-| Easy. It's because they can't figure  |
-| out how to get the little             |
-|                                       |
-\ bottles into the typewriter.          /
- ---------------------------------------
+ _________________________________________
+< Caution: Keep out of reach of children. >
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
