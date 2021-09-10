@@ -1,11 +1,12 @@
 Last Update Time: 
-Fri Sep 10 10:00:46 UTC 2021
+Fri Sep 10 10:26:46 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: How do you save a drowning lawyer? \
-\ A: Throw him a rock.                  /
- ---------------------------------------
+ ____________________________________
+/ You're currently going through a   \
+| difficult transition period called |
+\ "Life."                            /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
