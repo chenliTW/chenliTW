@@ -1,12 +1,12 @@
 Last Update Time: 
-Fri Sep 10 20:43:40 UTC 2021
+Fri Sep 10 20:55:45 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ You never know how many friends you \
-| have until you rent a house on the  |
-\ beach.                              /
- -------------------------------------
+ _________________________________________
+/ FORTUNE PROVIDES QUESTIONS FOR THE      \
+| GREAT ANSWERS: #19 A: To be or not to   |
+\ be. Q: What is the square root of 4b^2? /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
