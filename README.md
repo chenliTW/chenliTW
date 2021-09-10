@@ -1,13 +1,11 @@
 Last Update Time: 
-Fri Sep 10 23:16:51 UTC 2021
+Fri Sep 10 23:31:36 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _______________________________________
-/ Work consists of whatever a body is   \
-| obliged to do. Play consists of       |
-| whatever a body is not obliged to do. |
-|                                       |
-\ -- Mark Twain                         /
+/ You can create your own opportunities \
+| this week. Blackmail a senior         |
+\ executive.                            /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
