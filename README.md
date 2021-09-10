@@ -1,11 +1,12 @@
 Last Update Time: 
-Fri Sep 10 04:27:25 UTC 2021
+Fri Sep 10 04:52:54 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You will gain money by a speculation or \
-\ lottery.                                /
- -----------------------------------------
+ ______________________________________
+/ You need no longer worry about the   \
+| future. This time tomorrow you'll be |
+\ dead.                                /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
