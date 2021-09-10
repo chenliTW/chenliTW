@@ -1,11 +1,13 @@
 Last Update Time: 
-Fri Sep 10 21:40:28 UTC 2021
+Fri Sep 10 21:52:29 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You could live a better life, if you \
-\ had a better mind and a better body. /
- --------------------------------------
+ ________________________________________
+/ Today's weirdness is tomorrow's reason \
+| why.                                   |
+|                                        |
+\ -- Hunter S. Thompson                  /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
