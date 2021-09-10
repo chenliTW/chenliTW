@@ -1,12 +1,11 @@
 Last Update Time: 
-Fri Sep 10 23:43:15 UTC 2021
+Fri Sep 10 23:55:15 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ How apt the poor are to be proud.       \
-|                                         |
-\ -- William Shakespeare, "Twelfth-Night" /
- -----------------------------------------
+ ______________________________________
+/ Q: What's hard going in and soft and \
+\ sticky coming out? A: Chewing gum.   /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
