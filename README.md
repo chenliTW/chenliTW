@@ -1,13 +1,15 @@
 Last Update Time: 
-Fri Sep 10 08:58:13 UTC 2021
+Fri Sep 10 09:23:33 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Hell is empty and all the devils are \
-| here.                                |
-|                                      |
-\ -- Wm. Shakespeare, "The Tempest"    /
- --------------------------------------
+ ________________________________________
+/ The man who sets out to carry a cat by \
+| its tail learns something that will    |
+| always be useful and which never will  |
+| grow dim or doubtful.                  |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
