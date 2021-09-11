@@ -1,11 +1,10 @@
 Last Update Time: 
-Sat Sep 11 21:30:47 UTC 2021
+Sat Sep 11 21:42:24 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You will always get the greatest        \
-\ recognition for the job you least like. /
- -----------------------------------------
+ _______________________
+< Blow it out your ear. >
+ -----------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
