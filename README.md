@@ -1,12 +1,12 @@
 Last Update Time: 
-Sat Sep 11 20:56:55 UTC 2021
+Sat Sep 11 21:17:51 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ This life is yours. Some of it was \
-| given to you; the rest, you made   |
-\ yourself.                          /
- ------------------------------------
+ ________________________________________
+/ I fell asleep reading a dull book, and \
+| I dreamt that I was reading on, so I   |
+\ woke up from sheer boredom.            /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
