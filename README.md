@@ -1,11 +1,11 @@
 Last Update Time: 
-Sat Sep 11 05:34:31 UTC 2021
+Sat Sep 11 05:46:28 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: Why don't lawyers go to the beach? \
-\ A: The cats keep trying to bury them. /
- ---------------------------------------
+ _________________________________________
+/ Best of all is never to have been born. \
+\ Second best is to die soon.             /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
