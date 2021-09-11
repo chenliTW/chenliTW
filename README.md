@@ -1,14 +1,21 @@
 Last Update Time: 
-Sat Sep 11 03:55:10 UTC 2021
+Sat Sep 11 04:24:00 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Habit is habit, and not to be flung out \
-| of the window by any man, but coaxed    |
-| down-stairs a step at a time.           |
+/ For the fashion of Minas Tirith was     \
+| such that it was built on seven levels, |
+| each delved into a hill, and about each |
+| was set a wall, and in each wall was a  |
+| gate.                                   |
 |                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar                                /
+| -- J.R.R. Tolkien, "The Return of the   |
+| King"                                   |
+|                                         |
+| [Quoted in "VMS Internals and Data      |
+| Structures", V4.4, when                 |
+|                                         |
+\ referring to system overview.]          /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
