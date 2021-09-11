@@ -1,12 +1,12 @@
 Last Update Time: 
-Sat Sep 11 18:17:39 UTC 2021
+Sat Sep 11 18:38:01 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You will be attacked by a beast who has \
-| the body of a wolf, the tail of a lion, |
-\ and the face of Donald Duck.            /
- -----------------------------------------
+ __________________________________
+/ Someone is speaking well of you. \
+|                                  |
+\ How unusual!                     /
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
