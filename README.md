@@ -1,12 +1,11 @@
 Last Update Time: 
-Sat Sep 11 07:32:51 UTC 2021
+Sat Sep 11 07:44:47 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why did the lone ranger kill Tonto? \
-| A: He found out what "kimosabe" really |
-\ means.                                 /
- ----------------------------------------
+ ______________________________________
+/ You have an ambitious nature and may \
+\ make a name for yourself.            /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
