@@ -1,13 +1,10 @@
 Last Update Time: 
-Sun Sep 12 02:08:23 UTC 2021
+Sun Sep 12 02:37:43 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ He that breaks a thing to find out what \
-| it is has left the path of wisdom.      |
-|                                         |
-\ -- J.R.R. Tolkien                       /
- -----------------------------------------
+ ___________________________
+< You are as I am with You. >
+ ---------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
