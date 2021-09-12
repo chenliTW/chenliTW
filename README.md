@@ -1,12 +1,11 @@
 Last Update Time: 
-Sun Sep 12 10:45:23 UTC 2021
+Sun Sep 12 10:57:23 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You are wise, witty, and wonderful, but \
-| you spend too much time reading this    |
-\ sort of trash.                          /
- -----------------------------------------
+ _______________________________________
+/ Q: How do you save a drowning lawyer? \
+\ A: Throw him a rock.                  /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
