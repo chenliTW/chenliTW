@@ -1,12 +1,11 @@
 Last Update Time: 
-Sun Sep 12 11:53:31 UTC 2021
+Sun Sep 12 12:20:23 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: What's tiny and yellow and very,   \
-| very, dangerous? A: A canary with the |
-\ super-user password.                  /
- ---------------------------------------
+ ________________________________________
+/ Q: Why did the tachyon cross the road? \
+\ A: Because it was on the other side.   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
