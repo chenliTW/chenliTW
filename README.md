@@ -1,15 +1,11 @@
 Last Update Time: 
-Sun Sep 12 05:45:59 UTC 2021
+Sun Sep 12 05:57:41 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ ROMEO: Courage, man; the hurt cannot be \
-| much. MERCUTIO: No, 'tis not so deep as |
-| a well, nor so wide                     |
-|                                         |
-| as a church-door; but 'tis enough,      |
-\ 'twill serve.                           /
- -----------------------------------------
+ ________________________________________
+/ Everything that you know is wrong, but \
+\ you can be straightened out.           /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
