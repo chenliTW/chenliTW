@@ -1,13 +1,11 @@
 Last Update Time: 
-Sun Sep 12 17:54:28 UTC 2021
+Sun Sep 12 18:18:14 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Must I hold a candle to my shames?    \
-|                                       |
-| -- William Shakespeare, "The Merchant |
-\ of Venice"                            /
- ---------------------------------------
+ _________________________________________
+/ You have a deep interest in all that is \
+\ artistic.                               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
