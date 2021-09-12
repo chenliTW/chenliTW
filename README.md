@@ -1,12 +1,12 @@
 Last Update Time: 
-Sun Sep 12 01:13:03 UTC 2021
+Sun Sep 12 02:08:23 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ A light wife doth make a heavy husband. \
+/ He that breaks a thing to find out what \
+| it is has left the path of wisdom.      |
 |                                         |
-| -- Wm. Shakespeare, "The Merchant of    |
-\ Venice"                                 /
+\ -- J.R.R. Tolkien                       /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
