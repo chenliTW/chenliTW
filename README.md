@@ -1,85 +1,49 @@
 Last Update Time: 
-Mon Sep 13 14:32:35 UTC 2021
+Mon Sep 13 14:44:17 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ "Good afternoon, madam. How may I help  \
-| you?"                                   |
+/ Well, anyway, I was reading this James  \
+| Bond book, and right away I realized    |
+| that like most books, it had too many   |
+| words. The plot was the same one that   |
+| all James Bond books have: An evil      |
+| person tries to blow up the world, but  |
+| James Bond kills him and his henchmen   |
+| and makes love to several attractive    |
+| women. There, that's it: 24 words. But  |
+| the guy who wrote the book took         |
+| *thousands* of words to say it.         |
 |                                         |
-| "Good afternoon. I'd like a FrintArms   |
-| HandCannon, please."                    |
+| Or consider "The Brothers Karamazov",   |
+| by the famous Russian alcoholic Fyodor  |
+| Dostoyevsky. It's about these two       |
+| brothers who kill their father. Or      |
+| maybe only one of them kills the        |
+| father. It's impossible to tell because |
+| what they mostly do is talk for nearly  |
+| a thousand pages. If all Russians talk  |
+| as much as the Karamazovs did, I don't  |
+| see how they found time to become a     |
+| major world power.                      |
 |                                         |
-| "A--? Oh, now, that's an awfully big    |
-| gun for such a lovely lady. I mean, not |
-| everybody thinks ladies should carry    |
-| guns at all, though I say they have a   |
-| right to. But I think... I might...     |
-| Let's have a look down here. I might    |
-| have just the thing for you. Yes, here  |
-| we are! Look at that, isn't it neat?    |
-| Now that is a FrintArms product as      |
-| well, but it's what's called a laser -- |
-| a light-pistol some people call them.   |
-| Very small, as you see; fits easily     |
-| into a pocket or bag; won't spoil the   |
-| line of a jacket; and you won't feel    |
-| you're lugging half a tonne of iron     |
-| around with you. We do a range of       |
-| matching accessories, including -- if I |
-| may say so -- a rather saucy garter     |
-| holster. Wish I got to do the fitting   |
-| for that! Ha -- just my little joke.    |
-| And there's *even*... here we are --    |
-| this special presentation pack: gun,    |
-| charged battery, charging unit,         |
-| beautiful glider-hide shoulder holster  |
-| with adjustable fitting and contrast    |
-| stitching, and a discount on your next  |
-| battery. Full instructions, of course,  |
-| and a voucher for free lessons at your  |
-| local gun club or range. Or there's the |
-| *special* presentation pack; it has all |
-| the other one's got but with *two*      |
-| charged batteries and a night-sight,    |
-| too. Here, feel that -- don't worry,    |
-| it's a dummy battery -- isn't it neat?  |
-| Feel how light it is? Smooth, see? No   |
-| bits to stick out and catch on your     |
-| clothes, *and* beautifully balanced.    |
-| And of course the beauty of a laser is, |
-| there's no recoil. Because it's         |
-| shooting light, you see? Beautiful gun, |
-| beautiful gun; my wife has one. Really. |
-| That's not a line, she really has. Now, |
-| I can do you that one -- with a battery |
-| and a free charge -- for ninety-five;   |
-| or the presentation pack on a special   |
-| offer for one-nineteen; or this, the    |
-| special presentation pack, for          |
-| one-forty-nine."                        |
+| I'm told that Dostoyevsky wrote "The    |
+| Brothers Karamazov" to raise the        |
+| question of whether there is a God. So  |
+| why didn't he just come right out and   |
+| say: "Is there a God? It sure beats the |
+| heck out of me."                        |
 |                                         |
-| "I'll take the special."                |
+| Other famous works could easily have    |
+| been summarized in a few words:         |
 |                                         |
-| "Sound choice, madam, *sound* choice.   |
-| Now, do--?"                             |
+| * "Moby Dick" -- Don't mess around with |
+| large whales because they symbolize     |
 |                                         |
-| "And a HandCannon, with the eighty-mill |
-| silencer, five GP clips, three six-five |
-| AP/wire-fl'echettes clips, two           |
-| bipropellant HE clips, and a Special    |
-| Projectile Pack if you have one -- the  |
-| one with the embedding rounds, not the  |
-| signalers. I assume the night-sight on  |
-| this toy is compatible?"                |
+| nature and will kill you. * "A Tale of  |
+| Two Cities" -- French people are crazy. |
 |                                         |
-| "Aah... yes, And how does madam wish to |
-| pay?"                                   |
-|                                         |
-| She slapped her credit card on the      |
-| counter. "Eventually."                  |
-|                                         |
-| -- Iain M. Banks, "Against a Dark       |
-\ Background"                             /
+\ -- Dave Barry                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
