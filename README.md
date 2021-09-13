@@ -1,11 +1,10 @@
 Last Update Time: 
-Mon Sep 13 06:51:16 UTC 2021
+Mon Sep 13 07:09:09 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: What do little WASPs want to be when \
-| they grow up? A: The very best person   |
-\ they can possibly be.                   /
+/ An exotic journey in downtown Newark is \
+\ in your future.                         /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
