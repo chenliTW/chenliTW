@@ -1,13 +1,13 @@
 Last Update Time: 
-Tue Sep 14 14:14:15 UTC 2021
+Tue Sep 14 14:28:55 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________
-/ She is not refined. She is not \
-| unrefined. She keeps a parrot. |
-|                                |
-\ -- Mark Twain                  /
- --------------------------------
+ _________________________________________
+/ Q: "What is the burning question on the \
+| mind of every dyslexic                  |
+|                                         |
+\ existentialist?" A: "Is there a dog?"   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
