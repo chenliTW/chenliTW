@@ -1,13 +1,11 @@
 Last Update Time: 
-Tue Sep 14 06:48:43 UTC 2021
+Tue Sep 14 07:01:08 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ Repartee is something we think of \
-| twenty-four hours too late.       |
-|                                   |
-\ -- Mark Twain                     /
- -----------------------------------
+ ________________________________________
+/ You will obey or molten silver will be \
+\ poured into your ears.                 /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
