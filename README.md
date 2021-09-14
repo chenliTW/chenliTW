@@ -1,12 +1,21 @@
 Last Update Time: 
-Tue Sep 14 14:28:55 UTC 2021
+Tue Sep 14 14:40:51 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: "What is the burning question on the \
-| mind of every dyslexic                  |
+/  "You have heard me speak of Professor  \
+| Moriarty?"                              |
 |                                         |
-\ existentialist?" A: "Is there a dog?"   /
+| "The famous scientific criminal, as     |
+| famous among crooks as --"              |
+|                                         |
+| "My blushes, Watson," Holmes murmured,  |
+| in a deprecating voice.                 |
+|                                         |
+| "I was about to say 'as he is unknown   |
+| to the public.'"                        |
+|                                         |
+\ -- A. Conan Doyle, "The Valley of Fear" /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
