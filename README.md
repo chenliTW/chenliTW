@@ -1,15 +1,14 @@
 Last Update Time: 
-Tue Sep 14 09:55:51 UTC 2021
+Tue Sep 14 10:21:24 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ My only love sprung from my only hate! \
-| Too early seen unknown, and known too  |
-| late!                                  |
-|                                        |
-| -- William Shakespeare, "Romeo and     |
-\ Juliet"                                /
- ----------------------------------------
+ _________________________________________
+/ If more of us valued food and cheer and \
+| song above hoarded gold, it would be a  |
+| merrier world.                          |
+|                                         |
+\ -- J.R.R. Tolkien                       /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
