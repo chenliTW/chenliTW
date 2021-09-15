@@ -1,11 +1,12 @@
 Last Update Time: 
-Wed Sep 15 20:13:33 UTC 2021
+Wed Sep 15 20:32:18 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You are a very redundant person, that's \
-\ what kind of person you are.            /
- -----------------------------------------
+ ________________________________________
+/ If you learn one useless thing every   \
+| day, in a single year you'll learn 365 |
+\ useless things.                        /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
