@@ -1,14 +1,11 @@
 Last Update Time: 
-Wed Sep 15 04:27:42 UTC 2021
+Wed Sep 15 04:51:53 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Don't go around saying the world owes \
-| you a living. The world owes you      |
-| nothing. It was here first.           |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ ________________________________________
+/ You will become rich and famous unless \
+\ you don't.                             /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
