@@ -1,11 +1,12 @@
 Last Update Time: 
-Thu Sep 16 21:34:30 UTC 2021
+Thu Sep 16 21:46:15 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ You will gain money by a fattening \
-\ action.                            /
- ------------------------------------
+ _________________________________________
+/ You will be attacked by a beast who has \
+| the body of a wolf, the tail of a lion, |
+\ and the face of Donald Duck.            /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
