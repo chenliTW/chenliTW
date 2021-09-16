@@ -1,13 +1,12 @@
 Last Update Time: 
-Thu Sep 16 14:59:22 UTC 2021
+Thu Sep 16 15:24:49 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How many college football players   \
-| does it take to screw in a light bulb? |
-| A: Only one, but he gets three credits |
-\ for it.                                /
- ----------------------------------------
+ ______________________________________
+/ You need no longer worry about the   \
+| future. This time tomorrow you'll be |
+\ dead.                                /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
