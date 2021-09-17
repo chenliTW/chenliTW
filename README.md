@@ -1,12 +1,14 @@
 Last Update Time: 
-Fri Sep 17 07:41:03 UTC 2021
+Fri Sep 17 07:53:08 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ______________________________________
-/ Hell is empty and all the devils are \
-| here.                                |
+/ F.S. Fitzgerald to Hemingway:        \
 |                                      |
-\ -- Wm. Shakespeare, "The Tempest"    /
+| "Ernest, the rich are different from |
+| us." Hemingway:                      |
+|                                      |
+\ "Yes. They have more money."         /
  --------------------------------------
         \   ^__^
          \  (oo)\_______
