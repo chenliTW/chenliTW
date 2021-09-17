@@ -1,10 +1,10 @@
 Last Update Time: 
-Fri Sep 17 04:55:56 UTC 2021
+Fri Sep 17 05:17:29 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ If you stand on your head, you will get \
-\ footprints in your hair.                /
+/ Your reasoning powers are good, and you \
+\ are a fairly good planner.              /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
