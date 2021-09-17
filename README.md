@@ -1,13 +1,11 @@
 Last Update Time: 
-Fri Sep 17 11:14:25 UTC 2021
+Fri Sep 17 11:27:38 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Tempt not a desperate man.         \
-|                                    |
-| -- William Shakespeare, "Romeo and |
-\ Juliet"                            /
- ------------------------------------
+ _________________________________________
+/ You're ugly and your mother dresses you \
+\ funny.                                  /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
