@@ -1,14 +1,11 @@
 Last Update Time: 
-Fri Sep 17 22:48:59 UTC 2021
+Fri Sep 17 23:01:51 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ The fashion wears out more apparel than \
-| the man.                                |
-|                                         |
-| -- William Shakespeare, "Much Ado About |
-\ Nothing"                                /
- -----------------------------------------
+ ___________________________________
+/ You have literary talent that you \
+\ should take pains to develop.     /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
