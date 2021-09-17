@@ -1,14 +1,10 @@
 Last Update Time: 
-Fri Sep 17 23:24:39 UTC 2021
+Fri Sep 17 23:38:42 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ When angry, count four; when very   \
-| angry, swear.                       |
-|                                     |
-| -- Mark Twain, "Pudd'nhead Wilson's |
-\ Calendar"                           /
- -------------------------------------
+ ___________________________
+< Condense soup, not books! >
+ ---------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
