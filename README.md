@@ -1,11 +1,12 @@
 Last Update Time: 
-Fri Sep 17 05:17:29 UTC 2021
+Fri Sep 17 05:30:04 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Your reasoning powers are good, and you \
-\ are a fairly good planner.              /
- -----------------------------------------
+ ______________________________________
+/ Good night to spend with family, but \
+| avoid arguments with your mate's new |
+\ lover.                               /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
