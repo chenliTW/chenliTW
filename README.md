@@ -1,13 +1,11 @@
 Last Update Time: 
-Fri Sep 17 15:50:15 UTC 2021
+Fri Sep 17 16:09:16 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _____________________________________
-/ The mind is its own place, and in   \
-| itself Can make a Heav'n of Hell, a |
-| Hell of Heav'n.                     |
-|                                     |
-\ -- John Milton                      /
+/ Q: What is printed on the bottom of \
+| beer bottles in Minnesota? A: Open  |
+\ other end.                          /
  -------------------------------------
         \   ^__^
          \  (oo)\_______
