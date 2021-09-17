@@ -1,15 +1,10 @@
 Last Update Time: 
-Fri Sep 17 10:27:01 UTC 2021
+Fri Sep 17 10:42:50 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ All say, "How hard it is that we have  \
-| to die"--a strange complaint to come   |
-| from the mouths of people who have had |
-| to live.                               |
-|                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
+/ Everything that you know is wrong, but \
+\ you can be straightened out.           /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
