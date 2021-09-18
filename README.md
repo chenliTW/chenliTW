@@ -1,16 +1,11 @@
 Last Update Time: 
-Sat Sep 18 00:25:47 UTC 2021
+Sat Sep 18 01:41:18 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Training is everything. The peach was \
-| once a bitter almond; cauliflower is  |
-| nothing but cabbage with a college    |
-| education.                            |
-|                                       |
-| -- Mark Twain, "Pudd'nhead Wilson's   |
-\ Calendar"                             /
- ---------------------------------------
+ ______________________________________
+/ Q: How much does it cost to ride the \
+\ Unibus? A: 2 bits.                   /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
