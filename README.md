@@ -1,21 +1,11 @@
 Last Update Time: 
-Sat Sep 18 17:50:56 UTC 2021
+Sat Sep 18 18:09:00 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ The true Southern watermelon is a boon \
-| apart, and not to be mentioned with    |
-| commoner things. It is chief of the    |
-| world's luxuries, king by the grace of |
-| God over all the fruits of the earth.  |
-| When one has tasted it, he knows what  |
-| the angels eat. It was not a Southern  |
-| watermelon that Eve took; we know it   |
-| because she repented.                  |
-|                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
- ----------------------------------------
+ _________________________________________
+/ You will always get the greatest        \
+\ recognition for the job you least like. /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
