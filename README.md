@@ -1,14 +1,12 @@
 Last Update Time: 
-Sat Sep 18 18:33:20 UTC 2021
+Sat Sep 18 18:48:34 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ The devil can cite Scripture for his  \
-| purpose.                              |
-|                                       |
-| -- William Shakespeare, "The Merchant |
-\ of Venice"                            /
- ---------------------------------------
+ ________________________________________
+/ What no spouse of a writer can ever    \
+| understand is that a writer is working |
+\ when he's staring out the window.      /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
