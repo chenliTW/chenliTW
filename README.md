@@ -1,16 +1,11 @@
 Last Update Time: 
-Sat Sep 18 19:17:23 UTC 2021
+Sat Sep 18 19:29:35 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How do you shoot a blue elephant? A: \
-| With a blue-elephant gun.               |
+/ This was the most unkindest cut of all. \
 |                                         |
-| Q: How do you shoot a pink elephant? A: |
-| Twist its trunk until it turns blue,    |
-| then shoot it with                      |
-|                                         |
-\ a blue-elephant gun.                    /
+\ -- William Shakespeare, "Julius Caesar" /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
