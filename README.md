@@ -1,14 +1,12 @@
 Last Update Time: 
-Sun Sep 19 19:53:32 UTC 2021
+Sun Sep 19 20:14:43 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ "... an experienced, industrious, \
-| ambitious, and often quite often  |
-| picturesque liar."                |
-|                                   |
-\ -- Mark Twain                     /
- -----------------------------------
+ ______________________________________
+/ You'll never see all the places, or  \
+| read all the books, but fortunately, |
+\ they're not all recommended.         /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
