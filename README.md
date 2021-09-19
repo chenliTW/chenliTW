@@ -1,12 +1,10 @@
 Last Update Time: 
-Sun Sep 19 06:52:53 UTC 2021
+Sun Sep 19 07:12:56 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ For courage mounteth with occasion. \
-|                                     |
-\ -- William Shakespeare, "King John" /
- -------------------------------------
+ ________________________________________
+< You will be surprised by a loud noise. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
