@@ -1,13 +1,20 @@
 Last Update Time: 
-Sun Sep 19 01:00:53 UTC 2021
+Sun Sep 19 02:05:38 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Soap and education are not as sudden as \
-| a massacre, but they are more deadly in |
-| the long run.                           |
+/  The Priest's grey nimbus in a niche    \
+| where he dressed discreetly. I will not |
+| sleep here tonight. Home also I cannot  |
+| go.                                     |
 |                                         |
-\ -- Mark Twain                           /
+| A voice, sweetened and sustained,       |
+| called to him from the sea. Turning the |
+| curve he waved his hand. A sleek brown  |
+| head, a seal's, far out on the water,   |
+| round. Usurper.                         |
+|                                         |
+\ -- James Joyce, "Ulysses"               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
