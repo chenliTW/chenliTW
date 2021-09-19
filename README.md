@@ -1,14 +1,10 @@
 Last Update Time: 
-Sun Sep 19 08:12:23 UTC 2021
+Sun Sep 19 08:33:05 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ The lunatic, the lover, and the poet, \
-| Are of imagination all compact...     |
-|                                       |
-| -- Wm. Shakespeare, "A Midsummer      |
-\ Night's Dream"                        /
- ---------------------------------------
+ _______________________________
+< Many pages make a thick book. >
+ -------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
