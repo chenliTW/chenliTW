@@ -1,12 +1,15 @@
 Last Update Time: 
-Mon Sep 20 21:10:02 UTC 2021
+Mon Sep 20 21:29:16 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: How many IBM 370's does it take to \
-| execute a job? A: Four, three to hold |
-\ it down, and one to rip its head off. /
- ---------------------------------------
+ ________________________________________
+/ Consider well the proportions of       \
+| things. It is better to be a young     |
+| June-bug than an old bird of paradise. |
+|                                        |
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
