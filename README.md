@@ -1,13 +1,11 @@
 Last Update Time: 
-Mon Sep 20 02:07:46 UTC 2021
+Mon Sep 20 02:37:33 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ He is now rising from affluence to \
-| poverty.                           |
-|                                    |
-\ -- Mark Twain                      /
- ------------------------------------
+ _________________________________________
+/ Learn to pause -- or nothing worthwhile \
+\ can catch up to you.                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
