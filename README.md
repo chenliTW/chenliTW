@@ -1,11 +1,12 @@
 Last Update Time: 
-Mon Sep 20 20:52:06 UTC 2021
+Mon Sep 20 21:10:02 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: What's hard going in and soft and \
-\ sticky coming out? A: Chewing gum.   /
- --------------------------------------
+ _______________________________________
+/ Q: How many IBM 370's does it take to \
+| execute a job? A: Four, three to hold |
+\ it down, and one to rip its head off. /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
