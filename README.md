@@ -1,13 +1,10 @@
 Last Update Time: 
-Mon Sep 20 17:11:48 UTC 2021
+Mon Sep 20 17:32:06 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ O, what a tangled web we weave, When \
-| first we practice to deceive.        |
-|                                      |
-\ -- Sir Walter Scott, "Marmion"       /
- --------------------------------------
+ _______________________________________
+< You will have a long and boring life. >
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
