@@ -1,10 +1,13 @@
 Last Update Time: 
-Mon Sep 20 03:44:22 UTC 2021
+Mon Sep 20 03:56:14 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-< So this is it. We're going to die. >
- ------------------------------------
+ _________________________________________
+/ By trying we can easily learn to endure \
+| adversity. Another man's, I mean.       |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
