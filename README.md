@@ -1,11 +1,11 @@
 Last Update Time: 
-Tue Sep 21 15:22:00 UTC 2021
+Tue Sep 21 15:40:11 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You will be reincarnated as a toad; and \
-\ you will be much happier.               /
- -----------------------------------------
+ ________________________________________
+/ Q: Why did the chicken cross the road? \
+\ A: He was giving it last rites.        /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
