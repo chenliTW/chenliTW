@@ -1,11 +1,12 @@
 Last Update Time: 
-Tue Sep 21 17:38:41 UTC 2021
+Tue Sep 21 17:50:39 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ Your heart is pure, and your mind \
-\ clear, and your soul devout.      /
- -----------------------------------
+ ____________________________________
+/ It's lucky you're going so slowly, \
+| because you're going in the wrong  |
+\ direction.                         /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
