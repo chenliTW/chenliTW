@@ -1,12 +1,14 @@
 Last Update Time: 
-Tue Sep 21 03:17:35 UTC 2021
+Tue Sep 21 03:34:17 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What's the difference between a Mac  \
-| and an Etch-a-Sketch? A: You don't have |
-\ to shake the Mac to clear the screen.   /
- -----------------------------------------
+ ________________________________________
+/ When you are about to die, a wombat is \
+| better than no company at all.         |
+|                                        |
+| -- Roger Zelazny, "Doorways in the     |
+\ Sand"                                  /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
