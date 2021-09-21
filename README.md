@@ -1,13 +1,13 @@
 Last Update Time: 
-Tue Sep 21 02:17:29 UTC 2021
+Tue Sep 21 02:42:53 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Lay on, MacDuff, and curs'd be him who \
-| first cries, "Hold, enough!".          |
-|                                        |
-\ -- Shakespeare                         /
- ----------------------------------------
+ _________________________________________
+/ The abuse of greatness is when it       \
+| disjoins remorse from power.            |
+|                                         |
+\ -- William Shakespeare, "Julius Caesar" /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
