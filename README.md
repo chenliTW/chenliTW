@@ -1,13 +1,10 @@
 Last Update Time: 
-Tue Sep 21 15:51:54 UTC 2021
+Tue Sep 21 16:15:18 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Fame is a vapor; popularity an          \
-| accident; the only earthly certainty is |
-| oblivion.                               |
-|                                         |
-\ -- Mark Twain                           /
+/ Write yourself a threatening letter and \
+\ pen a defiant reply.                    /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
