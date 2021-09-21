@@ -1,12 +1,12 @@
 Last Update Time: 
-Tue Sep 21 08:59:37 UTC 2021
+Tue Sep 21 09:22:37 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: What do you have when you have a   \
-| lawyer buried up to his neck in sand? |
-\ A: Not enough sand.                   /
- ---------------------------------------
+ _________________________________________
+/ Q: What do you get when you cross the   \
+| Godfather with an attorney? A: An offer |
+\ you can't understand.                   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
