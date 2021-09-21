@@ -1,14 +1,17 @@
 Last Update Time: 
-Tue Sep 21 03:34:17 UTC 2021
+Tue Sep 21 03:46:31 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ When you are about to die, a wombat is \
-| better than no company at all.         |
-|                                        |
-| -- Roger Zelazny, "Doorways in the     |
-\ Sand"                                  /
- ----------------------------------------
+ _________________________________________
+/ Gratitude and treachery are merely the  \
+| two extremities of the same procession. |
+| You have seen all of it that is worth   |
+| staying for when the band and the gaudy |
+| officials have gone by.                 |
+|                                         |
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
