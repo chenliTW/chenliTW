@@ -1,36 +1,24 @@
 Last Update Time: 
-Wed Sep 22 13:35:54 UTC 2021
+Wed Sep 22 13:47:56 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ You see, I consider that a man's brain  \
-| originally is like a little empty       |
-| attic, and you have to stock it with    |
-| such furniture as you choose. A fool    |
-| takes in all the lumber of every sort   |
-| he comes across, so that the knowledge  |
-| which might be useful to him gets       |
-| crowded out, or at best is jumbled up   |
-| with a lot of other things, so that he  |
-| has difficulty in laying his hands upon |
-| it. Now the skilful workman is very     |
-| careful indeed as to what he takes into |
-| his brain-attic. He will have nothing   |
-| but the tools which may help him in     |
-| doing his work, but of these he has a   |
-| large assortment, and all in the most   |
-| perfect order. It is a mistake to think |
-| that that little room has elastic walls |
-| and can distend to any extent. Depend   |
-| upon it there comes a time when for     |
-| every addition of knowledge you forget  |
-| something that you knew before. It is   |
-| of the highest importance, therefore,   |
-| not to have useless facts elbowing out  |
-| the useful ones.                        |
+/ The bone-chilling scream split the warm \
+| summer night in two, the first half     |
+| being before the scream when it was     |
+| fairly balmy and calm and pleasant, the |
+| second half still balmy and quite       |
+| pleasant for those who hadn't heard the |
+| scream at all, but not calm or balmy or |
+| even very nice for those who did hear   |
+| the scream, discounting the little      |
+| period of time during the actual scream |
+| itself when your ears might have been   |
+| hearing it but your brain wasn't        |
+| reacting yet to let you know.           |
 |                                         |
-| -- Sir Arthur Conan Doyle, "A Study in  |
-\ Scarlet"                                /
+| -- Winning sentence, 1986 Bulwer-Lytton |
+\ bad fiction contest.                    /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
