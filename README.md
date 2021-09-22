@@ -1,10 +1,12 @@
 Last Update Time: 
-Wed Sep 22 15:53:06 UTC 2021
+Wed Sep 22 16:19:43 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: Why do WASPs play golf ? A: So they \
-\ can dress like pimps.                  /
+/ There's small choice in rotten apples. \
+|                                        |
+| -- William Shakespeare, "The Taming of |
+\ the Shrew"                             /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
