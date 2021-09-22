@@ -1,11 +1,11 @@
 Last Update Time: 
-Wed Sep 22 18:52:05 UTC 2021
+Wed Sep 22 19:08:21 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ You will not be elected to public \
-\ office this year.                 /
- -----------------------------------
+ _________________________________________
+/ Learn to pause -- or nothing worthwhile \
+\ can catch up to you.                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
