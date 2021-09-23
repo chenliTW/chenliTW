@@ -1,14 +1,11 @@
 Last Update Time: 
-Thu Sep 23 19:29:04 UTC 2021
+Thu Sep 23 19:40:44 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ ... A solemn, unsmiling, sanctimonious \
-| old iceberg who looked like he was     |
-| waiting for a vacancy in the Trinity.  |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ ______________________________________
+/ Q: How much does it cost to ride the \
+\ Unibus? A: 2 bits.                   /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
