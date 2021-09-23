@@ -1,19 +1,21 @@
 Last Update Time: 
-Thu Sep 23 20:55:15 UTC 2021
+Thu Sep 23 21:15:31 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The notes blatted skyward as they rose  \
-| over the Canada geese, feathered rumps  |
-| mooning the day, webbed appendages      |
-| frantically pedaling unseen bicycles in |
-| their search for sustenance, driven by  |
-| cruel Nature's maxim, 'Ya wanna eat, ya |
-| gotta work,' and at last I knew         |
-| Pittsburgh.                             |
+/ There are three infallible ways of      \
+| pleasing an author, and the three form  |
+| a rising scale of compliment: 1, to     |
+| tell him you have read one of his       |
+| books; 2, to tell him you have read all |
+| of his books; 3, to ask him to let you  |
+| read the manuscript of his forthcoming  |
+| book. No. 1 admits you to his respect;  |
+| No. 2 admits you to his admiration; No. |
+| 3 carries you clear into his heart.     |
 |                                         |
-| -- Winning sentence, 1987 Bulwer-Lytton |
-\ bad fiction contest.                    /
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
