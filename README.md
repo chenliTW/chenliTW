@@ -1,10 +1,11 @@
 Last Update Time: 
-Fri Sep 24 08:45:59 UTC 2021
+Fri Sep 24 08:57:55 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-< You will contract a rare disease. >
- -----------------------------------
+ ________________________________________
+/ You've been leading a dog's life. Stay \
+\ off the furniture.                     /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
