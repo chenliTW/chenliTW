@@ -1,11 +1,12 @@
 Last Update Time: 
-Fri Sep 24 23:05:44 UTC 2021
+Fri Sep 24 23:26:43 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Do what comes naturally. Seethe and \
-\ fume and throw a tantrum.           /
- -------------------------------------
+ _________________________________________
+/ Q: What's the difference between an     \
+| Irish wedding and an Irish wake? A: One |
+\ less drunk.                             /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
