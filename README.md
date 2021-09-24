@@ -1,11 +1,11 @@
 Last Update Time: 
-Fri Sep 24 18:40:40 UTC 2021
+Fri Sep 24 18:52:59 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Your true value depends entirely on \
-\ what you are compared with.         /
- -------------------------------------
+ ________________________________________
+/ Executive ability is prominent in your \
+\ make-up.                               /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
