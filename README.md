@@ -1,16 +1,15 @@
 Last Update Time: 
-Fri Sep 24 11:13:59 UTC 2021
+Fri Sep 24 11:27:43 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ In India, "cold weather" is merely a    \
-| conventional phrase and has come into   |
-| use through the necessity of having     |
-| some way to distinguish between weather |
-| which will melt a brass door-knob and   |
-| weather which will only make it mushy.  |
+/ Q: How many Oregonians does it take to  \
+| screw in a light bulb? A: Three. One to |
+| screw in the light bulb and two to fend |
+| off all those                           |
 |                                         |
-\ -- Mark Twain                           /
+| Californians trying to share the        |
+\ experience.                             /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
