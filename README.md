@@ -1,14 +1,11 @@
 Last Update Time: 
-Sat Sep 25 19:54:15 UTC 2021
+Sat Sep 25 20:14:50 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ After all, all he did was string  \
-| together a lot of old, well-known |
-| quotations.                       |
-|                                   |
-\ -- H. L. Mencken, on Shakespeare  /
- -----------------------------------
+ _____________________________________
+/ You're a card which will have to be \
+\ dealt with.                         /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
