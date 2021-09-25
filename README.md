@@ -1,11 +1,11 @@
 Last Update Time: 
-Sat Sep 25 05:09:54 UTC 2021
+Sat Sep 25 05:25:45 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Conscience doth make cowards of us all. \
-|                                         |
-\ -- Shakespeare                          /
+/ Q: What do you say to a New Yorker with \
+| a job? A: Big Mac, fries and a Coke,    |
+\ please!                                 /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
