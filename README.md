@@ -1,12 +1,11 @@
 Last Update Time: 
-Sat Sep 25 23:16:59 UTC 2021
+Sat Sep 25 23:31:31 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Try to relax and enjoy the crisis. \
-|                                    |
-\ -- Ashleigh Brilliant              /
- ------------------------------------
+ _________________________________________
+/ Your fly might be open (but don't check \
+\ it just now).                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
