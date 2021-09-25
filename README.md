@@ -1,11 +1,12 @@
 Last Update Time: 
-Sat Sep 25 11:04:15 UTC 2021
+Sat Sep 25 11:21:51 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ You will be the victim of a bizarre \
-\ joke.                               /
- -------------------------------------
+ _______________________________________
+/ You should emulate your heros, but    \
+| don't carry it too far. Especially if |
+\ they are dead.                        /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
