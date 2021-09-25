@@ -1,17 +1,12 @@
 Last Update Time: 
-Sat Sep 25 09:56:58 UTC 2021
+Sat Sep 25 10:21:49 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: Why don't Scotsmen ever have coffee \
-| the way they like it? A: Well, they    |
-| like it with two lumps of sugar. If    |
-| they drink                             |
+/ No violence, gentlemen -- no violence, \
+| I beg of you! Consider the furniture!  |
 |                                        |
-| it at home, they only take one, and if |
-| they drink it while                    |
-|                                        |
-\ visiting, they always take three.      /
+\ -- Sherlock Holmes                     /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
