@@ -1,14 +1,12 @@
 Last Update Time: 
-Sat Sep 25 00:37:29 UTC 2021
+Sat Sep 25 01:43:12 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Anyone who has had a bull by the tail \
-| knows five or six more things than    |
-| someone who hasn't.                   |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ _________________________________________
+/ You may be infinitely smaller than some \
+| things, but you're infinitely larger    |
+\ than others.                            /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
