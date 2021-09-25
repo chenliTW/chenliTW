@@ -1,15 +1,11 @@
 Last Update Time: 
-Sat Sep 25 21:29:27 UTC 2021
+Sat Sep 25 21:41:18 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ I don't know half of you half as well  \
-| as I should like; and I like less than |
-| half of you half as well as you        |
-| deserve.                               |
-|                                        |
-\ -- J. R. R. Tolkien                    /
- ----------------------------------------
+ ______________________________________
+/ Hope that the day after you die is a \
+\ nice day.                            /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
