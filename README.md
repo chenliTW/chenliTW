@@ -1,12 +1,11 @@
 Last Update Time: 
-Sat Sep 25 01:43:12 UTC 2021
+Sat Sep 25 02:18:23 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You may be infinitely smaller than some \
-| things, but you're infinitely larger    |
-\ than others.                            /
- -----------------------------------------
+ ________________________________________
+/ You will be awarded a medal for        \
+\ disregarding safety in saving someone. /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
