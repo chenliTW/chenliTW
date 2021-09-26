@@ -1,11 +1,12 @@
 Last Update Time: 
-Sun Sep 26 03:54:56 UTC 2021
+Sun Sep 26 04:21:54 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: What do they call the alphabet in \
-\ Arkansas? A: The impossible dream.   /
- --------------------------------------
+ ________________________________________
+/ What no spouse of a writer can ever    \
+| understand is that a writer is working |
+\ when he's staring out the window.      /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
