@@ -1,12 +1,11 @@
 Last Update Time: 
-Sun Sep 26 11:07:23 UTC 2021
+Sun Sep 26 11:24:03 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What's the difference between a duck \
-| and an elephant? A: You can't get down  |
-\ off an elephant.                        /
- -----------------------------------------
+ ___________________________________
+/ You will not be elected to public \
+\ office this year.                 /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
