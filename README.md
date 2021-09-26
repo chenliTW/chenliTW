@@ -1,11 +1,10 @@
 Last Update Time: 
-Sun Sep 26 23:17:33 UTC 2021
+Sun Sep 26 23:31:49 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You love your home and want it to be \
-\ beautiful.                           /
- --------------------------------------
+ _______________________________________
+< You will inherit millions of dollars. >
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
