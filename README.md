@@ -1,11 +1,14 @@
 Last Update Time: 
-Mon Sep 27 14:29:27 UTC 2021
+Mon Sep 27 14:41:09 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Do what comes naturally. Seethe and \
-\ fume and throw a tantrum.           /
- -------------------------------------
+ ________________________________________
+/ When you are about to die, a wombat is \
+| better than no company at all.         |
+|                                        |
+| -- Roger Zelazny, "Doorways in the     |
+\ Sand"                                  /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
