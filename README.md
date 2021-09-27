@@ -1,14 +1,11 @@
 Last Update Time: 
-Mon Sep 27 09:00:49 UTC 2021
+Mon Sep 27 09:23:22 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _____________________________________
-/ Q: What do you call 15 blondes in a \
-| circle? A: A dope ring.             |
-|                                     |
-| Q: Why do blondes put their hair in |
-| ponytails? A: To cover up the valve |
-\ stem.                               /
+/ Q: How do you stop an elephant from \
+| charging? A: Take away his credit   |
+\ cards.                              /
  -------------------------------------
         \   ^__^
          \  (oo)\_______
