@@ -1,24 +1,34 @@
 Last Update Time: 
-Mon Sep 27 05:09:55 UTC 2021
+Mon Sep 27 05:26:37 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The bone-chilling scream split the warm \
-| summer night in two, the first half     |
-| being before the scream when it was     |
-| fairly balmy and calm and pleasant, the |
-| second half still balmy and quite       |
-| pleasant for those who hadn't heard the |
-| scream at all, but not calm or balmy or |
-| even very nice for those who did hear   |
-| the scream, discounting the little      |
-| period of time during the actual scream |
-| itself when your ears might have been   |
-| hearing it but your brain wasn't        |
-| reacting yet to let you know.           |
+/ The Least Successful Collector          \
 |                                         |
-| -- Winning sentence, 1986 Bulwer-Lytton |
-\ bad fiction contest.                    /
+| Betsy Baker played a central role in    |
+| the history of collecting. She was      |
+| employed as a servant in the house of   |
+| John Warburton (1682-1759) who had      |
+| amassed a fine collection of 58 first   |
+| edition plays, including most of the    |
+| works of Shakespeare.                   |
+|                                         |
+| One day Warburton returned home to find |
+| 55 of them charred beyond legibility.   |
+| Betsy had either burned them or used    |
+| them as pie bottoms. The remaining      |
+| three folios are now in the British     |
+| Museum.                                 |
+|                                         |
+| The only comparable literary figure was |
+| the maid who in 1835 burned the         |
+| manuscript of the first volume of       |
+| Thomas Carlyle's "The Hisory of the     |
+| French Revolution", thinking it was     |
+| wastepaper.                             |
+|                                         |
+| -- Stephen Pile, "The Book of Heroic    |
+\ Failures"                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
