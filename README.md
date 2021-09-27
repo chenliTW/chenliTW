@@ -1,11 +1,13 @@
 Last Update Time: 
-Mon Sep 27 13:54:03 UTC 2021
+Mon Sep 27 14:14:16 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: Why do mountain climbers rope       \
-| themselves together? A: To prevent the |
-\ sensible ones from going home.         /
+/ It is a wise father that knows his own \
+| child.                                 |
+|                                        |
+| -- William Shakespeare, "The Merchant  |
+\ of Venice"                             /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
