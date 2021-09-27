@@ -1,13 +1,11 @@
 Last Update Time: 
-Mon Sep 27 19:28:10 UTC 2021
+Mon Sep 27 19:40:00 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Hell is empty and all the devils are \
-| here.                                |
-|                                      |
-\ -- Wm. Shakespeare, "The Tempest"    /
- --------------------------------------
+ _____________________________________
+/ Beware of a tall black man with one \
+\ blond shoe.                         /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
