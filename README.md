@@ -1,12 +1,11 @@
 Last Update Time: 
-Mon Sep 27 11:53:39 UTC 2021
+Mon Sep 27 12:23:53 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: How can you tell when a Burroughs \
-| salesman is lying? A: When his lips  |
-\ move.                                /
- --------------------------------------
+ _________________________________________
+/ You would if you could but you can't so \
+\ you won't.                              /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
