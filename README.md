@@ -1,14 +1,11 @@
 Last Update Time: 
-Mon Sep 27 07:29:32 UTC 2021
+Mon Sep 27 07:41:16 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Few things are harder to put up with  \
-| than the annoyance of a good example. |
-|                                       |
-| -- "Mark Twain, Pudd'nhead Wilson's   |
-\ Calendar"                             /
- ---------------------------------------
+ ______________________________________
+/ Q: What do they call the alphabet in \
+\ Arkansas? A: The impossible dream.   /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
