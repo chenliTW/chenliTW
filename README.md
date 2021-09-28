@@ -1,12 +1,11 @@
 Last Update Time: 
-Tue Sep 28 14:29:17 UTC 2021
+Tue Sep 28 14:41:13 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- __________________________________
-/ Be cheerful while you are alive. \
-|                                  |
-\ -- Phathotep, 24th Century B.C.  /
- ----------------------------------
+ _____________________________________
+/ Someone whom you reject today, will \
+\ reject you tomorrow.                /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
