@@ -1,12 +1,11 @@
 Last Update Time: 
-Tue Sep 28 07:21:12 UTC 2021
+Tue Sep 28 07:33:55 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ For a light heart lives long.          \
-|                                        |
-\ -- Shakespeare, "Love's Labour's Lost" /
- ----------------------------------------
+ _______________________________________
+/ Try to have as good a life as you can \
+\ under the circumstances.              /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
