@@ -1,12 +1,13 @@
 Last Update Time: 
-Tue Sep 28 18:22:30 UTC 2021
+Tue Sep 28 18:42:09 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Q: How do you stop an elephant from \
-| charging? A: Take away his credit   |
-\ cards.                              /
- -------------------------------------
+ _________________________________________
+/ FORTUNE PROVIDES QUESTIONS FOR THE      \
+| GREAT ANSWERS: #31 A: Chicken Teriyaki. |
+| Q: What is the name of the world's      |
+\ oldest kamikaze pilot?                  /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
