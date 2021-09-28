@@ -1,11 +1,11 @@
 Last Update Time: 
-Tue Sep 28 07:33:55 UTC 2021
+Tue Sep 28 07:45:44 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Try to have as good a life as you can \
-\ under the circumstances.              /
- ---------------------------------------
+ _____________________________________
+/ You recoil from the crude; you tend \
+\ naturally toward the exquisite.     /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
