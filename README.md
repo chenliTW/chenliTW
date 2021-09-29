@@ -1,10 +1,10 @@
 Last Update Time: 
-Wed Sep 29 13:01:17 UTC 2021
+Wed Sep 29 13:28:19 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-< You will be surrounded by luxury. >
- -----------------------------------
+ _______________________________________
+< Be careful! UGLY strikes 9 out of 10! >
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
