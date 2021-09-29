@@ -1,12 +1,12 @@
 Last Update Time: 
-Wed Sep 29 09:42:23 UTC 2021
+Wed Sep 29 09:54:15 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The only way to keep your health is to  \
-| eat what you don't want, drink what you |
-| don't like, and do what you'd rather    |
-| not.                                    |
+/ In a museum in Havana, there are two    \
+| skulls of Christopher Columbus, "one    |
+| when he was a boy and one when he was a |
+| man."                                   |
 |                                         |
 \ -- Mark Twain                           /
  -----------------------------------------
