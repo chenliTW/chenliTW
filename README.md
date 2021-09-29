@@ -1,12 +1,11 @@
 Last Update Time: 
-Wed Sep 29 03:24:29 UTC 2021
+Wed Sep 29 03:40:40 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ You're growing out of some of your  \
-| problems, but there are others that |
-\ you're growing into.                /
- -------------------------------------
+ _______________________________________
+/ Q: How do you save a drowning lawyer? \
+\ A: Throw him a rock.                  /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
