@@ -1,13 +1,10 @@
 Last Update Time: 
-Wed Sep 29 17:57:49 UTC 2021
+Wed Sep 29 18:26:04 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Let me take you a button-hole lower. \
-|                                      |
-| -- William Shakespeare, "Love's      |
-\ Labour's Lost"                       /
- --------------------------------------
+ _________________________________________
+< Q: How do you keep a moron in suspense? >
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
