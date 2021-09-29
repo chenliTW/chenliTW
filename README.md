@@ -1,12 +1,12 @@
 Last Update Time: 
-Wed Sep 29 07:19:45 UTC 2021
+Wed Sep 29 07:32:03 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ The ripest fruit falls first.        \
-|                                      |
-\ -- William Shakespeare, "Richard II" /
- --------------------------------------
+ ________________________________
+/ When in doubt, tell the truth. \
+|                                |
+\ -- Mark Twain                  /
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
