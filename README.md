@@ -1,10 +1,11 @@
 Last Update Time: 
-Wed Sep 29 18:26:04 UTC 2021
+Wed Sep 29 18:45:54 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-< Q: How do you keep a moron in suspense? >
- -----------------------------------------
+ ________________________________
+/ Never look up when dragons fly \
+\ overhead.                      /
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
