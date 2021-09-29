@@ -1,11 +1,11 @@
 Last Update Time: 
-Wed Sep 29 13:53:35 UTC 2021
+Wed Sep 29 14:13:38 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ______________________________________
-/ You need no longer worry about the   \
-| future. This time tomorrow you'll be |
-\ dead.                                /
+/ The ripest fruit falls first.        \
+|                                      |
+\ -- William Shakespeare, "Richard II" /
  --------------------------------------
         \   ^__^
          \  (oo)\_______
