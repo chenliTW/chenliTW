@@ -1,24 +1,12 @@
 Last Update Time: 
-Thu Sep 30 12:15:03 UTC 2021
+Thu Sep 30 12:50:36 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ In the space of one hundred and         \
-| seventy-six years the Mississippi has   |
-| shortened itself two hundred and        |
-| forty-two miles. Therefore ... in the   |
-| Old Silurian Period the Mississippi     |
-| River was upward of one million three   |
-| hundred thousand miles long ... seven   |
-| hundred and forty-two years from now    |
-| the Mississippi will be only a mile and |
-| three-quarters long. ... There is       |
-| something fascinating about science.    |
-| One gets such wholesome returns of      |
-| conjecture out of such a trifling       |
-| investment of fact.                     |
-|                                         |
-\ -- Mark Twain                           /
+/ Q: What do you get when you cross a     \
+| mobster with an international standard? |
+| A: You get someone who makes you an     |
+\ offer that you can't understand!        /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
