@@ -1,13 +1,11 @@
 Last Update Time: 
-Thu Sep 30 17:26:36 UTC 2021
+Thu Sep 30 17:43:38 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: What looks like a cat, flies like a \
-| bat, brays like a donkey, and          |
-|                                        |
-\ plays like a monkey? A: Nothing.       /
- ----------------------------------------
+ ______________________________________
+/ You will live a long, healthy, happy \
+\ life and make bags of money.         /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
