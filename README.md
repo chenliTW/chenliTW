@@ -1,13 +1,11 @@
 Last Update Time: 
-Thu Sep 30 10:26:25 UTC 2021
+Thu Sep 30 10:42:47 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ All things that are, are with more   \
-| spirit chased than enjoyed.          |
-|                                      |
-\ -- Shakespeare, "Merchant of Venice" /
- --------------------------------------
+ ________________________________________
+/ You've been leading a dog's life. Stay \
+\ off the furniture.                     /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
