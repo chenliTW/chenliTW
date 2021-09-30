@@ -1,13 +1,11 @@
 Last Update Time: 
-Thu Sep 30 11:27:30 UTC 2021
+Thu Sep 30 11:39:19 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Let him choose out of my files, his \
-| projects to accomplish.             |
-|                                     |
-\ -- Shakespeare, "Coriolanus"        /
- -------------------------------------
+ ________________________________________
+/ Your boss is a few sandwiches short of \
+\ a picnic.                              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
