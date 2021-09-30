@@ -1,12 +1,18 @@
 Last Update Time: 
-Thu Sep 30 22:22:57 UTC 2021
+Thu Sep 30 22:36:30 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Try to relax and enjoy the crisis. \
-|                                    |
-\ -- Ashleigh Brilliant              /
- ------------------------------------
+ _________________________________________
+/ The only people for me are the mad ones \
+| -- the ones who are mad to live, mad to |
+| talk, mad to be saved, desirous of      |
+| everything at the same time, the ones   |
+| who never yawn or say a commonplace     |
+| thing, but burn, burn, burn like        |
+| fabulous yellow Roman candles.          |
+|                                         |
+\ -- Jack Kerouac, "On the Road"          /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
