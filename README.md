@@ -1,12 +1,22 @@
 Last Update Time: 
-Wed Sep 29 23:59:20 UTC 2021
+Thu Sep 30 01:21:10 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Q: What is printed on the bottom of \
-| beer bottles in Minnesota? A: Open  |
-\ other end.                          /
- -------------------------------------
+ _________________________________________
+/ Many enraged psychiatrists are inciting \
+| a weary butcher. The butcher is weary   |
+| and tired because he has cut meat and   |
+| steak and lamb for hours and weeks. He  |
+| does not desire to chant about anything |
+| with raving psychiatrists, but he sings |
+| about his gingivectomist, he dreams     |
+| about a single cosmologist, he thinks   |
+| about his dog. The dog is named         |
+| Herbert.                                |
+|                                         |
+| -- Racter, "The Policeman's Beard is    |
+\ Half-Constructed"                       /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
