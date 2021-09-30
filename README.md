@@ -1,10 +1,21 @@
 Last Update Time: 
-Thu Sep 30 16:28:28 UTC 2021
+Thu Sep 30 17:00:44 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Are you ever going to do the dishes? Or \
-\ will you change your major to biology?  /
+/  "You have heard me speak of Professor  \
+| Moriarty?"                              |
+|                                         |
+| "The famous scientific criminal, as     |
+| famous among crooks as --"              |
+|                                         |
+| "My blushes, Watson," Holmes murmured,  |
+| in a deprecating voice.                 |
+|                                         |
+| "I was about to say 'as he is unknown   |
+| to the public.'"                        |
+|                                         |
+\ -- A. Conan Doyle, "The Valley of Fear" /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
