@@ -1,11 +1,10 @@
 Last Update Time: 
-Thu Sep 30 07:28:40 UTC 2021
+Thu Sep 30 07:40:21 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ You will have a long and unpleasant \
-\ discussion with your supervisor.    /
- -------------------------------------
+ _________________________________________
+< Day of inquiry. You will be subpoenaed. >
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
