@@ -1,12 +1,11 @@
 Last Update Time: 
-Thu Sep 30 21:45:29 UTC 2021
+Thu Sep 30 21:57:14 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You should emulate your heros, but    \
-| don't carry it too far. Especially if |
-\ they are dead.                        /
- ---------------------------------------
+ ______________________________________
+/ Q: What's a light-year? A: One-third \
+\ less calories than a regular year.   /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
