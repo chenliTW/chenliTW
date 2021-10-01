@@ -1,11 +1,10 @@
 Last Update Time: 
-Fri Oct  1 21:45:10 UTC 2021
+Fri Oct  1 21:57:14 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Don't worry so loud, your roommate \
-\ can't think.                       /
- ------------------------------------
+ __________________________________
+< Never reveal your best argument. >
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
