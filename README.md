@@ -1,14 +1,13 @@
 Last Update Time: 
-Fri Oct  1 23:00:43 UTC 2021
+Fri Oct  1 23:23:27 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why haven't you graduated yet? A:   \
-| Well, Dad, I could have finished years |
-| ago, but I wanted                      |
-|                                        |
-\ my dissertation to rhyme.              /
- ----------------------------------------
+ _________________________________________
+/ I have never let my schooling interfere \
+| with my education.                      |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
