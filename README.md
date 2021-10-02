@@ -1,14 +1,11 @@
 Last Update Time: 
-Sat Oct  2 14:34:25 UTC 2021
+Sat Oct  2 14:46:25 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ FORTUNE PROVIDES QUESTIONS FOR THE      \
-| GREAT ANSWERS: #5 A: The Halls of       |
-| Montezuma and the Shores of Tripoli. Q: |
-| Name two families whose kids won't join |
-\ the Marines.                            /
- -----------------------------------------
+ ______________________________________
+/ Lady Luck brings added income today. \
+\ Lady friend takes it away tonight.   /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
