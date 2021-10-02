@@ -1,39 +1,12 @@
 Last Update Time: 
-Sat Oct  2 09:55:12 UTC 2021
+Sat Oct  2 10:19:52 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ A Tale of Two Cities LITE(tm)           \
-|                                         |
-| -- by Charles Dickens                   |
-|                                         |
-| A lawyer who looks like a French        |
-| Nobleman is executed in his place.      |
-|                                         |
-| The Metamorphosis LITE(tm)              |
-|                                         |
-| -- by Franz Kafka                       |
-|                                         |
-| A man turns into a bug and his family   |
-| gets annoyed.                           |
-|                                         |
-| Lord of the Rings LITE(tm)              |
-|                                         |
-| -- by J. R. R. Tolkien                  |
-|                                         |
-| Some guys take a long vacation to throw |
-| a ring into a volcano.                  |
-|                                         |
-| Hamlet LITE(tm)                         |
-|                                         |
-| -- by Wm. Shakespeare                   |
-|                                         |
-| A college student on vacation with      |
-| family problems, a screwy               |
-|                                         |
-| girl-friend and a mother who won't act  |
-\ her age.                                /
- -----------------------------------------
+ __________________________________
+/ Be cheerful while you are alive. \
+|                                  |
+\ -- Phathotep, 24th Century B.C.  /
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
