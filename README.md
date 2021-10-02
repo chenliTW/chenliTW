@@ -1,14 +1,13 @@
 Last Update Time: 
-Sat Oct  2 16:50:50 UTC 2021
+Sat Oct  2 17:11:23 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: Why do ducks have big flat feet? A:  \
-| To stamp out forest fires.              |
-|                                         |
-| Q: Why do elephants have big flat feet? |
-\ A: To stamp out flaming ducks.          /
- -----------------------------------------
+ ________________________________________
+/ FORTUNE PROVIDES QUESTIONS FOR THE     \
+| GREAT ANSWERS: #4 A: Go west, young    |
+| man, go west! Q: What do wabbits do    |
+\ when they get tiwed of wunning awound? /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
