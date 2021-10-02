@@ -1,10 +1,11 @@
 Last Update Time: 
-Sat Oct  2 03:34:07 UTC 2021
+Sat Oct  2 03:45:55 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________
-< Long life is in store for you. >
- --------------------------------
+ _____________________________________
+/ Your talents will be recognized and \
+\ suitably rewarded.                  /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
