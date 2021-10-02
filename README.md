@@ -1,12 +1,10 @@
 Last Update Time: 
-Sat Oct  2 02:54:35 UTC 2021
+Sat Oct  2 03:18:03 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Troubled day for virgins over 16 who  \
-| are beautiful and wealthy and live in |
-\ eucalyptus trees.                     /
- ---------------------------------------
+ ________________________________________
+< You will be misunderstood by everyone. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
