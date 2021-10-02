@@ -1,12 +1,10 @@
 Last Update Time: 
-Sat Oct  2 10:19:52 UTC 2021
+Sat Oct  2 10:36:37 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- __________________________________
-/ Be cheerful while you are alive. \
-|                                  |
-\ -- Phathotep, 24th Century B.C.  /
- ----------------------------------
+ ________________________
+< Don't get to bragging. >
+ ------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
