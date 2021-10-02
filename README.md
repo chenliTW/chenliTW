@@ -1,12 +1,15 @@
 Last Update Time: 
-Sat Oct  2 14:58:38 UTC 2021
+Sat Oct  2 15:23:06 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________
-/ Too much is just enough.  \
-|                           |
-\ -- Mark Twain, on whiskey /
- ---------------------------
+ ______________________________________
+/ F.S. Fitzgerald to Hemingway:        \
+|                                      |
+| "Ernest, the rich are different from |
+| us." Hemingway:                      |
+|                                      |
+\ "Yes. They have more money."         /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
