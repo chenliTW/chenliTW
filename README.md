@@ -1,10 +1,11 @@
 Last Update Time: 
-Sun Oct  3 19:18:57 UTC 2021
+Sun Oct  3 19:30:59 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Don't read any sky-writing for the next \
-\ two weeks.                              /
+/ You will lose your present job and have \
+| to become a door to door mayonnaise     |
+\ salesman.                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
