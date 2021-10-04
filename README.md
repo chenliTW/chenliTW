@@ -1,13 +1,12 @@
 Last Update Time: 
-Mon Oct  4 09:50:13 UTC 2021
+Mon Oct  4 10:06:50 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How many Harvard MBA's does it take \
-| to screw in a light bulb? A: Just one. |
-| He grasps it firmly and the universe   |
-\ revolves around him.                   /
- ----------------------------------------
+ _________________________________________
+/ You'll feel devilish tonight. Toss      \
+| dynamite caps under a flamenco dancer's |
+\ heel.                                   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
