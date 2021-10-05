@@ -1,10 +1,22 @@
 Last Update Time: 
-Tue Oct  5 08:55:53 UTC 2021
+Tue Oct  5 09:19:22 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________
-< You fill a much-needed gap. >
- -----------------------------
+ _________________________________________
+/  "You have heard me speak of Professor  \
+| Moriarty?"                              |
+|                                         |
+| "The famous scientific criminal, as     |
+| famous among crooks as --"              |
+|                                         |
+| "My blushes, Watson," Holmes murmured,  |
+| in a deprecating voice.                 |
+|                                         |
+| "I was about to say 'as he is unknown   |
+| to the public.'"                        |
+|                                         |
+\ -- A. Conan Doyle, "The Valley of Fear" /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
