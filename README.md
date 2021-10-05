@@ -1,11 +1,11 @@
 Last Update Time: 
-Tue Oct  5 01:55:13 UTC 2021
+Tue Oct  5 02:28:11 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What's tan and black and looks great \
-\ on a lawyer? A: A doberman.             /
- -----------------------------------------
+ ________________________________________
+/ You will be married within a year, and \
+\ divorced within two.                   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
