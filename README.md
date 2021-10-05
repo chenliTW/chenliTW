@@ -1,15 +1,14 @@
 Last Update Time: 
-Tue Oct  5 22:32:46 UTC 2021
+Tue Oct  5 22:44:54 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ The only way to keep your health is to  \
-| eat what you don't want, drink what you |
-| don't like, and do what you'd rather    |
-| not.                                    |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ _______________________________________
+/ Q: What do you call the money you pay \
+| to the government when                |
+|                                       |
+| you ride into the country on the back |
+\ of an elephant? A: A howdah duty.     /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
