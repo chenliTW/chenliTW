@@ -1,12 +1,10 @@
 Last Update Time: 
-Tue Oct  5 19:50:40 UTC 2021
+Tue Oct  5 20:07:20 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Living your life is a task so          \
-| difficult, it has never been attempted |
-\ before.                                /
- ----------------------------------------
+ _________________________________________
+< Caution: Keep out of reach of children. >
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
