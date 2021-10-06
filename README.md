@@ -1,17 +1,23 @@
 Last Update Time: 
-Wed Oct  6 07:27:24 UTC 2021
+Wed Oct  6 07:39:04 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many surrealists does it take to \
-| change a light bulb? A: Two, one to     |
-| hold the giraffe, and the other to fill |
-| the bathtub                             |
+/ Q: How many journalists does it take to \
+| screw in a light bulb? A: Three. One to |
+| report it as an inspired government     |
+| program to bring                        |
 |                                         |
-| with brightly colored machine tools.    |
+| light to the people, one to report it   |
+| as a diabolical government plot         |
 |                                         |
-| [Surrealist jokes just aren't my cup of |
-\ fur. Ed.]                               /
+| to deprive the poor of darkness, and    |
+| one to win a Pulitzer prize for         |
+|                                         |
+| reporting that Electric Company hired a |
+| light bulb-assassin to break            |
+|                                         |
+\ the bulb in the first place.            /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
