@@ -1,15 +1,10 @@
 Last Update Time: 
-Wed Oct  6 10:55:12 UTC 2021
+Wed Oct  6 11:14:54 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Let us endeavor so to live that when we \
-| come to die even the undertaker will be |
-| sorry.                                  |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
- -----------------------------------------
+ __________________________________
+< Never reveal your best argument. >
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
