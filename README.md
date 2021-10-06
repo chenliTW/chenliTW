@@ -1,11 +1,10 @@
 Last Update Time: 
-Wed Oct  6 01:15:29 UTC 2021
+Wed Oct  6 02:09:27 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You will be held hostage by a radical \
-\ group.                                /
- ---------------------------------------
+ ________________________________
+< It's all in the mind, ya know. >
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
