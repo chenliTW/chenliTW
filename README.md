@@ -1,14 +1,11 @@
 Last Update Time: 
-Wed Oct  6 11:28:01 UTC 2021
+Wed Oct  6 11:40:07 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ You may my glories and my state        \
-| dispose, But not my griefs; still am I |
-| king of those.                         |
-|                                        |
-\ -- William Shakespeare, "Richard II"   /
- ----------------------------------------
+ ______________________________________
+/ You'd like to do it instantaneously, \
+\ but that's too slow.                 /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
