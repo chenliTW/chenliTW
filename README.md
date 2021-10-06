@@ -1,12 +1,12 @@
 Last Update Time: 
-Wed Oct  6 09:21:59 UTC 2021
+Wed Oct  6 09:37:05 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Water, taken in moderation cannot hurt \
-| anybody.                               |
-|                                        |
-\ -- Mark Twain                          /
+/ Q: How many Harvard MBA's does it take \
+| to screw in a light bulb? A: Just one. |
+| He grasps it firmly and the universe   |
+\ revolves around him.                   /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
