@@ -1,10 +1,13 @@
 Last Update Time: 
-Fri Oct  8 17:44:56 UTC 2021
+Fri Oct  8 17:57:10 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: Why do WASPs play golf ? A: So they \
-\ can dress like pimps.                  /
+/ No group of professionals meets except \
+| to conspire against the public at      |
+| large.                                 |
+|                                        |
+\ -- Mark Twain                          /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
