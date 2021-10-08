@@ -1,14 +1,11 @@
 Last Update Time: 
-Thu Oct  7 23:56:10 UTC 2021
+Fri Oct  8 01:12:58 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ FORTUNE PROVIDES QUESTIONS FOR THE      \
-| GREAT ANSWERS: #5 A: The Halls of       |
-| Montezuma and the Shores of Tripoli. Q: |
-| Name two families whose kids won't join |
-\ the Marines.                            /
- -----------------------------------------
+ ___________________________________
+/ Your nature demands love and your \
+\ happiness depends on it.          /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
