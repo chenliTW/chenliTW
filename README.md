@@ -1,11 +1,11 @@
 Last Update Time: 
-Fri Oct  8 21:40:30 UTC 2021
+Fri Oct  8 21:52:22 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- __________________________________
-/ You will overcome the attacks of \
-\ jealous associates.              /
- ----------------------------------
+ ________________________________________
+/ You own a dog, but you can only feed a \
+\ cat.                                   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
