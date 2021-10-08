@@ -1,11 +1,18 @@
 Last Update Time: 
-Fri Oct  8 06:08:12 UTC 2021
+Fri Oct  8 06:34:22 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Tonight you will pay the wages of sin; \
-\ Don't forget to leave a tip.           /
- ----------------------------------------
+ _______________________________________
+/ The bay-trees in our country are all  \
+| wither'd And meteors fright the fixed |
+| stars of heaven; The pale-faced moon  |
+| looks bloody on the earth And         |
+| lean-look'd prophets whisper fearful  |
+| change. These signs forerun the death |
+| or fall of kings.                     |
+|                                       |
+\ -- Wm. Shakespeare, "Richard II"      /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
