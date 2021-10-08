@@ -1,17 +1,10 @@
 Last Update Time: 
-Fri Oct  8 23:16:16 UTC 2021
+Fri Oct  8 23:32:23 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How do you shoot a blue elephant? A: \
-| With a blue-elephant gun.               |
-|                                         |
-| Q: How do you shoot a pink elephant? A: |
-| Twist its trunk until it turns blue,    |
-| then shoot it with                      |
-|                                         |
-\ a blue-elephant gun.                    /
- -----------------------------------------
+ ___________________________________
+< You will triumph over your enemy. >
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
