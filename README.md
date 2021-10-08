@@ -1,11 +1,11 @@
 Last Update Time: 
-Fri Oct  8 14:28:24 UTC 2021
+Fri Oct  8 14:40:08 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Your lover will never wish to leave \
-\ you.                                /
- -------------------------------------
+ ________________________________________
+/ You will be awarded a medal for        \
+\ disregarding safety in saving someone. /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
