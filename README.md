@@ -1,21 +1,21 @@
 Last Update Time: 
-Sat Oct  9 01:04:50 UTC 2021
+Sat Oct  9 02:02:31 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Awash with unfocused desire, Everett    \
-| twisted the lobe of his one remaining   |
-| ear and felt the presence of somebody   |
-| else behind him, which caused terror to |
-| push through his nervous system like a  |
-| flash flood roaring down the mid-fork   |
-| of the Feather River before the         |
-| completion of the Oroville Dam in 1959. |
+/ Even the clearest and most perfect      \
+| circumstantial evidence is likely to be |
+| at fault, after all, and therefore      |
+| ought to be received with great         |
+| caution. Take the case of any pencil,   |
+| sharpened by any woman; if you have     |
+| witnesses, you will find she did it     |
+| with a knife; but if you take simply    |
+| the aspect of the pencil, you will say  |
+| that she did it with her teeth.         |
 |                                         |
-| -- Grand Panjandrum's Special Award,    |
-| 1984 Bulwer-Lytton                      |
-|                                         |
-\ bad fiction contest.                    /
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
