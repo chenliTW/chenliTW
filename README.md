@@ -1,12 +1,9 @@
 Last Update Time: 
-Sat Oct  9 06:47:43 UTC 2021
+Sat Oct  9 06:59:28 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The first thing we do, let's kill all   \
-| the lawyers.                            |
-|                                         |
-\ -- Wm. Shakespeare, "Henry VI", Part IV /
+< Q: How do you keep a moron in suspense? >
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
