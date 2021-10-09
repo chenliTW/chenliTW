@@ -1,11 +1,10 @@
 Last Update Time: 
-Sat Oct  9 13:58:15 UTC 2021
+Sat Oct  9 14:19:31 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Your mode of life will be changed for \
-\ the better because of good news soon. /
- ---------------------------------------
+ ____________________________________
+< Don't read everything you believe. >
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
