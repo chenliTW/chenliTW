@@ -1,11 +1,11 @@
 Last Update Time: 
-Sat Oct  9 22:14:26 UTC 2021
+Sat Oct  9 22:32:01 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Someone whom you reject today, will \
-\ reject you tomorrow.                /
- -------------------------------------
+ _________________________________________
+/ Beware of a dark-haired man with a loud \
+\ tie.                                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
