@@ -1,14 +1,15 @@
 Last Update Time: 
-Sun Oct 10 19:31:14 UTC 2021
+Sun Oct 10 19:43:14 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _______________________________________
-/ So so is good, very good, very        \
-| excellent good: and yet it is not; it |
-| is but so so.                         |
+/ For years a secret shame destroyed my \
+| peace-- I'd not read Eliot, Auden or  |
+| MacNiece. But now I think a thought   |
+| that brings me hope: Neither had      |
+| Chaucer, Shakespeare, Milton, Pope.   |
 |                                       |
-| -- William Shakespeare, "As You Like  |
-\ It"                                   /
+\ -- Justin Richardson.                 /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
