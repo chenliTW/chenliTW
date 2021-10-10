@@ -1,14 +1,13 @@
 Last Update Time: 
-Sun Oct 10 16:00:07 UTC 2021
+Sun Oct 10 16:36:46 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________
-/ Civilization is the limitless \
-| multiplication of unnecessary |
-| necessities.                  |
-|                               |
-\ -- Mark Twain                 /
- -------------------------------
+ _________________________________________
+/ Extreme fear can neither fight nor fly. \
+|                                         |
+| -- William Shakespeare, "The Rape of    |
+\ Lucrece"                                /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
