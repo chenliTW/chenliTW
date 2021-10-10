@@ -1,11 +1,12 @@
 Last Update Time: 
-Sun Oct 10 21:53:18 UTC 2021
+Sun Oct 10 22:13:00 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Chicken Little only has to be right \
-\ once.                               /
- -------------------------------------
+ _______________________________________
+/ You should emulate your heros, but    \
+| don't carry it too far. Especially if |
+\ they are dead.                        /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
