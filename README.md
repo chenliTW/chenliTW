@@ -1,10 +1,10 @@
 Last Update Time: 
-Mon Oct 11 18:56:48 UTC 2021
+Mon Oct 11 19:16:19 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Your aims are high, and you are capable \
-\ of much.                                /
+/ You don't become a failure until you're \
+\ satisfied with being one.               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
