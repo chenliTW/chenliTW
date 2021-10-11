@@ -1,12 +1,12 @@
 Last Update Time: 
-Mon Oct 11 03:57:58 UTC 2021
+Mon Oct 11 04:29:12 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ English literature's performing flea. \
-|                                       |
-\ -- Sean O'Casey on P. G. Wodehouse    /
- ---------------------------------------
+ ________________________________________
+/ What no spouse of a writer can ever    \
+| understand is that a writer is working |
+\ when he's staring out the window.      /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
