@@ -1,14 +1,13 @@
 Last Update Time: 
-Mon Oct 11 08:15:06 UTC 2021
+Mon Oct 11 08:36:15 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Sometimes I wonder if I'm in my right \
-| mind. Then it passes off and I'm as   |
-| intelligent as ever.                  |
-|                                       |
-\ -- Samuel Beckett, "Endgame"          /
- ---------------------------------------
+ _________________________________________
+/ I have never let my schooling interfere \
+| with my education.                      |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
