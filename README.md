@@ -1,15 +1,12 @@
 Last Update Time: 
-Tue Oct 12 19:21:49 UTC 2021
+Tue Oct 12 19:33:59 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many bureaucrats does it take to \
-| screw in a light bulb? A: Two. One to   |
-| assure everyone that everything         |
-| possible is being                       |
+/ The whole world is a tuxedo and you are \
+| a pair of brown shoes.                  |
 |                                         |
-| done while the other screws the bulb    |
-\ into the water faucet.                  /
+\ -- George Gobel                         /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
