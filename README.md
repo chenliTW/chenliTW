@@ -1,11 +1,12 @@
 Last Update Time: 
-Tue Oct 12 12:16:50 UTC 2021
+Tue Oct 12 12:51:11 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You have an ability to sense and know \
-\ higher truth.                         /
- ---------------------------------------
+ _______________________________
+/ Don't worry. Life's too long. \
+|                               |
+\ -- Vincent Sardi, Jr.         /
+ -------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
