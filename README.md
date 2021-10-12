@@ -1,12 +1,11 @@
 Last Update Time: 
-Tue Oct 12 21:45:25 UTC 2021
+Tue Oct 12 21:57:11 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ English literature's performing flea. \
-|                                       |
-\ -- Sean O'Casey on P. G. Wodehouse    /
- ---------------------------------------
+ ______________________________________
+/ Q: Why did Menachem Begin invade     \
+\ Lebanon? A: To impress Jodie Foster. /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
