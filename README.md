@@ -1,11 +1,14 @@
 Last Update Time: 
-Tue Oct 12 13:32:56 UTC 2021
+Tue Oct 12 13:44:43 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You can rent this space for only $5 a \
-\ week.                                 /
- ---------------------------------------
+ ________________________________________
+/ Q: What do you call a WASP who doesn't \
+| work for his father, isn't a           |
+|                                        |
+| lawyer, and believes in social causes? |
+\ A: A failure.                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
