@@ -1,12 +1,11 @@
 Last Update Time: 
-Tue Oct 12 14:44:41 UTC 2021
+Tue Oct 12 14:56:48 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You had some happiness once, but your \
-| parents moved away, and you had to    |
-\ leave it behind.                      /
- ---------------------------------------
+ _____________________________________
+/ You'll feel much better once you've \
+\ given up hope.                      /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
