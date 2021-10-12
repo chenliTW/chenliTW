@@ -1,13 +1,15 @@
 Last Update Time: 
-Tue Oct 12 20:48:49 UTC 2021
+Tue Oct 12 21:00:18 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ But, for my own part, it was Greek to   \
-| me.                                     |
-|                                         |
-\ -- William Shakespeare, "Julius Caesar" /
- -----------------------------------------
+ ________________________________________
+/ Why is it that we rejoice at a birth   \
+| and grieve at a funeral? It is because |
+| we are not the person involved.        |
+|                                        |
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
