@@ -1,11 +1,10 @@
 Last Update Time: 
-Wed Oct 13 12:10:56 UTC 2021
+Wed Oct 13 12:47:38 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You teach best what you most need to \
-\ learn.                               /
- --------------------------------------
+ ______________________________
+< Slow day. Practice crawling. >
+ ------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
