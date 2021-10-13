@@ -1,12 +1,11 @@
 Last Update Time: 
-Wed Oct 13 09:58:18 UTC 2021
+Wed Oct 13 10:25:11 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Small things make base men proud.  \
-|                                    |
-\ -- William Shakespeare, "Henry VI" /
- ------------------------------------
+ _____________________________________
+/ Q: What is purple and conquered the \
+\ world? A: Alexander the Grape.      /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
