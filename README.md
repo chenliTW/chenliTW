@@ -1,13 +1,12 @@
 Last Update Time: 
-Wed Oct 13 07:21:06 UTC 2021
+Wed Oct 13 07:33:48 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ By trying we can easily learn to endure \
-| adversity. Another man's, I mean.       |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ _____________________________________
+/ You learn to write as if to someone \
+| else because NEXT YEAR YOU WILL BE  |
+\ "SOMEONE ELSE."                     /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
