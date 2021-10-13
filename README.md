@@ -1,11 +1,10 @@
 Last Update Time: 
-Wed Oct 13 13:32:52 UTC 2021
+Wed Oct 13 13:44:23 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Your life would be very empty if you \
-\ had nothing to regret.               /
- --------------------------------------
+ __________________________________
+< You will pass away very quickly. >
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
