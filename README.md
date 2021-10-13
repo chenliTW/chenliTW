@@ -1,19 +1,12 @@
 Last Update Time: 
-Wed Oct 13 19:29:29 UTC 2021
+Wed Oct 13 19:41:15 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ I will honour Christmas in my heart,    \
-| and try to keep it all the year. I will |
-| live in the Past, the Present, and the  |
-| Future. The Spirits of all Three shall  |
-| strive within me. I will not shut out   |
-| the lessons that they teach. Oh, tell   |
-| me that I may sponge away the writing   |
-| on this stone!                          |
-|                                         |
-\ -- Charles Dickens                      /
- -----------------------------------------
+ ________________________________________
+/ Q: What's the difference between Bell  \
+| Labs and the Boy Scouts of America? A: |
+\ The Boy Scouts have adult supervision. /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
