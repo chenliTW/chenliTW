@@ -1,12 +1,18 @@
 Last Update Time: 
-Wed Oct 13 19:41:15 UTC 2021
+Wed Oct 13 19:53:12 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: What's the difference between Bell  \
-| Labs and the Boy Scouts of America? A: |
-\ The Boy Scouts have adult supervision. /
- ----------------------------------------
+ ________________________________
+/ To be or not to be.            \
+|                                |
+| -- Shakespeare To do is to be. |
+|                                |
+| -- Nietzsche To be is to do.   |
+|                                |
+| -- Sartre Do be do be do.      |
+|                                |
+\ -- Sinatra                     /
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
