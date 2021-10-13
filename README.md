@@ -1,11 +1,11 @@
 Last Update Time: 
-Wed Oct 13 08:55:29 UTC 2021
+Wed Oct 13 09:18:41 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You will soon meet a person who will \
-\ play an important role in your life. /
- --------------------------------------
+ _________________________________________
+/ Your object is to save the world, while \
+\ still leading a pleasant life.          /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
