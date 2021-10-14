@@ -1,11 +1,11 @@
 Last Update Time: 
-Thu Oct 14 08:47:22 UTC 2021
+Thu Oct 14 08:59:23 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Chicken Little only has to be right \
-\ once.                               /
- -------------------------------------
+ ________________________________________
+/ Q: Why did the chicken cross the road? \
+\ A: He was giving it last rites.        /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
