@@ -1,10 +1,13 @@
 Last Update Time: 
-Thu Oct 14 20:06:20 UTC 2021
+Thu Oct 14 20:28:40 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-< You will outgrow your usefulness. >
- -----------------------------------
+ ________________________________________
+/ FORTUNE PROVIDES QUESTIONS FOR THE     \
+| GREAT ANSWERS: #15 A: The Royal        |
+| Canadian Mounted Police. Q: What was   |
+\ the greatest achievement in taxidermy? /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
