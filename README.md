@@ -1,11 +1,10 @@
 Last Update Time: 
-Thu Oct 14 21:53:20 UTC 2021
+Thu Oct 14 22:14:43 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Q: What is purple and conquered the \
-\ world? A: Alexander the Grape.      /
- -------------------------------------
+ ________________________________________
+< Courage is your greatest present need. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
