@@ -1,13 +1,11 @@
 Last Update Time: 
-Thu Oct 14 15:54:02 UTC 2021
+Thu Oct 14 16:23:40 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Zounds! I was never so bethumped with   \
-| words since I first called my brother's |
-| father dad.                             |
-|                                         |
-\ -- William Shakespeare, "Kind John"     /
+/ Q: What do you get when you cross the   \
+| Godfather with an attorney? A: An offer |
+\ you can't understand.                   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
