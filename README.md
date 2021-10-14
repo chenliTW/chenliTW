@@ -1,12 +1,11 @@
 Last Update Time: 
-Thu Oct 14 09:49:33 UTC 2021
+Thu Oct 14 10:04:02 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Your temporary financial embarrassment \
-| will be relieved in a surprising       |
-\ manner.                                /
- ----------------------------------------
+ _________________________________________
+/ If your life was a horse, you'd have to \
+\ shoot it.                               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
