@@ -1,12 +1,10 @@
 Last Update Time: 
-Thu Oct 14 18:23:17 UTC 2021
+Thu Oct 14 18:43:10 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Many pages make a thick book, except \
-| for pocket Bibles which are on very  |
-\ very thin paper.                     /
- --------------------------------------
+ _________________________________________
+< Day of inquiry. You will be subpoenaed. >
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
