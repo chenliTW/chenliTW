@@ -1,11 +1,14 @@
 Last Update Time: 
-Fri Oct 15 13:52:27 UTC 2021
+Fri Oct 15 14:11:07 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ Try to get all of your posthumous \
-\ medals in advance.                /
- -----------------------------------
+ _______________________________________
+/ Work consists of whatever a body is   \
+| obliged to do. Play consists of       |
+| whatever a body is not obliged to do. |
+|                                       |
+\ -- Mark Twain                         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
