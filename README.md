@@ -1,11 +1,10 @@
 Last Update Time: 
-Sat Oct 16 20:56:10 UTC 2021
+Sat Oct 16 21:17:04 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ You'll feel much better once you've \
-\ given up hope.                      /
- -------------------------------------
+ _____________________________
+< Avoid reality at all costs. >
+ -----------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
