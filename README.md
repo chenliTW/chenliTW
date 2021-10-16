@@ -1,12 +1,13 @@
 Last Update Time: 
-Sat Oct 16 14:49:38 UTC 2021
+Sat Oct 16 15:03:50 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________
-/ A is for Apple. \
-|                 |
-\ -- Hester Pryne /
- -----------------
+ ________________________________________
+/ There is no distinctly native American \
+| criminal class except Congress.        |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
