@@ -1,13 +1,12 @@
 Last Update Time: 
-Sat Oct 16 06:00:45 UTC 2021
+Sat Oct 16 06:28:16 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ It's a very *__UN*lucky week in which \
-| to be took dead.                    |
-|                                     |
-\ -- Churchy La Femme                 /
- -------------------------------------
+ _________________________________________
+/ FORTUNE PROVIDES QUESTIONS FOR THE      \
+| GREAT ANSWERS: #19 A: To be or not to   |
+\ be. Q: What is the square root of 4b^2? /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
