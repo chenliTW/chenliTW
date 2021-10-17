@@ -1,10 +1,12 @@
 Last Update Time: 
-Sun Oct 17 14:27:44 UTC 2021
+Sun Oct 17 14:39:33 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Live in a world of your own, but always \
-\ welcome visitors.                       /
+/ FORTUNE PROVIDES QUESTIONS FOR THE      \
+| GREAT ANSWERS: #21 A: Dr. Livingston I. |
+| Presume. Q: What's Dr. Presume's full   |
+\ name?                                   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
