@@ -1,11 +1,11 @@
 Last Update Time: 
-Sun Oct 17 02:52:52 UTC 2021
+Sun Oct 17 03:13:20 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You will give someone a piece of your \
-\ mind, which you can ill afford.       /
- ---------------------------------------
+ _________________________________________
+/ You will be reincarnated as a toad; and \
+\ you will be much happier.               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
