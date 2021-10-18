@@ -1,12 +1,14 @@
 Last Update Time: 
-Mon Oct 18 06:36:37 UTC 2021
+Mon Oct 18 06:53:25 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ This life is yours. Some of it was \
-| given to you; the rest, you made   |
-\ yourself.                          /
- ------------------------------------
+ _____________________________________
+/ The mind is its own place, and in   \
+| itself Can make a Heav'n of Hell, a |
+| Hell of Heav'n.                     |
+|                                     |
+\ -- John Milton                      /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
