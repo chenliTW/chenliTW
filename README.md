@@ -1,9 +1,11 @@
 Last Update Time: 
-Mon Oct 18 08:49:33 UTC 2021
+Mon Oct 18 09:03:56 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _______________________________________
-< Be careful! UGLY strikes 9 out of 10! >
+/ You'll wish that you had done some of \
+| the hard things when they were easier |
+\ to do.                                /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
