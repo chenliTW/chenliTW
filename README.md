@@ -1,10 +1,14 @@
 Last Update Time: 
-Mon Oct 18 21:56:26 UTC 2021
+Mon Oct 18 22:20:47 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: What's yellow, and equivalent to the \
-\ Axiom of Choice? A: Zorn's Lemon.       /
+/ ROMEO: Courage, man; the hurt cannot be \
+| much. MERCUTIO: No, 'tis not so deep as |
+| a well, nor so wide                     |
+|                                         |
+| as a church-door; but 'tis enough,      |
+\ 'twill serve.                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
