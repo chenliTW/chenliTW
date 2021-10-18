@@ -1,12 +1,12 @@
 Last Update Time: 
-Mon Oct 18 20:34:50 UTC 2021
+Mon Oct 18 20:46:34 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: What's the difference between Bell  \
-| Labs and the Boy Scouts of America? A: |
-\ The Boy Scouts have adult supervision. /
- ----------------------------------------
+ _________________________________________
+/ Q: What do you get when you cross the   \
+| Godfather with an attorney? A: An offer |
+\ you can't understand.                   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
