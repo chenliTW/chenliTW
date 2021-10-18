@@ -1,11 +1,11 @@
 Last Update Time: 
-Mon Oct 18 10:49:36 UTC 2021
+Mon Oct 18 11:03:38 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You will be reincarnated as a toad; and \
-\ you will be much happier.               /
- -----------------------------------------
+ __________________________________
+/ You will win success in whatever \
+\ calling you adopt.               /
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
