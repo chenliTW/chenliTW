@@ -1,11 +1,12 @@
 Last Update Time: 
-Tue Oct 19 02:21:27 UTC 2021
+Tue Oct 19 02:47:40 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ You'll feel much better once you've \
-\ given up hope.                      /
- -------------------------------------
+ _________________________________________
+/ Conscience doth make cowards of us all. \
+|                                         |
+\ -- Shakespeare                          /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
