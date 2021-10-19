@@ -1,11 +1,13 @@
 Last Update Time: 
-Tue Oct 19 19:49:24 UTC 2021
+Tue Oct 19 20:04:16 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ You will not be elected to public \
-\ office this year.                 /
- -----------------------------------
+ _____________________________________
+/ It's a very *__UN*lucky week in which \
+| to be took dead.                    |
+|                                     |
+\ -- Churchy La Femme                 /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
