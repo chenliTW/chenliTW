@@ -1,11 +1,11 @@
 Last Update Time: 
-Tue Oct 19 19:25:17 UTC 2021
+Tue Oct 19 19:37:27 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Learn to pause -- or nothing worthwhile \
-\ can catch up to you.                    /
- -----------------------------------------
+ ___________________________________
+/ Do not sleep in a eucalyptus tree \
+\ tonight.                          /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
