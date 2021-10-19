@@ -1,16 +1,12 @@
 Last Update Time: 
-Tue Oct 19 13:16:35 UTC 2021
+Tue Oct 19 13:35:07 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The holy passion of Friendship is of so \
-| sweet and steady and loyal and enduring |
-| a nature that it will last through a    |
-| whole lifetime, if not asked to lend    |
-| money.                                  |
+/ I think we are in Rats' Alley where the \
+| dead men lost their bones.              |
 |                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
+\ -- T.S. Eliot                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
