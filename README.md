@@ -1,15 +1,17 @@
 Last Update Time: 
-Tue Oct 19 12:51:16 UTC 2021
+Tue Oct 19 13:16:35 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Consider well the proportions of       \
-| things. It is better to be a young     |
-| June-bug than an old bird of paradise. |
-|                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
- ----------------------------------------
+ _________________________________________
+/ The holy passion of Friendship is of so \
+| sweet and steady and loyal and enduring |
+| a nature that it will last through a    |
+| whole lifetime, if not asked to lend    |
+| money.                                  |
+|                                         |
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
