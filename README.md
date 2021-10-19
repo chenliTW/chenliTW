@@ -1,11 +1,12 @@
 Last Update Time: 
-Tue Oct 19 14:57:55 UTC 2021
+Tue Oct 19 15:24:09 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Your goose is cooked. (Your current \
-\ chick is burned up too!)            /
- -------------------------------------
+ ________________________________________
+/ Your best consolation is the hope that \
+| the things you failed to get weren't   |
+\ really worth having.                   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
