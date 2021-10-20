@@ -1,13 +1,16 @@
 Last Update Time: 
-Wed Oct 20 21:55:31 UTC 2021
+Wed Oct 20 22:19:04 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ All things that are, are with more   \
-| spirit chased than enjoyed.          |
-|                                      |
-\ -- Shakespeare, "Merchant of Venice" /
- --------------------------------------
+ ________________________________________
+/ All say, "How hard it is that we have  \
+| to die"--a strange complaint to come   |
+| from the mouths of people who have had |
+| to live.                               |
+|                                        |
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
