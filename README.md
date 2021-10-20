@@ -1,19 +1,11 @@
 Last Update Time: 
-Wed Oct 20 22:35:03 UTC 2021
+Wed Oct 20 22:46:40 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ We should be careful to get out of an   \
-| experience only the wisdom that is in   |
-| it - and stay there, lest we be like    |
-| the cat that sits down on a hot         |
-| stove-lid. She will never sit down on a |
-| hot stove-lid again - and that is well; |
-| but also she will never sit down on a   |
-| cold one any more.                      |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ _____________________________________
+/ Your sister swims out to meet troop \
+\ ships.                              /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
