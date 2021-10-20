@@ -1,11 +1,10 @@
 Last Update Time: 
-Wed Oct 20 18:48:55 UTC 2021
+Wed Oct 20 19:01:14 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ You have the capacity to learn from \
-\ mistakes. You'll learn a lot today. /
- -------------------------------------
+ ___________________________
+< Is this really happening? >
+ ---------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
