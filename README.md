@@ -1,12 +1,14 @@
 Last Update Time: 
-Thu Oct 21 20:32:47 UTC 2021
+Thu Oct 21 20:44:32 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ A light wife doth make a heavy husband. \
+/ A hundred years from now it is very     \
+| likely that [of Twain's works] "The     |
+| Jumping Frog" alone will be remembered. |
 |                                         |
-| -- Wm. Shakespeare, "The Merchant of    |
-\ Venice"                                 /
+| -- Harry Thurston Peck (Editor of "The  |
+\ Bookman"), January 1901.                /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
