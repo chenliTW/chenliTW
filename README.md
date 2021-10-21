@@ -1,14 +1,11 @@
 Last Update Time: 
-Thu Oct 21 23:23:56 UTC 2021
+Thu Oct 21 23:38:40 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Hain't we got all the fools in town on \
-| our side? And hain't that a big enough |
-| majority in any town?                  |
-|                                        |
-\ -- Mark Twain, "Huckleberry Finn"      /
- ----------------------------------------
+ _____________________________________
+/ Don't relax! It's only your tension \
+\ that's holding you together.        /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
