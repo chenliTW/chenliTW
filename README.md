@@ -1,11 +1,13 @@
 Last Update Time: 
-Fri Oct 22 09:54:49 UTC 2021
+Fri Oct 22 10:18:43 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ You have the capacity to learn from \
-\ mistakes. You'll learn a lot today. /
- -------------------------------------
+ ____________________________________
+/ An honest tale speeds best being   \
+| plainly told.                      |
+|                                    |
+\ -- William Shakespeare, "Henry VI" /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
