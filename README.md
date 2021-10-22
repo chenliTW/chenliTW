@@ -1,11 +1,11 @@
 Last Update Time: 
-Fri Oct 22 05:39:46 UTC 2021
+Fri Oct 22 05:51:32 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ Your heart is pure, and your mind \
-\ clear, and your soul devout.      /
- -----------------------------------
+ _____________________________________
+/ Beware of a tall blond man with one \
+\ black shoe.                         /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
