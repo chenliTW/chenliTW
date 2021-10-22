@@ -1,12 +1,15 @@
 Last Update Time: 
-Fri Oct 22 13:29:23 UTC 2021
+Fri Oct 22 13:42:53 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You need no longer worry about the   \
-| future. This time tomorrow you'll be |
-\ dead.                                /
- --------------------------------------
+ ________________________________________
+/ This is the first age that's paid much \
+| attention to the future, which is a    |
+| little ironic since we may not have    |
+| one.                                   |
+|                                        |
+\ -- Arthur Clarke                       /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
