@@ -1,12 +1,25 @@
 Last Update Time: 
-Fri Oct 22 15:51:03 UTC 2021
+Fri Oct 22 16:12:33 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Many pages make a thick book, except \
-| for pocket Bibles which are on very  |
-\ very thin paper.                     /
- --------------------------------------
+ _________________________________________
+/ The bone-chilling scream split the warm \
+| summer night in two, the first half     |
+| being before the scream when it was     |
+| fairly balmy and calm and pleasant, the |
+| second half still balmy and quite       |
+| pleasant for those who hadn't heard the |
+| scream at all, but not calm or balmy or |
+| even very nice for those who did hear   |
+| the scream, discounting the little      |
+| period of time during the actual scream |
+| itself when your ears might have been   |
+| hearing it but your brain wasn't        |
+| reacting yet to let you know.           |
+|                                         |
+| -- Winning sentence, 1986 Bulwer-Lytton |
+\ bad fiction contest.                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
