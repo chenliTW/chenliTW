@@ -1,14 +1,11 @@
 Last Update Time: 
-Fri Oct 22 03:57:19 UTC 2021
+Fri Oct 22 04:29:41 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ There is always one thing to remember: \
-| writers are always selling somebody    |
-| out.                                   |
-|                                        |
-| -- Joan Didion, "Slouching Towards     |
-\ Bethlehem"                             /
+/ You can do very well in speculation    \
+| where land or anything to do with dirt |
+\ is concerned.                          /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
