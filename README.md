@@ -1,10 +1,11 @@
 Last Update Time: 
-Sat Oct 23 11:51:43 UTC 2021
+Sat Oct 23 12:15:03 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _______________________________________
-/ You seek to shield those you love and \
-\ you like the role of the provider.    /
+/ Q: How many IBM 370's does it take to \
+| execute a job? A: Four, three to hold |
+\ it down, and one to rip its head off. /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
