@@ -1,14 +1,9 @@
 Last Update Time: 
-Sat Oct 23 09:37:41 UTC 2021
+Sat Oct 23 09:49:24 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ It is often the case that the man who  \
-| can't tell a lie thinks he is the best |
-| judge of one.                          |
-|                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
+< Courage is your greatest present need. >
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
