@@ -1,11 +1,15 @@
 Last Update Time: 
-Sat Oct 23 15:11:11 UTC 2021
+Sat Oct 23 15:32:36 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ You display the wonderful traits of \
-\ charm and courtesy.                 /
- -------------------------------------
+ ________________________________________
+/ Consider well the proportions of       \
+| things. It is better to be a young     |
+| June-bug than an old bird of paradise. |
+|                                        |
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
