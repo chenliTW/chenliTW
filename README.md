@@ -1,16 +1,11 @@
 Last Update Time: 
-Sat Oct 23 03:22:27 UTC 2021
+Sat Oct 23 03:38:19 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________
-/ AWAKE! FEAR! FIRE! FOES! AWAKE! \
-|                                 |
-| FEAR! FIRE! FOES!               |
-|                                 |
-| AWAKE! AWAKE!                   |
-|                                 |
-\ -- J. R. R. Tolkien             /
- ---------------------------------
+ ________________________________________
+/ You are farsighted, a good planner, an \
+\ ardent lover, and a faithful friend.   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
