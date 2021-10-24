@@ -1,13 +1,14 @@
 Last Update Time: 
-Sun Oct 24 01:36:48 UTC 2021
+Sun Oct 24 02:17:28 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Nothing so needs reforming as other \
-| people's habits.                    |
-|                                     |
-\ -- Mark Twain                       /
- -------------------------------------
+ ________________________________________
+/ Q: Why does Washington have the most   \
+| lawyers per capita and                 |
+|                                        |
+| New Jersey the most toxic waste dumps? |
+\ A: God gave New Jersey first choice.   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
