@@ -1,12 +1,14 @@
 Last Update Time: 
-Sun Oct 24 23:01:08 UTC 2021
+Sun Oct 24 23:24:34 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ What no spouse of a writer can ever    \
-| understand is that a writer is working |
-\ when he's staring out the window.      /
- ----------------------------------------
+ _________________________________________
+/ If more of us valued food and cheer and \
+| song above hoarded gold, it would be a  |
+| merrier world.                          |
+|                                         |
+\ -- J.R.R. Tolkien                       /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
