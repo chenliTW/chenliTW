@@ -1,10 +1,10 @@
 Last Update Time: 
-Sun Oct 24 13:31:25 UTC 2021
+Sun Oct 24 13:43:14 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________
-< You are always busy. >
- ----------------------
+ _______________________________________
+< You will inherit millions of dollars. >
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
