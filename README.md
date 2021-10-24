@@ -1,18 +1,13 @@
 Last Update Time: 
-Sun Oct 24 10:06:21 UTC 2021
+Sun Oct 24 10:30:49 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________
-/ To be or not to be.            \
-|                                |
-| -- Shakespeare To do is to be. |
-|                                |
-| -- Nietzsche To be is to do.   |
-|                                |
-| -- Sartre Do be do be do.      |
-|                                |
-\ -- Sinatra                     /
- --------------------------------
+ _______________________________________
+/ Q: What's the difference betweeen USL \
+| and the Graf Zeppelin? A: The Graf    |
+| Zeppelin represented cutting edge     |
+\ technology for its time.              /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
