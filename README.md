@@ -1,15 +1,11 @@
 Last Update Time: 
-Sun Oct 24 08:35:37 UTC 2021
+Sun Oct 24 08:47:26 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Habit is habit, and not to be flung out \
-| of the window by any man, but coaxed    |
-| down-stairs a step at a time.           |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar                                /
- -----------------------------------------
+ _______________________________________
+/ Q: What is purple and commutes? A: An \
+\ Abelian grape.                        /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
