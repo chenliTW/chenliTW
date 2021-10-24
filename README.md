@@ -1,14 +1,14 @@
 Last Update Time: 
-Sun Oct 24 02:17:28 UTC 2021
+Sun Oct 24 02:44:23 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why does Washington have the most   \
-| lawyers per capita and                 |
-|                                        |
-| New Jersey the most toxic waste dumps? |
-\ A: God gave New Jersey first choice.   /
- ----------------------------------------
+ _____________________________________
+/ When angry, count four; when very   \
+| angry, swear.                       |
+|                                     |
+| -- Mark Twain, "Pudd'nhead Wilson's |
+\ Calendar"                           /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
