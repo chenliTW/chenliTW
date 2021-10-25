@@ -1,11 +1,12 @@
 Last Update Time: 
-Mon Oct 25 13:29:38 UTC 2021
+Mon Oct 25 13:43:23 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ Try to get all of your posthumous \
-\ medals in advance.                /
- -----------------------------------
+ ________________________________________
+/ What no spouse of a writer can ever    \
+| understand is that a writer is working |
+\ when he's staring out the window.      /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
