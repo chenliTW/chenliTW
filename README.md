@@ -1,17 +1,12 @@
 Last Update Time: 
-Tue Oct 26 05:28:19 UTC 2021
+Tue Oct 26 05:40:06 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Steady movement is more important than \
-| speed, much of the time. So long as    |
-| there is a regular progression of      |
-| stimuli to get your mental hooks into, |
-| there is room for lateral movement.    |
-| Once this begins, its rate is a matter |
-| of discretion.                         |
+/ It usually takes more than three weeks \
+| to prepare a good impromptu speech.    |
 |                                        |
-\ -- Corwin, Prince of Amber             /
+\ -- Mark Twain                          /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
