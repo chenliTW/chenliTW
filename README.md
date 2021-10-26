@@ -1,16 +1,12 @@
 Last Update Time: 
-Tue Oct 26 19:40:30 UTC 2021
+Tue Oct 26 19:52:32 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Gratitude and treachery are merely the  \
-| two extremities of the same procession. |
-| You have seen all of it that is worth   |
-| staying for when the band and the gaudy |
-| officials have gone by.                 |
+/ He that breaks a thing to find out what \
+| it is has left the path of wisdom.      |
 |                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
+\ -- J.R.R. Tolkien                       /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
