@@ -1,13 +1,12 @@
 Last Update Time: 
-Tue Oct 26 11:53:27 UTC 2021
+Tue Oct 26 12:22:36 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Go not to the elves for counsel, for \
-| they will say both yes and no.       |
-|                                      |
-\ -- J.R.R. Tolkien                    /
- --------------------------------------
+ _________________________________________
+/ You will be attacked by a beast who has \
+| the body of a wolf, the tail of a lion, |
+\ and the face of Donald Duck.            /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
