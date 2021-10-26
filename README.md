@@ -1,12 +1,10 @@
 Last Update Time: 
-Tue Oct 26 06:13:38 UTC 2021
+Tue Oct 26 06:38:59 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Talkers are no good doers.         \
-|                                    |
-\ -- William Shakespeare, "Henry VI" /
- ------------------------------------
+ _______________________________
+< Many pages make a thick book. >
+ -------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
