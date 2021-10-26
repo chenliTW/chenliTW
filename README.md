@@ -1,11 +1,14 @@
 Last Update Time: 
-Tue Oct 26 03:59:31 UTC 2021
+Tue Oct 26 04:31:14 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You will be reincarnated as a toad; and \
-\ you will be much happier.               /
- -----------------------------------------
+ _______________________________________
+/ Few things are harder to put up with  \
+| than the annoyance of a good example. |
+|                                       |
+| -- "Mark Twain, Pudd'nhead Wilson's   |
+\ Calendar"                             /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
