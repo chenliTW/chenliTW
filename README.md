@@ -1,12 +1,13 @@
 Last Update Time: 
-Tue Oct 26 07:30:56 UTC 2021
+Tue Oct 26 07:42:42 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ What no spouse of a writer can ever    \
-| understand is that a writer is working |
-\ when he's staring out the window.      /
- ----------------------------------------
+ _________________________________________
+/ Always do right. This will gratify some \
+| people and astonish the rest.           |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
