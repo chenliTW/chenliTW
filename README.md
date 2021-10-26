@@ -1,12 +1,15 @@
 Last Update Time: 
-Tue Oct 26 15:34:17 UTC 2021
+Tue Oct 26 15:49:26 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: How many marketing people does it \
-| take to change a light bulb? A: I'll |
-\ have to get back to you on that.     /
- --------------------------------------
+ _________________________________________
+/ Q: How many mathematicians does it take \
+| to screw in a light bulb? A: One. He    |
+| gives it to six Californians, thereby   |
+| reducing the problem                    |
+|                                         |
+\ to the earlier joke.                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
