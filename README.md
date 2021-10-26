@@ -1,14 +1,10 @@
 Last Update Time: 
-Tue Oct 26 03:47:35 UTC 2021
+Tue Oct 26 03:59:31 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many mathematicians does it take \
-| to screw in a light bulb? A: One. He    |
-| gives it to six Californians, thereby   |
-| reducing the problem                    |
-|                                         |
-\ to the earlier joke.                    /
+/ You will be reincarnated as a toad; and \
+\ you will be much happier.               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
