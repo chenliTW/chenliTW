@@ -1,11 +1,13 @@
 Last Update Time: 
-Tue Oct 26 21:16:16 UTC 2021
+Tue Oct 26 21:30:59 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Tonight you will pay the wages of sin; \
-\ Don't forget to leave a tip.           /
- ----------------------------------------
+ _________________________________________
+/ By trying we can easily learn to endure \
+| adversity. Another man's, I mean.       |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
