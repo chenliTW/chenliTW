@@ -1,13 +1,14 @@
 Last Update Time: 
-Tue Oct 26 03:18:22 UTC 2021
+Tue Oct 26 03:35:15 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ FORTUNE PROVIDES QUESTIONS FOR THE      \
-| GREAT ANSWERS: #21 A: Dr. Livingston I. |
-| Presume. Q: What's Dr. Presume's full   |
-\ name?                                   /
- -----------------------------------------
+ _______________________________________
+/ Q: What do you call the money you pay \
+| to the government when                |
+|                                       |
+| you ride into the country on the back |
+\ of an elephant? A: A howdah duty.     /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
