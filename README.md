@@ -1,11 +1,11 @@
 Last Update Time: 
-Tue Oct 26 17:09:31 UTC 2021
+Tue Oct 26 17:35:14 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ You will not be elected to public \
-\ office this year.                 /
- -----------------------------------
+ ______________________________________
+/ You have an unusual understanding of \
+\ the problems of human relationships. /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
