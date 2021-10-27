@@ -1,14 +1,10 @@
 Last Update Time: 
-Wed Oct 27 22:19:31 UTC 2021
+Wed Oct 27 22:35:46 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ The secret source of humor is not joy \
-| but sorrow; there is no humor in      |
-| Heaven.                               |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ ___________________________
+< Chicken Little was right. >
+ ---------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
