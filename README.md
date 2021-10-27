@@ -1,13 +1,11 @@
 Last Update Time: 
-Wed Oct 27 10:51:15 UTC 2021
+Wed Oct 27 11:07:57 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Never laugh at live dragons.           \
-|                                        |
-| -- Bilbo Baggins [J.R.R. Tolkien, "The |
-\ Hobbit"]                               /
- ----------------------------------------
+ _______________________________________
+/ You seek to shield those you love and \
+\ you like the role of the provider.    /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
