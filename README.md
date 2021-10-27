@@ -1,10 +1,11 @@
 Last Update Time: 
-Wed Oct 27 18:25:59 UTC 2021
+Wed Oct 27 18:46:27 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ You have a will that can be influenced \
-\ by all with whom you come in contact.  /
+/ Q: Why do firemen wear red suspenders? \
+| A: To conform with departmental        |
+\ regulations concerning uniform dress.  /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
