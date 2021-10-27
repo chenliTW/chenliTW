@@ -1,12 +1,13 @@
 Last Update Time: 
-Wed Oct 27 07:54:40 UTC 2021
+Wed Oct 27 08:20:36 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Many pages make a thick book, except \
-| for pocket Bibles which are on very  |
-\ very thin paper.                     /
- --------------------------------------
+ _______________________________________
+/ Q: What do monsters eat? A: Things.   \
+|                                       |
+| Q: What do monsters drink? A: Coke.   |
+\ (Because Things go better with Coke.) /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
