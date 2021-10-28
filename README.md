@@ -1,15 +1,13 @@
 Last Update Time: 
-Thu Oct 28 21:55:41 UTC 2021
+Thu Oct 28 22:18:59 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ If you pick up a starving dog and make \
-| him prosperous, he will not bite you.  |
-| This is the principal difference       |
-| between a dog and a man.               |
+/ Q: Why do the police always travel in  \
+| threes? A: One to do the reading, one  |
+| to do the writing, and the other keeps |
 |                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
+\ an eye on the two intellectuals.       /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
