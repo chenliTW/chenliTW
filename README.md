@@ -1,11 +1,12 @@
 Last Update Time: 
-Fri Oct 29 14:20:40 UTC 2021
+Fri Oct 29 14:33:08 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Your sister swims out to meet troop \
-\ ships.                              /
- -------------------------------------
+ _______________________________________
+/ Q: What do you have when you have a   \
+| lawyer buried up to his neck in sand? |
+\ A: Not enough sand.                   /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
