@@ -1,11 +1,14 @@
 Last Update Time: 
-Fri Oct 29 05:14:09 UTC 2021
+Fri Oct 29 05:29:18 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Don't plan any hasty moves. You'll be \
-\ evicted soon anyway.                  /
- ---------------------------------------
+ ______________________________________
+/ Tell the truth or trump--but get the \
+| trick.                               |
+|                                      |
+| -- Mark Twain, "Pudd'nhead Wilson's  |
+\ Calendar"                            /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
