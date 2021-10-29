@@ -1,15 +1,18 @@
 Last Update Time: 
-Fri Oct 29 09:57:09 UTC 2021
+Fri Oct 29 10:25:15 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ When I reflect upon the number of       \
-| disagreeable people who I know who have |
-| gone to a better world, I am moved to   |
-| lead a different life.                  |
+/ We should be careful to get out of an   \
+| experience only the wisdom that is in   |
+| it - and stay there, lest we be like    |
+| the cat that sits down on a hot         |
+| stove-lid. She will never sit down on a |
+| hot stove-lid again - and that is well; |
+| but also she will never sit down on a   |
+| cold one any more.                      |
 |                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
