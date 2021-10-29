@@ -1,11 +1,13 @@
 Last Update Time: 
-Fri Oct 29 00:22:14 UTC 2021
+Fri Oct 29 01:33:57 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You will give someone a piece of your \
-\ mind, which you can ill afford.       /
- ---------------------------------------
+ ________________________________________
+/ There's small choice in rotten apples. \
+|                                        |
+| -- William Shakespeare, "The Taming of |
+\ the Shrew"                             /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
