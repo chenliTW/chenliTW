@@ -1,12 +1,11 @@
 Last Update Time: 
-Sat Oct 30 15:50:10 UTC 2021
+Sat Oct 30 16:08:41 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Talkers are no good doers.         \
-|                                    |
-\ -- William Shakespeare, "Henry VI" /
- ------------------------------------
+ _____________________________________
+/ You recoil from the crude; you tend \
+\ naturally toward the exquisite.     /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
