@@ -1,11 +1,11 @@
 Last Update Time: 
-Sat Oct 30 10:56:50 UTC 2021
+Sat Oct 30 11:17:28 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ Don't look back, the lemmings are \
-\ gaining on you.                   /
- -----------------------------------
+ ______________________________________
+/ You teach best what you most need to \
+\ learn.                               /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
