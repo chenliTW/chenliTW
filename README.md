@@ -1,15 +1,14 @@
 Last Update Time: 
-Sat Oct 30 19:16:57 UTC 2021
+Sat Oct 30 19:29:02 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many bureaucrats does it take to \
-| screw in a light bulb? A: Two. One to   |
-| assure everyone that everything         |
-| possible is being                       |
+/ Q: How many Bell Labs Vice Presidents   \
+| does it take to change a light bulb? A: |
+| That's proprietary information. Answer  |
+| available from AT&T on payment          |
 |                                         |
-| done while the other screws the bulb    |
-\ into the water faucet.                  /
+\ of license fee (binary only).           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
