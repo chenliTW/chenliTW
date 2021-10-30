@@ -1,11 +1,10 @@
 Last Update Time: 
-Sat Oct 30 14:31:07 UTC 2021
+Sat Oct 30 14:42:53 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ You have the power to influence all \
-\ with whom you come in contact.      /
- -------------------------------------
+ ________________________________
+< It's all in the mind, ya know. >
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
