@@ -1,11 +1,10 @@
 Last Update Time: 
-Sat Oct 30 11:53:12 UTC 2021
+Sat Oct 30 12:20:00 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ A vivid and creative mind characterizes \
-\ you.                                    /
- -----------------------------------------
+ ________________________________________
+< Your ignorance cramps my conversation. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
