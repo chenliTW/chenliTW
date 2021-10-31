@@ -1,13 +1,12 @@
 Last Update Time: 
-Sun Oct 31 14:41:09 UTC 2021
+Sun Oct 31 14:53:06 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _______________________________________
-/ Whenever you find that you are on the \
-| side of the majority, it is time to   |
-| reform.                               |
+/ I dote on his very absence.           \
 |                                       |
-\ -- Mark Twain                         /
+| -- William Shakespeare, "The Merchant |
+\ of Venice"                            /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
