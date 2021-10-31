@@ -1,21 +1,13 @@
 Last Update Time: 
-Sun Oct 31 14:14:49 UTC 2021
+Sun Oct 31 14:29:08 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ For the fashion of Minas Tirith was     \
-| such that it was built on seven levels, |
-| each delved into a hill, and about each |
-| was set a wall, and in each wall was a  |
-| gate.                                   |
+/ Soap and education are not as sudden as \
+| a massacre, but they are more deadly in |
+| the long run.                           |
 |                                         |
-| -- J.R.R. Tolkien, "The Return of the   |
-| King"                                   |
-|                                         |
-| [Quoted in "VMS Internals and Data      |
-| Structures", V4.4, when                 |
-|                                         |
-\ referring to system overview.]          /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
