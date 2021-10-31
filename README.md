@@ -1,13 +1,22 @@
 Last Update Time: 
-Sun Oct 31 12:46:43 UTC 2021
+Sun Oct 31 13:08:47 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: What do monsters eat? A: Things.   \
-|                                       |
-| Q: What do monsters drink? A: Coke.   |
-\ (Because Things go better with Coke.) /
- ---------------------------------------
+ _________________________________________
+/ There are three infallible ways of      \
+| pleasing an author, and the three form  |
+| a rising scale of compliment: 1, to     |
+| tell him you have read one of his       |
+| books; 2, to tell him you have read all |
+| of his books; 3, to ask him to let you  |
+| read the manuscript of his forthcoming  |
+| book. No. 1 admits you to his respect;  |
+| No. 2 admits you to his admiration; No. |
+| 3 carries you clear into his heart.     |
+|                                         |
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
