@@ -1,11 +1,10 @@
 Last Update Time: 
-Sun Oct 31 23:22:58 UTC 2021
+Sun Oct 31 23:37:40 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why did the tachyon cross the road? \
-\ A: Because it was on the other side.   /
- ----------------------------------------
+ ____________________________
+< Just to have it is enough. >
+ ----------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
