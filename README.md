@@ -1,12 +1,18 @@
 Last Update Time: 
-Mon Nov  1 04:59:42 UTC 2021
+Mon Nov  1 05:22:00 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: How did you get into artificial   \
-| intelligence? A: Seemed logical -- I |
-\ didn't have any real intelligence.   /
- --------------------------------------
+ ________________________________________
+/ It is easy to find fault, if one has   \
+| that disposition. There was once a man |
+| who, not being able to find any other  |
+| fault with his coal, complained that   |
+| there were too many prehistoric toads  |
+| in it.                                 |
+|                                        |
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
