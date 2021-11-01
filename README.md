@@ -1,13 +1,12 @@
 Last Update Time: 
-Mon Nov  1 04:45:14 UTC 2021
+Mon Nov  1 04:59:42 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ The smallest worm will turn being  \
-| trodden on.                        |
-|                                    |
-\ -- William Shakespeare, "Henry VI" /
- ------------------------------------
+ ______________________________________
+/ Q: How did you get into artificial   \
+| intelligence? A: Seemed logical -- I |
+\ didn't have any real intelligence.   /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
