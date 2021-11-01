@@ -1,13 +1,11 @@
 Last Update Time: 
-Mon Nov  1 06:28:17 UTC 2021
+Mon Nov  1 06:50:15 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________
-/ The surest protection against \
-| temptation is cowardice.      |
-|                               |
-\ -- Mark Twain                 /
- -------------------------------
+ ________________________________________
+/ You possess a mind not merely twisted, \
+\ but actually sprained.                 /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
