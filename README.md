@@ -1,11 +1,11 @@
 Last Update Time: 
-Tue Nov  2 03:53:18 UTC 2021
+Tue Nov  2 04:18:11 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You seek to shield those you love and \
-\ you like the role of the provider.    /
- ---------------------------------------
+ _________________________________________
+/ Of course you have a purpose -- to find \
+\ a purpose.                              /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
