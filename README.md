@@ -1,16 +1,11 @@
 Last Update Time: 
-Tue Nov  2 10:32:12 UTC 2021
+Tue Nov  2 10:45:48 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: Where's the Lone Ranger take his     \
-| garbage? A: To the dump, to the dump,   |
-| to the dump dump dump!                  |
-|                                         |
-| Q: What's the Pink Panther say when he  |
-| steps on an ant hill? A: Dead ant, dead |
-\ ant, dead ant dead ant dead ant...      /
- -----------------------------------------
+ ________________________________________
+/ You prefer the company of the opposite \
+\ sex, but are well liked by your own.   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
