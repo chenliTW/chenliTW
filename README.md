@@ -1,18 +1,14 @@
 Last Update Time: 
-Tue Nov  2 02:20:06 UTC 2021
+Tue Nov  2 02:47:16 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ I got a hint of things to come when I   \
-| overheard my boss lamenting, 'The books |
-| are done and we still don't have an     |
-| author! I must sign someone today!      |
-|                                         |
-| -- Tamim Ansary, "Edutopia Magazine,    |
-| Issue 2, November 2004"                 |
-|                                         |
-\ on the topic of school textbooks        /
- -----------------------------------------
+ ________________________________________
+/ Q: Why should you always serve a       \
+| Southern Carolina football man         |
+|                                        |
+| soup in a plate? A: 'Cause if you give |
+\ him a bowl, he'll throw it away.       /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
