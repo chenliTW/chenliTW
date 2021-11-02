@@ -1,18 +1,11 @@
 Last Update Time: 
-Tue Nov  2 05:57:23 UTC 2021
+Tue Nov  2 06:27:09 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Steady movement is more important than \
-| speed, much of the time. So long as    |
-| there is a regular progression of      |
-| stimuli to get your mental hooks into, |
-| there is room for lateral movement.    |
-| Once this begins, its rate is a matter |
-| of discretion.                         |
-|                                        |
-\ -- Corwin, Prince of Amber             /
- ----------------------------------------
+ _________________________________
+/ Q: What is the sound of one cat \
+\ napping? A: Mu.                 /
+ ---------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
