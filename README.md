@@ -1,14 +1,15 @@
 Last Update Time: 
-Wed Nov  3 08:39:23 UTC 2021
+Wed Nov  3 08:51:00 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ The secret source of humor is not joy \
-| but sorrow; there is no humor in      |
-| Heaven.                               |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ ________________________________________
+/ Why is it that we rejoice at a birth   \
+| and grieve at a funeral? It is because |
+| we are not the person involved.        |
+|                                        |
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
