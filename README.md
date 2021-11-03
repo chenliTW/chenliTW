@@ -1,12 +1,11 @@
 Last Update Time: 
-Wed Nov  3 07:54:38 UTC 2021
+Wed Nov  3 08:20:19 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Your analyst has you mixed up with     \
-| another patient. Don't believe a thing |
-\ he tells you.                          /
- ----------------------------------------
+ ______________________________________
+/ You have an unusual understanding of \
+\ the problems of human relationships. /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
