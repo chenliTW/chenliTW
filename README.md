@@ -1,18 +1,10 @@
 Last Update Time: 
-Wed Nov  3 22:35:50 UTC 2021
+Wed Nov  3 22:47:51 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ We know all about the habits of the    \
-| ant, we know all about the habits of   |
-| the bee, but we know nothing at all    |
-| about the habits of the oyster. It     |
-| seems almost certain that we have been |
-| choosing the wrong time for studying   |
-| the oyster.                            |
-|                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
+/ You are sick, twisted and perverted. I \
+\ like that in a person.                 /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
