@@ -1,14 +1,11 @@
 Last Update Time: 
-Thu Nov  4 03:47:53 UTC 2021
+Thu Nov  4 03:59:46 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Work consists of whatever a body is   \
-| obliged to do. Play consists of       |
-| whatever a body is not obliged to do. |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ ________________________________________
+/ Q: Why was Stonehenge abandoned? A: It \
+\ wasn't IBM compatible.                 /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
