@@ -1,12 +1,13 @@
 Last Update Time: 
-Thu Nov  4 08:39:45 UTC 2021
+Thu Nov  4 08:51:37 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________
-/ Don't worry. Life's too long. \
-|                               |
-\ -- Vincent Sardi, Jr.         /
- -------------------------------
+ _______________________________________
+/ Kindness is a language which the deaf \
+| can hear and the blind can read.      |
+|                                       |
+\ -- Mark Twain                         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
