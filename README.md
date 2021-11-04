@@ -1,15 +1,11 @@
 Last Update Time: 
-Thu Nov  4 03:19:11 UTC 2021
+Thu Nov  4 03:35:51 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ The man who sets out to carry a cat by \
-| its tail learns something that will    |
-| always be useful and which never will  |
-| grow dim or doubtful.                  |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ ____________________________________
+/ You have many friends and very few \
+\ living enemies.                    /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
