@@ -1,24 +1,18 @@
 Last Update Time: 
-Fri Nov  5 08:51:52 UTC 2021
+Fri Nov  5 09:10:09 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Delores breezed along the surface of    \
-| her life like a flat stone forever      |
-| skipping along smooth water, rippling   |
-| reality sporadically but oblivious to   |
-| it consistently, until she finally lost |
-| momentum, sank, and due to an overdose  |
-| of flouride as a child which caused her |
-| to suffer from chronic apathy, doomed   |
-| herself to lie forever on the floor of  |
-| her life as useless as an appendix and  |
-| as lonely as a five-hundred pound       |
-| barbell in a steroid-free fitness       |
-| center.                                 |
+/ We should be careful to get out of an   \
+| experience only the wisdom that is in   |
+| it - and stay there, lest we be like    |
+| the cat that sits down on a hot         |
+| stove-lid. She will never sit down on a |
+| hot stove-lid again - and that is well; |
+| but also she will never sit down on a   |
+| cold one any more.                      |
 |                                         |
-| -- Winning sentence, 1990 Bulwer-Lytton |
-\ bad fiction contest.                    /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
