@@ -1,14 +1,11 @@
 Last Update Time: 
-Fri Nov  5 13:56:55 UTC 2021
+Fri Nov  5 14:20:18 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ The human race is a race of cowards; \
-| and I am not only marching in that   |
-| procession but carrying a banner.    |
-|                                      |
-\ -- Mark Twain                        /
- --------------------------------------
+ ________________________________________
+/ Q: Why was Stonehenge abandoned? A: It \
+\ wasn't IBM compatible.                 /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
