@@ -1,15 +1,14 @@
 Last Update Time: 
-Sat Nov  6 06:45:43 UTC 2021
+Sat Nov  6 06:57:28 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ There is no hunting like the hunting of \
-| man, and those who have hunted armed    |
-| men long enough and liked it, never     |
-| care for anything else thereafter.      |
-|                                         |
-\ -- Ernest Hemingway                     /
- -----------------------------------------
+ _______________________________________
+/ I must have a prodigious quantity of  \
+| mind; it takes me as much as a week   |
+| sometimes to make it up.              |
+|                                       |
+\ -- Mark Twain, "The Innocents Abroad" /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
