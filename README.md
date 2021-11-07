@@ -1,10 +1,16 @@
 Last Update Time: 
-Sun Nov  7 12:23:41 UTC 2021
+Sun Nov  7 12:55:07 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-< Your present plans will be successful. >
- ----------------------------------------
+ _________________________________________
+/ Q: How many bureaucrats does it take to \
+| screw in a light bulb? A: Two. One to   |
+| assure everyone that everything         |
+| possible is being                       |
+|                                         |
+| done while the other screws the bulb    |
+\ into the water faucet.                  /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
