@@ -1,15 +1,12 @@
 Last Update Time: 
-Sun Nov  7 13:48:25 UTC 2021
+Sun Nov  7 14:00:16 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ A classic is something that everyone   \
-| wants to have read and nobody wants to |
-| read.                                  |
-|                                        |
-| -- Mark Twain, "The Disappearance of   |
-\ Literature"                            /
- ----------------------------------------
+ ______________________________________
+/ You plan things that you do not even \
+| attempt because of your extreme      |
+\ caution.                             /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
