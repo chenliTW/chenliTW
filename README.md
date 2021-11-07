@@ -1,13 +1,11 @@
 Last Update Time: 
-Sun Nov  7 03:37:02 UTC 2021
+Sun Nov  7 03:48:53 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Alas, how love can trifle with itself! \
-|                                        |
-| -- William Shakespeare, "The Two       |
-\ Gentlemen of Verona"                   /
- ----------------------------------------
+ _______________________________________
+/ You will reach the highest possible   \
+\ point in your business or profession. /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
