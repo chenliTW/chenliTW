@@ -1,11 +1,11 @@
 Last Update Time: 
-Mon Nov  8 09:43:55 UTC 2021
+Mon Nov  8 09:55:51 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Don't look now, but the man in the moon \
-\ is laughing at you.                     /
- -----------------------------------------
+ _____________________________________
+/ You have the power to influence all \
+\ with whom you come in contact.      /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
