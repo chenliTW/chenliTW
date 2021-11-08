@@ -1,13 +1,13 @@
 Last Update Time: 
-Mon Nov  8 08:36:48 UTC 2021
+Mon Nov  8 08:49:51 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ The smallest worm will turn being  \
-| trodden on.                        |
-|                                    |
-\ -- William Shakespeare, "Henry VI" /
- ------------------------------------
+ _______________________________
+/ The surest protection against \
+| temptation is cowardice.      |
+|                               |
+\ -- Mark Twain                 /
+ -------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
