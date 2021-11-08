@@ -1,13 +1,13 @@
 Last Update Time: 
-Mon Nov  8 02:21:13 UTC 2021
+Mon Nov  8 02:47:11 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: Why haven't you graduated yet? A:   \
-| Well, Dad, I could have finished years |
-| ago, but I wanted                      |
+/ Q: Why do the police always travel in  \
+| threes? A: One to do the reading, one  |
+| to do the writing, and the other keeps |
 |                                        |
-\ my dissertation to rhyme.              /
+\ an eye on the two intellectuals.       /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
