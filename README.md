@@ -1,12 +1,10 @@
 Last Update Time: 
-Mon Nov  8 10:22:42 UTC 2021
+Mon Nov  8 10:40:34 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: What does it say on the bottom of \
-| Coke cans in North Dakota? A: Open   |
-\ other end.                           /
- --------------------------------------
+ _________________________________
+< You too can wear a nose mitten. >
+ ---------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
