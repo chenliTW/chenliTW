@@ -1,11 +1,11 @@
 Last Update Time: 
-Tue Nov  9 21:46:43 UTC 2021
+Tue Nov  9 21:58:49 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ You will gain money by an immoral \
-\ action.                           /
- -----------------------------------
+ _______________________________________
+/ Try to have as good a life as you can \
+\ under the circumstances.              /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
