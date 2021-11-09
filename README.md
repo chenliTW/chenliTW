@@ -1,10 +1,13 @@
 Last Update Time: 
-Tue Nov  9 23:42:33 UTC 2021
+Tue Nov  9 23:54:19 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ An avocado-tone refrigerator would look \
-\ good on your resume.                    /
+/ Q: How does a hacker fix a function     \
+| which                                   |
+|                                         |
+| doesn't work for all of the elements in |
+\ its domain? A: He changes the domain.   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
