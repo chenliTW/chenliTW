@@ -1,12 +1,11 @@
 Last Update Time: 
-Wed Nov 10 07:41:49 UTC 2021
+Wed Nov 10 07:53:22 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Be careful of reading health books, you \
-| might die of a misprint.                |
-|                                         |
-\ -- Mark Twain                           /
+/ Q: What's the difference between a duck \
+| and an elephant? A: You can't get down  |
+\ off an elephant.                        /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
