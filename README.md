@@ -1,15 +1,13 @@
 Last Update Time: 
-Wed Nov 10 14:46:35 UTC 2021
+Wed Nov 10 14:58:38 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ A banker is a fellow who lends you his \
-| umbrella when the sun is shining and   |
-| wants it back the minute it begins to  |
-| rain.                                  |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ ____________________________________
+/ Lord, what fools these mortals be! \
+|                                    |
+| -- William Shakespeare, "A         |
+\ Midsummer-Night's Dream"           /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
