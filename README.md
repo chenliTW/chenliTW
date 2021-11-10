@@ -1,11 +1,11 @@
 Last Update Time: 
-Wed Nov 10 00:54:56 UTC 2021
+Wed Nov 10 01:59:41 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Q: What is purple and conquered the \
-\ world? A: Alexander the Grape.      /
- -------------------------------------
+ ________________________________________
+/ Alimony and bribes will engage a large \
+\ share of your wealth.                  /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
