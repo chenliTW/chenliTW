@@ -1,11 +1,12 @@
 Last Update Time: 
-Wed Nov 10 03:46:58 UTC 2021
+Wed Nov 10 03:58:47 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Try to value useful qualities in one \
-\ who loves you.                       /
- --------------------------------------
+ _________________________________________
+/ Q: What do you say to a New Yorker with \
+| a job? A: Big Mac, fries and a Coke,    |
+\ please!                                 /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
