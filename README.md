@@ -1,12 +1,13 @@
 Last Update Time: 
-Thu Nov 11 17:59:46 UTC 2021
+Thu Nov 11 18:28:37 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ I think we are in Rats' Alley where the \
-| dead men lost their bones.              |
+/ Q: What do you call a principal female  \
+| opera singer whose high C               |
 |                                         |
-\ -- T.S. Eliot                           /
+| is lower than those of other principal  |
+\ female opera singers? A: A deep C diva. /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
