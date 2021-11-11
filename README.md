@@ -1,12 +1,12 @@
 Last Update Time: 
-Thu Nov 11 21:46:32 UTC 2021
+Thu Nov 11 21:58:32 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You are wise, witty, and wonderful, but \
-| you spend too much time reading this    |
-\ sort of trash.                          /
- -----------------------------------------
+ ______________________________________
+/ Your reasoning is excellent -- it's  \
+| only your basic assumptions that are |
+\ wrong.                               /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
