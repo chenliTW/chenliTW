@@ -1,10 +1,11 @@
 Last Update Time: 
-Thu Nov 11 10:55:40 UTC 2021
+Thu Nov 11 11:15:48 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-< You will triumph over your enemy. >
- -----------------------------------
+ ______________________________________
+/ Your own qualities will help prevent \
+\ your advancement in the world.       /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
