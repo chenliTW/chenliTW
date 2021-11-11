@@ -1,13 +1,11 @@
 Last Update Time: 
-Thu Nov 11 22:38:58 UTC 2021
+Thu Nov 11 22:50:52 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ A kind of Batman of contemporary    \
-| letters.                            |
-|                                     |
-\ -- Philip Larkin on Anthony Burgess /
- -------------------------------------
+ ___________________________________
+/ Don't look back, the lemmings are \
+\ gaining on you.                   /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
