@@ -1,11 +1,11 @@
 Last Update Time: 
-Fri Nov 12 06:55:28 UTC 2021
+Fri Nov 12 07:18:48 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You have an unusual understanding of \
-\ the problems of human relationships. /
- --------------------------------------
+ ________________________________________
+/ You will be awarded a medal for        \
+\ disregarding safety in saving someone. /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
