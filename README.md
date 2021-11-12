@@ -1,20 +1,20 @@
 Last Update Time: 
-Fri Nov 12 13:48:23 UTC 2021
+Fri Nov 12 14:00:10 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Unless hours were cups of sack, and    \
-| minutes capons, and clocks the tongues |
-| of bawds, and dials the signs of       |
-| leaping houses, and the blessed sun    |
-| himself a fair, hot wench in           |
-| flame-colored taffeta, I see no reason |
-| why thou shouldst be so superfluous to |
-| demand the time of the day. I wasted   |
-| time and now doth time waste me.       |
-|                                        |
-\ -- William Shakespeare                 /
- ----------------------------------------
+ _________________________________________
+/ October.                                \
+|                                         |
+| This is one of the peculiarly dangerous |
+| months to speculate in stocks in.       |
+|                                         |
+| The others are July, January,           |
+| September, April, November, May, March, |
+| June, December, August, and February.   |
+|                                         |
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
