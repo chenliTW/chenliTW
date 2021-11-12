@@ -1,16 +1,15 @@
 Last Update Time: 
-Fri Nov 12 11:52:40 UTC 2021
+Fri Nov 12 12:19:58 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ "I understand this is your first dead   \
-| client," Sabian was saying. The         |
-| absurdity of the statement made me want |
-| to laugh but they don't call me Deadpan |
-| Allie and lie.                          |
-|                                         |
-\ -- Pat Cadigan, "Mindplayers"           /
- -----------------------------------------
+ ________________________________________
+/ This is the first age that's paid much \
+| attention to the future, which is a    |
+| little ironic since we may not have    |
+| one.                                   |
+|                                        |
+\ -- Arthur Clarke                       /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
