@@ -1,11 +1,10 @@
 Last Update Time: 
-Fri Nov 12 06:19:04 UTC 2021
+Fri Nov 12 06:41:49 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Q: What is purple and conquered the \
-\ world? A: Alexander the Grape.      /
- -------------------------------------
+ ______________________________
+< There is a fly on your nose. >
+ ------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
