@@ -1,13 +1,12 @@
 Last Update Time: 
-Fri Nov 12 08:24:58 UTC 2021
+Fri Nov 12 08:43:34 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: What's the difference between a dead \
-| dog in the road and a dead              |
+/ The first thing we do, let's kill all   \
+| the lawyers.                            |
 |                                         |
-| lawyer in the road? A: There are skid   |
-\ marks in front of the dog.              /
+\ -- Wm. Shakespeare, "Henry VI", Part IV /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
