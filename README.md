@@ -1,14 +1,10 @@
 Last Update Time: 
-Fri Nov 12 22:15:55 UTC 2021
+Fri Nov 12 22:34:04 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________
-/ Civilization is the limitless \
-| multiplication of unnecessary |
-| necessities.                  |
-|                               |
-\ -- Mark Twain                 /
- -------------------------------
+ ________________________________________
+< Stay away from hurricanes for a while. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
