@@ -1,13 +1,10 @@
 Last Update Time: 
-Sat Nov 13 07:13:26 UTC 2021
+Sat Nov 13 07:29:45 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ The first thing we do, let's kill all   \
-| the lawyers.                            |
-|                                         |
-\ -- Wm. Shakespeare, "Henry VI", Part IV /
- -----------------------------------------
+ _________________
+< Stay the curse. >
+ -----------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
