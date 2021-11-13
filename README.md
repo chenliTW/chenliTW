@@ -1,14 +1,12 @@
 Last Update Time: 
-Sat Nov 13 05:28:53 UTC 2021
+Sat Nov 13 05:40:29 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Habit is habit, and not to be flung out \
-| of the window by any man, but coaxed    |
-| down-stairs a step at a time.           |
+/ Clothes make the man. Naked people have \
+| little or no influence on society.      |
 |                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar                                /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
