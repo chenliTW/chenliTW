@@ -1,12 +1,11 @@
 Last Update Time: 
-Sat Nov 13 23:22:51 UTC 2021
+Sat Nov 13 23:37:22 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Your motives for doing whatever good \
-| deed you may have in mind will be    |
-\ misinterpreted by somebody.          /
- --------------------------------------
+ __________________________________
+/ You are capable of planning your \
+\ future.                          /
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
