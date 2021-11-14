@@ -1,15 +1,13 @@
 Last Update Time: 
-Sun Nov 14 14:14:55 UTC 2021
+Sun Nov 14 14:29:33 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ This is the first age that's paid much \
-| attention to the future, which is a    |
-| little ironic since we may not have    |
-| one.                                   |
-|                                        |
-\ -- Arthur Clarke                       /
- ----------------------------------------
+ ______________________________________
+/ Q: How many Marxists does it take to \
+| screw in a light bulb? A: None: The  |
+| light bulb contains the seeds of its |
+\ own revolution.                      /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
