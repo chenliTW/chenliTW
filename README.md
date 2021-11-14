@@ -1,13 +1,11 @@
 Last Update Time: 
-Sun Nov 14 14:29:33 UTC 2021
+Sun Nov 14 14:41:13 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: How many Marxists does it take to \
-| screw in a light bulb? A: None: The  |
-| light bulb contains the seeds of its |
-\ own revolution.                      /
- --------------------------------------
+ _________________________________________
+/ Your depth of comprehension may tend to \
+\ make you lax in worldly ways.           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
