@@ -1,14 +1,12 @@
 Last Update Time: 
-Sun Nov 14 22:16:42 UTC 2021
+Sun Nov 14 22:33:39 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ The mind is its own place, and in   \
-| itself Can make a Heav'n of Hell, a |
-| Hell of Heav'n.                     |
-|                                     |
-\ -- John Milton                      /
- -------------------------------------
+ ________________________________
+/ When in doubt, tell the truth. \
+|                                |
+\ -- Mark Twain                  /
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
