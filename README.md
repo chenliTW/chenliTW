@@ -1,16 +1,10 @@
 Last Update Time: 
-Sat Nov 13 23:49:30 UTC 2021
+Sun Nov 14 00:20:06 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How many Oregonians does it take to  \
-| screw in a light bulb? A: Three. One to |
-| screw in the light bulb and two to fend |
-| off all those                           |
-|                                         |
-| Californians trying to share the        |
-\ experience.                             /
- -----------------------------------------
+ ________________________________________
+< Your present plans will be successful. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
