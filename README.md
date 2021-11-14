@@ -1,11 +1,10 @@
 Last Update Time: 
-Sun Nov 14 17:33:48 UTC 2021
+Sun Nov 14 17:46:40 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ Be security conscious -- National \
-\ defense is at stake.              /
- -----------------------------------
+ ________________________________________
+< Your ignorance cramps my conversation. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
