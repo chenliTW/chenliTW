@@ -1,10 +1,11 @@
 Last Update Time: 
-Sun Nov 14 00:20:06 UTC 2021
+Sun Nov 14 01:34:55 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-< Your present plans will be successful. >
- ----------------------------------------
+ ____________________________________
+/ You will pioneer the first Martian \
+\ colony.                            /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
