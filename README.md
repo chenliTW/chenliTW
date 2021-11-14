@@ -1,12 +1,12 @@
 Last Update Time: 
-Sun Nov 14 02:45:50 UTC 2021
+Sun Nov 14 02:57:36 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You'll wish that you had done some of \
-| the hard things when they were easier |
-\ to do.                                /
- ---------------------------------------
+ ________________________________________
+/ Give thought to your reputation.       \
+| Consider changing name and moving to a |
+\ new town.                              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
