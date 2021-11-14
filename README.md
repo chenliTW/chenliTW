@@ -1,16 +1,20 @@
 Last Update Time: 
-Sun Nov 14 07:33:53 UTC 2021
+Sun Nov 14 07:45:47 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ All say, "How hard it is that we have  \
-| to die"--a strange complaint to come   |
-| from the mouths of people who have had |
-| to live.                               |
-|                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
- ----------------------------------------
+ _______________________________________
+/ Q: Why is Poland just like the United \
+| States? A: In the United States you   |
+| can't buy anything for zlotys and in  |
+|                                       |
+| Poland you can't either, while in the |
+| U.S. you can get whatever             |
+|                                       |
+| you want for dollars, just as you can |
+| in Poland.                            |
+|                                       |
+\ -- being told in Poland, 1987         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
