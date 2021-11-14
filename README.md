@@ -1,12 +1,11 @@
 Last Update Time: 
-Sun Nov 14 20:32:08 UTC 2021
+Sun Nov 14 20:43:50 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _______________________________________
-/ Q: What do monsters eat? A: Things.   \
-|                                       |
-| Q: What do monsters drink? A: Coke.   |
-\ (Because Things go better with Coke.) /
+/ Q: What's the difference between USL  \
+| and the Titanic? A: The Titanic had a |
+\ band.                                 /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
