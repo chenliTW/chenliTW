@@ -1,11 +1,11 @@
 Last Update Time: 
-Sun Nov 14 13:31:05 UTC 2021
+Sun Nov 14 13:42:37 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ You will be awarded the Nobel Peace \
-\ Prize... posthumously.              /
- -------------------------------------
+ ______________________________________
+/ Q: Why did Menachem Begin invade     \
+\ Lebanon? A: To impress Jodie Foster. /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
