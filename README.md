@@ -1,11 +1,13 @@
 Last Update Time: 
-Mon Nov 15 11:28:11 UTC 2021
+Mon Nov 15 11:39:39 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________
-/ Tonight's the night: Sleep in a \
-\ eucalyptus tree.                /
- ---------------------------------
+ _______________________________________
+/ Q: What do monsters eat? A: Things.   \
+|                                       |
+| Q: What do monsters drink? A: Coke.   |
+\ (Because Things go better with Coke.) /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
