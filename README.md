@@ -1,12 +1,10 @@
 Last Update Time: 
-Mon Nov 15 13:37:00 UTC 2021
+Mon Nov 15 13:48:34 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ You have a reputation for being        \
-| thoroughly reliable and trustworthy. A |
-\ pity that it's totally undeserved.     /
- ----------------------------------------
+ __________________________________
+< Someone is speaking well of you. >
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
