@@ -1,15 +1,13 @@
 Last Update Time: 
-Mon Nov 15 20:39:18 UTC 2021
+Mon Nov 15 20:51:04 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ If you pick up a starving dog and make \
-| him prosperous, he will not bite you.  |
-| This is the principal difference       |
-| between a dog and a man.               |
+/ Always the dullness of the fool is the \
+| whetstone of the wits.                 |
 |                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
+| -- William Shakespeare, "As You Like   |
+\ It"                                    /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
