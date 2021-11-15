@@ -1,14 +1,13 @@
 Last Update Time: 
-Mon Nov 15 15:26:31 UTC 2021
+Mon Nov 15 15:46:07 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: Why do ducks have big flat feet? A:  \
-| To stamp out forest fires.              |
-|                                         |
-| Q: Why do elephants have big flat feet? |
-\ A: To stamp out flaming ducks.          /
- -----------------------------------------
+ ______________________________________
+/ Hell is empty and all the devils are \
+| here.                                |
+|                                      |
+\ -- Wm. Shakespeare, "The Tempest"    /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
