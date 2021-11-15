@@ -1,12 +1,11 @@
 Last Update Time: 
-Mon Nov 15 16:36:13 UTC 2021
+Mon Nov 15 17:04:29 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You will pay for your sins. If you have \
-| already paid, please disregard this     |
-\ message.                                /
- -----------------------------------------
+ ________________________________________
+/ You will obey or molten silver will be \
+\ poured into your ears.                 /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
