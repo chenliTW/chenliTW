@@ -1,11 +1,12 @@
 Last Update Time: 
-Tue Nov 16 17:46:42 UTC 2021
+Tue Nov 16 17:58:28 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ If your life was a horse, you'd have to \
-\ shoot it.                               /
- -----------------------------------------
+ _______________________________
+/ Don't worry. Life's too long. \
+|                               |
+\ -- Vincent Sardi, Jr.         /
+ -------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
