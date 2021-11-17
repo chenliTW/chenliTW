@@ -1,11 +1,11 @@
 Last Update Time: 
-Wed Nov 17 14:42:18 UTC 2021
+Wed Nov 17 14:54:21 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: Why don't lawyers go to the beach? \
-\ A: The cats keep trying to bury them. /
- ---------------------------------------
+ ______________________________________
+/ Q: What do you call a boomerang that \
+\ doesn't come back? A: A stick.       /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
