@@ -1,14 +1,13 @@
 Last Update Time: 
-Wed Nov 17 08:59:37 UTC 2021
+Wed Nov 17 09:25:23 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ This night methinks is but the daylight \
-| sick.                                   |
-|                                         |
-| -- William Shakespeare, "The Merchant   |
-\ of Venice"                              /
- -----------------------------------------
+ ________________________________________
+/ FORTUNE PROVIDES QUESTIONS FOR THE     \
+| GREAT ANSWERS: #4 A: Go west, young    |
+| man, go west! Q: What do wabbits do    |
+\ when they get tiwed of wunning awound? /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
