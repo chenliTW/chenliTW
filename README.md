@@ -1,10 +1,9 @@
 Last Update Time: 
-Wed Nov 17 10:35:16 UTC 2021
+Wed Nov 17 10:47:47 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Learn to pause -- or nothing worthwhile \
-\ can catch up to you.                    /
+< Q: How do you keep a moron in suspense? >
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
