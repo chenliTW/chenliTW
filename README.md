@@ -1,14 +1,10 @@
 Last Update Time: 
-Thu Nov 18 07:43:55 UTC 2021
+Thu Nov 18 07:56:00 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Soap and education are not as sudden as \
-| a massacre, but they are more deadly in |
-| the long run.                           |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ________________________________________
+< Stay away from hurricanes for a while. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
