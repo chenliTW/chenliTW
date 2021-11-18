@@ -1,11 +1,10 @@
 Last Update Time: 
-Thu Nov 18 10:25:37 UTC 2021
+Thu Nov 18 10:42:50 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ______________________________________
-/ The ripest fruit falls first.        \
-|                                      |
-\ -- William Shakespeare, "Richard II" /
+/ Don't tell any big lies today. Small \
+\ ones can be just as effective.       /
  --------------------------------------
         \   ^__^
          \  (oo)\_______
