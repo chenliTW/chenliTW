@@ -1,11 +1,11 @@
 Last Update Time: 
-Fri Nov 19 20:24:11 UTC 2021
+Fri Nov 19 20:39:24 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Someone whom you reject today, will \
-\ reject you tomorrow.                /
- -------------------------------------
+ ___________________________________
+/ Do not sleep in a eucalyptus tree \
+\ tonight.                          /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
