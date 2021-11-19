@@ -1,13 +1,11 @@
 Last Update Time: 
-Fri Nov 19 17:39:04 UTC 2021
+Fri Nov 19 17:50:57 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Extreme fear can neither fight nor fly. \
-|                                         |
-| -- William Shakespeare, "The Rape of    |
-\ Lucrece"                                /
- -----------------------------------------
+ _____________________________________
+/ Your boyfriend takes chocolate from \
+\ strangers.                          /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
