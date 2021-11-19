@@ -1,11 +1,10 @@
 Last Update Time: 
-Fri Nov 19 07:45:19 UTC 2021
+Fri Nov 19 07:57:03 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Your boss is a few sandwiches short of \
-\ a picnic.                              /
- ----------------------------------------
+ ______________________
+< You are always busy. >
+ ----------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
