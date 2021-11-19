@@ -1,11 +1,13 @@
 Last Update Time: 
-Fri Nov 19 02:07:19 UTC 2021
+Fri Nov 19 02:41:16 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ Q: Who cuts the grass on Walton's \
-\ Mountain? A: Lawn Boy.            /
- -----------------------------------
+ ________________________________
+/ All generalizations are false, \
+| including this one.            |
+|                                |
+\ -- Mark Twain                  /
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
