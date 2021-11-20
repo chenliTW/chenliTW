@@ -1,13 +1,11 @@
 Last Update Time: 
-Sat Nov 20 07:34:09 UTC 2021
+Sat Nov 20 07:46:26 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: How many Marxists does it take to \
-| screw in a light bulb? A: None: The  |
-| light bulb contains the seeds of its |
-\ own revolution.                      /
- --------------------------------------
+ ___________________________________
+/ Q: Who cuts the grass on Walton's \
+\ Mountain? A: Lawn Boy.            /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
