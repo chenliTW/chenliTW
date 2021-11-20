@@ -1,13 +1,13 @@
 Last Update Time: 
-Sat Nov 20 10:55:45 UTC 2021
+Sat Nov 20 11:16:27 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Reader, suppose you were an idiot. And \
-| suppose you were a member of Congress. |
-| But I repeat myself.                   |
+/ Always the dullness of the fool is the \
+| whetstone of the wits.                 |
 |                                        |
-\ -- Mark Twain                          /
+| -- William Shakespeare, "As You Like   |
+\ It"                                    /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
