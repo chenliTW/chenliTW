@@ -1,11 +1,13 @@
 Last Update Time: 
-Sat Nov 20 11:52:46 UTC 2021
+Sat Nov 20 12:19:41 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What's yellow, and equivalent to the \
-\ Axiom of Choice? A: Zorn's Lemon.       /
- -----------------------------------------
+ ________________________________________
+/ Q: What do you call the scratches that \
+| you get when a female                  |
+|                                        |
+\ sheep bites you? A: Ewe nicks.         /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
