@@ -1,14 +1,14 @@
 Last Update Time: 
-Sun Nov 21 04:43:32 UTC 2021
+Sun Nov 21 04:58:48 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Have a place for everything and keep  \
-| the thing somewhere else; this is not |
-| advice, it is merely custom.          |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ ________________________________________
+/ Q: Why do the police always travel in  \
+| threes? A: One to do the reading, one  |
+| to do the writing, and the other keeps |
+|                                        |
+\ an eye on the two intellectuals.       /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
