@@ -1,47 +1,24 @@
 Last Update Time: 
-Sun Nov 21 07:22:18 UTC 2021
+Sun Nov 21 07:34:40 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Like an expensive sports car,           \
-| fine-tuned and well-built, Portia was   |
-| sleek, shapely, and gorgeous, her red   |
-| jumpsuit moulding her body, which was   |
-| as warm as seatcovers in July, her hair |
-| as dark as new tires, her eyes flashing |
-| like bright hubcaps, and her lips as    |
-| dewy as the beads of fresh rain on the  |
-| hood; she was a woman driven -- fueled  |
-| by a single accelerant -- and she       |
-| needed a man, a man who wouldn't shift  |
-| from his views, a man to steer her      |
-| along the right road: a man like Alf    |
-| Romeo.                                  |
+/ The bone-chilling scream split the warm \
+| summer night in two, the first half     |
+| being before the scream when it was     |
+| fairly balmy and calm and pleasant, the |
+| second half still balmy and quite       |
+| pleasant for those who hadn't heard the |
+| scream at all, but not calm or balmy or |
+| even very nice for those who did hear   |
+| the scream, discounting the little      |
+| period of time during the actual scream |
+| itself when your ears might have been   |
+| hearing it but your brain wasn't        |
+| reacting yet to let you know.           |
 |                                         |
-| -- Rachel Sheeley, winner               |
-|                                         |
-| The hair ball blocking the drain of the |
-| shower reminded Laura she would never   |
-| see her little dog Pritzi again.        |
-|                                         |
-| -- Claudia Fields, runner-up            |
-|                                         |
-| It could have been an organically based |
-| disturbance of the brain -- perhaps a   |
-| tumor or a metabolic deficiency -- but  |
-| after a thorough neurological exam it   |
-| was determined that Byron was simply a  |
-| jerk.                                   |
-|                                         |
-| -- Jeff Jahnke, runner-up               |
-|                                         |
-| Winners in the 7th Annual Bulwer-Lytton |
-| Bad Writing Contest. The contest is     |
-| named after the author of the immortal  |
-| lines: "It was a dark and stormy        |
-| night." The object of the contest is to |
-| write the opening sentence of the worst |
-\ possible novel.                         /
+| -- Winning sentence, 1986 Bulwer-Lytton |
+\ bad fiction contest.                    /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
