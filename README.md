@@ -1,11 +1,11 @@
 Last Update Time: 
-Sun Nov 21 21:43:41 UTC 2021
+Sun Nov 21 21:55:36 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Your depth of comprehension may tend to \
-\ make you lax in worldly ways.           /
- -----------------------------------------
+ _____________________________________
+/ You'll feel much better once you've \
+\ given up hope.                      /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
