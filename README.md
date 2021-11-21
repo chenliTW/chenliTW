@@ -1,16 +1,11 @@
 Last Update Time: 
-Sun Nov 21 12:17:03 UTC 2021
+Sun Nov 21 12:49:49 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How many lawyers does it take to    \
-| change a light bulb? A: You won't find |
-| a lawyer who can change a light bulb.  |
-| Now, if                                |
-|                                        |
-| you're looking for a lawyer to screw a |
-\ light bulb...                          /
- ----------------------------------------
+ ______________________________________
+/ You will remember something that you \
+\ should not have forgotten.           /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
