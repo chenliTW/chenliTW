@@ -1,12 +1,12 @@
 Last Update Time: 
-Sun Nov 21 22:58:32 UTC 2021
+Sun Nov 21 23:23:00 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: What's the difference between USL  \
-| and the Titanic? A: The Titanic had a |
-\ band.                                 /
- ---------------------------------------
+ ____________________________________
+/ This life is yours. Some of it was \
+| given to you; the rest, you made   |
+\ yourself.                          /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
