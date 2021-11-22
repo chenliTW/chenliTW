@@ -1,12 +1,14 @@
 Last Update Time: 
-Mon Nov 22 03:39:06 UTC 2021
+Mon Nov 22 03:51:11 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The first thing we do, let's kill all   \
-| the lawyers.                            |
+/ Habit is habit, and not to be flung out \
+| of the window by any man, but coaxed    |
+| down-stairs a step at a time.           |
 |                                         |
-\ -- Wm. Shakespeare, "Henry VI", Part IV /
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar                                /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
