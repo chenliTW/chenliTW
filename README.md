@@ -1,11 +1,12 @@
 Last Update Time: 
-Mon Nov 22 17:11:14 UTC 2021
+Mon Nov 22 17:38:38 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why do WASPs play golf ? A: So they \
-\ can dress like pimps.                  /
- ----------------------------------------
+ ______________________________________
+/ Q: How can you tell when a Burroughs \
+| salesman is lying? A: When his lips  |
+\ move.                                /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
