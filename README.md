@@ -1,11 +1,10 @@
 Last Update Time: 
-Mon Nov 22 02:58:19 UTC 2021
+Mon Nov 22 03:23:18 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You will be imprisoned for contributing \
-\ your time and skill to a bank robbery.  /
- -----------------------------------------
+ ______________________________________
+< You are number 6! Who is number one? >
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
