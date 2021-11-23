@@ -1,11 +1,14 @@
 Last Update Time: 
-Tue Nov 23 07:38:02 UTC 2021
+Tue Nov 23 07:54:23 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ You're a card which will have to be \
-\ dealt with.                         /
- -------------------------------------
+ ________________________________________
+/ Q: How do you play religious roulette? \
+| A: You stand around in a circle and    |
+| blaspheme and see who gets             |
+|                                        |
+\ struck by lightning first.             /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
