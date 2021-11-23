@@ -1,13 +1,14 @@
 Last Update Time: 
-Tue Nov 23 16:54:31 UTC 2021
+Tue Nov 23 17:20:33 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ O, what a tangled web we weave, When \
-| first we practice to deceive.        |
-|                                      |
-\ -- Sir Walter Scott, "Marmion"       /
- --------------------------------------
+ ________________________________________
+/ Q: Why haven't you graduated yet? A:   \
+| Well, Dad, I could have finished years |
+| ago, but I wanted                      |
+|                                        |
+\ my dissertation to rhyme.              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
