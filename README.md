@@ -1,10 +1,14 @@
 Last Update Time: 
-Tue Nov 23 15:38:21 UTC 2021
+Tue Nov 23 15:52:14 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-< Bank error in your favor. Collect $200. >
- -----------------------------------------
+ _______________________________________
+/ "Elves and Dragons!" I says to him.   \
+| "Cabbages and potatoes are better for |
+| you and me."                          |
+|                                       |
+\ -- J. R. R. Tolkien                   /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
