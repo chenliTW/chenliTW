@@ -1,10 +1,13 @@
 Last Update Time: 
-Tue Nov 23 19:18:26 UTC 2021
+Tue Nov 23 19:30:33 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-< Avoid gunfire in the bathroom tonight. >
- ----------------------------------------
+ ______________________________________
+/ When one burns one's bridges, what a \
+| very nice fire it makes.             |
+|                                      |
+\ -- Dylan Thomas                      /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
