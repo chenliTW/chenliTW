@@ -1,13 +1,12 @@
 Last Update Time: 
-Tue Nov 23 23:42:04 UTC 2021
+Tue Nov 23 23:54:06 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________
-/ She is not refined. She is not \
-| unrefined. She keeps a parrot. |
-|                                |
-\ -- Mark Twain                  /
- --------------------------------
+ ____________________________________
+/ It's lucky you're going so slowly, \
+| because you're going in the wrong  |
+\ direction.                         /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
