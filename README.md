@@ -1,15 +1,11 @@
 Last Update Time: 
-Tue Nov 23 20:57:53 UTC 2021
+Tue Nov 23 21:19:50 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ It has long been an axiom of mine that \
-| the little things are infinitely the   |
-| most important.                        |
-|                                        |
-| -- Sir Arthur Conan Doyle, "A Case of  |
-\ Identity"                              /
- ----------------------------------------
+ ______________________________________
+/ You will have good luck and overcome \
+\ many hardships.                      /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
