@@ -1,11 +1,11 @@
 Last Update Time: 
-Wed Nov 24 22:56:42 UTC 2021
+Wed Nov 24 23:22:43 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Fine day to work off excess energy. \
-\ Steal something heavy.              /
- -------------------------------------
+ ________________________________________
+/ You will be winged by an anti-aircraft \
+\ battery.                               /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
