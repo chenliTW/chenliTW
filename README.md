@@ -1,11 +1,12 @@
 Last Update Time: 
-Wed Nov 24 18:52:35 UTC 2021
+Wed Nov 24 19:16:11 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________
-/ You are taking yourself far too \
-\ seriously.                      /
- ---------------------------------
+ __________________________________
+/ Be cheerful while you are alive. \
+|                                  |
+\ -- Phathotep, 24th Century B.C.  /
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
