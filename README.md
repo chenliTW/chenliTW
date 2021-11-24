@@ -1,12 +1,11 @@
 Last Update Time: 
-Tue Nov 23 23:54:06 UTC 2021
+Wed Nov 24 00:53:16 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ It's lucky you're going so slowly, \
-| because you're going in the wrong  |
-\ direction.                         /
- ------------------------------------
+ _________________________________________
+/ Write yourself a threatening letter and \
+\ pen a defiant reply.                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
