@@ -1,11 +1,13 @@
 Last Update Time: 
-Thu Nov 25 12:49:26 UTC 2021
+Thu Nov 25 13:13:23 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why did the tachyon cross the road? \
-\ A: Because it was on the other side.   /
- ----------------------------------------
+ _________________________________________
+/ The abuse of greatness is when it       \
+| disjoins remorse from power.            |
+|                                         |
+\ -- William Shakespeare, "Julius Caesar" /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
