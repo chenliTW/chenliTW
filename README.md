@@ -1,10 +1,14 @@
 Last Update Time: 
-Thu Nov 25 08:12:20 UTC 2021
+Thu Nov 25 08:36:18 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ An avocado-tone refrigerator would look \
-\ good on your resume.                    /
+/ O, it is excellent To have a giant's    \
+| strength; but it is tyrannous To use it |
+| like a giant.                           |
+|                                         |
+| -- Shakespeare, "Measure for Measure",  |
+\ II, 2                                   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
