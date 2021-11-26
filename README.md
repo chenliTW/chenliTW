@@ -1,13 +1,12 @@
 Last Update Time: 
-Fri Nov 26 11:30:00 UTC 2021
+Fri Nov 26 11:41:58 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Rebellion lay in his way, and he found \
-| it.                                    |
-|                                        |
-\ -- William Shakespeare, "Henry IV"     /
- ----------------------------------------
+ _________________________________________
+/ You may be infinitely smaller than some \
+| things, but you're infinitely larger    |
+\ than others.                            /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
