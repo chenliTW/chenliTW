@@ -1,12 +1,17 @@
 Last Update Time: 
-Fri Nov 26 08:43:38 UTC 2021
+Fri Nov 26 08:55:31 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The human race has one really effective \
-| weapon, and that is laughter.           |
+/ I got a hint of things to come when I   \
+| overheard my boss lamenting, 'The books |
+| are done and we still don't have an     |
+| author! I must sign someone today!      |
 |                                         |
-\ -- Mark Twain                           /
+| -- Tamim Ansary, "Edutopia Magazine,    |
+| Issue 2, November 2004"                 |
+|                                         |
+\ on the topic of school textbooks        /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
