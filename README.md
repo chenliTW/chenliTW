@@ -1,12 +1,11 @@
 Last Update Time: 
-Fri Nov 26 03:11:36 UTC 2021
+Fri Nov 26 03:32:09 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How many lawyers does it take to    \
-| change a light bulb? A: One. Only it's |
-\ his light bulb when he's done.         /
- ----------------------------------------
+ ______________________________________
+/ You have had a long-term stimulation \
+\ relative to business.                /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
