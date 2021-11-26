@@ -1,13 +1,14 @@
 Last Update Time: 
-Fri Nov 26 23:22:21 UTC 2021
+Fri Nov 26 23:37:11 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: Why should you always serve a       \
-| Southern Carolina football man         |
+/ He draweth out the thread of his       \
+| verbosity finer than the staple of his |
+| argument.                              |
 |                                        |
-| soup in a plate? A: 'Cause if you give |
-\ him a bowl, he'll throw it away.       /
+| -- William Shakespeare, "Love's        |
+\ Labour's Lost"                         /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
