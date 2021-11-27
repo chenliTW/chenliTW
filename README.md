@@ -1,17 +1,16 @@
 Last Update Time: 
-Sat Nov 27 04:43:36 UTC 2021
+Sat Nov 27 04:58:59 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ It is right that he too should have his \
-| little chronicle, his memories, his     |
-| reason, and be able to recognize the    |
-| good in the bad, the bad in the worst,  |
-| and so grow gently old all down the     |
-| unchanging days and die one day like    |
-| any other day, only shorter.            |
+/ Whenever the literary German dives into \
+| a sentence, that is the last you are    |
+| going to see of him until he emerges on |
+| the other side of his Atlantic with his |
+| verb in his mouth.                      |
 |                                         |
-\ -- Samuel Beckett, "Malone Dies"        /
+| -- Mark Twain "A Connecticut Yankee in  |
+\ King Arthur's Court"                    /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
