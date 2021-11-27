@@ -1,12 +1,12 @@
 Last Update Time: 
-Sat Nov 27 06:59:54 UTC 2021
+Sat Nov 27 07:22:12 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ If you learn one useless thing every   \
-| day, in a single year you'll learn 365 |
-\ useless things.                        /
- ----------------------------------------
+ _______________________________________
+/ You are destined to become the        \
+| commandant of the fighting men of the |
+\ department of transportation.         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
