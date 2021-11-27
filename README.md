@@ -1,11 +1,10 @@
 Last Update Time: 
-Sat Nov 27 03:52:09 UTC 2021
+Sat Nov 27 04:14:11 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ A vivid and creative mind characterizes \
-\ you.                                    /
- -----------------------------------------
+ ________________________________________
+< You will be misunderstood by everyone. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
