@@ -1,14 +1,11 @@
 Last Update Time: 
-Sun Nov 28 11:58:33 UTC 2021
+Sun Nov 28 12:35:29 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Fame is a vapor; popularity an          \
-| accident; the only earthly certainty is |
-| oblivion.                               |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ________________________________________
+/ Q: How was Thomas J. Watson buried? A: \
+\ 9 edge down.                           /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
