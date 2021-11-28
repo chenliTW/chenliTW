@@ -1,13 +1,11 @@
 Last Update Time: 
-Sun Nov 28 17:03:48 UTC 2021
+Sun Nov 28 17:30:42 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Hell is empty and all the devils are \
-| here.                                |
-|                                      |
-\ -- Wm. Shakespeare, "The Tempest"    /
- --------------------------------------
+ ___________________________________
+/ Don't look back, the lemmings are \
+\ gaining on you.                   /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
