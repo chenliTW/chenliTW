@@ -1,10 +1,12 @@
 Last Update Time: 
-Sun Nov 28 20:31:52 UTC 2021
+Sun Nov 28 20:43:29 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ______________________________________
-/ You could live a better life, if you \
-\ had a better mind and a better body. /
+/ When one burns one's bridges, what a \
+| very nice fire it makes.             |
+|                                      |
+\ -- Dylan Thomas                      /
  --------------------------------------
         \   ^__^
          \  (oo)\_______
