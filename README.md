@@ -1,13 +1,11 @@
 Last Update Time: 
-Mon Nov 29 19:00:35 UTC 2021
+Mon Nov 29 19:18:54 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Suspicion always haunts the guilty \
-| mind.                              |
-|                                    |
-\ -- Wm. Shakespeare                 /
- ------------------------------------
+ _________________________________________
+/ Learn to pause -- or nothing worthwhile \
+\ can catch up to you.                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
