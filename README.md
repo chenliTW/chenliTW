@@ -1,12 +1,14 @@
 Last Update Time: 
-Mon Nov 29 23:43:16 UTC 2021
+Mon Nov 29 23:55:09 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ I fell asleep reading a dull book, and \
-| I dreamt that I was reading on, so I   |
-\ woke up from sheer boredom.            /
- ----------------------------------------
+ ______________________________________
+/ The human race is a race of cowards; \
+| and I am not only marching in that   |
+| procession but carrying a banner.    |
+|                                      |
+\ -- Mark Twain                        /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
