@@ -1,13 +1,11 @@
 Last Update Time: 
-Mon Nov 29 20:59:02 UTC 2021
+Mon Nov 29 21:20:28 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________
-/ All generalizations are false, \
-| including this one.            |
-|                                |
-\ -- Mark Twain                  /
- --------------------------------
+ __________________________________
+/ You will win success in whatever \
+\ calling you adopt.               /
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
