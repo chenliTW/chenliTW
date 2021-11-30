@@ -1,12 +1,17 @@
 Last Update Time: 
-Tue Nov 30 06:00:04 UTC 2021
+Tue Nov 30 06:25:00 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ You can do very well in speculation    \
-| where land or anything to do with dirt |
-\ is concerned.                          /
- ----------------------------------------
+ _________________________________________
+/ Swerve me? The path to my fixed purpose \
+| is laid with iron rails, whereon my     |
+| soul is grooved to run. Over unsounded  |
+| gorges, through the rifled hearts of    |
+| mountains, under torrents' beds,        |
+| unerringly I rush!                      |
+|                                         |
+\ -- Captain Ahab, "Moby Dick"            /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
