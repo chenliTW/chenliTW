@@ -1,12 +1,10 @@
 Last Update Time: 
-Tue Nov 30 11:51:39 UTC 2021
+Tue Nov 30 12:13:37 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How many lawyers does it take to    \
-| change a light bulb? A: One. Only it's |
-\ his light bulb when he's done.         /
- ----------------------------------------
+ ________________________
+< Be different: conform. >
+ ------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
