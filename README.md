@@ -1,11 +1,11 @@
 Last Update Time: 
-Tue Nov 30 20:30:39 UTC 2021
+Tue Nov 30 20:44:15 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: What's a WASP's idea of             \
-\ open-mindedness? A: Dating a Canadian. /
- ----------------------------------------
+ _________________________________________
+/ Are you ever going to do the dishes? Or \
+\ will you change your major to biology?  /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
