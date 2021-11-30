@@ -1,13 +1,10 @@
 Last Update Time: 
-Tue Nov 30 05:24:18 UTC 2021
+Tue Nov 30 05:36:21 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Rebellion lay in his way, and he found \
-| it.                                    |
-|                                        |
-\ -- William Shakespeare, "Henry IV"     /
- ----------------------------------------
+ _______________________________________
+< You will be awarded some great honor. >
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
