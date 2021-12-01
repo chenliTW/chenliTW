@@ -1,11 +1,10 @@
 Last Update Time: 
-Wed Dec  1 13:01:13 UTC 2021
+Wed Dec  1 13:30:04 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________
-/ Your business will assume vast \
-\ proportions.                   /
- --------------------------------
+ ________________________________________
+< You will forget that you ever knew me. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
