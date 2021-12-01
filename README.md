@@ -1,18 +1,12 @@
 Last Update Time: 
-Wed Dec  1 11:42:03 UTC 2021
+Wed Dec  1 11:53:52 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What did Tarzan say when he saw the  \
-| elephants coming over the hill? A: "The |
-| elephants are coming over the hill."    |
-|                                         |
-| Q: What did he say when saw them coming |
-| over the hill wearing                   |
-|                                         |
-| sunglasses? A: Nothing, for he didn't   |
-\ recognize them.                         /
- -----------------------------------------
+ ________________________________________
+/ Your best consolation is the hope that \
+| the things you failed to get weren't   |
+\ really worth having.                   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
