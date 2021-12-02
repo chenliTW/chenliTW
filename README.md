@@ -1,13 +1,12 @@
 Last Update Time: 
-Thu Dec  2 09:44:54 UTC 2021
+Thu Dec  2 09:56:37 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ This night methinks is but the daylight \
-| sick.                                   |
-|                                         |
-| -- William Shakespeare, "The Merchant   |
-\ of Venice"                              /
+/  A man was reading The Canterbury Tales \
+| one Saturday morning, when his wife     |
+| asked "What have you got there?"        |
+\ Replied he, "Just my cup and Chaucer."  /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
