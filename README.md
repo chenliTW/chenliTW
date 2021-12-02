@@ -1,12 +1,11 @@
 Last Update Time: 
-Thu Dec  2 03:42:15 UTC 2021
+Thu Dec  2 03:54:18 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ You have a reputation for being        \
-| thoroughly reliable and trustworthy. A |
-\ pity that it's totally undeserved.     /
- ----------------------------------------
+ ______________________________________
+/ Q: What do they call the alphabet in \
+\ Arkansas? A: The impossible dream.   /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
