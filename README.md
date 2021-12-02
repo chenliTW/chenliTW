@@ -1,14 +1,10 @@
 Last Update Time: 
-Thu Dec  2 05:59:53 UTC 2021
+Thu Dec  2 06:29:18 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: What do you call the money you pay \
-| to the government when                |
-|                                       |
-| you ride into the country on the back |
-\ of an elephant? A: A howdah duty.     /
- ---------------------------------------
+ _____________________________
+< You will never know hunger. >
+ -----------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
