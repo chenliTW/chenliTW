@@ -1,13 +1,10 @@
 Last Update Time: 
-Thu Dec  2 19:44:29 UTC 2021
+Thu Dec  2 19:56:12 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ The abuse of greatness is when it       \
-| disjoins remorse from power.            |
-|                                         |
-\ -- William Shakespeare, "Julius Caesar" /
- -----------------------------------------
+ _______________________________________
+< You will have a long and boring life. >
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
