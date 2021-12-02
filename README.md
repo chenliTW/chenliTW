@@ -1,13 +1,11 @@
 Last Update Time: 
-Thu Dec  2 09:56:37 UTC 2021
+Thu Dec  2 10:24:31 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/  A man was reading The Canterbury Tales \
-| one Saturday morning, when his wife     |
-| asked "What have you got there?"        |
-\ Replied he, "Just my cup and Chaucer."  /
- -----------------------------------------
+ ________________________________________
+/ You will inherit some money or a small \
+\ piece of land.                         /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
