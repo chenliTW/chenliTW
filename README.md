@@ -1,21 +1,23 @@
 Last Update Time: 
-Thu Dec  2 19:01:21 UTC 2021
+Thu Dec  2 19:19:45 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ The true Southern watermelon is a boon \
-| apart, and not to be mentioned with    |
-| commoner things. It is chief of the    |
-| world's luxuries, king by the grace of |
-| God over all the fruits of the earth.  |
-| When one has tasted it, he knows what  |
-| the angels eat. It was not a Southern  |
-| watermelon that Eve took; we know it   |
-| because she repented.                  |
-|                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
- ----------------------------------------
+ _________________________________________
+/ "What's this? Trix? Aunt! Trix? You?    \
+| You're after the prize! What is it?" He |
+| picked up the box and studied the back. |
+| "A glow-in-the-dark squid! Have you got |
+| it out of there yet?" He tilted the     |
+| box, angling the little colored balls   |
+| of cereal so as to see the bottom, and  |
+| nearly spilling them onto the table     |
+| top. "Here it is!" He hauled out a      |
+| little cream-colored, glitter-sprinkled |
+| squid, three-inches long and made out   |
+| of rubbery plastic.                     |
+|                                         |
+\ -- James P. Blaylock, "The Last Coin"   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
