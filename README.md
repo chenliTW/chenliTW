@@ -1,17 +1,12 @@
 Last Update Time: 
-Fri Dec  3 18:10:17 UTC 2021
+Fri Dec  3 18:36:10 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ You mentioned your name as if I should \
-| recognize it, but beyond the obvious   |
-| facts that you are a bachelor, a       |
-| solicitor, a freemason, and an         |
-| asthmatic, I know nothing whatever     |
-| about you.                             |
+/ Q: What do you call the scratches that \
+| you get when a female                  |
 |                                        |
-| -- Sherlock Holmes, "The Norwood       |
-\ Builder"                               /
+\ sheep bites you? A: Ewe nicks.         /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
