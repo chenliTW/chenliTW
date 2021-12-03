@@ -1,12 +1,10 @@
 Last Update Time: 
-Fri Dec  3 20:25:14 UTC 2021
+Fri Dec  3 20:41:04 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ______________________________________
-/ Q: How many Marxists does it take to \
-| screw in a light bulb? A: None: The  |
-| light bulb contains the seeds of its |
-\ own revolution.                      /
+/ Try to value useful qualities in one \
+\ who loves you.                       /
  --------------------------------------
         \   ^__^
          \  (oo)\_______
