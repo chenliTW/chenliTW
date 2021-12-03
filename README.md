@@ -1,13 +1,11 @@
 Last Update Time: 
-Fri Dec  3 18:36:10 UTC 2021
+Fri Dec  3 18:51:36 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: What do you call the scratches that \
-| you get when a female                  |
-|                                        |
-\ sheep bites you? A: Ewe nicks.         /
- ----------------------------------------
+ ___________________________________
+/ Your heart is pure, and your mind \
+\ clear, and your soul devout.      /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
