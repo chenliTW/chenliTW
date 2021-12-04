@@ -1,16 +1,15 @@
 Last Update Time: 
-Sat Dec  4 02:19:30 UTC 2021
+Sat Dec  4 02:49:19 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How many Oregonians does it take to  \
-| screw in a light bulb? A: Three. One to |
-| screw in the light bulb and two to fend |
-| off all those                           |
-|                                         |
-| Californians trying to share the        |
-\ experience.                             /
- -----------------------------------------
+ _____________________________________
+/ It were not best that we should all \
+| think alike; it is difference of    |
+| opinion that makes horse-races.     |
+|                                     |
+| -- Mark Twain, "Pudd'nhead Wilson's |
+\ Calendar"                           /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
