@@ -1,11 +1,11 @@
 Last Update Time: 
-Sat Dec  4 20:20:26 UTC 2021
+Sat Dec  4 20:36:24 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ You have many friends and very few \
-\ living enemies.                    /
- ------------------------------------
+ _____________________________________
+/ Your goose is cooked. (Your current \
+\ chick is burned up too!)            /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
