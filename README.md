@@ -1,18 +1,24 @@
 Last Update Time: 
-Sat Dec  4 08:27:15 UTC 2021
+Sat Dec  4 08:46:53 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ We should be careful to get out of an   \
-| experience only the wisdom that is in   |
-| it - and stay there, lest we be like    |
-| the cat that sits down on a hot         |
-| stove-lid. She will never sit down on a |
-| hot stove-lid again - and that is well; |
-| but also she will never sit down on a   |
-| cold one any more.                      |
+/ Q: How many IBM types does it take to   \
+| change a light bulb? A: Fifteen. One to |
+| do it, and fourteen to write document   |
+| number                                  |
 |                                         |
-\ -- Mark Twain                           /
+| GC7500439-0001, Multitasking            |
+| Incandescent Source System Facility,    |
+|                                         |
+| of which 10% of the pages state only    |
+| "This page intentionally                |
+|                                         |
+| left blank", and 20% of the definitions |
+| are of the form "A:.....                |
+|                                         |
+| consists of sequences of non-blank      |
+\ characters separated by blanks".        /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
