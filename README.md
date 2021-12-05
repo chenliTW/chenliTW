@@ -1,10 +1,12 @@
 Last Update Time: 
-Sat Dec  4 23:50:00 UTC 2021
+Sun Dec  5 00:26:04 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- __________________________
-< Bridge ahead. Pay troll. >
- --------------------------
+ _________________________________________
+/ You will stop at nothing to reach your  \
+| objective, but only because your brakes |
+\ are defective.                          /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
