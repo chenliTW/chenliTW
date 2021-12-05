@@ -1,11 +1,22 @@
 Last Update Time: 
-Sun Dec  5 14:14:09 UTC 2021
+Sun Dec  5 14:29:22 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ You recoil from the crude; you tend \
-\ naturally toward the exquisite.     /
- -------------------------------------
+ _________________________________________
+/ For the fashion of Minas Tirith was     \
+| such that it was built on seven levels, |
+| each delved into a hill, and about each |
+| was set a wall, and in each wall was a  |
+| gate.                                   |
+|                                         |
+| -- J.R.R. Tolkien, "The Return of the   |
+| King"                                   |
+|                                         |
+| [Quoted in "VMS Internals and Data      |
+| Structures", V4.4, when                 |
+|                                         |
+\ referring to system overview.]          /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
