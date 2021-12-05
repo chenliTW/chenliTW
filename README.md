@@ -1,11 +1,10 @@
 Last Update Time: 
-Sun Dec  5 23:39:51 UTC 2021
+Sun Dec  5 23:51:55 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ If you stand on your head, you will get \
-\ footprints in your hair.                /
- -----------------------------------------
+ ___________________________________
+< You will contract a rare disease. >
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
