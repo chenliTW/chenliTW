@@ -1,11 +1,11 @@
 Last Update Time: 
-Sun Dec  5 22:21:31 UTC 2021
+Sun Dec  5 22:37:15 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Things will be bright in P.M. A cop \
-\ will shine a light in your face.    /
- -------------------------------------
+ _______________________________________
+/ You will be given a post of trust and \
+\ responsibility.                       /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
