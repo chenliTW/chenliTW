@@ -1,10 +1,19 @@
 Last Update Time: 
-Mon Dec  6 08:32:28 UTC 2021
+Mon Dec  6 08:49:02 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ You possess a mind not merely twisted, \
-\ but actually sprained.                 /
+/ At once it struck me what quality went \
+| to form a man of achievement,          |
+| especially in literature, and which    |
+| Shakespeare possessed so enormously -- |
+| I mean negative capability, that is,   |
+| when a man is capable of being in      |
+| uncertainties, mysteries, doubts,      |
+| without any irritable reaching after   |
+| fact and reason.                       |
+|                                        |
+\ -- John Keats                          /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
