@@ -1,10 +1,12 @@
 Last Update Time: 
-Mon Dec  6 06:24:45 UTC 2021
+Mon Dec  6 06:48:07 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: Why do WASPs play golf ? A: So they \
-\ can dress like pimps.                  /
+/ Writing is turning one's worst moments \
+| into money.                            |
+|                                        |
+\ -- J.P. Donleavy                       /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
