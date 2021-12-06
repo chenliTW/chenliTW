@@ -1,12 +1,11 @@
 Last Update Time: 
-Mon Dec  6 05:55:41 UTC 2021
+Mon Dec  6 06:24:45 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ For courage mounteth with occasion. \
-|                                     |
-\ -- William Shakespeare, "King John" /
- -------------------------------------
+ ________________________________________
+/ Q: Why do WASPs play golf ? A: So they \
+\ can dress like pimps.                  /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
