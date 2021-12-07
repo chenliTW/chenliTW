@@ -1,11 +1,10 @@
 Last Update Time: 
-Tue Dec  7 09:42:52 UTC 2021
+Tue Dec  7 09:54:47 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: What do they call the alphabet in \
-\ Arkansas? A: The impossible dream.   /
- --------------------------------------
+ ____________________
+< You'll be sorry... >
+ --------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
