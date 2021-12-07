@@ -1,11 +1,11 @@
 Last Update Time: 
-Mon Dec  6 23:48:07 UTC 2021
+Tue Dec  7 00:00:05 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You have had a long-term stimulation \
-\ relative to business.                /
- --------------------------------------
+ _______________________________________
+/ You get along very well with everyone \
+\ except animals and people.            /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
