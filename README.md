@@ -1,14 +1,10 @@
 Last Update Time: 
-Tue Dec  7 21:21:10 UTC 2021
+Tue Dec  7 21:36:39 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Consider well the proportions of       \
-| things. It is better to be a young     |
-| June-bug than an old bird of paradise. |
-|                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
+/ Try the Moo Shu Pork. It is especially \
+\ good today.                            /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
