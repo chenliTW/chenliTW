@@ -1,11 +1,11 @@
 Last Update Time: 
-Wed Dec  8 15:47:58 UTC 2021
+Wed Dec  8 16:00:11 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You will step on the night soil of many \
-\ countries.                              /
- -----------------------------------------
+ ____________________________________
+/ After your lover has gone you will \
+\ still have PEANUT BUTTER!          /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
