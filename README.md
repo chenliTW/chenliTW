@@ -1,11 +1,10 @@
 Last Update Time: 
-Wed Dec  8 21:34:43 UTC 2021
+Wed Dec  8 21:46:33 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You will probably marry after a very \
-\ brief courtship.                     /
- --------------------------------------
+ ____________________________________
+< There is a 20% chance of tomorrow. >
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
