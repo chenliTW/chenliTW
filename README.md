@@ -1,15 +1,15 @@
 Last Update Time: 
-Thu Dec  9 21:32:53 UTC 2021
+Thu Dec  9 21:44:39 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How many Bell Labs Vice Presidents   \
-| does it take to change a light bulb? A: |
-| That's proprietary information. Answer  |
-| available from AT&T on payment          |
-|                                         |
-\ of license fee (binary only).           /
- -----------------------------------------
+ ________________________________________
+/ I don't know half of you half as well  \
+| as I should like; and I like less than |
+| half of you half as well as you        |
+| deserve.                               |
+|                                        |
+\ -- J. R. R. Tolkien                    /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
