@@ -1,14 +1,12 @@
 Last Update Time: 
-Thu Dec  9 17:06:49 UTC 2021
+Thu Dec  9 17:37:35 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Don't go around saying the world owes \
-| you a living. The world owes you      |
-| nothing. It was here first.           |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ ____________________________________
+/ Try to relax and enjoy the crisis. \
+|                                    |
+\ -- Ashleigh Brilliant              /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
