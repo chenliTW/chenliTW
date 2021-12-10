@@ -1,14 +1,10 @@
 Last Update Time: 
-Fri Dec 10 05:58:58 UTC 2021
+Fri Dec 10 06:28:55 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ This is the first age that's paid much \
-| attention to the future, which is a    |
-| little ironic since we may not have    |
-| one.                                   |
-|                                        |
-\ -- Arthur Clarke                       /
+/ Alimony and bribes will engage a large \
+\ share of your wealth.                  /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
