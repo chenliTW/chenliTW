@@ -1,10 +1,17 @@
 Last Update Time: 
-Fri Dec 10 00:57:19 UTC 2021
+Fri Dec 10 02:01:50 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: What's tan and black and looks great \
-\ on a lawyer? A: A doberman.             /
+/ Persons attempting to find a motive in  \
+| this narrative will be prosecuted;      |
+| persons attempting to find a moral in   |
+| it will be banished; persons attempting |
+| to find a plot in it will be shot. By   |
+| Order of the Author                     |
+|                                         |
+| -- Mark Twain, "The Adventures of       |
+\ Huckleberry Finn"                       /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
