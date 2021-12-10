@@ -1,13 +1,10 @@
 Last Update Time: 
-Fri Dec 10 18:01:50 UTC 2021
+Fri Dec 10 18:30:38 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Kindness is a language which the deaf \
-| can hear and the blind can read.      |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ ___________________________
+< Condense soup, not books! >
+ ---------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
