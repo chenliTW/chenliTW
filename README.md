@@ -1,13 +1,11 @@
 Last Update Time: 
-Sat Dec 11 05:13:48 UTC 2021
+Sat Dec 11 05:29:26 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ A long-forgotten loved one will appear \
-| soon.                                  |
-|                                        |
-\ Buy the negatives at any price.        /
- ----------------------------------------
+ _________________________________________
+/ Q: What's yellow, and equivalent to the \
+\ Axiom of Choice? A: Zorn's Lemon.       /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
