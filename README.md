@@ -1,12 +1,15 @@
 Last Update Time: 
-Sun Dec 12 06:49:14 UTC 2021
+Sun Dec 12 07:03:24 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What do you say to a New Yorker with \
-| a job? A: Big Mac, fries and a Coke,    |
-\ please!                                 /
- -----------------------------------------
+ ________________________________________
+/ Q: Why did the chicken cross the road? \
+| A: To see his friend Gregory peck.     |
+|                                        |
+| Q: Why did the chicken cross the       |
+| playground? A: To get to the other     |
+\ slide.                                 /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
