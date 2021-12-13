@@ -1,11 +1,11 @@
 Last Update Time: 
-Mon Dec 13 07:53:21 UTC 2021
+Mon Dec 13 08:17:49 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Your life would be very empty if you \
-\ had nothing to regret.               /
- --------------------------------------
+ _____________________________________
+/ Beware of a tall blond man with one \
+\ black shoe.                         /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
