@@ -1,11 +1,12 @@
 Last Update Time: 
-Mon Dec 13 19:55:18 UTC 2021
+Mon Dec 13 20:20:14 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Give thought to your reputation.       \
-| Consider changing name and moving to a |
-\ new town.                              /
+/ FORTUNE PROVIDES QUESTIONS FOR THE     \
+| GREAT ANSWERS: #15 A: The Royal        |
+| Canadian Mounted Police. Q: What was   |
+\ the greatest achievement in taxidermy? /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
