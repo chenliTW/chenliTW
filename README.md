@@ -1,11 +1,12 @@
 Last Update Time: 
-Mon Dec 13 09:11:33 UTC 2021
+Mon Dec 13 09:32:38 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: What do they call the alphabet in \
-\ Arkansas? A: The impossible dream.   /
- --------------------------------------
+ _________________________________________
+/ "... all the modern inconveniences ..." \
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
