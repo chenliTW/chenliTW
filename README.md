@@ -1,11 +1,11 @@
 Last Update Time: 
-Mon Dec 13 17:48:01 UTC 2021
+Mon Dec 13 18:00:11 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: What's the difference between a Mac  \
-| and an Etch-a-Sketch? A: You don't have |
-\ to shake the Mac to clear the screen.   /
+/ You are wise, witty, and wonderful, but \
+| you spend too much time reading this    |
+\ sort of trash.                          /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
