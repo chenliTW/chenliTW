@@ -1,10 +1,11 @@
 Last Update Time: 
-Mon Dec 13 09:57:58 UTC 2021
+Mon Dec 13 10:26:22 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-< Be careful! UGLY strikes 9 out of 10! >
- ---------------------------------------
+ ________________________________________
+/ Accent on helpful side of your nature. \
+\ Drain the moat.                        /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
