@@ -1,12 +1,11 @@
 Last Update Time: 
-Tue Dec 14 07:56:38 UTC 2021
+Tue Dec 14 08:27:41 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Next Friday will not be your lucky day. \
-| As a matter of fact, you don't have a   |
-\ lucky day this year.                    /
- -----------------------------------------
+ _______________________________________
+/ You shall be rewarded for a dastardly \
+\ deed.                                 /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
