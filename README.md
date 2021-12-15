@@ -1,11 +1,12 @@
 Last Update Time: 
-Wed Dec 15 06:43:04 UTC 2021
+Wed Dec 15 06:55:35 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ Q: How many WASPs does it take to \
-\ change a light bulb? A: One.      /
- -----------------------------------
+ _________________________________________
+/ You will stop at nothing to reach your  \
+| objective, but only because your brakes |
+\ are defective.                          /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
