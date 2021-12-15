@@ -1,9 +1,10 @@
 Last Update Time: 
-Wed Dec 15 05:43:14 UTC 2021
+Wed Dec 15 05:54:47 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _______________________________________
-< You will inherit millions of dollars. >
+/ Q: Why don't lawyers go to the beach? \
+\ A: The cats keep trying to bury them. /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
