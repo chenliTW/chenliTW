@@ -1,11 +1,11 @@
 Last Update Time: 
-Wed Dec 15 07:45:09 UTC 2021
+Wed Dec 15 07:56:57 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You will visit the Dung Pits of Glive \
-\ soon.                                 /
- ---------------------------------------
+ ______________________________________
+/ Q: Why did Menachem Begin invade     \
+\ Lebanon? A: To impress Jodie Foster. /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
