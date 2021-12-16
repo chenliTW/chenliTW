@@ -1,10 +1,11 @@
 Last Update Time: 
-Thu Dec 16 20:23:16 UTC 2021
+Thu Dec 16 20:38:19 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-< You will be surrounded by luxury. >
- -----------------------------------
+ ____________________________________
+/ Excellent time to become a missing \
+\ person.                            /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
