@@ -1,12 +1,13 @@
 Last Update Time: 
-Thu Dec 16 10:44:48 UTC 2021
+Thu Dec 16 10:56:37 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What's the difference between an     \
-| Irish wedding and an Irish wake? A: One |
-\ less drunk.                             /
- -----------------------------------------
+ ________________________________________
+/ It usually takes more than three weeks \
+| to prepare a good impromptu speech.    |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
