@@ -1,17 +1,14 @@
 Last Update Time: 
-Thu Dec 16 19:32:45 UTC 2021
+Thu Dec 16 19:44:42 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Steady movement is more important than \
-| speed, much of the time. So long as    |
-| there is a regular progression of      |
-| stimuli to get your mental hooks into, |
-| there is room for lateral movement.    |
-| Once this begins, its rate is a matter |
-| of discretion.                         |
+/ It is by the fortune of God that, in   \
+| this country, we have three benefits:  |
+| freedom of speech, freedom of thought, |
+| and the wisdom never to use either.    |
 |                                        |
-\ -- Corwin, Prince of Amber             /
+\ -- Mark Twain                          /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
