@@ -1,12 +1,11 @@
 Last Update Time: 
-Sun Dec 19 23:43:13 UTC 2021
+Sun Dec 19 23:55:05 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Try to relax and enjoy the crisis. \
-|                                    |
-\ -- Ashleigh Brilliant              /
- ------------------------------------
+ ________________________________________
+/ Your boss is a few sandwiches short of \
+\ a picnic.                              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
