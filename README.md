@@ -1,10 +1,21 @@
 Last Update Time: 
-Sun Dec 19 10:13:42 UTC 2021
+Sun Dec 19 10:33:55 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ You will be reincarnated as a toad; and \
-\ you will be much happier.               /
+/ There is no character, howsoever good   \
+| and fine, but it can be destroyed by    |
+| ridicule, howsoever poor and witless.   |
+| Observe the ass, for instance: his      |
+| character is about perfect, he is the   |
+| choicest spirit among all the humbler   |
+| animals, yet see what ridicule has      |
+| brought him to. Instead of feeling      |
+| complimented when we are called an ass, |
+| we are left in doubt.                   |
+|                                         |
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
