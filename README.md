@@ -1,11 +1,12 @@
 Last Update Time: 
-Sat Dec 18 23:56:18 UTC 2021
+Sun Dec 19 01:15:53 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Give your very best today. Heaven knows \
-\ it's little enough.                     /
- -----------------------------------------
+ ________________________________________
+/ Your best consolation is the hope that \
+| the things you failed to get weren't   |
+\ really worth having.                   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
