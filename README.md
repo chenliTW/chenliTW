@@ -1,13 +1,13 @@
 Last Update Time: 
-Sun Dec 19 07:21:51 UTC 2021
+Sun Dec 19 07:35:16 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ The first thing we do, let's kill all   \
-| the lawyers.                            |
-|                                         |
-\ -- Wm. Shakespeare, "Henry VI", Part IV /
- -----------------------------------------
+ ________________________________________
+/ Q: What do you call the scratches that \
+| you get when a female                  |
+|                                        |
+\ sheep bites you? A: Ewe nicks.         /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
