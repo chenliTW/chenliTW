@@ -1,12 +1,13 @@
 Last Update Time: 
-Mon Dec 20 03:45:17 UTC 2021
+Mon Dec 20 03:56:46 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You plan things that you do not even \
-| attempt because of your extreme      |
-\ caution.                             /
- --------------------------------------
+ ________________________________________
+/ FORTUNE PROVIDES QUESTIONS FOR THE     \
+| GREAT ANSWERS: #4 A: Go west, young    |
+| man, go west! Q: What do wabbits do    |
+\ when they get tiwed of wunning awound? /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
