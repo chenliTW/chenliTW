@@ -1,11 +1,11 @@
 Last Update Time: 
-Mon Dec 20 17:35:37 UTC 2021
+Mon Dec 20 17:51:08 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Celebrate Hannibal Day this year. Take \
-\ an elephant to lunch.                  /
- ----------------------------------------
+ ______________________________________
+/ You have an unusual equipment for    \
+\ success. Be sure to use it properly. /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
