@@ -1,12 +1,11 @@
 Last Update Time: 
-Mon Dec 20 07:13:31 UTC 2021
+Mon Dec 20 07:31:20 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Always do right. This will gratify some \
-| people and astonish the rest.           |
-|                                         |
-\ -- Mark Twain                           /
+/ You are wise, witty, and wonderful, but \
+| you spend too much time reading this    |
+\ sort of trash.                          /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
