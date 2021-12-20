@@ -1,12 +1,11 @@
 Last Update Time: 
-Mon Dec 20 05:35:56 UTC 2021
+Mon Dec 20 05:47:41 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: How did you get into artificial   \
-| intelligence? A: Seemed logical -- I |
-\ didn't have any real intelligence.   /
- --------------------------------------
+ _____________________________________
+/ Among the lucky, you are the chosen \
+\ one.                                /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
