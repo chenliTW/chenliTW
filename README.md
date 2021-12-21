@@ -1,14 +1,10 @@
 Last Update Time: 
-Tue Dec 21 17:10:46 UTC 2021
+Tue Dec 21 17:40:17 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ The secret source of humor is not joy \
-| but sorrow; there is no humor in      |
-| Heaven.                               |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ ________________________________
+< It's all in the mind, ya know. >
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
