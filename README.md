@@ -1,11 +1,11 @@
 Last Update Time: 
-Tue Dec 21 23:11:25 UTC 2021
+Tue Dec 21 23:31:28 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You will always get the greatest        \
-\ recognition for the job you least like. /
- -----------------------------------------
+ ________________________________________
+/ You have a will that can be influenced \
+\ by all with whom you come in contact.  /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
