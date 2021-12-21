@@ -1,14 +1,10 @@
 Last Update Time: 
-Tue Dec 21 10:28:28 UTC 2021
+Tue Dec 21 10:45:18 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ If one cannot enjoy reading a book over \
-| and over again, there is no use in      |
-| reading it at all.                      |
-|                                         |
-\ -- Oscar Wilde                          /
- -----------------------------------------
+ ____________________________________
+< There is a 20% chance of tomorrow. >
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
