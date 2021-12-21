@@ -1,14 +1,12 @@
 Last Update Time: 
-Tue Dec 21 06:52:39 UTC 2021
+Tue Dec 21 07:13:02 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Sometimes I wonder if I'm in my right \
-| mind. Then it passes off and I'm as   |
-| intelligent as ever.                  |
-|                                       |
-\ -- Samuel Beckett, "Endgame"          /
- ---------------------------------------
+ ________________________________________
+/ You can do very well in speculation    \
+| where land or anything to do with dirt |
+\ is concerned.                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
