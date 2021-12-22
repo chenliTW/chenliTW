@@ -1,36 +1,50 @@
 Last Update Time: 
-Wed Dec 22 14:22:21 UTC 2021
+Wed Dec 22 14:36:28 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ You see, I consider that a man's brain  \
-| originally is like a little empty       |
-| attic, and you have to stock it with    |
-| such furniture as you choose. A fool    |
-| takes in all the lumber of every sort   |
-| he comes across, so that the knowledge  |
-| which might be useful to him gets       |
-| crowded out, or at best is jumbled up   |
-| with a lot of other things, so that he  |
-| has difficulty in laying his hands upon |
-| it. Now the skilful workman is very     |
-| careful indeed as to what he takes into |
-| his brain-attic. He will have nothing   |
-| but the tools which may help him in     |
-| doing his work, but of these he has a   |
-| large assortment, and all in the most   |
-| perfect order. It is a mistake to think |
-| that that little room has elastic walls |
-| and can distend to any extent. Depend   |
-| upon it there comes a time when for     |
-| every addition of knowledge you forget  |
-| something that you knew before. It is   |
-| of the highest importance, therefore,   |
-| not to have useless facts elbowing out  |
-| the useful ones.                        |
+/ We were young and our happiness dazzled \
+| us with its strength. But there was     |
+| also a terrible betrayal that lay       |
+| within me like a Merle Haggard song at  |
+| a French restaurant. [...]              |
 |                                         |
-| -- Sir Arthur Conan Doyle, "A Study in  |
-\ Scarlet"                                /
+| I could not tell the girl about the     |
+| woman of the tollway, of her milk white |
+| BMW and her Jordache smile. There had   |
+| been a fight. I had punched her         |
+| boyfriend, who fought the mechanical    |
+| bulls. Everyone told him, "You ride the |
+| bull, senor. You do not fight it." But  |
+| he was lean and tough like a bad        |
+| rib-eye and he fought the bull. And     |
+| then he fought me. And when we finished |
+| there were no winners, just men doing   |
+| what men must do. [...]                 |
+|                                         |
+| "Stop the car," the girl said.          |
+|                                         |
+| There was a look of terrible sadness in |
+| her eyes. She knew about the woman of   |
+| the tollway. I knew not how. I started  |
+| to speak, but she raised an arm and     |
+| spoke with a quiet and peace I will     |
+| never forget.                           |
+|                                         |
+| "I do not ask for whom's the tollway    |
+| belle," she said, "the tollway belle's  |
+| for thee."                              |
+|                                         |
+| The next morning our youth was a        |
+| memory, and our happiness was a lie.    |
+| Life is like a bad margarita with good  |
+| tequila, I thought as I poured whiskey  |
+| onto my granola and faced a new day.    |
+|                                         |
+| -- Peter Applebome, International       |
+| Imitation Hemingway                     |
+|                                         |
+\ Competition                             /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
