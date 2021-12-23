@@ -1,12 +1,10 @@
 Last Update Time: 
-Thu Dec 23 14:47:57 UTC 2021
+Thu Dec 23 14:59:54 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ The very ink with which all history is \
-| written is merely fluid prejudice.     |
-|                                        |
-\ -- Mark Twain                          /
+/ Alimony and bribes will engage a large \
+\ share of your wealth.                  /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
