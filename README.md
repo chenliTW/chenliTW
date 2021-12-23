@@ -1,14 +1,12 @@
 Last Update Time: 
-Thu Dec 23 05:20:49 UTC 2021
+Thu Dec 23 05:35:39 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Few things are harder to put up with  \
-| than the annoyance of a good example. |
-|                                       |
-| -- "Mark Twain, Pudd'nhead Wilson's   |
-\ Calendar"                             /
- ---------------------------------------
+ _________________________________________
+/ Better hope the life-inspector doesn't  \
+| come around while you have your life in |
+\ such a mess.                            /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
