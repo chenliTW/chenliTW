@@ -1,11 +1,11 @@
 Last Update Time: 
-Fri Dec 24 14:15:41 UTC 2021
+Fri Dec 24 14:31:19 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Your object is to save the world, while \
-\ still leading a pleasant life.          /
- -----------------------------------------
+ ____________________________________
+/ Q: What is orange and goes "click, \
+\ click?" A: A ball point carrot.    /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
