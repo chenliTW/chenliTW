@@ -1,11 +1,11 @@
 Last Update Time: 
-Fri Dec 24 07:22:30 UTC 2021
+Fri Dec 24 07:36:11 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You could live a better life, if you \
-\ had a better mind and a better body. /
- --------------------------------------
+ _________________________________________
+/ Your depth of comprehension may tend to \
+\ make you lax in worldly ways.           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
