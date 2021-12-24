@@ -1,12 +1,12 @@
 Last Update Time: 
-Fri Dec 24 17:31:13 UTC 2021
+Fri Dec 24 17:48:34 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You had some happiness once, but your \
-| parents moved away, and you had to    |
-\ leave it behind.                      /
- ---------------------------------------
+ _________________________________________
+/ You are scrupulously honest, frank, and \
+| straightforward. Therefore you have few |
+\ friends.                                /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
