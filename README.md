@@ -1,12 +1,11 @@
 Last Update Time: 
-Fri Dec 24 09:26:34 UTC 2021
+Fri Dec 24 09:43:44 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- __________________________________
-/ Be cheerful while you are alive. \
-|                                  |
-\ -- Phathotep, 24th Century B.C.  /
- ----------------------------------
+ ______________________________________
+/ You will live a long, healthy, happy \
+\ life and make bags of money.         /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
