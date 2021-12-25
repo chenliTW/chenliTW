@@ -1,11 +1,12 @@
 Last Update Time: 
-Sat Dec 25 11:19:29 UTC 2021
+Sat Dec 25 11:31:22 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________
-/ question = ( to ) ? be : ! be; \
+/ All generalizations are false, \
+| including this one.            |
 |                                |
-\ -- Wm. Shakespeare             /
+\ -- Mark Twain                  /
  --------------------------------
         \   ^__^
          \  (oo)\_______
