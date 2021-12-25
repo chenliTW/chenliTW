@@ -1,12 +1,11 @@
 Last Update Time: 
-Sat Dec 25 15:17:03 UTC 2021
+Sat Dec 25 15:37:08 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: What do you have when you have a   \
-| lawyer buried up to his neck in sand? |
-\ A: Not enough sand.                   /
- ---------------------------------------
+ _________________________________________
+/ Q: What's yellow, and equivalent to the \
+\ Axiom of Choice? A: Zorn's Lemon.       /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
