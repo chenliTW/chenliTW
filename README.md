@@ -1,12 +1,12 @@
 Last Update Time: 
-Sat Dec 25 20:12:14 UTC 2021
+Sat Dec 25 20:32:50 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Every cloud engenders not a storm. \
-|                                    |
-\ -- William Shakespeare, "Henry VI" /
- ------------------------------------
+ ________________________________________
+/ What no spouse of a writer can ever    \
+| understand is that a writer is working |
+\ when he's staring out the window.      /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
