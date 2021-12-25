@@ -1,13 +1,11 @@
 Last Update Time: 
-Sat Dec 25 04:49:28 UTC 2021
+Sat Dec 25 05:06:16 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Go not to the elves for counsel, for \
-| they will say both yes and no.       |
-|                                      |
-\ -- J.R.R. Tolkien                    /
- --------------------------------------
+ _________________________________________
+/ You don't become a failure until you're \
+\ satisfied with being one.               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
