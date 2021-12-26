@@ -1,10 +1,12 @@
 Last Update Time: 
-Sun Dec 26 21:38:46 UTC 2021
+Sun Dec 26 21:52:41 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________
-< It's all in the mind, ya know. >
- --------------------------------
+ _________________________________________
+/ Q: What's the difference between an     \
+| Irish wedding and an Irish wake? A: One |
+\ less drunk.                             /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
