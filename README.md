@@ -1,15 +1,10 @@
 Last Update Time: 
-Sun Dec 26 21:24:56 UTC 2021
+Sun Dec 26 21:38:46 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ It has long been an axiom of mine that \
-| the little things are infinitely the   |
-| most important.                        |
-|                                        |
-| -- Sir Arthur Conan Doyle, "A Case of  |
-\ Identity"                              /
- ----------------------------------------
+ ________________________________
+< It's all in the mind, ya know. >
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
