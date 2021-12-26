@@ -1,11 +1,14 @@
 Last Update Time: 
-Sun Dec 26 02:50:18 UTC 2021
+Sun Dec 26 03:09:10 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ You will be advanced socially, without \
-\ any special effort on your part.       /
- ----------------------------------------
+ ____________________________________
+/ FORTUNE PROVIDES QUESTIONS FOR THE \
+| GREAT ANSWERS: #13 A: Doc, Happy,  |
+| Bashful, Dopey, Sneezy, Sleepy, &  |
+| Grumpy Q: Who were the Democratic  |
+\ presidential candidates?           /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
