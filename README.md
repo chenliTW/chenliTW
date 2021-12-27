@@ -1,13 +1,13 @@
 Last Update Time: 
-Mon Dec 27 13:33:23 UTC 2021
+Mon Dec 27 13:46:07 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: Why do ducks have big flat feet? A:  \
-| To stamp out forest fires.              |
+/ Q: What do you call a principal female  \
+| opera singer whose high C               |
 |                                         |
-| Q: Why do elephants have big flat feet? |
-\ A: To stamp out flaming ducks.          /
+| is lower than those of other principal  |
+\ female opera singers? A: A deep C diva. /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
