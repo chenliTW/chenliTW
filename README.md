@@ -1,11 +1,14 @@
 Last Update Time: 
-Mon Dec 27 05:34:40 UTC 2021
+Mon Dec 27 05:46:22 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Ships are safe in harbor, but they were \
-\ never meant to stay there.              /
- -----------------------------------------
+ ________________________________________
+/ When you are about to die, a wombat is \
+| better than no company at all.         |
+|                                        |
+| -- Roger Zelazny, "Doorways in the     |
+\ Sand"                                  /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
