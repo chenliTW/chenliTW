@@ -1,11 +1,12 @@
 Last Update Time: 
-Mon Dec 27 20:44:41 UTC 2021
+Mon Dec 27 20:56:53 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ You are not dead yet. But watch for \
-\ further reports.                    /
- -------------------------------------
+ _______________________________________
+/ You can create your own opportunities \
+| this week. Blackmail a senior         |
+\ executive.                            /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
