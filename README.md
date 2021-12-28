@@ -1,16 +1,14 @@
 Last Update Time: 
-Tue Dec 28 04:53:44 UTC 2021
+Tue Dec 28 05:15:22 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Remark of Dr. Baldwin's concerning  \
-| upstarts: We don't care to eat      |
-| toadstools that think they are      |
-| truffles.                           |
-|                                     |
-| -- Mark Twain, "Pudd'nhead Wilson's |
-\ Calendar"                           /
- -------------------------------------
+ ________________________________________
+/ Q: Why is Christmas just like a day at \
+| the office? A: You do all of the work  |
+| and the fat guy in the suit            |
+|                                        |
+\ gets all the credit.                   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
