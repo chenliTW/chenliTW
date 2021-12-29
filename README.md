@@ -1,12 +1,15 @@
 Last Update Time: 
-Wed Dec 29 13:38:27 UTC 2021
+Wed Dec 29 13:50:16 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Seeing that death, a necessary end,     \
-| Will come when it will come.            |
+/ Q: How many bureaucrats does it take to \
+| screw in a light bulb? A: Two. One to   |
+| assure everyone that everything         |
+| possible is being                       |
 |                                         |
-\ -- William Shakespeare, "Julius Caesar" /
+| done while the other screws the bulb    |
+\ into the water faucet.                  /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
