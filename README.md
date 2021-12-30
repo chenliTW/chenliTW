@@ -1,11 +1,15 @@
 Last Update Time: 
-Thu Dec 30 16:38:05 UTC 2021
+Thu Dec 30 17:07:14 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ If you sow your wild oats, hope for a \
-\ crop failure.                         /
- ---------------------------------------
+ ________________________________________
+/ He draweth out the thread of his       \
+| verbosity finer than the staple of his |
+| argument.                              |
+|                                        |
+| -- William Shakespeare, "Love's        |
+\ Labour's Lost"                         /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
