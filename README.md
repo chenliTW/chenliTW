@@ -1,20 +1,11 @@
 Last Update Time: 
-Thu Dec 30 05:47:59 UTC 2021
+Thu Dec 30 06:00:01 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How does the Polish Constitution    \
-| differ from the American? A: Under the |
-| Polish Constitution citizens are       |
-| guaranteed freedom of                  |
-|                                        |
-| speech, but under the United States    |
-| constitution they are                  |
-|                                        |
-| guaranteed freedom after speech.       |
-|                                        |
-\ -- being told in Poland, 1987          /
- ----------------------------------------
+ _________________________________
+/ Tonight's the night: Sleep in a \
+\ eucalyptus tree.                /
+ ---------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
