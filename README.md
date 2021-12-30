@@ -1,11 +1,11 @@
 Last Update Time: 
-Thu Dec 30 19:49:24 UTC 2021
+Thu Dec 30 20:04:44 UTC 2021
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ You will inherit some money or a small \
-\ piece of land.                         /
- ----------------------------------------
+ _________________________________________
+/ It may or may not be worthwhile, but it \
+\ still has to be done.                   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
