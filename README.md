@@ -1,13 +1,16 @@
 Last Update Time: 
-Sun Jan  2 06:22:19 UTC 2022
+Sun Jan  2 06:45:35 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: Why do ducks have big flat feet? A:  \
-| To stamp out forest fires.              |
+/ Whenever the literary German dives into \
+| a sentence, that is the last you are    |
+| going to see of him until he emerges on |
+| the other side of his Atlantic with his |
+| verb in his mouth.                      |
 |                                         |
-| Q: Why do elephants have big flat feet? |
-\ A: To stamp out flaming ducks.          /
+| -- Mark Twain "A Connecticut Yankee in  |
+\ King Arthur's Court"                    /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
