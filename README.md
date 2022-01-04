@@ -1,14 +1,15 @@
 Last Update Time: 
-Tue Jan  4 05:35:50 UTC 2022
+Tue Jan  4 05:47:45 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ When angry, count four; when very   \
-| angry, swear.                       |
-|                                     |
-| -- Mark Twain, "Pudd'nhead Wilson's |
-\ Calendar"                           /
- -------------------------------------
+ ________________________________________
+/ It is often the case that the man who  \
+| can't tell a lie thinks he is the best |
+| judge of one.                          |
+|                                        |
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
