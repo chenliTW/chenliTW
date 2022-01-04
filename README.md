@@ -1,11 +1,14 @@
 Last Update Time: 
-Tue Jan  4 02:50:42 UTC 2022
+Tue Jan  4 03:09:30 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You will be given a post of trust and \
-\ responsibility.                       /
- ---------------------------------------
+ ________________________________________
+/ Hain't we got all the fools in town on \
+| our side? And hain't that a big enough |
+| majority in any town?                  |
+|                                        |
+\ -- Mark Twain, "Huckleberry Finn"      /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
