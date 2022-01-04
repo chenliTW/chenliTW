@@ -1,10 +1,11 @@
 Last Update Time: 
-Tue Jan  4 08:43:28 UTC 2022
+Tue Jan  4 08:55:11 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-< Beware of low-flying butterflies. >
- -----------------------------------
+ _________________________________________
+/ Your boss climbed the corporate ladder, \
+\ wrong by wrong.                         /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
