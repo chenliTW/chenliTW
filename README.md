@@ -1,12 +1,14 @@
 Last Update Time: 
-Wed Jan  5 08:29:18 UTC 2022
+Wed Jan  5 08:48:47 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: What looks like a cat, flies like a \
-| bat, brays like a donkey, and          |
+/ It is often the case that the man who  \
+| can't tell a lie thinks he is the best |
+| judge of one.                          |
 |                                        |
-\ plays like a monkey? A: Nothing.       /
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
