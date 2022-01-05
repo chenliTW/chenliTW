@@ -1,10 +1,10 @@
 Last Update Time: 
-Wed Jan  5 02:55:14 UTC 2022
+Wed Jan  5 03:15:28 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Learn to pause -- or nothing worthwhile \
-\ can catch up to you.                    /
+/ You don't become a failure until you're \
+\ satisfied with being one.               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
