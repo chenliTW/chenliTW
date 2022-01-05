@@ -1,11 +1,13 @@
 Last Update Time: 
-Wed Jan  5 07:58:37 UTC 2022
+Wed Jan  5 08:29:18 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: How much does it cost to ride the \
-\ Unibus? A: 2 bits.                   /
- --------------------------------------
+ ________________________________________
+/ Q: What looks like a cat, flies like a \
+| bat, brays like a donkey, and          |
+|                                        |
+\ plays like a monkey? A: Nothing.       /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
