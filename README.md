@@ -1,12 +1,20 @@
 Last Update Time: 
-Wed Jan  5 04:58:20 UTC 2022
+Wed Jan  5 05:23:36 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ I do desire we may be better strangers. \
+/ Q: How many existentialists does it     \
+| take to screw in a light bulb? A: Two.  |
+| One to screw it in and one to observe   |
+| how the light bulb                      |
 |                                         |
-| -- William Shakespeare, "As You Like    |
-\ It"                                     /
+| itself symbolizes a single incandescent |
+| beacon of subjective                    |
+|                                         |
+| reality in a netherworld of endless     |
+| absurdity reaching out toward a         |
+|                                         |
+\ maudlin cosmos of nothingness.          /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
