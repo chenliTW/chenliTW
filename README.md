@@ -1,13 +1,14 @@
 Last Update Time: 
-Wed Jan  5 14:54:13 UTC 2022
+Wed Jan  5 15:18:09 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Truth is the most valuable thing we \
-| have -- so let us economize it.     |
-|                                     |
-\ -- Mark Twain                       /
- -------------------------------------
+ ______________________________________
+/ Tell the truth or trump--but get the \
+| trick.                               |
+|                                      |
+| -- Mark Twain, "Pudd'nhead Wilson's  |
+\ Calendar"                            /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
