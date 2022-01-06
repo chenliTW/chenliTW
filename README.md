@@ -1,12 +1,11 @@
 Last Update Time: 
-Thu Jan  6 09:07:39 UTC 2022
+Thu Jan  6 09:31:05 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ "... all the modern inconveniences ..." \
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ _____________________________________
+/ You have the capacity to learn from \
+\ mistakes. You'll learn a lot today. /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
