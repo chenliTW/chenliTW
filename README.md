@@ -1,15 +1,11 @@
 Last Update Time: 
-Thu Jan  6 19:50:13 UTC 2022
+Thu Jan  6 20:08:01 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Consider well the proportions of       \
-| things. It is better to be a young     |
-| June-bug than an old bird of paradise. |
-|                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
- ----------------------------------------
+ _________________________________________
+/ You don't become a failure until you're \
+\ satisfied with being one.               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
