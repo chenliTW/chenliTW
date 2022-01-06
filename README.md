@@ -1,10 +1,10 @@
 Last Update Time: 
-Thu Jan  6 16:12:15 UTC 2022
+Thu Jan  6 16:55:35 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Write yourself a threatening letter and \
-\ pen a defiant reply.                    /
+/ Q: What's tan and black and looks great \
+\ on a lawyer? A: A doberman.             /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
