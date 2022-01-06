@@ -1,12 +1,14 @@
 Last Update Time: 
-Thu Jan  6 08:31:16 UTC 2022
+Thu Jan  6 08:50:13 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Today's weirdness is tomorrow's reason \
-| why.                                   |
+/ There is always one thing to remember: \
+| writers are always selling somebody    |
+| out.                                   |
 |                                        |
-\ -- Hunter S. Thompson                  /
+| -- Joan Didion, "Slouching Towards     |
+\ Bethlehem"                             /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
