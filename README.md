@@ -1,16 +1,13 @@
 Last Update Time: 
-Thu Jan  6 08:00:21 UTC 2022
+Thu Jan  6 08:31:16 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ When I reflect upon the number of       \
-| disagreeable people who I know who have |
-| gone to a better world, I am moved to   |
-| lead a different life.                  |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
- -----------------------------------------
+ ________________________________________
+/ Today's weirdness is tomorrow's reason \
+| why.                                   |
+|                                        |
+\ -- Hunter S. Thompson                  /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
