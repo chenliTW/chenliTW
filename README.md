@@ -1,10 +1,12 @@
 Last Update Time: 
-Fri Jan  7 07:48:24 UTC 2022
+Fri Jan  7 08:00:28 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-< Day of inquiry. You will be subpoenaed. >
- -----------------------------------------
+ ________________________________________
+/ Q: What's the difference between Bell  \
+| Labs and the Boy Scouts of America? A: |
+\ The Boy Scouts have adult supervision. /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
