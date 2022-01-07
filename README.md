@@ -1,15 +1,9 @@
 Last Update Time: 
-Fri Jan  7 01:46:13 UTC 2022
+Fri Jan  7 02:31:59 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ When I reflect upon the number of       \
-| disagreeable people who I know who have |
-| gone to a better world, I am moved to   |
-| lead a different life.                  |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
+< Q: How do you keep a moron in suspense? >
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
