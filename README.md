@@ -1,14 +1,11 @@
 Last Update Time: 
-Sat Jan  8 15:57:04 UTC 2022
+Sat Jan  8 16:36:15 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ The secret source of humor is not joy \
-| but sorrow; there is no humor in      |
-| Heaven.                               |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ _____________________________________
+/ You have the power to influence all \
+\ with whom you come in contact.      /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
