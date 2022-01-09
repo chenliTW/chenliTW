@@ -1,15 +1,13 @@
 Last Update Time: 
-Sun Jan  9 20:55:25 UTC 2022
+Sun Jan  9 21:16:44 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Writing is easy; all you do is sit  \
-| staring at the blank sheet of paper |
-| until drops of blood form on your   |
-| forehead.                           |
-|                                     |
-\ -- Gene Fowler                      /
- -------------------------------------
+ ______________________________________
+/ O, what a tangled web we weave, When \
+| first we practice to deceive.        |
+|                                      |
+\ -- Sir Walter Scott, "Marmion"       /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
