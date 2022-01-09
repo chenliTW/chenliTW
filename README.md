@@ -1,22 +1,13 @@
 Last Update Time: 
-Sun Jan  9 18:52:19 UTC 2022
+Sun Jan  9 19:09:50 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/  My dear People.                        \
-|                                         |
-| My dear Bagginses and Boffins, and my   |
-| dear Tooks and Brandybucks, and Grubbs, |
-| and Chubbs, and Burrowses, and          |
-| Hornblowers, and Bolgers, Bracegirdles, |
-| Goodbodies, Brockhouses and Proudfoots. |
-| Also my good Sackville Bagginses that I |
-| welcome back at last to Bag End. Today  |
-| is my one hundred and eleventh          |
-| birthday: I am eleventy-one today!"     |
-|                                         |
-\ -- J. R. R. Tolkien                     /
- -----------------------------------------
+ _______________________________
+/ The surest protection against \
+| temptation is cowardice.      |
+|                               |
+\ -- Mark Twain                 /
+ -------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
