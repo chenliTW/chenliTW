@@ -1,12 +1,10 @@
 Last Update Time: 
-Mon Jan 10 04:32:45 UTC 2022
+Mon Jan 10 04:57:17 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You should emulate your heros, but    \
-| don't carry it too far. Especially if |
-\ they are dead.                        /
- ---------------------------------------
+ ________________________________________
+< You enjoy the company of other people. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
