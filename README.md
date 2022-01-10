@@ -1,11 +1,14 @@
 Last Update Time: 
-Mon Jan 10 07:37:42 UTC 2022
+Mon Jan 10 07:49:30 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ If your life was a horse, you'd have to \
-\ shoot it.                               /
- -----------------------------------------
+ ______________________________________
+/ The human race is a race of cowards; \
+| and I am not only marching in that   |
+| procession but carrying a banner.    |
+|                                      |
+\ -- Mark Twain                        /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
