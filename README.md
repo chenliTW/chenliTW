@@ -1,13 +1,10 @@
 Last Update Time: 
-Mon Jan 10 14:54:15 UTC 2022
+Mon Jan 10 15:17:47 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Writing is turning one's worst moments \
-| into money.                            |
-|                                        |
-\ -- J.P. Donleavy                       /
- ----------------------------------------
+ ________________________
+< Cold hands, no gloves. >
+ ------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
