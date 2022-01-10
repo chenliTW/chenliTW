@@ -1,12 +1,10 @@
 Last Update Time: 
-Mon Jan 10 07:23:21 UTC 2022
+Mon Jan 10 07:37:42 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ A light wife doth make a heavy husband. \
-|                                         |
-| -- Wm. Shakespeare, "The Merchant of    |
-\ Venice"                                 /
+/ If your life was a horse, you'd have to \
+\ shoot it.                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
