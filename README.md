@@ -1,13 +1,10 @@
 Last Update Time: 
-Mon Jan 10 05:50:59 UTC 2022
+Mon Jan 10 06:11:46 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ____________________________________
-/ They have been at a great feast of \
-| languages, and stolen the scraps.  |
-|                                    |
-| -- William Shakespeare, "Love's    |
-\ Labour's Lost"                     /
+/ Q: What is orange and goes "click, \
+\ click?" A: A ball point carrot.    /
  ------------------------------------
         \   ^__^
          \  (oo)\_______
