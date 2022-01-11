@@ -1,14 +1,16 @@
 Last Update Time: 
-Tue Jan 11 23:18:04 UTC 2022
+Tue Jan 11 23:37:02 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why does Washington have the most   \
-| lawyers per capita and                 |
-|                                        |
-| New Jersey the most toxic waste dumps? |
-\ A: God gave New Jersey first choice.   /
- ----------------------------------------
+ _______________________________________
+/ For years a secret shame destroyed my \
+| peace-- I'd not read Eliot, Auden or  |
+| MacNiece. But now I think a thought   |
+| that brings me hope: Neither had      |
+| Chaucer, Shakespeare, Milton, Pope.   |
+|                                       |
+\ -- Justin Richardson.                 /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
