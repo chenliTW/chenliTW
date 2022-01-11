@@ -1,13 +1,11 @@
 Last Update Time: 
-Tue Jan 11 11:57:23 UTC 2022
+Tue Jan 11 12:38:16 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ No group of professionals meets except \
-| to conspire against the public at      |
-| large.                                 |
-|                                        |
-\ -- Mark Twain                          /
+/ Q: How many lawyers does it take to    \
+| change a light bulb? A: One. Only it's |
+\ his light bulb when he's done.         /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
