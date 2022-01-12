@@ -1,13 +1,14 @@
 Last Update Time: 
-Wed Jan 12 12:39:02 UTC 2022
+Wed Jan 12 13:09:33 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Man is the only animal that blushes -- \
-| or needs to.                           |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _________________________________________
+/ Q: Why do ducks have big flat feet? A:  \
+| To stamp out forest fires.              |
+|                                         |
+| Q: Why do elephants have big flat feet? |
+\ A: To stamp out flaming ducks.          /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
