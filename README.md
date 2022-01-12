@@ -1,18 +1,12 @@
 Last Update Time: 
-Wed Jan 12 14:50:58 UTC 2022
+Wed Jan 12 15:08:43 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What did Tarzan say when he saw the  \
-| elephants coming over the hill? A: "The |
-| elephants are coming over the hill."    |
-|                                         |
-| Q: What did he say when saw them coming |
-| over the hill wearing                   |
-|                                         |
-| sunglasses? A: Nothing, for he didn't   |
-\ recognize them.                         /
- -----------------------------------------
+ ________________________________________
+/ Q: How many lawyers does it take to    \
+| change a light bulb? A: One. Only it's |
+\ his light bulb when he's done.         /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
