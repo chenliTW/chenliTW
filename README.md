@@ -1,11 +1,11 @@
 Last Update Time: 
-Wed Jan 12 13:36:31 UTC 2022
+Wed Jan 12 13:49:18 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: What's buried in Grant's tomb? A: A \
-\ corpse.                                /
- ----------------------------------------
+ ___________________________________
+/ You have literary talent that you \
+\ should take pains to develop.     /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
