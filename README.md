@@ -1,14 +1,13 @@
 Last Update Time: 
-Thu Jan 13 18:11:33 UTC 2022
+Thu Jan 13 18:39:04 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: Why did the chicken cross the road? \
-| A: To see his friend Gregory peck.     |
+/ Q: What do you call a WASP who doesn't \
+| work for his father, isn't a           |
 |                                        |
-| Q: Why did the chicken cross the       |
-| playground? A: To get to the other     |
-\ slide.                                 /
+| lawyer, and believes in social causes? |
+\ A: A failure.                          /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
