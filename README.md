@@ -1,21 +1,13 @@
 Last Update Time: 
-Thu Jan 13 05:48:32 UTC 2022
+Thu Jan 13 06:00:20 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How many existentialists does it     \
-| take to screw in a light bulb? A: Two.  |
-| One to screw it in and one to observe   |
-| how the light bulb                      |
-|                                         |
-| itself symbolizes a single incandescent |
-| beacon of subjective                    |
-|                                         |
-| reality in a netherworld of endless     |
-| absurdity reaching out toward a         |
-|                                         |
-\ maudlin cosmos of nothingness.          /
- -----------------------------------------
+ ______________________________________
+/ You have an unusual magnetic         \
+| personality. Don't walk too close to |
+| metal objects which are not fastened |
+\ down.                                /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
