@@ -1,10 +1,12 @@
 Last Update Time: 
-Fri Jan 14 15:50:50 UTC 2022
+Fri Jan 14 16:10:48 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________
-< You fill a much-needed gap. >
- -----------------------------
+ ________________________________________
+/ What no spouse of a writer can ever    \
+| understand is that a writer is working |
+\ when he's staring out the window.      /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
