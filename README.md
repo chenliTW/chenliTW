@@ -1,18 +1,14 @@
 Last Update Time: 
-Fri Jan 14 08:50:20 UTC 2022
+Fri Jan 14 09:07:59 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Behold, the fool saith, "Put not all    \
-| thine eggs in the one basket"--which is |
-| but a manner of saying, "Scatter your   |
-| money and your attention;" but the wise |
-| man saith, "Put all your eggs in the    |
-| one basket and--WATCH THAT BASKET."     |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
- -----------------------------------------
+ ________________________________________
+/ Q: Why haven't you graduated yet? A:   \
+| Well, Dad, I could have finished years |
+| ago, but I wanted                      |
+|                                        |
+\ my dissertation to rhyme.              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
