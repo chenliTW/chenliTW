@@ -1,13 +1,14 @@
 Last Update Time: 
-Sat Jan 15 23:44:15 UTC 2022
+Sat Jan 15 23:56:14 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ When you are about to die, a wombat is \
-| better than no company at all.         |
+/ It is often the case that the man who  \
+| can't tell a lie thinks he is the best |
+| judge of one.                          |
 |                                        |
-| -- Roger Zelazny, "Doorways in the     |
-\ Sand"                                  /
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
