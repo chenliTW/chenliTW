@@ -1,11 +1,11 @@
 Last Update Time: 
-Sat Jan 15 19:25:34 UTC 2022
+Sat Jan 15 19:37:42 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Q: What is orange and goes "click, \
-\ click?" A: A ball point carrot.    /
- ------------------------------------
+ ________________________________________
+/ You will be awarded a medal for        \
+\ disregarding safety in saving someone. /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
