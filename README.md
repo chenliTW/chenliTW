@@ -1,22 +1,11 @@
 Last Update Time: 
-Sun Jan 16 11:18:16 UTC 2022
+Sun Jan 16 11:30:40 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Mind! I don't mean to say that I know,  \
-| of my own knowledge, what there is      |
-| particularly dead about a door-nail. I  |
-| might have been inclined, myself, to    |
-| regard a coffin-nail as the deadest     |
-| piece of ironmongery in the trade. But  |
-| the wisdom of our ancestors is in the   |
-| simile; and my unhallowed hands shall   |
-| not disturb it, or the Country's done   |
-| for. You will therefore permit me to    |
-| repeat, emphatically, that Marley was   |
-| as dead as a door-nail.                 |
-|                                         |
-\ -- Charles Dickens, "A Christmas Carol" /
+/ You'll feel devilish tonight. Toss      \
+| dynamite caps under a flamenco dancer's |
+\ heel.                                   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
