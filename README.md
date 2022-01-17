@@ -1,12 +1,13 @@
 Last Update Time: 
-Mon Jan 17 13:32:14 UTC 2022
+Mon Jan 17 13:47:44 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ If you learn one useless thing every   \
-| day, in a single year you'll learn 365 |
-\ useless things.                        /
- ----------------------------------------
+ ____________________________________
+/ Tempt not a desperate man.         \
+|                                    |
+| -- William Shakespeare, "Romeo and |
+\ Juliet"                            /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
