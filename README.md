@@ -1,14 +1,12 @@
 Last Update Time: 
-Mon Jan 17 09:54:15 UTC 2022
+Mon Jan 17 10:19:55 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ There are more things in heaven and   \
-| earth, Horatio, than are dreamt of in |
-| your philosophy.                      |
-|                                       |
-\ -- Wm. Shakespeare, "Hamlet"          /
- ---------------------------------------
+ _________________________________________
+/ You will be attacked by a beast who has \
+| the body of a wolf, the tail of a lion, |
+\ and the face of Donald Duck.            /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
