@@ -1,28 +1,20 @@
 Last Update Time: 
-Mon Jan 17 06:24:10 UTC 2022
+Mon Jan 17 06:49:22 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How many elephants can you fit in a \
-| VW Bug? A: Four. Two in the front, two |
-| in the back.                           |
-|                                        |
-| Q: How can you tell if an elephant is  |
-| in your refrigerator? A: There's a     |
-| footprint in the mayo.                 |
-|                                        |
-| Q: How can you tell if two elephants   |
-| are in your refrigerator? A: There's   |
-| two footprints in the mayo.            |
-|                                        |
-| Q: How can you tell if three elephants |
-| are in your refrigerator? A: The door  |
-| won't shut.                            |
-|                                        |
-| Q: How can you tell if four elephants  |
-| are in your refrigerator? A: There's a |
-\ VW Bug in your driveway.               /
- ----------------------------------------
+ _________________________________________
+/ The countdown had stalled at 'T' minus  \
+| 69 seconds when Desiree, the first      |
+| female ape to go up in space, winked at |
+| me slyly and pouted her thick, rubbery  |
+| lips unmistakably -- the first of many  |
+| such advances during what would prove   |
+| to be the longest, and most memorable,  |
+| space voyage of my career.              |
+|                                         |
+| -- Winning sentence, 1985 Bulwer-Lytton |
+\ bad fiction contest.                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
