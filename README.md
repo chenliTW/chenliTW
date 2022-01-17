@@ -1,14 +1,13 @@
 Last Update Time: 
-Mon Jan 17 18:38:31 UTC 2022
+Mon Jan 17 18:55:16 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many psychiatrists does it take  \
-| to change a light bulb? A: Only one,    |
-| but it takes a long time, and the light |
-| bulb has                                |
+/ This night methinks is but the daylight \
+| sick.                                   |
 |                                         |
-\ to really want to change.               /
+| -- William Shakespeare, "The Merchant   |
+\ of Venice"                              /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
