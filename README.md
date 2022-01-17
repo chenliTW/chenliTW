@@ -1,13 +1,12 @@
 Last Update Time: 
-Mon Jan 17 12:58:37 UTC 2022
+Mon Jan 17 13:32:14 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Every why hath a wherefore.          \
-|                                      |
-| -- William Shakespeare, "A Comedy of |
-\ Errors"                              /
- --------------------------------------
+ ________________________________________
+/ If you learn one useless thing every   \
+| day, in a single year you'll learn 365 |
+\ useless things.                        /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
