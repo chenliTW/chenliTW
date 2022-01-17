@@ -1,12 +1,11 @@
 Last Update Time: 
-Mon Jan 17 10:19:55 UTC 2022
+Mon Jan 17 10:40:15 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You will be attacked by a beast who has \
-| the body of a wolf, the tail of a lion, |
-\ and the face of Donald Duck.            /
- -----------------------------------------
+ ___________________________________
+/ Your heart is pure, and your mind \
+\ clear, and your soul devout.      /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
