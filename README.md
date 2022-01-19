@@ -1,11 +1,12 @@
 Last Update Time: 
-Wed Jan 19 17:13:28 UTC 2022
+Wed Jan 19 17:34:50 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The better part of valor is discretion. \
+/ By trying we can easily learn to endure \
+| adversity. Another man's, I mean.       |
 |                                         |
-\ -- William Shakespeare, "Henry IV"      /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
