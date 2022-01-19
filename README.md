@@ -1,21 +1,15 @@
 Last Update Time: 
-Wed Jan 19 02:50:13 UTC 2022
+Wed Jan 19 03:06:49 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How many DEC repairman does it take \
-| to fix a flat? A: Five; four to hold   |
-| the car up and one to swap tires.      |
-|                                        |
-| Q: How long does it take? A: It's      |
-| indeterminate.                         |
-|                                        |
-| It will depend upon how many flats     |
-| they've brought with them.             |
-|                                        |
-| Q: What happens if you've got TWO      |
-\ flats? A: They replace your generator. /
- ----------------------------------------
+ _________________________________________
+/ ROMEO: Courage, man; the hurt cannot be \
+| much. MERCUTIO: No, 'tis not so deep as |
+| a well, nor so wide                     |
+|                                         |
+| as a church-door; but 'tis enough,      |
+\ 'twill serve.                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
