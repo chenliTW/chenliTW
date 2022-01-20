@@ -1,14 +1,14 @@
 Last Update Time: 
-Thu Jan 20 22:29:57 UTC 2022
+Thu Jan 20 22:41:46 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What do you call a principal female  \
-| opera singer whose high C               |
-|                                         |
-| is lower than those of other principal  |
-\ female opera singers? A: A deep C diva. /
- -----------------------------------------
+ ________________________________________
+/ The difference between a Miracle and a \
+| Fact is exactly the difference between |
+| a mermaid and a seal.                  |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
