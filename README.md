@@ -1,11 +1,11 @@
 Last Update Time: 
-Fri Jan 21 10:41:06 UTC 2022
+Fri Jan 21 10:52:39 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You have had a long-term stimulation \
-\ relative to business.                /
- --------------------------------------
+ _____________________________________
+/ You recoil from the crude; you tend \
+\ naturally toward the exquisite.     /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
