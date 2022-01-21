@@ -1,12 +1,12 @@
 Last Update Time: 
-Fri Jan 21 21:11:11 UTC 2022
+Fri Jan 21 21:25:54 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ If you tell the truth you don't have to \
-| remember anything.                      |
-|                                         |
-\ -- Mark Twain                           /
+/ Q: What do you get when you cross a     \
+| mobster with an international standard? |
+| A: You get someone who makes you an     |
+\ offer that you can't understand!        /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
