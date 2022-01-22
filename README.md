@@ -1,17 +1,15 @@
 Last Update Time: 
-Sat Jan 22 21:50:36 UTC 2022
+Sat Jan 22 22:07:28 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Gratitude and treachery are merely the  \
-| two extremities of the same procession. |
-| You have seen all of it that is worth   |
-| staying for when the band and the gaudy |
-| officials have gone by.                 |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
- -----------------------------------------
+ _______________________________________
+/ One of the most striking differences  \
+| between a cat and a lie is that a cat |
+| has only nine lives.                  |
+|                                       |
+| -- Mark Twain, "Pudd'nhead Wilson's   |
+\ Calendar"                             /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
