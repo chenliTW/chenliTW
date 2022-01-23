@@ -1,10 +1,11 @@
 Last Update Time: 
-Sun Jan 23 10:44:01 UTC 2022
+Sun Jan 23 10:56:00 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Keep emotionally active. Cater to your \
-\ favorite neurosis.                     /
+/ Q: What's the difference between Bell  \
+| Labs and the Boy Scouts of America? A: |
+\ The Boy Scouts have adult supervision. /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
