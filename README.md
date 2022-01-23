@@ -1,20 +1,12 @@
 Last Update Time: 
-Sun Jan 23 22:20:18 UTC 2022
+Sun Jan 23 22:34:24 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: Why is Poland just like the United \
-| States? A: In the United States you   |
-| can't buy anything for zlotys and in  |
-|                                       |
-| Poland you can't either, while in the |
-| U.S. you can get whatever             |
-|                                       |
-| you want for dollars, just as you can |
-| in Poland.                            |
-|                                       |
-\ -- being told in Poland, 1987         /
- ---------------------------------------
+ _________________________________________
+/ Next Friday will not be your lucky day. \
+| As a matter of fact, you don't have a   |
+\ lucky day this year.                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
