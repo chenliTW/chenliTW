@@ -1,11 +1,16 @@
 Last Update Time: 
-Sun Jan 23 08:41:00 UTC 2022
+Sun Jan 23 08:53:00 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You are a fluke of the universe; you \
-\ have no right to be here.            /
- --------------------------------------
+ _________________________________________
+/ When I reflect upon the number of       \
+| disagreeable people who I know who have |
+| gone to a better world, I am moved to   |
+| lead a different life.                  |
+|                                         |
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
