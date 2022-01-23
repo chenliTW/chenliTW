@@ -1,10 +1,11 @@
 Last Update Time: 
-Sun Jan 23 14:24:34 UTC 2022
+Sun Jan 23 14:36:16 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-< Are you sure the back door is locked? >
- ---------------------------------------
+ ______________________________________
+/ You will receive a legacy which will \
+\ place you above want.                /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
