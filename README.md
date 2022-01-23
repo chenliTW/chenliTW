@@ -1,14 +1,13 @@
 Last Update Time: 
-Sun Jan 23 21:44:33 UTC 2022
+Sun Jan 23 21:56:28 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many mathematicians does it take \
-| to screw in a light bulb? A: One. He    |
-| gives it to six Californians, thereby   |
-| reducing the problem                    |
+/ Q: How does a hacker fix a function     \
+| which                                   |
 |                                         |
-\ to the earlier joke.                    /
+| doesn't work for all of the elements in |
+\ its domain? A: He changes the domain.   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
