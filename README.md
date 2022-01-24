@@ -1,15 +1,14 @@
 Last Update Time: 
-Mon Jan 24 21:30:45 UTC 2022
+Mon Jan 24 21:42:42 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Perilous to all of us are the devices \
-| of an art deeper than we ourselves    |
-| possess.                              |
-|                                       |
-| -- Gandalf the Grey [J.R.R. Tolkien,  |
-\ "Lord of the Rings"]                  /
- ---------------------------------------
+ ________________________________________
+/ Its name is Public Opinion. It is held \
+| in reverence. It settles everything.   |
+| Some think it is the voice of God.     |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
