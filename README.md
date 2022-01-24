@@ -1,11 +1,12 @@
 Last Update Time: 
-Mon Jan 24 08:17:35 UTC 2022
+Mon Jan 24 08:37:27 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ A visit to a fresh place will bring \
-\ strange work.                       /
- -------------------------------------
+ _________________________________________
+/ You will lose your present job and have \
+| to become a door to door mayonnaise     |
+\ salesman.                               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
