@@ -1,12 +1,11 @@
 Last Update Time: 
-Mon Jan 24 20:50:23 UTC 2022
+Mon Jan 24 21:00:01 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Your reasoning is excellent -- it's  \
-| only your basic assumptions that are |
-\ wrong.                               /
- --------------------------------------
+ ________________________________________
+/ You will obey or molten silver will be \
+\ poured into your ears.                 /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
