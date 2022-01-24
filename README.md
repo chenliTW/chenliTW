@@ -1,20 +1,14 @@
 Last Update Time: 
-Mon Jan 24 18:49:11 UTC 2022
+Mon Jan 24 19:02:21 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ For there are moments when one can     \
-| neither think nor feel. And if one can |
-| neither think nor feel, she thought,   |
-| where is one?                          |
-|                                        |
-| -- Virginia Woolf, "To the Lighthouse" |
-|                                        |
-| [Quoted in "VMS Internals and Data     |
-| Structures", V4.4, when                |
-|                                        |
-\ referring to powerfail recovery.]      /
- ----------------------------------------
+ _________________________________________
+/ Fame is a vapor; popularity an          \
+| accident; the only earthly certainty is |
+| oblivion.                               |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
