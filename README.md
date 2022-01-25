@@ -1,14 +1,15 @@
 Last Update Time: 
-Tue Jan 25 19:56:35 UTC 2022
+Tue Jan 25 20:22:02 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ "You have been in Afghanistan, I       \
-| perceive."                             |
-|                                        |
-| -- Sir Arthur Conan Doyle, "A Study in |
-\ Scarlet"                               /
- ----------------------------------------
+ _________________________________________
+/ Q: Why is it that the more accuracy you \
+| demand from an interpolation            |
+|                                         |
+| function, the more expensive it becomes |
+| to compute? A: That's the Law of Spline |
+\ Demand.                                 /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
