@@ -1,13 +1,15 @@
 Last Update Time: 
-Tue Jan 25 15:53:57 UTC 2022
+Tue Jan 25 16:23:36 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Hell is empty and all the devils are \
-| here.                                |
-|                                      |
-\ -- Wm. Shakespeare, "The Tempest"    /
- --------------------------------------
+ ________________________________________
+/ It has long been an axiom of mine that \
+| the little things are infinitely the   |
+| most important.                        |
+|                                        |
+| -- Sir Arthur Conan Doyle, "A Case of  |
+\ Identity"                              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
