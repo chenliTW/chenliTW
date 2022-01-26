@@ -1,11 +1,14 @@
 Last Update Time: 
-Wed Jan 26 14:51:30 UTC 2022
+Wed Jan 26 15:12:03 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ If your life was a horse, you'd have to \
-\ shoot it.                               /
- -----------------------------------------
+ ________________________________________
+/ Reader, suppose you were an idiot. And \
+| suppose you were a member of Congress. |
+| But I repeat myself.                   |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
