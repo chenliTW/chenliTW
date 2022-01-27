@@ -1,20 +1,16 @@
 Last Update Time: 
-Thu Jan 27 21:52:36 UTC 2022
+Thu Jan 27 22:11:16 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ A morgue is a morgue is a morgue. They  \
-| can paint the walls with aggressively   |
-| cheerful primary colors and splashy     |
-| bold graphics, but it's still a holding |
-| place for the dead until they can be    |
-| parted out to organ banks. Not that I   |
-| would have cared normally but my        |
-| viewpoint was skewed. The relentless    |
-| pleasance of the room I sat in seemed   |
-| only grotesque.                         |
+/ Whoever has lived long enough to find   \
+| out what life is, knows how deep a debt |
+| of gratitude we owe to Adam, the first  |
+| great benefactor of our race. He        |
+| brought death into the world.           |
 |                                         |
-\ -- Pat Cadigan, "Mindplayers"           /
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
