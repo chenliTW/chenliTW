@@ -1,10 +1,11 @@
 Last Update Time: 
-Thu Jan 27 21:29:04 UTC 2022
+Thu Jan 27 21:40:25 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-< Q: Are we not men? A: We are Vaxen. >
- -------------------------------------
+ ______________________________________
+/ A tall, dark stranger will have more \
+\ fun than you.                        /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
