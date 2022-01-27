@@ -1,11 +1,11 @@
 Last Update Time: 
-Thu Jan 27 13:37:29 UTC 2022
+Thu Jan 27 13:49:17 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Q: What is orange and goes "click, \
-\ click?" A: A ball point carrot.    /
- ------------------------------------
+ ________________________________________
+/ You are farsighted, a good planner, an \
+\ ardent lover, and a faithful friend.   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
