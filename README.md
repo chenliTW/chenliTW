@@ -1,15 +1,11 @@
 Last Update Time: 
-Fri Jan 28 17:03:58 UTC 2022
+Fri Jan 28 17:28:40 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- __________________________________
-/ Knock, knock!                    \
-|                                  |
-| Who's there? Sam and Janet.      |
-|                                  |
-| Sam and Janet who? Sam and Janet |
-\ Evening...                       /
- ----------------------------------
+ ______________________________________
+/ Abandon the search for Truth; settle \
+\ for a good fantasy.                  /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
