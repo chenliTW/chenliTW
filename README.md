@@ -1,20 +1,14 @@
 Last Update Time: 
-Fri Jan 28 08:49:12 UTC 2022
+Fri Jan 28 09:04:18 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ At once it struck me what quality went \
-| to form a man of achievement,          |
-| especially in literature, and which    |
-| Shakespeare possessed so enormously -- |
-| I mean negative capability, that is,   |
-| when a man is capable of being in      |
-| uncertainties, mysteries, doubts,      |
-| without any irritable reaching after   |
-| fact and reason.                       |
-|                                        |
-\ -- John Keats                          /
- ----------------------------------------
+ ____________________________________
+/ Q: What does a WASP Mom make for   \
+| dinner? A: A crisp salad, a hearty |
+| soup, a lovely entree, followed by |
+|                                    |
+\ a delicious dessert.               /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
