@@ -1,14 +1,19 @@
 Last Update Time: 
-Sat Jan 29 14:01:37 UTC 2022
+Sat Jan 29 14:20:58 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ He draweth out the thread of his       \
-| verbosity finer than the staple of his |
-| argument.                              |
+/ For there are moments when one can     \
+| neither think nor feel. And if one can |
+| neither think nor feel, she thought,   |
+| where is one?                          |
 |                                        |
-| -- William Shakespeare, "Love's        |
-\ Labour's Lost"                         /
+| -- Virginia Woolf, "To the Lighthouse" |
+|                                        |
+| [Quoted in "VMS Internals and Data     |
+| Structures", V4.4, when                |
+|                                        |
+\ referring to powerfail recovery.]      /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
