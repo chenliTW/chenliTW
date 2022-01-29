@@ -1,12 +1,13 @@
 Last Update Time: 
-Sat Jan 29 13:38:00 UTC 2022
+Sat Jan 29 13:48:59 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: How did you get into artificial   \
-| intelligence? A: Seemed logical -- I |
-\ didn't have any real intelligence.   /
- --------------------------------------
+ _______________________________
+/ The surest protection against \
+| temptation is cowardice.      |
+|                               |
+\ -- Mark Twain                 /
+ -------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
