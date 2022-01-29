@@ -1,13 +1,15 @@
 Last Update Time: 
-Sat Jan 29 13:48:59 UTC 2022
+Sat Jan 29 14:01:37 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________
-/ The surest protection against \
-| temptation is cowardice.      |
-|                               |
-\ -- Mark Twain                 /
- -------------------------------
+ ________________________________________
+/ He draweth out the thread of his       \
+| verbosity finer than the staple of his |
+| argument.                              |
+|                                        |
+| -- William Shakespeare, "Love's        |
+\ Labour's Lost"                         /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
