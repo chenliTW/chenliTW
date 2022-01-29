@@ -1,20 +1,13 @@
 Last Update Time: 
-Sat Jan 29 05:07:03 UTC 2022
+Sat Jan 29 05:24:02 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ At once it struck me what quality went \
-| to form a man of achievement,          |
-| especially in literature, and which    |
-| Shakespeare possessed so enormously -- |
-| I mean negative capability, that is,   |
-| when a man is capable of being in      |
-| uncertainties, mysteries, doubts,      |
-| without any irritable reaching after   |
-| fact and reason.                       |
-|                                        |
-\ -- John Keats                          /
- ----------------------------------------
+ _________________________________________
+/ Be careful of reading health books, you \
+| might die of a misprint.                |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
