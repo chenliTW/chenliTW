@@ -1,15 +1,12 @@
 Last Update Time: 
-Sun Jan 30 07:06:27 UTC 2022
+Sun Jan 30 07:24:46 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ There is an old time toast which is     \
-| golden for its beauty. "When you ascend |
-| the hill of prosperity may you not meet |
-| a friend."                              |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ _______________________________________
+/ Q: Why did the programmer call his    \
+| mother long distance? A: Because that |
+\ was her name.                         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
