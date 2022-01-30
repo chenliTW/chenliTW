@@ -1,11 +1,18 @@
 Last Update Time: 
-Sun Jan 30 21:54:51 UTC 2022
+Sun Jan 30 22:16:01 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ Q: What is green and lives in the \
-\ ocean? A: Moby Pickle.            /
- -----------------------------------
+ _________________________________________
+/ Q: What's the difference between the    \
+| 1950's and the 1980's? A: In the 80's,  |
+| a man walks into a drugstore and states |
+| loudly, "I'd                            |
+|                                         |
+| like some condoms," and then, leaning   |
+| over the counter, whispers,             |
+|                                         |
+\ "and some cigarettes."                  /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
