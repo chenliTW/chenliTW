@@ -1,12 +1,11 @@
 Last Update Time: 
-Sun Jan 30 15:57:16 UTC 2022
+Sun Jan 30 16:31:54 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why do firemen wear red suspenders? \
-| A: To conform with departmental        |
-\ regulations concerning uniform dress.  /
- ----------------------------------------
+ _______________________________________
+/ Try to have as good a life as you can \
+\ under the circumstances.              /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
