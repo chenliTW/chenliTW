@@ -1,15 +1,14 @@
 Last Update Time: 
-Mon Jan 31 03:08:23 UTC 2022
+Mon Jan 31 03:28:03 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many Oregonians does it take to  \
-| screw in a light bulb? A: Three. One to |
-| screw in the light bulb and two to fend |
-| off all those                           |
+/ O, it is excellent To have a giant's    \
+| strength; but it is tyrannous To use it |
+| like a giant.                           |
 |                                         |
-| Californians trying to share the        |
-\ experience.                             /
+| -- Shakespeare, "Measure for Measure",  |
+\ II, 2                                   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
