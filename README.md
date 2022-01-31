@@ -1,13 +1,14 @@
 Last Update Time: 
-Mon Jan 31 15:57:06 UTC 2022
+Mon Jan 31 16:32:14 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Hain't we got all the fools in town on \
-| our side? And hain't that a big enough |
-| majority in any town?                  |
+/ A banker is a fellow who lends you his \
+| umbrella when the sun is shining and   |
+| wants it back the minute it begins to  |
+| rain.                                  |
 |                                        |
-\ -- Mark Twain, "Huckleberry Finn"      /
+\ -- Mark Twain                          /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
