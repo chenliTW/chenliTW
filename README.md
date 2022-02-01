@@ -1,12 +1,11 @@
 Last Update Time: 
-Tue Feb  1 10:47:17 UTC 2022
+Tue Feb  1 10:59:22 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: What does it say on the bottom of \
-| Coke cans in North Dakota? A: Open   |
-\ other end.                           /
- --------------------------------------
+ _________________________________________
+/ You will be reincarnated as a toad; and \
+\ you will be much happier.               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
