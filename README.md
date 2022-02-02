@@ -1,13 +1,15 @@
 Last Update Time: 
-Wed Feb  2 05:15:06 UTC 2022
+Wed Feb  2 05:28:27 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ FORTUNE PROVIDES QUESTIONS FOR THE     \
-| GREAT ANSWERS: #4 A: Go west, young    |
-| man, go west! Q: What do wabbits do    |
-\ when they get tiwed of wunning awound? /
- ----------------------------------------
+ _________________________________________
+/ O, it is excellent To have a giant's    \
+| strength; but it is tyrannous To use it |
+| like a giant.                           |
+|                                         |
+| -- Shakespeare, "Measure for Measure",  |
+\ II, 2                                   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
