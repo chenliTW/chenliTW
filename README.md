@@ -1,14 +1,11 @@
 Last Update Time: 
-Thu Feb  3 03:42:22 UTC 2022
+Thu Feb  3 03:54:29 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How do you catch a unique rabbit? A: \
-| Unique up on it!                        |
-|                                         |
-| Q: How do you catch a tame rabbit? A:   |
-\ The tame way!                           /
- -----------------------------------------
+ ______________________________________
+/ Do nothing unless you must, and when \
+\ you must act -- hesitate.            /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
