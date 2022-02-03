@@ -1,14 +1,13 @@
 Last Update Time: 
-Thu Feb  3 18:25:09 UTC 2022
+Thu Feb  3 18:43:40 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ "Elves and Dragons!" I says to him.   \
-| "Cabbages and potatoes are better for |
-| you and me."                          |
-|                                       |
-\ -- J. R. R. Tolkien                   /
- ---------------------------------------
+ _________________________________________
+/ It is so very hard to be an             \
+| on-your-own-take-care-of-yourself-becau |
+| se-there-is-no-one-else-to-do-it-for-yo |
+\ u grown-up.                             /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
