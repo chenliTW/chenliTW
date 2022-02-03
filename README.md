@@ -1,34 +1,65 @@
 Last Update Time: 
-Wed Feb  2 23:59:47 UTC 2022
+Thu Feb  3 01:14:23 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The Least Successful Collector          \
+/ Q: How many members of the U.S.S.       \
+| Enterprise does it take to change a     |
 |                                         |
-| Betsy Baker played a central role in    |
-| the history of collecting. She was      |
-| employed as a servant in the house of   |
-| John Warburton (1682-1759) who had      |
-| amassed a fine collection of 58 first   |
-| edition plays, including most of the    |
-| works of Shakespeare.                   |
+| light bulb? A: Seven. Scotty has to     |
+| report to Captain Kirk that the light   |
+| bulb in                                 |
 |                                         |
-| One day Warburton returned home to find |
-| 55 of them charred beyond legibility.   |
-| Betsy had either burned them or used    |
-| them as pie bottoms. The remaining      |
-| three folios are now in the British     |
-| Museum.                                 |
+| the Engineering Section is getting dim, |
+| at which point Kirk will send           |
 |                                         |
-| The only comparable literary figure was |
-| the maid who in 1835 burned the         |
-| manuscript of the first volume of       |
-| Thomas Carlyle's "The Hisory of the     |
-| French Revolution", thinking it was     |
-| wastepaper.                             |
+| Bones to pronounce the bulb dead        |
+| (although he'll immediately claim       |
 |                                         |
-| -- Stephen Pile, "The Book of Heroic    |
-\ Failures"                               /
+| that he's a doctor, not an              |
+| electrician). Scotty, after checking    |
+|                                         |
+| around, realizes that they have no more |
+| new light bulbs, and complains          |
+|                                         |
+| that he "canna" see in the dark. Kirk   |
+| will make an emergency stop at          |
+|                                         |
+| the next uncharted planet, Alpha Regula |
+| IV, to procure a light bulb             |
+|                                         |
+| from the natives, who, are friendly,    |
+| but seem to be hiding something.        |
+|                                         |
+| Kirk, Spock, Bones, Yeoman Rand and two |
+| red shirt security officers             |
+|                                         |
+| beam down to the planet, where the two  |
+| security officers are promply           |
+|                                         |
+| killed by the natives, and the rest of  |
+| the landing party is captured.          |
+|                                         |
+| As something begins to develop between  |
+| the Captain and Yeoman Rand,            |
+|                                         |
+| Scotty, back in orbit, is attacked by a |
+| Klingon destroyer and must              |
+|                                         |
+| warp out of orbit. Although badly       |
+| outgunned, he cripples the Klingon      |
+|                                         |
+| and races back to the planet in order   |
+| to rescue Kirk et. al. who have         |
+|                                         |
+| just saved the natives' from an awful   |
+| fate and, as a reward, been             |
+|                                         |
+| given all light bulbs they can carry.   |
+| The new bulb is then inserted           |
+|                                         |
+| and the Enterprise continues on its     |
+\ five year mission.                      /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
