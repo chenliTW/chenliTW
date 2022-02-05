@@ -1,13 +1,11 @@
 Last Update Time: 
-Sat Feb  5 05:43:16 UTC 2022
+Sat Feb  5 05:55:19 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _______________________________________
-/ Whenever you find that you are on the \
-| side of the majority, it is time to   |
-| reform.                               |
-|                                       |
-\ -- Mark Twain                         /
+/ Q: What do you have when you have a   \
+| lawyer buried up to his neck in sand? |
+\ A: Not enough sand.                   /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
