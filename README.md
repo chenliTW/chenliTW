@@ -1,14 +1,12 @@
 Last Update Time: 
-Sat Feb  5 21:23:53 UTC 2022
+Sat Feb  5 21:35:54 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ The lunatic, the lover, and the poet, \
-| Are of imagination all compact...     |
-|                                       |
-| -- Wm. Shakespeare, "A Midsummer      |
-\ Night's Dream"                        /
- ---------------------------------------
+ ________________________________________
+/ Q: Why do mountain climbers rope       \
+| themselves together? A: To prevent the |
+\ sensible ones from going home.         /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
