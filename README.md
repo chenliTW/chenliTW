@@ -1,22 +1,18 @@
 Last Update Time: 
-Sat Feb  5 08:09:19 UTC 2022
+Sat Feb  5 08:26:41 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ "What's this? Trix? Aunt! Trix? You?    \
-| You're after the prize! What is it?" He |
-| picked up the box and studied the back. |
-| "A glow-in-the-dark squid! Have you got |
-| it out of there yet?" He tilted the     |
-| box, angling the little colored balls   |
-| of cereal so as to see the bottom, and  |
-| nearly spilling them onto the table     |
-| top. "Here it is!" He hauled out a      |
-| little cream-colored, glitter-sprinkled |
-| squid, three-inches long and made out   |
-| of rubbery plastic.                     |
+/ "I wonder", he said to himself, "what's \
+| in a book while it's closed. Oh, I know |
+| it's full of letters printed on paper,  |
+| but all the same, something must be     |
+| happening, because as soon as I open    |
+| it, there's a whole story with people I |
+| don't know yet and all kinds of         |
+| adventures and battles."                |
 |                                         |
-\ -- James P. Blaylock, "The Last Coin"   /
+\ -- Bastian B. Bux                       /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
