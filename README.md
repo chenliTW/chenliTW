@@ -1,14 +1,11 @@
 Last Update Time: 
-Sat Feb  5 14:26:55 UTC 2022
+Sat Feb  5 14:38:39 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ It is a wise father that knows his own \
-| child.                                 |
-|                                        |
-| -- William Shakespeare, "The Merchant  |
-\ of Venice"                             /
- ----------------------------------------
+ _____________________________________
+/ Don't get stuck in a closet -- wear \
+\ yourself out.                       /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
