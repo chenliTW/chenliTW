@@ -1,11 +1,13 @@
 Last Update Time: 
-Sat Feb  5 02:03:08 UTC 2022
+Sat Feb  5 02:24:12 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Accent on helpful side of your nature. \
-\ Drain the moat.                        /
- ----------------------------------------
+ _________________________________________
+/ The abuse of greatness is when it       \
+| disjoins remorse from power.            |
+|                                         |
+\ -- William Shakespeare, "Julius Caesar" /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
