@@ -1,18 +1,15 @@
 Last Update Time: 
-Sun Feb  6 20:59:16 UTC 2022
+Sun Feb  6 21:19:51 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What's the difference between the    \
-| 1950's and the 1980's? A: In the 80's,  |
-| a man walks into a drugstore and states |
-| loudly, "I'd                            |
-|                                         |
-| like some condoms," and then, leaning   |
-| over the counter, whispers,             |
-|                                         |
-\ "and some cigarettes."                  /
- -----------------------------------------
+ _______________________________________
+/ So so is good, very good, very        \
+| excellent good: and yet it is not; it |
+| is but so so.                         |
+|                                       |
+| -- William Shakespeare, "As You Like  |
+\ It"                                   /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
