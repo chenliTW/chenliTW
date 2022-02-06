@@ -1,12 +1,11 @@
 Last Update Time: 
-Sun Feb  6 21:43:17 UTC 2022
+Sun Feb  6 21:55:20 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You'll wish that you had done some of \
-| the hard things when they were easier |
-\ to do.                                /
- ---------------------------------------
+ ______________________________________
+/ You will have good luck and overcome \
+\ many hardships.                      /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
