@@ -1,16 +1,14 @@
 Last Update Time: 
-Sun Feb  6 10:35:23 UTC 2022
+Sun Feb  6 10:46:55 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ All say, "How hard it is that we have  \
-| to die"--a strange complaint to come   |
-| from the mouths of people who have had |
-| to live.                               |
-|                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
- ----------------------------------------
+ _________________________________________
+/ Q: Why do ducks have big flat feet? A:  \
+| To stamp out forest fires.              |
+|                                         |
+| Q: Why do elephants have big flat feet? |
+\ A: To stamp out flaming ducks.          /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
