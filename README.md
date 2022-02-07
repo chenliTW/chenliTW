@@ -1,21 +1,15 @@
 Last Update Time: 
-Mon Feb  7 05:41:18 UTC 2022
+Mon Feb  7 05:53:14 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/  The Priest's grey nimbus in a niche    \
-| where he dressed discreetly. I will not |
-| sleep here tonight. Home also I cannot  |
-| go.                                     |
-|                                         |
-| A voice, sweetened and sustained,       |
-| called to him from the sea. Turning the |
-| curve he waved his hand. A sleek brown  |
-| head, a seal's, far out on the water,   |
-| round. Usurper.                         |
-|                                         |
-\ -- James Joyce, "Ulysses"               /
- -----------------------------------------
+ ________________________________________
+/ It has long been an axiom of mine that \
+| the little things are infinitely the   |
+| most important.                        |
+|                                        |
+| -- Sir Arthur Conan Doyle, "A Case of  |
+\ Identity"                              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
