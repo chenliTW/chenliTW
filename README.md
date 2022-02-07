@@ -1,11 +1,14 @@
 Last Update Time: 
-Mon Feb  7 06:16:22 UTC 2022
+Mon Feb  7 06:38:45 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ You've been leading a dog's life. Stay \
-\ off the furniture.                     /
- ----------------------------------------
+ _________________________________________
+/ Q: How do you catch a unique rabbit? A: \
+| Unique up on it!                        |
+|                                         |
+| Q: How do you catch a tame rabbit? A:   |
+\ The tame way!                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
