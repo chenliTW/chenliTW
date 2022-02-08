@@ -1,10 +1,13 @@
 Last Update Time: 
-Tue Feb  8 19:53:27 UTC 2022
+Tue Feb  8 20:14:30 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________
-< You look tired. >
- -----------------
+ _________________________________________
+/ By trying we can easily learn to endure \
+| adversity. Another man's, I mean.       |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
