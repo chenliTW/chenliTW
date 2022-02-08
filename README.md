@@ -1,11 +1,11 @@
 Last Update Time: 
-Tue Feb  8 13:59:53 UTC 2022
+Tue Feb  8 14:21:32 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: How do you save a drowning lawyer? \
-\ A: Throw him a rock.                  /
- ---------------------------------------
+ _________________________________________
+/ You worry too much about your job. Stop \
+\ it. You are not paid enough to worry.   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
