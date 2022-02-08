@@ -1,13 +1,11 @@
 Last Update Time: 
-Tue Feb  8 14:45:57 UTC 2022
+Tue Feb  8 14:57:46 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ There is a great discovery still to be \
-| made in Literature: that of paying     |
-| literary men by the quantity they do   |
-\ NOT write.                             /
- ----------------------------------------
+ _____________________________________
+/ You will be audited by the Internal \
+\ Revenue Service.                    /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
