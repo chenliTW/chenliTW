@@ -1,12 +1,13 @@
 Last Update Time: 
-Wed Feb  9 21:38:10 UTC 2022
+Wed Feb  9 21:49:57 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You had some happiness once, but your \
-| parents moved away, and you had to    |
-\ leave it behind.                      /
- ---------------------------------------
+ _________________________________________
+/ It is so very hard to be an             \
+| on-your-own-take-care-of-yourself-becau |
+| se-there-is-no-one-else-to-do-it-for-yo |
+\ u grown-up.                             /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
