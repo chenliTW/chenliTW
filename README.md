@@ -1,10 +1,10 @@
 Last Update Time: 
-Thu Feb 10 07:15:09 UTC 2022
+Thu Feb 10 07:28:37 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ You will obey or molten silver will be \
-\ poured into your ears.                 /
+/ You have a will that can be influenced \
+\ by all with whom you come in contact.  /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
