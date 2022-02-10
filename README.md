@@ -1,14 +1,11 @@
 Last Update Time: 
-Thu Feb 10 10:25:16 UTC 2022
+Thu Feb 10 10:40:01 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ The human race is a race of cowards; \
-| and I am not only marching in that   |
-| procession but carrying a banner.    |
-|                                      |
-\ -- Mark Twain                        /
- --------------------------------------
+ _____________________________________
+/ Chicken Little only has to be right \
+\ once.                               /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
