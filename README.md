@@ -1,11 +1,10 @@
 Last Update Time: 
-Fri Feb 11 21:19:37 UTC 2022
+Fri Feb 11 21:31:49 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You don't become a failure until you're \
-\ satisfied with being one.               /
- -----------------------------------------
+ ________________________________________
+< You will be surprised by a loud noise. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
