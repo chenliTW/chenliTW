@@ -1,14 +1,15 @@
 Last Update Time: 
-Fri Feb 11 15:51:06 UTC 2022
+Fri Feb 11 16:11:43 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ The man who sets out to carry a cat by \
-| its tail learns something that will    |
-| always be useful and which never will  |
-| grow dim or doubtful.                  |
+/ If you pick up a starving dog and make \
+| him prosperous, he will not bite you.  |
+| This is the principal difference       |
+| between a dog and a man.               |
 |                                        |
-\ -- Mark Twain                          /
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
