@@ -1,15 +1,12 @@
 Last Update Time: 
-Fri Feb 11 16:11:43 UTC 2022
+Fri Feb 11 16:40:55 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ If you pick up a starving dog and make \
-| him prosperous, he will not bite you.  |
-| This is the principal difference       |
-| between a dog and a man.               |
-|                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
+/ FORTUNE PROVIDES QUESTIONS FOR THE     \
+| GREAT ANSWERS: #4 A: Go west, young    |
+| man, go west! Q: What do wabbits do    |
+\ when they get tiwed of wunning awound? /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
