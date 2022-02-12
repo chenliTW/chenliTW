@@ -1,13 +1,12 @@
 Last Update Time: 
-Sat Feb 12 13:52:55 UTC 2022
+Sat Feb 12 14:11:44 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Reader, suppose you were an idiot. And \
-| suppose you were a member of Congress. |
-| But I repeat myself.                   |
+/ Q: What looks like a cat, flies like a \
+| bat, brays like a donkey, and          |
 |                                        |
-\ -- Mark Twain                          /
+\ plays like a monkey? A: Nothing.       /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
