@@ -1,10 +1,12 @@
 Last Update Time: 
-Sun Feb 13 13:54:07 UTC 2022
+Sun Feb 13 14:12:51 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-< Be cautious in your daily affairs. >
- ------------------------------------
+ _________________________________________
+/ Q: What do little WASPs want to be when \
+| they grow up? A: The very best person   |
+\ they can possibly be.                   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
