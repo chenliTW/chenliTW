@@ -1,11 +1,11 @@
 Last Update Time: 
-Sun Feb 13 18:33:04 UTC 2022
+Sun Feb 13 18:46:21 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: How much does it cost to ride the \
-\ Unibus? A: 2 bits.                   /
- --------------------------------------
+ _______________________________________
+/ Q: How do you save a drowning lawyer? \
+\ A: Throw him a rock.                  /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
