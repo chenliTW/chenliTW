@@ -1,19 +1,9 @@
 Last Update Time: 
-Sun Feb 13 16:53:44 UTC 2022
+Sun Feb 13 17:11:46 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ At once it struck me what quality went \
-| to form a man of achievement,          |
-| especially in literature, and which    |
-| Shakespeare possessed so enormously -- |
-| I mean negative capability, that is,   |
-| when a man is capable of being in      |
-| uncertainties, mysteries, doubts,      |
-| without any irritable reaching after   |
-| fact and reason.                       |
-|                                        |
-\ -- John Keats                          /
+< Courage is your greatest present need. >
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
