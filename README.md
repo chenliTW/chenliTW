@@ -1,13 +1,13 @@
 Last Update Time: 
-Sun Feb 13 05:20:06 UTC 2022
+Sun Feb 13 05:31:51 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ A light wife doth make a heavy husband. \
-|                                         |
-| -- Wm. Shakespeare, "The Merchant of    |
-\ Venice"                                 /
- -----------------------------------------
+ ______________________________________
+/ Q: How many Marxists does it take to \
+| screw in a light bulb? A: None: The  |
+| light bulb contains the seeds of its |
+\ own revolution.                      /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
