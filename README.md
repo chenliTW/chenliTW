@@ -1,12 +1,11 @@
 Last Update Time: 
-Sun Feb 13 22:53:17 UTC 2022
+Sun Feb 13 23:12:04 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You will lose your present job and have \
-| to become a door to door mayonnaise     |
-\ salesman.                               /
- -----------------------------------------
+ _____________________________________
+/ Don't relax! It's only your tension \
+\ that's holding you together.        /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
