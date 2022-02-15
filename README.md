@@ -1,12 +1,11 @@
 Last Update Time: 
-Tue Feb 15 15:19:36 UTC 2022
+Tue Feb 15 15:31:29 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: What's the difference between Bell  \
-| Labs and the Boy Scouts of America? A: |
-\ The Boy Scouts have adult supervision. /
- ----------------------------------------
+ _______________________________________
+/ Q: What is purple and commutes? A: An \
+\ Abelian grape.                        /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
