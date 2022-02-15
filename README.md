@@ -1,16 +1,13 @@
 Last Update Time: 
-Tue Feb 15 09:17:12 UTC 2022
+Tue Feb 15 09:31:46 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Remark of Dr. Baldwin's concerning  \
-| upstarts: We don't care to eat      |
-| toadstools that think they are      |
-| truffles.                           |
-|                                     |
-| -- Mark Twain, "Pudd'nhead Wilson's |
-\ Calendar"                           /
- -------------------------------------
+ ______________________________________
+/ If two people love each other, there \
+| can be no happy end to it.           |
+|                                      |
+\ -- Ernest Hemingway                  /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
