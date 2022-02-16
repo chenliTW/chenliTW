@@ -1,11 +1,11 @@
 Last Update Time: 
-Wed Feb 16 07:24:06 UTC 2022
+Wed Feb 16 07:35:51 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: How do you save a drowning lawyer? \
-\ A: Throw him a rock.                  /
- ---------------------------------------
+ _________________________________________
+/ You are a very redundant person, that's \
+\ what kind of person you are.            /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
