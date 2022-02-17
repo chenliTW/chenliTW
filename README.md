@@ -1,10 +1,11 @@
 Last Update Time: 
-Thu Feb 17 07:11:43 UTC 2022
+Thu Feb 17 07:28:22 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-< You are magnetic in your bearing. >
- -----------------------------------
+ _________________________________________
+/ You are deeply attached to your friends \
+\ and acquaintances.                      /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
