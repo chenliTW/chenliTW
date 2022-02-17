@@ -1,14 +1,12 @@
 Last Update Time: 
-Thu Feb 17 11:25:25 UTC 2022
+Thu Feb 17 11:37:20 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many psychiatrists does it take  \
-| to change a light bulb? A: Only one,    |
-| but it takes a long time, and the light |
-| bulb has                                |
+/ Q: "What is the burning question on the \
+| mind of every dyslexic                  |
 |                                         |
-\ to really want to change.               /
+\ existentialist?" A: "Is there a dog?"   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
