@@ -1,13 +1,14 @@
 Last Update Time: 
-Thu Feb 17 19:29:07 UTC 2022
+Thu Feb 17 19:40:53 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ The human race has one really effective \
-| weapon, and that is laughter.           |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ _______________________________________
+/ Don't go around saying the world owes \
+| you a living. The world owes you      |
+| nothing. It was here first.           |
+|                                       |
+\ -- Mark Twain                         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
