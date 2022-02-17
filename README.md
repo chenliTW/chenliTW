@@ -1,13 +1,15 @@
 Last Update Time: 
-Thu Feb 17 11:10:27 UTC 2022
+Thu Feb 17 11:25:25 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ A horse! A horse! My kingdom for a \
-| horse!                             |
-|                                    |
-\ -- Wm. Shakespeare, "Richard III"  /
- ------------------------------------
+ _________________________________________
+/ Q: How many psychiatrists does it take  \
+| to change a light bulb? A: Only one,    |
+| but it takes a long time, and the light |
+| bulb has                                |
+|                                         |
+\ to really want to change.               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
