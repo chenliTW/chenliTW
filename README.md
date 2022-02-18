@@ -1,15 +1,18 @@
 Last Update Time: 
-Fri Feb 18 19:52:25 UTC 2022
+Fri Feb 18 20:12:46 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: Know what the difference between     \
-| your latest project                     |
-|                                         |
-| and putting wings on an elephant is? A: |
-| Who knows? The elephant *might* fly,    |
-\ heh, heh...                             /
- -----------------------------------------
+ _______________________________________
+/ The bay-trees in our country are all  \
+| wither'd And meteors fright the fixed |
+| stars of heaven; The pale-faced moon  |
+| looks bloody on the earth And         |
+| lean-look'd prophets whisper fearful  |
+| change. These signs forerun the death |
+| or fall of kings.                     |
+|                                       |
+\ -- Wm. Shakespeare, "Richard II"      /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
