@@ -1,13 +1,13 @@
 Last Update Time: 
-Fri Feb 18 22:32:39 UTC 2022
+Fri Feb 18 22:43:49 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _______________________________________
-/ Q: What do you call the money you pay \
-| to the government when                |
+/ The devil can cite Scripture for his  \
+| purpose.                              |
 |                                       |
-| you ride into the country on the back |
-\ of an elephant? A: A howdah duty.     /
+| -- William Shakespeare, "The Merchant |
+\ of Venice"                            /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
