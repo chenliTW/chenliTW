@@ -1,11 +1,11 @@
 Last Update Time: 
-Sat Feb 19 17:56:55 UTC 2022
+Sat Feb 19 18:24:54 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You will have good luck and overcome \
-\ many hardships.                      /
- --------------------------------------
+ ________________________________________
+/ You will obey or molten silver will be \
+\ poured into your ears.                 /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
