@@ -1,10 +1,13 @@
 Last Update Time: 
-Sun Feb 20 15:29:39 UTC 2022
+Sun Feb 20 15:43:35 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: How was Thomas J. Watson buried? A: \
-\ 9 edge down.                           /
+/ Q: Why should you always serve a       \
+| Southern Carolina football man         |
+|                                        |
+| soup in a plate? A: 'Cause if you give |
+\ him a bowl, he'll throw it away.       /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
