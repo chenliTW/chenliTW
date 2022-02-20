@@ -1,10 +1,12 @@
 Last Update Time: 
-Sun Feb 20 19:42:39 UTC 2022
+Sun Feb 20 19:54:31 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- __________________________
-< Advancement in position. >
- --------------------------
+ _________________________________________
+/ Q: What's the difference between an     \
+| Irish wedding and an Irish wake? A: One |
+\ less drunk.                             /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
