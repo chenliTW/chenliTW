@@ -1,10 +1,12 @@
 Last Update Time: 
-Mon Feb 21 07:57:51 UTC 2022
+Mon Feb 21 08:26:59 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Write yourself a threatening letter and \
-\ pen a defiant reply.                    /
+/ FORTUNE PROVIDES QUESTIONS FOR THE      \
+| GREAT ANSWERS: #31 A: Chicken Teriyaki. |
+| Q: What is the name of the world's      |
+\ oldest kamikaze pilot?                  /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
