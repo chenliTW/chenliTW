@@ -1,14 +1,14 @@
 Last Update Time: 
-Mon Feb 21 03:44:06 UTC 2022
+Mon Feb 21 03:56:04 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Your manuscript is both good and       \
-| original, but the part that is good is |
-| not original and the part that is      |
-| original is not good.                  |
+/ The man who sets out to carry a cat by \
+| its tail learns something that will    |
+| always be useful and which never will  |
+| grow dim or doubtful.                  |
 |                                        |
-\ -- Samuel Johnson                      /
+\ -- Mark Twain                          /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
