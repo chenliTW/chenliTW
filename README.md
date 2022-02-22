@@ -1,17 +1,19 @@
 Last Update Time: 
-Tue Feb 22 05:47:04 UTC 2022
+Tue Feb 22 05:59:02 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The only people for me are the mad ones \
-| -- the ones who are mad to live, mad to |
-| talk, mad to be saved, desirous of      |
-| everything at the same time, the ones   |
-| who never yawn or say a commonplace     |
-| thing, but burn, burn, burn like        |
-| fabulous yellow Roman candles.          |
+/ October.                                \
 |                                         |
-\ -- Jack Kerouac, "On the Road"          /
+| This is one of the peculiarly dangerous |
+| months to speculate in stocks in.       |
+|                                         |
+| The others are July, January,           |
+| September, April, November, May, March, |
+| June, December, August, and February.   |
+|                                         |
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
