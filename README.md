@@ -1,14 +1,12 @@
 Last Update Time: 
-Tue Feb 22 22:56:34 UTC 2022
+Tue Feb 22 23:22:26 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: What do you call the money you pay \
-| to the government when                |
-|                                       |
-| you ride into the country on the back |
-\ of an elephant? A: A howdah duty.     /
- ---------------------------------------
+ _________________________________________
+/ While you recently had your problems on \
+| the run, they've regrouped and are      |
+\ making another attack.                  /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
