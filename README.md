@@ -1,15 +1,11 @@
 Last Update Time: 
-Wed Feb 23 07:28:17 UTC 2022
+Wed Feb 23 07:40:11 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How many Zen masters does it take to \
-| screw in a light bulb? A: None. The     |
-| Universe spins the bulb, and the Zen    |
-| master stays out                        |
-|                                         |
-\ of the way.                             /
- -----------------------------------------
+ ______________________________________
+/ Q: What do you call a boomerang that \
+\ doesn't come back? A: A stick.       /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
