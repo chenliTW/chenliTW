@@ -1,14 +1,12 @@
 Last Update Time: 
-Fri Feb 25 04:41:05 UTC 2022
+Fri Feb 25 04:54:43 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Sometimes I wonder if I'm in my right \
-| mind. Then it passes off and I'm as   |
-| intelligent as ever.                  |
-|                                       |
-\ -- Samuel Beckett, "Endgame"          /
- ---------------------------------------
+ _________________________________________
+/ You will stop at nothing to reach your  \
+| objective, but only because your brakes |
+\ are defective.                          /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
