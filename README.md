@@ -1,11 +1,10 @@
 Last Update Time: 
-Fri Feb 25 17:26:16 UTC 2022
+Fri Feb 25 17:38:58 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You need more time; and you probably \
-\ always will.                         /
- --------------------------------------
+ __________________________________
+< Never reveal your best argument. >
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
