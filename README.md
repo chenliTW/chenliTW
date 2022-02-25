@@ -1,13 +1,20 @@
 Last Update Time: 
-Fri Feb 25 05:41:15 UTC 2022
+Fri Feb 25 05:53:09 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: Why does Washington have the most   \
-| lawyers per capita and                 |
+/ The true Southern watermelon is a boon \
+| apart, and not to be mentioned with    |
+| commoner things. It is chief of the    |
+| world's luxuries, king by the grace of |
+| God over all the fruits of the earth.  |
+| When one has tasted it, he knows what  |
+| the angels eat. It was not a Southern  |
+| watermelon that Eve took; we know it   |
+| because she repented.                  |
 |                                        |
-| New Jersey the most toxic waste dumps? |
-\ A: God gave New Jersey first choice.   /
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
