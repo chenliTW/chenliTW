@@ -1,12 +1,13 @@
 Last Update Time: 
-Sun Feb 27 14:25:32 UTC 2022
+Sun Feb 27 14:37:46 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ You're currently going through a   \
-| difficult transition period called |
-\ "Life."                            /
- ------------------------------------
+ _________________________________________
+/ Q: What do you get when you cross a     \
+| mobster with an international standard? |
+| A: You get someone who makes you an     |
+\ offer that you can't understand!        /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
