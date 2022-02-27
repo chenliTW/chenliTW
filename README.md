@@ -1,11 +1,23 @@
 Last Update Time: 
-Sun Feb 27 07:09:34 UTC 2022
+Sun Feb 27 07:26:38 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Don't tell any big lies today. Small \
-\ ones can be just as effective.       /
- --------------------------------------
+ _________________________________________
+/ "What's this? Trix? Aunt! Trix? You?    \
+| You're after the prize! What is it?" He |
+| picked up the box and studied the back. |
+| "A glow-in-the-dark squid! Have you got |
+| it out of there yet?" He tilted the     |
+| box, angling the little colored balls   |
+| of cereal so as to see the bottom, and  |
+| nearly spilling them onto the table     |
+| top. "Here it is!" He hauled out a      |
+| little cream-colored, glitter-sprinkled |
+| squid, three-inches long and made out   |
+| of rubbery plastic.                     |
+|                                         |
+\ -- James P. Blaylock, "The Last Coin"   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
