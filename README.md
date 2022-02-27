@@ -1,11 +1,12 @@
 Last Update Time: 
-Sun Feb 27 16:53:47 UTC 2022
+Sun Feb 27 17:14:20 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ You will be awarded a medal for        \
-\ disregarding safety in saving someone. /
- ----------------------------------------
+ ______________________________________
+/ You'll never see all the places, or  \
+| read all the books, but fortunately, |
+\ they're not all recommended.         /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
