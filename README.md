@@ -1,22 +1,12 @@
 Last Update Time: 
-Sun Feb 27 09:19:13 UTC 2022
+Sun Feb 27 09:32:40 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ In the plot, people came to the land;   \
-| the land loved them; they worked and    |
-| struggled and had lots of children.     |
-| There was a Frenchman who talked funny  |
-| and a greenhorn from England who was a  |
-| fancy-pants but when it came to the     |
-| crunch he was all courage. Those novels |
-| would make you retch.                   |
-|                                         |
-| -- Canadian novelist Robertson Davies,  |
-| on the generic Canadian                 |
-|                                         |
-\ novel.                                  /
- -----------------------------------------
+ _______________________________________
+/ You had some happiness once, but your \
+| parents moved away, and you had to    |
+\ leave it behind.                      /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
