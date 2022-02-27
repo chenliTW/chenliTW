@@ -1,9 +1,20 @@
 Last Update Time: 
-Sun Feb 27 21:49:03 UTC 2022
+Sun Feb 27 22:02:39 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-< If you can read this, you're too close. >
+/ The lovely woman-child Kaa was          \
+| mercilessly chained to the cruel post   |
+| of the warrior-chief Beast, with his    |
+| barbarian tribe now stacking wood at    |
+| her nubile feet, when the strong clear  |
+| voice of the poetic and heroic          |
+| Handsomas roared, 'Flick your Bic,      |
+| crisp that chick, and you'll feel my    |
+| steel through your last meal!'          |
+|                                         |
+| -- Winning sentence, 1984 Bulwer-Lytton |
+\ bad fiction contest.                    /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
