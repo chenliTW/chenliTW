@@ -1,14 +1,14 @@
 Last Update Time: 
-Sun Feb 27 19:20:51 UTC 2022
+Sun Feb 27 19:33:04 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ A classic is something that everyone   \
-| wants to have read and nobody wants to |
-| read.                                  |
+/ The man who sets out to carry a cat by \
+| its tail learns something that will    |
+| always be useful and which never will  |
+| grow dim or doubtful.                  |
 |                                        |
-| -- Mark Twain, "The Disappearance of   |
-\ Literature"                            /
+\ -- Mark Twain                          /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
