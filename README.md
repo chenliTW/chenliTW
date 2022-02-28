@@ -1,11 +1,11 @@
 Last Update Time: 
-Mon Feb 28 13:40:50 UTC 2022
+Mon Feb 28 13:53:48 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ You're a card which will have to be \
-\ dealt with.                         /
- -------------------------------------
+ _________________________________________
+/ You will gain money by a speculation or \
+\ lottery.                                /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
