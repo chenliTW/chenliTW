@@ -1,12 +1,11 @@
 Last Update Time: 
-Tue Mar  1 14:26:31 UTC 2022
+Tue Mar  1 14:39:54 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What do you say to a New Yorker with \
-| a job? A: Big Mac, fries and a Coke,    |
-\ please!                                 /
- -----------------------------------------
+ _____________________________________
+/ You are dishonest, but never to the \
+\ point of hurting a friend.          /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
