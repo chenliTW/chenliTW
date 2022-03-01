@@ -1,11 +1,15 @@
 Last Update Time: 
-Tue Mar  1 05:49:19 UTC 2022
+Tue Mar  1 06:08:25 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ Life is to you a dashing and bold \
-\ adventure.                        /
- -----------------------------------
+ _________________________________________
+/ O, it is excellent To have a giant's    \
+| strength; but it is tyrannous To use it |
+| like a giant.                           |
+|                                         |
+| -- Shakespeare, "Measure for Measure",  |
+\ II, 2                                   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
