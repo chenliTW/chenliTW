@@ -1,14 +1,14 @@
 Last Update Time: 
-Wed Mar  2 14:47:47 UTC 2022
+Wed Mar  2 14:59:23 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How do you catch a unique rabbit? A: \
-| Unique up on it!                        |
-|                                         |
-| Q: How do you catch a tame rabbit? A:   |
-\ The tame way!                           /
- -----------------------------------------
+ _____________________________________
+/ As to the Adjective: when in doubt, \
+| strike it out.                      |
+|                                     |
+| -- Mark Twain, "Pudd'nhead Wilson's |
+\ Calendar"                           /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
