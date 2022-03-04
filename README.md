@@ -1,11 +1,14 @@
 Last Update Time: 
-Fri Mar  4 09:23:38 UTC 2022
+Fri Mar  4 09:37:51 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _______________________________________
-/ You can create your own opportunities \
-| this week. Blackmail a senior         |
-\ executive.                            /
+/ Perilous to all of us are the devices \
+| of an art deeper than we ourselves    |
+| possess.                              |
+|                                       |
+| -- Gandalf the Grey [J.R.R. Tolkien,  |
+\ "Lord of the Rings"]                  /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
