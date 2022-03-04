@@ -1,23 +1,50 @@
 Last Update Time: 
-Fri Mar  4 21:19:10 UTC 2022
+Fri Mar  4 21:31:35 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ So she went into the garden to cut a    \
-| cabbage leaf to make an apple pie; and  |
-| at the same time a great she-bear,      |
-| coming up the street pops its head into |
-| the shop. "What! no soap?" So he died,  |
-| and she very imprudently married the    |
-| barber; and there were present the      |
-| Picninnies, and the Grand Panjandrum    |
-| himself, with the little round button   |
-| at top, and they all fell to playing    |
-| the game of catch as catch can, till    |
-| the gunpowder ran out at the heels of   |
-| their boots.                            |
+/ We were young and our happiness dazzled \
+| us with its strength. But there was     |
+| also a terrible betrayal that lay       |
+| within me like a Merle Haggard song at  |
+| a French restaurant. [...]              |
 |                                         |
-\ -- Samuel Foote                         /
+| I could not tell the girl about the     |
+| woman of the tollway, of her milk white |
+| BMW and her Jordache smile. There had   |
+| been a fight. I had punched her         |
+| boyfriend, who fought the mechanical    |
+| bulls. Everyone told him, "You ride the |
+| bull, senor. You do not fight it." But  |
+| he was lean and tough like a bad        |
+| rib-eye and he fought the bull. And     |
+| then he fought me. And when we finished |
+| there were no winners, just men doing   |
+| what men must do. [...]                 |
+|                                         |
+| "Stop the car," the girl said.          |
+|                                         |
+| There was a look of terrible sadness in |
+| her eyes. She knew about the woman of   |
+| the tollway. I knew not how. I started  |
+| to speak, but she raised an arm and     |
+| spoke with a quiet and peace I will     |
+| never forget.                           |
+|                                         |
+| "I do not ask for whom's the tollway    |
+| belle," she said, "the tollway belle's  |
+| for thee."                              |
+|                                         |
+| The next morning our youth was a        |
+| memory, and our happiness was a lie.    |
+| Life is like a bad margarita with good  |
+| tequila, I thought as I poured whiskey  |
+| onto my granola and faced a new day.    |
+|                                         |
+| -- Peter Applebome, International       |
+| Imitation Hemingway                     |
+|                                         |
+\ Competition                             /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
