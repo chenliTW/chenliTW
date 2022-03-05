@@ -1,13 +1,11 @@
 Last Update Time: 
-Sat Mar  5 08:46:13 UTC 2022
+Sat Mar  5 08:58:05 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How many Harvard MBA's does it take \
-| to screw in a light bulb? A: Just one. |
-| He grasps it firmly and the universe   |
-\ revolves around him.                   /
- ----------------------------------------
+ _____________________________________
+/ Fine day to work off excess energy. \
+\ Steal something heavy.              /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
