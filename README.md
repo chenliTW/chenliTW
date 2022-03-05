@@ -1,12 +1,11 @@
 Last Update Time: 
-Sat Mar  5 14:28:12 UTC 2022
+Sat Mar  5 14:39:52 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- __________________________________
-/ Be cheerful while you are alive. \
-|                                  |
-\ -- Phathotep, 24th Century B.C.  /
- ----------------------------------
+ ________________________________________
+/ Executive ability is prominent in your \
+\ make-up.                               /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
