@@ -1,14 +1,11 @@
 Last Update Time: 
-Mon Mar  7 14:21:10 UTC 2022
+Mon Mar  7 14:34:07 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Soap and education are not as sudden as \
-| a massacre, but they are more deadly in |
-| the long run.                           |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ _______________________________________
+/ Q: How do you save a drowning lawyer? \
+\ A: Throw him a rock.                  /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
