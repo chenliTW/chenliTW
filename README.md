@@ -1,11 +1,10 @@
 Last Update Time: 
-Mon Mar  7 12:51:23 UTC 2022
+Mon Mar  7 13:16:39 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Look afar and see the end from the \
-\ beginning.                         /
- ------------------------------------
+ _________________________________________
+< If you can read this, you're too close. >
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
