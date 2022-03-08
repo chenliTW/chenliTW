@@ -1,19 +1,21 @@
 Last Update Time: 
-Tue Mar  8 23:19:24 UTC 2022
+Tue Mar  8 23:34:01 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The camel died quite suddenly on the    \
-| second day, and Selena fretted sullenly |
-| and, buffing her already impeccable     |
-| nails -- not for the first time since   |
-| the journey begain -- pondered snidely  |
-| if this would dissolve into a vignette  |
-| of minor inconveniences like all the    |
-| other holidays spent with Basil.        |
+/ Even the clearest and most perfect      \
+| circumstantial evidence is likely to be |
+| at fault, after all, and therefore      |
+| ought to be received with great         |
+| caution. Take the case of any pencil,   |
+| sharpened by any woman; if you have     |
+| witnesses, you will find she did it     |
+| with a knife; but if you take simply    |
+| the aspect of the pencil, you will say  |
+| that she did it with her teeth.         |
 |                                         |
-| -- Winning sentence, 1983 Bulwer-Lytton |
-\ bad fiction contest.                    /
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
