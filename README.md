@@ -1,22 +1,10 @@
 Last Update Time: 
-Tue Mar  8 23:34:01 UTC 2022
+Tue Mar  8 23:45:46 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Even the clearest and most perfect      \
-| circumstantial evidence is likely to be |
-| at fault, after all, and therefore      |
-| ought to be received with great         |
-| caution. Take the case of any pencil,   |
-| sharpened by any woman; if you have     |
-| witnesses, you will find she did it     |
-| with a knife; but if you take simply    |
-| the aspect of the pencil, you will say  |
-| that she did it with her teeth.         |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
- -----------------------------------------
+ ____________________________________
+< So this is it. We're going to die. >
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
