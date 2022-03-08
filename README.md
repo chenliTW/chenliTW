@@ -1,12 +1,10 @@
 Last Update Time: 
-Tue Mar  8 18:13:02 UTC 2022
+Tue Mar  8 18:37:04 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Talkers are no good doers.         \
-|                                    |
-\ -- William Shakespeare, "Henry VI" /
- ------------------------------------
+ _____________________________
+< Avoid reality at all costs. >
+ -----------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
