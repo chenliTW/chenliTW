@@ -1,18 +1,12 @@
 Last Update Time: 
-Wed Mar  9 08:20:53 UTC 2022
+Wed Mar  9 08:38:58 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Steady movement is more important than \
-| speed, much of the time. So long as    |
-| there is a regular progression of      |
-| stimuli to get your mental hooks into, |
-| there is room for lateral movement.    |
-| Once this begins, its rate is a matter |
-| of discretion.                         |
-|                                        |
-\ -- Corwin, Prince of Amber             /
- ----------------------------------------
+ _____________________________________
+/ You learn to write as if to someone \
+| else because NEXT YEAR YOU WILL BE  |
+\ "SOMEONE ELSE."                     /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
