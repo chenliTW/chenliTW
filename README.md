@@ -1,10 +1,11 @@
 Last Update Time: 
-Thu Mar 10 06:52:14 UTC 2022
+Thu Mar 10 07:12:13 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _______________________________________
-/ You shall be rewarded for a dastardly \
-\ deed.                                 /
+/ Q: What's tiny and yellow and very,   \
+| very, dangerous? A: A canary with the |
+\ super-user password.                  /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
