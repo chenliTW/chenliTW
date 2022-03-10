@@ -1,10 +1,14 @@
 Last Update Time: 
-Thu Mar 10 22:55:38 UTC 2022
+Thu Mar 10 23:19:51 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-< Excellent day to have a rotten day. >
- -------------------------------------
+ _______________________________________
+/ Q: What do you call the money you pay \
+| to the government when                |
+|                                       |
+| you ride into the country on the back |
+\ of an elephant? A: A howdah duty.     /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
