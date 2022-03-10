@@ -1,16 +1,18 @@
 Last Update Time: 
-Thu Mar 10 21:40:00 UTC 2022
+Thu Mar 10 21:51:47 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: Where's the Lone Ranger take his     \
-| garbage? A: To the dump, to the dump,   |
-| to the dump dump dump!                  |
-|                                         |
-| Q: What's the Pink Panther say when he  |
-| steps on an ant hill? A: Dead ant, dead |
-\ ant, dead ant dead ant dead ant...      /
- -----------------------------------------
+ ________________________________________
+/ When I was younger, I could remember   \
+| anything, whether it had happened or   |
+| not; but my faculties are decaying now |
+| and soon I shall be so I cannot        |
+| remember any but the things that never |
+| happened. It is sad to go to pieces    |
+| like this but we all have to do it.    |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
