@@ -1,15 +1,15 @@
 Last Update Time: 
-Thu Mar 10 11:56:59 UTC 2022
+Thu Mar 10 12:38:13 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Perilous to all of us are the devices \
-| of an art deeper than we ourselves    |
-| possess.                              |
-|                                       |
-| -- Gandalf the Grey [J.R.R. Tolkien,  |
-\ "Lord of the Rings"]                  /
- ---------------------------------------
+ ________________________________________
+/ Your manuscript is both good and       \
+| original, but the part that is good is |
+| not original and the part that is      |
+| original is not good.                  |
+|                                        |
+\ -- Samuel Johnson                      /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
