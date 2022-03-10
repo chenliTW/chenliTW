@@ -1,12 +1,18 @@
 Last Update Time: 
-Thu Mar 10 19:59:04 UTC 2022
+Thu Mar 10 20:24:49 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: What do you get when you cross a     \
-| mobster with an international standard? |
-| A: You get someone who makes you an     |
-\ offer that you can't understand!        /
+/ "I wonder", he said to himself, "what's \
+| in a book while it's closed. Oh, I know |
+| it's full of letters printed on paper,  |
+| but all the same, something must be     |
+| happening, because as soon as I open    |
+| it, there's a whole story with people I |
+| don't know yet and all kinds of         |
+| adventures and battles."                |
+|                                         |
+\ -- Bastian B. Bux                       /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
