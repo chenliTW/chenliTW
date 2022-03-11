@@ -1,12 +1,11 @@
 Last Update Time: 
-Fri Mar 11 02:59:35 UTC 2022
+Fri Mar 11 03:25:51 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What do you say to a New Yorker with \
-| a job? A: Big Mac, fries and a Coke,    |
-\ please!                                 /
- -----------------------------------------
+ ________________________________________
+/ Think twice before speaking, but don't \
+\ say "think think click click".         /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
