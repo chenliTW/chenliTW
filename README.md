@@ -1,14 +1,12 @@
 Last Update Time: 
-Sun Mar 13 07:49:46 UTC 2022
+Sun Mar 13 08:08:26 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many Bell Labs Vice Presidents   \
-| does it take to change a light bulb? A: |
-| That's proprietary information. Answer  |
-| available from AT&T on payment          |
+/ Extreme fear can neither fight nor fly. \
 |                                         |
-\ of license fee (binary only).           /
+| -- William Shakespeare, "The Rape of    |
+\ Lucrece"                                /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
