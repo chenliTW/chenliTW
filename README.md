@@ -1,13 +1,18 @@
 Last Update Time: 
-Sun Mar 13 20:13:29 UTC 2022
+Sun Mar 13 20:31:09 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The holy passion of Friendship is of so \
-| sweet and steady and loyal and enduring |
-| a nature that it will last through a    |
-| whole lifetime, if not asked to lend    |
-| money.                                  |
+/ Even the clearest and most perfect      \
+| circumstantial evidence is likely to be |
+| at fault, after all, and therefore      |
+| ought to be received with great         |
+| caution. Take the case of any pencil,   |
+| sharpened by any woman; if you have     |
+| witnesses, you will find she did it     |
+| with a knife; but if you take simply    |
+| the aspect of the pencil, you will say  |
+| that she did it with her teeth.         |
 |                                         |
 | -- Mark Twain, "Pudd'nhead Wilson's     |
 \ Calendar"                               /
