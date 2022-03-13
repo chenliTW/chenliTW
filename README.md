@@ -1,13 +1,12 @@
 Last Update Time: 
-Sun Mar 13 02:58:33 UTC 2022
+Sun Mar 13 03:25:13 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Writing is turning one's worst moments \
-| into money.                            |
-|                                        |
-\ -- J.P. Donleavy                       /
- ----------------------------------------
+ _________________________________________
+/ You may be infinitely smaller than some \
+| things, but you're infinitely larger    |
+\ than others.                            /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
