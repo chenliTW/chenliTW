@@ -1,12 +1,13 @@
 Last Update Time: 
-Sun Mar 13 10:52:09 UTC 2022
+Sun Mar 13 11:09:42 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How many lawyers does it take to    \
-| change a light bulb? A: One. Only it's |
-\ his light bulb when he's done.         /
- ----------------------------------------
+ _________________________________________
+/ Always do right. This will gratify some \
+| people and astonish the rest.           |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
