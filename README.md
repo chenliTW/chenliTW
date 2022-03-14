@@ -1,36 +1,12 @@
 Last Update Time: 
-Mon Mar 14 13:54:39 UTC 2022
+Mon Mar 14 14:17:29 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ A Tale of Two Cities LITE(tm)         \
-|                                       |
-| -- by Charles Dickens                 |
-|                                       |
-| A man in love with a girl who loves   |
-| another man who looks just            |
-|                                       |
-| like him has his head chopped off in  |
-| France because of a mean              |
-|                                       |
-| lady who knits.                       |
-|                                       |
-| Crime and Punishment LITE(tm)         |
-|                                       |
-| -- by Fyodor Dostoevski               |
-|                                       |
-| A man sends a nasty letter to a       |
-| pawnbroker, but later                 |
-|                                       |
-| feels guilty and apologizes.          |
-|                                       |
-| The Odyssey LITE(tm)                  |
-|                                       |
-| -- by Homer                           |
-|                                       |
-| After working late, a valiant warrior |
-\ gets lost on his way home.            /
- ---------------------------------------
+ ________________________________________
+/ Q: How many lawyers does it take to    \
+| change a light bulb? A: One. Only it's |
+\ his light bulb when he's done.         /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
