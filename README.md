@@ -1,14 +1,11 @@
 Last Update Time: 
-Tue Mar 15 22:34:14 UTC 2022
+Tue Mar 15 22:46:04 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ The devil can cite Scripture for his  \
-| purpose.                              |
-|                                       |
-| -- William Shakespeare, "The Merchant |
-\ of Venice"                            /
- ---------------------------------------
+ _________________________________________
+/ Q: What's tan and black and looks great \
+\ on a lawyer? A: A doberman.             /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
