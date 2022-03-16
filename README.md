@@ -1,15 +1,14 @@
 Last Update Time: 
-Wed Mar 16 03:17:50 UTC 2022
+Wed Mar 16 03:37:46 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Writing is easy; all you do is sit  \
-| staring at the blank sheet of paper |
-| until drops of blood form on your   |
-| forehead.                           |
-|                                     |
-\ -- Gene Fowler                      /
- -------------------------------------
+ ________________________________________
+/ Always the dullness of the fool is the \
+| whetstone of the wits.                 |
+|                                        |
+| -- William Shakespeare, "As You Like   |
+\ It"                                    /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
