@@ -1,13 +1,11 @@
 Last Update Time: 
-Sat Mar 19 09:35:16 UTC 2022
+Sat Mar 19 09:47:02 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ By trying we can easily learn to endure \
-| adversity. Another man's, I mean.       |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ____________________________________
+/ Q: What is orange and goes "click, \
+\ click?" A: A ball point carrot.    /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
