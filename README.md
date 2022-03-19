@@ -1,14 +1,13 @@
 Last Update Time: 
-Sat Mar 19 11:11:34 UTC 2022
+Sat Mar 19 11:26:40 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ It has long been an axiom of mine that \
-| the little things are infinitely the   |
-| most important.                        |
+/ Q: Why does Washington have the most   \
+| lawyers per capita and                 |
 |                                        |
-| -- Sir Arthur Conan Doyle, "A Case of  |
-\ Identity"                              /
+| New Jersey the most toxic waste dumps? |
+\ A: God gave New Jersey first choice.   /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
