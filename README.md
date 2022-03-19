@@ -1,14 +1,10 @@
 Last Update Time: 
-Fri Mar 18 23:59:20 UTC 2022
+Sat Mar 19 01:36:16 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What's the difference between a dead \
-| dog in the road and a dead              |
-|                                         |
-| lawyer in the road? A: There are skid   |
-\ marks in front of the dog.              /
- -----------------------------------------
+ _______________________________________
+< Are you sure the back door is locked? >
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
