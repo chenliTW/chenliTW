@@ -1,12 +1,11 @@
 Last Update Time: 
-Sun Mar 20 18:57:51 UTC 2022
+Sun Mar 20 19:17:42 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Q: Why did the astrophysicist order \
-| three hamburgers? A: Because he was |
-\ hungry.                             /
- -------------------------------------
+ _________________________________________
+/ Q: What is the difference between Texas \
+\ and yogurt? A: Yogurt has culture.      /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
