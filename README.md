@@ -1,13 +1,21 @@
 Last Update Time: 
-Mon Mar 21 04:18:56 UTC 2022
+Mon Mar 21 04:43:45 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ FORTUNE PROVIDES QUESTIONS FOR THE      \
-| GREAT ANSWERS: #5 A: The Halls of       |
-| Montezuma and the Shores of Tripoli. Q: |
-| Name two families whose kids won't join |
-\ the Marines.                            /
+/  "You have heard me speak of Professor  \
+| Moriarty?"                              |
+|                                         |
+| "The famous scientific criminal, as     |
+| famous among crooks as --"              |
+|                                         |
+| "My blushes, Watson," Holmes murmured,  |
+| in a deprecating voice.                 |
+|                                         |
+| "I was about to say 'as he is unknown   |
+| to the public.'"                        |
+|                                         |
+\ -- A. Conan Doyle, "The Valley of Fear" /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
