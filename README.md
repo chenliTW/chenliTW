@@ -1,12 +1,15 @@
 Last Update Time: 
-Mon Mar 21 15:50:02 UTC 2022
+Mon Mar 21 16:05:39 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Man is the only animal that blushes -- \
-| or needs to.                           |
+/ Q: How many lawyers does it take to    \
+| change a light bulb? A: You won't find |
+| a lawyer who can change a light bulb.  |
+| Now, if                                |
 |                                        |
-\ -- Mark Twain                          /
+| you're looking for a lawyer to screw a |
+\ light bulb...                          /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
