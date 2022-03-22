@@ -1,13 +1,11 @@
 Last Update Time: 
-Tue Mar 22 07:59:22 UTC 2022
+Tue Mar 22 08:28:53 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- __________________________________
-/ Wagner's music is better than it \
-| sounds.                          |
-|                                  |
-\ -- Mark Twain                    /
- ----------------------------------
+ ________________________________________
+/ Q: Why do WASPs play golf ? A: So they \
+\ can dress like pimps.                  /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
