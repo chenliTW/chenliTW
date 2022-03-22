@@ -1,12 +1,11 @@
 Last Update Time: 
-Tue Mar 22 19:30:17 UTC 2022
+Tue Mar 22 19:42:11 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ For courage mounteth with occasion. \
-|                                     |
-\ -- William Shakespeare, "King John" /
- -------------------------------------
+ _________________________________________
+/ Q: What's tan and black and looks great \
+\ on a lawyer? A: A doberman.             /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
