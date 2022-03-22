@@ -1,11 +1,14 @@
 Last Update Time: 
-Tue Mar 22 19:42:11 UTC 2022
+Tue Mar 22 19:54:09 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What's tan and black and looks great \
-\ on a lawyer? A: A doberman.             /
- -----------------------------------------
+ ________________________________________
+/ "You have been in Afghanistan, I       \
+| perceive."                             |
+|                                        |
+| -- Sir Arthur Conan Doyle, "A Study in |
+\ Scarlet"                               /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
