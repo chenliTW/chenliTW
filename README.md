@@ -1,13 +1,11 @@
 Last Update Time: 
-Tue Mar 22 19:18:23 UTC 2022
+Tue Mar 22 19:30:17 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _____________________________________
-/ As to the Adjective: when in doubt, \
-| strike it out.                      |
+/ For courage mounteth with occasion. \
 |                                     |
-| -- Mark Twain, "Pudd'nhead Wilson's |
-\ Calendar"                           /
+\ -- William Shakespeare, "King John" /
  -------------------------------------
         \   ^__^
          \  (oo)\_______
