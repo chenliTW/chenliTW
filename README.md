@@ -1,14 +1,10 @@
 Last Update Time: 
-Wed Mar 23 21:41:31 UTC 2022
+Wed Mar 23 21:53:11 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What do you call a principal female  \
-| opera singer whose high C               |
-|                                         |
-| is lower than those of other principal  |
-\ female opera singers? A: A deep C diva. /
- -----------------------------------------
+ _____________________________
+< Avoid reality at all costs. >
+ -----------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
