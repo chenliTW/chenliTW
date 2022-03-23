@@ -1,15 +1,11 @@
 Last Update Time: 
-Wed Mar 23 09:44:15 UTC 2022
+Wed Mar 23 09:56:16 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ O, it is excellent To have a giant's    \
-| strength; but it is tyrannous To use it |
-| like a giant.                           |
-|                                         |
-| -- Shakespeare, "Measure for Measure",  |
-\ II, 2                                   /
- -----------------------------------------
+ _______________________________________
+/ You will be given a post of trust and \
+\ responsibility.                       /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
