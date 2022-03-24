@@ -1,14 +1,10 @@
 Last Update Time: 
-Thu Mar 24 15:17:53 UTC 2022
+Thu Mar 24 15:37:36 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ The naked truth of it is, I have no \
-| shirt.                              |
-|                                     |
-| -- William Shakespeare, "Love's     |
-\ Labour's Lost"                      /
- -------------------------------------
+ ______________________________________
+< You are fairminded, just and loving. >
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
