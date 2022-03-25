@@ -1,12 +1,19 @@
 Last Update Time: 
-Fri Mar 25 19:49:50 UTC 2022
+Fri Mar 25 20:07:35 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Extreme fear can neither fight nor fly. \
+/ The countdown had stalled at 'T' minus  \
+| 69 seconds when Desiree, the first      |
+| female ape to go up in space, winked at |
+| me slyly and pouted her thick, rubbery  |
+| lips unmistakably -- the first of many  |
+| such advances during what would prove   |
+| to be the longest, and most memorable,  |
+| space voyage of my career.              |
 |                                         |
-| -- William Shakespeare, "The Rape of    |
-\ Lucrece"                                /
+| -- Winning sentence, 1985 Bulwer-Lytton |
+\ bad fiction contest.                    /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
