@@ -1,11 +1,12 @@
 Last Update Time: 
-Sat Mar 26 03:25:58 UTC 2022
+Sat Mar 26 03:44:27 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Your goose is cooked. (Your current \
-\ chick is burned up too!)            /
- -------------------------------------
+ _________________________________________
+/ You will be attacked by a beast who has \
+| the body of a wolf, the tail of a lion, |
+\ and the face of Donald Duck.            /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
