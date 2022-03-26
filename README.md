@@ -1,11 +1,12 @@
 Last Update Time: 
-Sat Mar 26 06:28:23 UTC 2022
+Sat Mar 26 06:48:12 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Your lover will never wish to leave \
-\ you.                                /
- -------------------------------------
+ ________________________________________
+/ What no spouse of a writer can ever    \
+| understand is that a writer is working |
+\ when he's staring out the window.      /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
