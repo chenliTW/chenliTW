@@ -1,11 +1,11 @@
 Last Update Time: 
-Sat Mar 26 19:53:12 UTC 2022
+Sat Mar 26 20:15:16 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You will be recognized and honored as a \
-\ community leader.                       /
- -----------------------------------------
+ _____________________________________
+/ Your goose is cooked. (Your current \
+\ chick is burned up too!)            /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
