@@ -1,13 +1,11 @@
 Last Update Time: 
-Sat Mar 26 14:18:58 UTC 2022
+Sat Mar 26 14:31:06 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Tempt not a desperate man.         \
-|                                    |
-| -- William Shakespeare, "Romeo and |
-\ Juliet"                            /
- ------------------------------------
+ _________________________________________
+/ Of course you have a purpose -- to find \
+\ a purpose.                              /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
