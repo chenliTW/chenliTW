@@ -1,13 +1,10 @@
 Last Update Time: 
-Sun Mar 27 19:20:38 UTC 2022
+Sun Mar 27 19:32:46 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Clothes make the man. Naked people have \
-| little or no influence on society.      |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ______________________________________
+< You will have long and healthy life. >
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
