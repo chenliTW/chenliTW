@@ -1,38 +1,40 @@
 Last Update Time: 
-Sun Mar 27 03:59:18 UTC 2022
+Sun Mar 27 04:31:17 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ A Tale of Two Cities LITE(tm)           \
+/  "...The name of the song is called     \
+| 'Haddocks' Eyes'!"                      |
 |                                         |
-| -- by Charles Dickens                   |
+| "Oh, that's the name of the song, is    |
+| it?" Alice said, trying to feel         |
+| interested.                             |
 |                                         |
-| A lawyer who looks like a French        |
-| Nobleman is executed in his place.      |
+| "No, you don't understand," the Knight  |
+| said, looking a little vexed. "That's   |
+| what the name is called. The name       |
+| really is, 'The Aged Aged Man.'"        |
 |                                         |
-| The Metamorphosis LITE(tm)              |
+| "Then I ought to have said "That's what |
+| the song is called'?" Alice corrected   |
+| herself.                                |
 |                                         |
-| -- by Franz Kafka                       |
+| "No, you oughtn't: that's quite another |
+| thing! The song is called 'Ways and     |
+| Means': but that's only what it is      |
+| called you know!"                       |
 |                                         |
-| A man turns into a bug and his family   |
-| gets annoyed.                           |
+| "Well, what is the song then?" said     |
+| Alice, who was by this time completely  |
+| bewildered.                             |
 |                                         |
-| Lord of the Rings LITE(tm)              |
+| "I was coming to that," the Knight      |
+| said. "The song really is "A-sitting on |
+| a Gate": and the tune's my own          |
+| invention."                             |
 |                                         |
-| -- by J. R. R. Tolkien                  |
-|                                         |
-| Some guys take a long vacation to throw |
-| a ring into a volcano.                  |
-|                                         |
-| Hamlet LITE(tm)                         |
-|                                         |
-| -- by Wm. Shakespeare                   |
-|                                         |
-| A college student on vacation with      |
-| family problems, a screwy               |
-|                                         |
-| girl-friend and a mother who won't act  |
-\ her age.                                /
+| -- Lewis Carroll, "Through the Looking  |
+\ Glass"                                  /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
