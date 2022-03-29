@@ -1,11 +1,10 @@
 Last Update Time: 
-Tue Mar 29 05:32:24 UTC 2022
+Tue Mar 29 05:44:19 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Beware of a tall black man with one \
-\ blond shoe.                         /
- -------------------------------------
+ ____________________________________
+< Don't read everything you believe. >
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
