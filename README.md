@@ -1,15 +1,11 @@
 Last Update Time: 
-Tue Mar 29 10:45:44 UTC 2022
+Tue Mar 29 11:19:40 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ It is often the case that the man who  \
-| can't tell a lie thinks he is the best |
-| judge of one.                          |
-|                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
- ----------------------------------------
+ ___________________________________
+/ You have literary talent that you \
+\ should take pains to develop.     /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
