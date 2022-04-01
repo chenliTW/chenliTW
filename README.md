@@ -1,11 +1,13 @@
 Last Update Time: 
-Fri Apr  1 05:21:56 UTC 2022
+Fri Apr  1 05:35:10 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You seek to shield those you love and \
-\ you like the role of the provider.    /
- ---------------------------------------
+ ________________________________________
+/ Q: How many college football players   \
+| does it take to screw in a light bulb? |
+| A: Only one, but he gets three credits |
+\ for it.                                /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
