@@ -1,23 +1,11 @@
 Last Update Time: 
-Sat Apr  2 19:59:41 UTC 2022
+Sat Apr  2 20:24:41 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many gradual (sorry, that's      \
-| supposed to be "graduate") students     |
-|                                         |
-| does it take to screw in a light bulb?  |
-| A: "I'm afraid we don't know, but make  |
-| my stipend tax-free, give my            |
-|                                         |
-| advisor a $30,000 grant of the          |
-| taxpayer's money, and I'm sure he       |
-|                                         |
-| can tell me how to do the gruntwork for |
-| him so he can take the                  |
-|                                         |
-| credit for answering this incredibly    |
-\ vital question."                        /
+/ Q: What do little WASPs want to be when \
+| they grow up? A: The very best person   |
+\ they can possibly be.                   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
