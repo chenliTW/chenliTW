@@ -1,11 +1,10 @@
 Last Update Time: 
-Sun Apr  3 12:37:26 UTC 2022
+Sun Apr  3 13:03:24 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Don't get stuck in a closet -- wear \
-\ yourself out.                       /
- -------------------------------------
+ _______________________________
+< Keep it short for pithy sake. >
+ -------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
