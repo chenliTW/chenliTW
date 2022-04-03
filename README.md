@@ -1,49 +1,21 @@
 Last Update Time: 
-Sun Apr  3 19:33:07 UTC 2022
+Sun Apr  3 19:44:45 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Well, anyway, I was reading this James  \
-| Bond book, and right away I realized    |
-| that like most books, it had too many   |
-| words. The plot was the same one that   |
-| all James Bond books have: An evil      |
-| person tries to blow up the world, but  |
-| James Bond kills him and his henchmen   |
-| and makes love to several attractive    |
-| women. There, that's it: 24 words. But  |
-| the guy who wrote the book took         |
-| *thousands* of words to say it.         |
+/ Awash with unfocused desire, Everett    \
+| twisted the lobe of his one remaining   |
+| ear and felt the presence of somebody   |
+| else behind him, which caused terror to |
+| push through his nervous system like a  |
+| flash flood roaring down the mid-fork   |
+| of the Feather River before the         |
+| completion of the Oroville Dam in 1959. |
 |                                         |
-| Or consider "The Brothers Karamazov",   |
-| by the famous Russian alcoholic Fyodor  |
-| Dostoyevsky. It's about these two       |
-| brothers who kill their father. Or      |
-| maybe only one of them kills the        |
-| father. It's impossible to tell because |
-| what they mostly do is talk for nearly  |
-| a thousand pages. If all Russians talk  |
-| as much as the Karamazovs did, I don't  |
-| see how they found time to become a     |
-| major world power.                      |
+| -- Grand Panjandrum's Special Award,    |
+| 1984 Bulwer-Lytton                      |
 |                                         |
-| I'm told that Dostoyevsky wrote "The    |
-| Brothers Karamazov" to raise the        |
-| question of whether there is a God. So  |
-| why didn't he just come right out and   |
-| say: "Is there a God? It sure beats the |
-| heck out of me."                        |
-|                                         |
-| Other famous works could easily have    |
-| been summarized in a few words:         |
-|                                         |
-| * "Moby Dick" -- Don't mess around with |
-| large whales because they symbolize     |
-|                                         |
-| nature and will kill you. * "A Tale of  |
-| Two Cities" -- French people are crazy. |
-|                                         |
-\ -- Dave Barry                           /
+\ bad fiction contest.                    /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
