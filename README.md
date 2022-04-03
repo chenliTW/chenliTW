@@ -1,10 +1,12 @@
 Last Update Time: 
-Sun Apr  3 07:53:23 UTC 2022
+Sun Apr  3 08:17:42 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________
-< You will be run over by a bus. >
- --------------------------------
+ _______________________________________
+/ You'll wish that you had done some of \
+| the hard things when they were easier |
+\ to do.                                /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
