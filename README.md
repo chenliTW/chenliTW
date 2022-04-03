@@ -1,11 +1,12 @@
 Last Update Time: 
-Sun Apr  3 11:33:52 UTC 2022
+Sun Apr  3 11:46:03 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Look afar and see the end from the \
-\ beginning.                         /
- ------------------------------------
+ _______________________________________
+/ Q: How many IBM 370's does it take to \
+| execute a job? A: Four, three to hold |
+\ it down, and one to rip its head off. /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
