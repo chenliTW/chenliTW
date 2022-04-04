@@ -1,12 +1,12 @@
 Last Update Time: 
-Mon Apr  4 09:40:39 UTC 2022
+Mon Apr  4 09:52:46 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How many lawyers does it take to    \
-| change a light bulb? A: One. Only it's |
-\ his light bulb when he's done.         /
- ----------------------------------------
+ ________________________
+/ I'll burn my books.    \
+|                        |
+\ -- Christopher Marlowe /
+ ------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
