@@ -1,14 +1,12 @@
 Last Update Time: 
-Tue Apr  5 19:56:29 UTC 2022
+Tue Apr  5 20:23:59 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How does a hacker fix a function     \
-| which                                   |
-|                                         |
-| doesn't work for all of the elements in |
-\ its domain? A: He changes the domain.   /
- -----------------------------------------
+ ______________________________________
+/ Q: How many marketing people does it \
+| take to change a light bulb? A: I'll |
+\ have to get back to you on that.     /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
