@@ -1,13 +1,13 @@
 Last Update Time: 
-Tue Apr  5 03:45:00 UTC 2022
+Tue Apr  5 03:57:06 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ You may my glories and my state        \
-| dispose, But not my griefs; still am I |
-| king of those.                         |
+/ Q: Why do the police always travel in  \
+| threes? A: One to do the reading, one  |
+| to do the writing, and the other keeps |
 |                                        |
-\ -- William Shakespeare, "Richard II"   /
+\ an eye on the two intellectuals.       /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
