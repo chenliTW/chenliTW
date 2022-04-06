@@ -1,11 +1,11 @@
 Last Update Time: 
-Wed Apr  6 19:16:08 UTC 2022
+Wed Apr  6 19:28:01 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Look afar and see the end from the \
-\ beginning.                         /
- ------------------------------------
+ _________________________________________
+/ You will be imprisoned for contributing \
+\ your time and skill to a bank robbery.  /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
