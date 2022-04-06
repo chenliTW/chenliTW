@@ -1,14 +1,11 @@
 Last Update Time: 
-Wed Apr  6 22:39:18 UTC 2022
+Wed Apr  6 22:51:25 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ They have been at a great feast of \
-| languages, and stolen the scraps.  |
-|                                    |
-| -- William Shakespeare, "Love's    |
-\ Labour's Lost"                     /
- ------------------------------------
+ _________________________________
+/ Q: What is the sound of one cat \
+\ napping? A: Mu.                 /
+ ---------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
