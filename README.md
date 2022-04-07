@@ -1,12 +1,10 @@
 Last Update Time: 
-Thu Apr  7 15:38:25 UTC 2022
+Thu Apr  7 15:50:54 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Be free and open and breezy! Enjoy!     \
-| Things won't get any better so get used |
-\ to it.                                  /
- -----------------------------------------
+ ________________________________
+< Long life is in store for you. >
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
