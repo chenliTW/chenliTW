@@ -1,13 +1,11 @@
 Last Update Time: 
-Thu Apr  7 18:47:49 UTC 2022
+Thu Apr  7 18:59:33 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Extreme fear can neither fight nor fly. \
-|                                         |
-| -- William Shakespeare, "The Rape of    |
-\ Lucrece"                                /
- -----------------------------------------
+ _____________________________________
+/ Change your thoughts and you change \
+\ your world.                         /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
