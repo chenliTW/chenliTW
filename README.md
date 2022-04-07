@@ -1,14 +1,10 @@
 Last Update Time: 
-Thu Apr  7 21:53:05 UTC 2022
+Thu Apr  7 22:14:37 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What's the difference between a dead \
-| dog in the road and a dead              |
-|                                         |
-| lawyer in the road? A: There are skid   |
-\ marks in front of the dog.              /
- -----------------------------------------
+ __________________________
+< Advancement in position. >
+ --------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
