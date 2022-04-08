@@ -1,21 +1,16 @@
 Last Update Time: 
-Fri Apr  8 20:55:57 UTC 2022
+Fri Apr  8 21:19:01 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/  "You have heard me speak of Professor  \
-| Moriarty?"                              |
+/ Whenever the literary German dives into \
+| a sentence, that is the last you are    |
+| going to see of him until he emerges on |
+| the other side of his Atlantic with his |
+| verb in his mouth.                      |
 |                                         |
-| "The famous scientific criminal, as     |
-| famous among crooks as --"              |
-|                                         |
-| "My blushes, Watson," Holmes murmured,  |
-| in a deprecating voice.                 |
-|                                         |
-| "I was about to say 'as he is unknown   |
-| to the public.'"                        |
-|                                         |
-\ -- A. Conan Doyle, "The Valley of Fear" /
+| -- Mark Twain "A Connecticut Yankee in  |
+\ King Arthur's Court"                    /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
