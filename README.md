@@ -1,16 +1,15 @@
 Last Update Time: 
-Fri Apr  8 21:19:01 UTC 2022
+Fri Apr  8 21:33:10 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Whenever the literary German dives into \
-| a sentence, that is the last you are    |
-| going to see of him until he emerges on |
-| the other side of his Atlantic with his |
-| verb in his mouth.                      |
+/ "I understand this is your first dead   \
+| client," Sabian was saying. The         |
+| absurdity of the statement made me want |
+| to laugh but they don't call me Deadpan |
+| Allie and lie.                          |
 |                                         |
-| -- Mark Twain "A Connecticut Yankee in  |
-\ King Arthur's Court"                    /
+\ -- Pat Cadigan, "Mindplayers"           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
