@@ -1,12 +1,10 @@
 Last Update Time: 
-Sat Apr  9 15:36:56 UTC 2022
+Sat Apr  9 15:49:49 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/  A man was reading The Canterbury Tales \
-| one Saturday morning, when his wife     |
-| asked "What have you got there?"        |
-\ Replied he, "Just my cup and Chaucer."  /
+/ An exotic journey in downtown Newark is \
+\ in your future.                         /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
