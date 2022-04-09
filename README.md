@@ -1,12 +1,11 @@
 Last Update Time: 
-Sat Apr  9 13:00:52 UTC 2022
+Sat Apr  9 13:29:00 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: How can you tell when a Burroughs \
-| salesman is lying? A: When his lips  |
-\ move.                                /
- --------------------------------------
+ _________________________________________
+/ Your object is to save the world, while \
+\ still leading a pleasant life.          /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
