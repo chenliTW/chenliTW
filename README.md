@@ -1,11 +1,11 @@
 Last Update Time: 
-Sat Apr  9 22:57:32 UTC 2022
+Sat Apr  9 23:22:55 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You will be held hostage by a radical \
-\ group.                                /
- ---------------------------------------
+ _____________________________________
+/ Q: What is the difference between a \
+\ duck? A: One leg is both the same.  /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
