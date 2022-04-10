@@ -1,12 +1,10 @@
 Last Update Time: 
-Sun Apr 10 05:39:45 UTC 2022
+Sun Apr 10 05:52:06 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Give thought to your reputation.       \
-| Consider changing name and moving to a |
-\ new town.                              /
- ----------------------------------------
+ _____________________________________
+< You will be divorced within a year. >
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
