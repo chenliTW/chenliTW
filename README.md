@@ -1,12 +1,11 @@
 Last Update Time: 
-Sun Apr 10 19:31:55 UTC 2022
+Sun Apr 10 19:43:48 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Clothes make the man. Naked people have \
-| little or no influence on society.      |
-|                                         |
-\ -- Mark Twain                           /
+/ Q: What's the difference between a Mac  \
+| and an Etch-a-Sketch? A: You don't have |
+\ to shake the Mac to clear the screen.   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
