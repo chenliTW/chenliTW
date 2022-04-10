@@ -1,12 +1,12 @@
 Last Update Time: 
-Sun Apr 10 09:43:24 UTC 2022
+Sun Apr 10 09:55:10 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What's the difference between a duck \
-| and an elephant? A: You can't get down  |
-\ off an elephant.                        /
- -----------------------------------------
+ ______________________________________
+/ Your motives for doing whatever good \
+| deed you may have in mind will be    |
+\ misinterpreted by somebody.          /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
