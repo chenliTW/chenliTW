@@ -1,12 +1,10 @@
 Last Update Time: 
-Sun Apr 10 22:40:28 UTC 2022
+Sun Apr 10 22:52:31 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Small things make base men proud.  \
-|                                    |
-\ -- William Shakespeare, "Henry VI" /
- ------------------------------------
+ __________________________________
+< You will pass away very quickly. >
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
