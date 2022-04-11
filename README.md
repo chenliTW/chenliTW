@@ -1,13 +1,12 @@
 Last Update Time: 
-Mon Apr 11 14:16:24 UTC 2022
+Mon Apr 11 14:31:49 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Wrinkles should merely indicate where \
-| smiles have been.                     |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ _____________________________________
+/ You learn to write as if to someone \
+| else because NEXT YEAR YOU WILL BE  |
+\ "SOMEONE ELSE."                     /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
