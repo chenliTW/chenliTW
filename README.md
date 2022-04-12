@@ -1,11 +1,11 @@
 Last Update Time: 
-Tue Apr 12 10:50:24 UTC 2022
+Tue Apr 12 11:07:38 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- __________________________________
-/ You will win success in whatever \
-\ calling you adopt.               /
- ----------------------------------
+ _______________________________________
+/ You'll be called to a post requiring  \
+\ ability in handling groups of people. /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
