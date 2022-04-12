@@ -1,12 +1,25 @@
 Last Update Time: 
-Tue Apr 12 15:35:56 UTC 2022
+Tue Apr 12 15:55:35 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Having nothing, nothing can he lose. \
-|                                      |
-\ -- William Shakespeare, "Henry VI"   /
- --------------------------------------
+ _________________________________________
+/ Q: How many IBM types does it take to   \
+| change a light bulb? A: Fifteen. One to |
+| do it, and fourteen to write document   |
+| number                                  |
+|                                         |
+| GC7500439-0001, Multitasking            |
+| Incandescent Source System Facility,    |
+|                                         |
+| of which 10% of the pages state only    |
+| "This page intentionally                |
+|                                         |
+| left blank", and 20% of the definitions |
+| are of the form "A:.....                |
+|                                         |
+| consists of sequences of non-blank      |
+\ characters separated by blanks".        /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
