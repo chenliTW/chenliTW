@@ -1,14 +1,11 @@
 Last Update Time: 
-Wed Apr 13 05:44:33 UTC 2022
+Wed Apr 13 05:56:06 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ When you are about to die, a wombat is \
-| better than no company at all.         |
-|                                        |
-| -- Roger Zelazny, "Doorways in the     |
-\ Sand"                                  /
- ----------------------------------------
+ _____________________________________
+/ Q: What is purple and conquered the \
+\ world? A: Alexander the Grape.      /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
