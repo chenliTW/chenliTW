@@ -1,12 +1,16 @@
 Last Update Time: 
-Fri Apr 15 13:58:47 UTC 2022
+Fri Apr 15 14:22:29 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ You have a reputation for being        \
-| thoroughly reliable and trustworthy. A |
-\ pity that it's totally undeserved.     /
- ----------------------------------------
+ ____________________________________
+/ Q: What do you call a blind        \
+| pre-historic animal? A:            |
+| Diyathinkhesaurus.                 |
+|                                    |
+| Q: What do you call a blind        |
+| pre-historic animal with a dog? A: |
+\ Diyathinkhesaurus Rex.             /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
