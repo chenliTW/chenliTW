@@ -1,11 +1,14 @@
 Last Update Time: 
-Fri Apr 15 19:47:17 UTC 2022
+Fri Apr 15 19:58:55 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Living your life is a task so          \
-| difficult, it has never been attempted |
-\ before.                                /
+/ There is always one thing to remember: \
+| writers are always selling somebody    |
+| out.                                   |
+|                                        |
+| -- Joan Didion, "Slouching Towards     |
+\ Bethlehem"                             /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
