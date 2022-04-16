@@ -1,14 +1,19 @@
 Last Update Time: 
-Sat Apr 16 12:26:40 UTC 2022
+Sat Apr 16 13:01:06 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Work consists of whatever a body is   \
-| obliged to do. Play consists of       |
-| whatever a body is not obliged to do. |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ ________________________________________
+/ We know all about the habits of the    \
+| ant, we know all about the habits of   |
+| the bee, but we know nothing at all    |
+| about the habits of the oyster. It     |
+| seems almost certain that we have been |
+| choosing the wrong time for studying   |
+| the oyster.                            |
+|                                        |
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
