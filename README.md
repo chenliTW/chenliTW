@@ -1,12 +1,15 @@
 Last Update Time: 
-Sun Apr 17 23:11:07 UTC 2022
+Sun Apr 17 23:31:42 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: What's the difference between USL  \
-| and the Titanic? A: The Titanic had a |
-\ band.                                 /
- ---------------------------------------
+ ________________________________________
+/ Q: Why do people who live near Niagara \
+| Falls have flat foreheads? A: Because  |
+| every morning they wake up thinking    |
+| "What *is* that noise?                 |
+|                                        |
+\ Oh, right, *of course*!                /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
