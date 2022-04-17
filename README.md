@@ -1,38 +1,21 @@
 Last Update Time: 
-Sun Apr 17 04:32:25 UTC 2022
+Sun Apr 17 04:53:03 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ A Tale of Two Cities LITE(tm)           \
+/ Many enraged psychiatrists are inciting \
+| a weary butcher. The butcher is weary   |
+| and tired because he has cut meat and   |
+| steak and lamb for hours and weeks. He  |
+| does not desire to chant about anything |
+| with raving psychiatrists, but he sings |
+| about his gingivectomist, he dreams     |
+| about a single cosmologist, he thinks   |
+| about his dog. The dog is named         |
+| Herbert.                                |
 |                                         |
-| -- by Charles Dickens                   |
-|                                         |
-| A lawyer who looks like a French        |
-| Nobleman is executed in his place.      |
-|                                         |
-| The Metamorphosis LITE(tm)              |
-|                                         |
-| -- by Franz Kafka                       |
-|                                         |
-| A man turns into a bug and his family   |
-| gets annoyed.                           |
-|                                         |
-| Lord of the Rings LITE(tm)              |
-|                                         |
-| -- by J. R. R. Tolkien                  |
-|                                         |
-| Some guys take a long vacation to throw |
-| a ring into a volcano.                  |
-|                                         |
-| Hamlet LITE(tm)                         |
-|                                         |
-| -- by Wm. Shakespeare                   |
-|                                         |
-| A college student on vacation with      |
-| family problems, a screwy               |
-|                                         |
-| girl-friend and a mother who won't act  |
-\ her age.                                /
+| -- Racter, "The Policeman's Beard is    |
+\ Half-Constructed"                       /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
