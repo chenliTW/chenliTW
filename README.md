@@ -1,11 +1,12 @@
 Last Update Time: 
-Wed Apr 20 13:52:36 UTC 2022
+Wed Apr 20 14:13:10 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Try to have as good a life as you can \
-\ under the circumstances.              /
- ---------------------------------------
+ ________________________________________
+/ You have a reputation for being        \
+| thoroughly reliable and trustworthy. A |
+\ pity that it's totally undeserved.     /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
