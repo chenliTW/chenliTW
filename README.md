@@ -1,17 +1,14 @@
 Last Update Time: 
-Wed Apr 20 09:50:02 UTC 2022
+Wed Apr 20 10:07:41 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: Why don't Scotsmen ever have coffee \
-| the way they like it? A: Well, they    |
-| like it with two lumps of sugar. If    |
-| they drink                             |
+/ It is often the case that the man who  \
+| can't tell a lie thinks he is the best |
+| judge of one.                          |
 |                                        |
-| it at home, they only take one, and if |
-| they drink it while                    |
-|                                        |
-\ visiting, they always take three.      /
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
