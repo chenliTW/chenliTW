@@ -1,11 +1,14 @@
 Last Update Time: 
-Thu Apr 21 09:32:27 UTC 2022
+Thu Apr 21 09:46:28 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: Why did Menachem Begin invade     \
-\ Lebanon? A: To impress Jodie Foster. /
- --------------------------------------
+ _______________________________________
+/ Anyone who has had a bull by the tail \
+| knows five or six more things than    |
+| someone who hasn't.                   |
+|                                       |
+\ -- Mark Twain                         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
