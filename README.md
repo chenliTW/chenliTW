@@ -1,10 +1,17 @@
 Last Update Time: 
-Fri Apr 22 06:53:27 UTC 2022
+Fri Apr 22 07:15:29 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Don't look now, but the man in the moon \
-\ is laughing at you.                     /
+/ The only people for me are the mad ones \
+| -- the ones who are mad to live, mad to |
+| talk, mad to be saved, desirous of      |
+| everything at the same time, the ones   |
+| who never yawn or say a commonplace     |
+| thing, but burn, burn, burn like        |
+| fabulous yellow Roman candles.          |
+|                                         |
+\ -- Jack Kerouac, "On the Road"          /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
