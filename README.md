@@ -1,14 +1,11 @@
 Last Update Time: 
-Sat Apr 23 23:31:55 UTC 2022
+Sat Apr 23 23:45:19 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ They have been at a great feast of \
-| languages, and stolen the scraps.  |
-|                                    |
-| -- William Shakespeare, "Love's    |
-\ Labour's Lost"                     /
- ------------------------------------
+ ________________________________________
+/ Q: Why did the WASP cross the road? A: \
+\ To get to the middle.                  /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
