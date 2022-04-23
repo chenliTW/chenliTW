@@ -1,17 +1,14 @@
 Last Update Time: 
-Sat Apr 23 17:52:57 UTC 2022
+Sat Apr 23 18:17:27 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ I got a hint of things to come when I   \
-| overheard my boss lamenting, 'The books |
-| are done and we still don't have an     |
-| author! I must sign someone today!      |
+/ Q: Know what the difference between     \
+| your latest project                     |
 |                                         |
-| -- Tamim Ansary, "Edutopia Magazine,    |
-| Issue 2, November 2004"                 |
-|                                         |
-\ on the topic of school textbooks        /
+| and putting wings on an elephant is? A: |
+| Who knows? The elephant *might* fly,    |
+\ heh, heh...                             /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
