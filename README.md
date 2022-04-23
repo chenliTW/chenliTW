@@ -1,10 +1,14 @@
 Last Update Time: 
-Sat Apr 23 14:36:06 UTC 2022
+Sat Apr 23 14:48:04 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- __________________________
-< Bridge ahead. Pay troll. >
- --------------------------
+ _________________________________________
+/ Q: How does a hacker fix a function     \
+| which                                   |
+|                                         |
+| doesn't work for all of the elements in |
+\ its domain? A: He changes the domain.   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
