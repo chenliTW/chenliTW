@@ -1,10 +1,10 @@
 Last Update Time: 
-Sun Apr 24 19:39:15 UTC 2022
+Sun Apr 24 19:50:53 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-< You will be surrounded by luxury. >
- -----------------------------------
+ ________________________________________
+< You will be misunderstood by everyone. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
