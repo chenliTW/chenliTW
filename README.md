@@ -1,20 +1,13 @@
 Last Update Time: 
-Mon Apr 25 19:40:21 UTC 2022
+Mon Apr 25 19:52:15 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How does the Polish Constitution    \
-| differ from the American? A: Under the |
-| Polish Constitution citizens are       |
-| guaranteed freedom of                  |
-|                                        |
-| speech, but under the United States    |
-| constitution they are                  |
-|                                        |
-| guaranteed freedom after speech.       |
-|                                        |
-\ -- being told in Poland, 1987          /
- ----------------------------------------
+ _________________________________________
+/  A man was reading The Canterbury Tales \
+| one Saturday morning, when his wife     |
+| asked "What have you got there?"        |
+\ Replied he, "Just my cup and Chaucer."  /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
