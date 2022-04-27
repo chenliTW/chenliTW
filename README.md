@@ -1,17 +1,10 @@
 Last Update Time: 
-Wed Apr 27 11:49:43 UTC 2022
+Wed Apr 27 12:11:13 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ It is right that he too should have his \
-| little chronicle, his memories, his     |
-| reason, and be able to recognize the    |
-| good in the bad, the bad in the worst,  |
-| and so grow gently old all down the     |
-| unchanging days and die one day like    |
-| any other day, only shorter.            |
-|                                         |
-\ -- Samuel Beckett, "Malone Dies"        /
+/ You would if you could but you can't so \
+\ you won't.                              /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
