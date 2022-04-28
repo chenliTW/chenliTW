@@ -1,12 +1,10 @@
 Last Update Time: 
-Thu Apr 28 13:58:24 UTC 2022
+Thu Apr 28 14:19:35 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ The better part of valor is discretion. \
-|                                         |
-\ -- William Shakespeare, "Henry IV"      /
- -----------------------------------------
+ ________________________________________
+< Stay away from hurricanes for a while. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
