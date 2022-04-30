@@ -1,13 +1,21 @@
 Last Update Time: 
-Sat Apr 30 16:33:56 UTC 2022
+Sat Apr 30 16:58:53 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How do you catch a unique rabbit? A: \
-| Unique up on it!                        |
+/ Many enraged psychiatrists are inciting \
+| a weary butcher. The butcher is weary   |
+| and tired because he has cut meat and   |
+| steak and lamb for hours and weeks. He  |
+| does not desire to chant about anything |
+| with raving psychiatrists, but he sings |
+| about his gingivectomist, he dreams     |
+| about a single cosmologist, he thinks   |
+| about his dog. The dog is named         |
+| Herbert.                                |
 |                                         |
-| Q: How do you catch a tame rabbit? A:   |
-\ The tame way!                           /
+| -- Racter, "The Policeman's Beard is    |
+\ Half-Constructed"                       /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
