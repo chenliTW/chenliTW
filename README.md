@@ -1,17 +1,12 @@
 Last Update Time: 
-Sat Apr 30 22:04:46 UTC 2022
+Sat Apr 30 22:28:31 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _______________________________________
-/ The bay-trees in our country are all  \
-| wither'd And meteors fright the fixed |
-| stars of heaven; The pale-faced moon  |
-| looks bloody on the earth And         |
-| lean-look'd prophets whisper fearful  |
-| change. These signs forerun the death |
-| or fall of kings.                     |
+/ Q: What do monsters eat? A: Things.   \
 |                                       |
-\ -- Wm. Shakespeare, "Richard II"      /
+| Q: What do monsters drink? A: Coke.   |
+\ (Because Things go better with Coke.) /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
