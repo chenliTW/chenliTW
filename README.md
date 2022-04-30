@@ -1,14 +1,12 @@
 Last Update Time: 
-Sat Apr 30 23:35:27 UTC 2022
+Sat Apr 30 23:47:15 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ He that is giddy thinks the world turns \
-| round.                                  |
-|                                         |
-| -- William Shakespeare, "The Taming of  |
-\ the Shrew"                              /
- -----------------------------------------
+ _______________________________________
+/ You should emulate your heros, but    \
+| don't carry it too far. Especially if |
+\ they are dead.                        /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
