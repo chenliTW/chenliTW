@@ -1,15 +1,14 @@
 Last Update Time: 
-Sun May  1 09:59:10 UTC 2022
+Sun May  1 10:28:06 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many bureaucrats does it take to \
-| screw in a light bulb? A: Two. One to   |
-| assure everyone that everything         |
-| possible is being                       |
+/ Q: How many psychiatrists does it take  \
+| to change a light bulb? A: Only one,    |
+| but it takes a long time, and the light |
+| bulb has                                |
 |                                         |
-| done while the other screws the bulb    |
-\ into the water faucet.                  /
+\ to really want to change.               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
