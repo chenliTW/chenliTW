@@ -1,12 +1,12 @@
 Last Update Time: 
-Mon May  2 04:02:23 UTC 2022
+Mon May  2 05:01:37 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: Why did the programmer call his    \
-| mother long distance? A: Because that |
-\ was her name.                         /
- ---------------------------------------
+ ________________________________________
+/ Q: Why did the lone ranger kill Tonto? \
+| A: He found out what "kimosabe" really |
+\ means.                                 /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
