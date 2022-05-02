@@ -1,11 +1,17 @@
 Last Update Time: 
-Mon May  2 10:51:47 UTC 2022
+Mon May  2 11:11:00 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You have an unusual equipment for    \
-\ success. Be sure to use it properly. /
- --------------------------------------
+ _________________________________________
+/ Swerve me? The path to my fixed purpose \
+| is laid with iron rails, whereon my     |
+| soul is grooved to run. Over unsounded  |
+| gorges, through the rifled hearts of    |
+| mountains, under torrents' beds,        |
+| unerringly I rush!                      |
+|                                         |
+\ -- Captain Ahab, "Moby Dick"            /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
