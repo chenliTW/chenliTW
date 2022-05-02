@@ -1,16 +1,13 @@
 Last Update Time: 
-Mon May  2 06:18:47 UTC 2022
+Mon May  2 06:44:17 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ In India, "cold weather" is merely a    \
-| conventional phrase and has come into   |
-| use through the necessity of having     |
-| some way to distinguish between weather |
-| which will melt a brass door-knob and   |
-| weather which will only make it mushy.  |
+/ Q: How does a hacker fix a function     \
+| which                                   |
 |                                         |
-\ -- Mark Twain                           /
+| doesn't work for all of the elements in |
+\ its domain? A: He changes the domain.   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
