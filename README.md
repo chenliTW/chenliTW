@@ -1,12 +1,11 @@
 Last Update Time: 
-Mon May  2 07:39:38 UTC 2022
+Mon May  2 07:51:12 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Your temporary financial embarrassment \
-| will be relieved in a surprising       |
-\ manner.                                /
- ----------------------------------------
+ _________________________________
+/ You are taking yourself far too \
+\ seriously.                      /
+ ---------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
