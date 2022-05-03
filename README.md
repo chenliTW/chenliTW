@@ -1,11 +1,11 @@
 Last Update Time: 
-Tue May  3 07:33:33 UTC 2022
+Tue May  3 07:45:10 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Do what comes naturally. Seethe and \
-\ fume and throw a tantrum.           /
- -------------------------------------
+ ______________________________________
+/ You will receive a legacy which will \
+\ place you above want.                /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
