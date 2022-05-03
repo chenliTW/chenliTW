@@ -1,11 +1,13 @@
 Last Update Time: 
-Tue May  3 09:56:29 UTC 2022
+Tue May  3 10:30:07 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What's yellow, and equivalent to the \
-\ Axiom of Choice? A: Zorn's Lemon.       /
- -----------------------------------------
+ ________________________________________
+/ Q: How many supply-siders does it take \
+| to change a light bulb? A: None. The   |
+| darkness will cause the light bulb to  |
+\ change by itself.                      /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
