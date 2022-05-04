@@ -1,12 +1,11 @@
 Last Update Time: 
-Wed May  4 21:56:08 UTC 2022
+Wed May  4 22:23:49 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You had some happiness once, but your \
-| parents moved away, and you had to    |
-\ leave it behind.                      /
- ---------------------------------------
+ ________________________________________
+/ You will become rich and famous unless \
+\ you don't.                             /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
