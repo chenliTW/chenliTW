@@ -1,13 +1,13 @@
 Last Update Time: 
-Fri May  6 17:33:33 UTC 2022
+Fri May  6 17:49:24 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Kiss me, Kate, we will be married o'   \
-| Sunday.                                |
+/ Q: Why is Christmas just like a day at \
+| the office? A: You do all of the work  |
+| and the fat guy in the suit            |
 |                                        |
-| -- William Shakespeare, "The Taming of |
-\ the Shrew"                             /
+\ gets all the credit.                   /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
