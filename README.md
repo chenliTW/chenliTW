@@ -1,15 +1,12 @@
 Last Update Time: 
-Fri May  6 21:51:06 UTC 2022
+Fri May  6 22:10:18 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ He draweth out the thread of his       \
-| verbosity finer than the staple of his |
-| argument.                              |
-|                                        |
-| -- William Shakespeare, "Love's        |
-\ Labour's Lost"                         /
- ----------------------------------------
+ ______________________________________
+/ Good night to spend with family, but \
+| avoid arguments with your mate's new |
+\ lover.                               /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
