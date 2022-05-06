@@ -1,13 +1,10 @@
 Last Update Time: 
-Fri May  6 10:45:36 UTC 2022
+Fri May  6 10:57:37 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Wrinkles should merely indicate where \
-| smiles have been.                     |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ ______________________________________
+< You will have long and healthy life. >
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
