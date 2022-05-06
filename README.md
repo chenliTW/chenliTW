@@ -1,11 +1,14 @@
 Last Update Time: 
-Fri May  6 09:46:28 UTC 2022
+Fri May  6 09:58:22 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Do nothing unless you must, and when \
-\ you must act -- hesitate.            /
- --------------------------------------
+ ________________________________________
+/ Q: Why should you always serve a       \
+| Southern Carolina football man         |
+|                                        |
+| soup in a plate? A: 'Cause if you give |
+\ him a bowl, he'll throw it away.       /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
