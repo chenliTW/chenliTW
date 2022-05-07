@@ -1,13 +1,10 @@
 Last Update Time: 
-Sat May  7 09:53:15 UTC 2022
+Sat May  7 10:17:20 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ "You have been in Afghanistan, I       \
-| perceive."                             |
-|                                        |
-| -- Sir Arthur Conan Doyle, "A Study in |
-\ Scarlet"                               /
+/ You will be awarded a medal for        \
+\ disregarding safety in saving someone. /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
