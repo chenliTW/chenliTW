@@ -1,11 +1,10 @@
 Last Update Time: 
-Sat May  7 21:54:22 UTC 2022
+Sat May  7 22:17:53 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ You will be awarded a medal for        \
-\ disregarding safety in saving someone. /
- ----------------------------------------
+ ___________________________
+< You are as I am with You. >
+ ---------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
