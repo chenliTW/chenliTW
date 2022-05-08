@@ -1,19 +1,36 @@
 Last Update Time: 
-Sun May  8 18:24:01 UTC 2022
+Sun May  8 18:44:48 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The countdown had stalled at 'T' minus  \
-| 69 seconds when Desiree, the first      |
-| female ape to go up in space, winked at |
-| me slyly and pouted her thick, rubbery  |
-| lips unmistakably -- the first of many  |
-| such advances during what would prove   |
-| to be the longest, and most memorable,  |
-| space voyage of my career.              |
+/ You see, I consider that a man's brain  \
+| originally is like a little empty       |
+| attic, and you have to stock it with    |
+| such furniture as you choose. A fool    |
+| takes in all the lumber of every sort   |
+| he comes across, so that the knowledge  |
+| which might be useful to him gets       |
+| crowded out, or at best is jumbled up   |
+| with a lot of other things, so that he  |
+| has difficulty in laying his hands upon |
+| it. Now the skilful workman is very     |
+| careful indeed as to what he takes into |
+| his brain-attic. He will have nothing   |
+| but the tools which may help him in     |
+| doing his work, but of these he has a   |
+| large assortment, and all in the most   |
+| perfect order. It is a mistake to think |
+| that that little room has elastic walls |
+| and can distend to any extent. Depend   |
+| upon it there comes a time when for     |
+| every addition of knowledge you forget  |
+| something that you knew before. It is   |
+| of the highest importance, therefore,   |
+| not to have useless facts elbowing out  |
+| the useful ones.                        |
 |                                         |
-| -- Winning sentence, 1985 Bulwer-Lytton |
-\ bad fiction contest.                    /
+| -- Sir Arthur Conan Doyle, "A Study in  |
+\ Scarlet"                                /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
