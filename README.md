@@ -1,17 +1,14 @@
 Last Update Time: 
-Sun May  8 08:47:41 UTC 2022
+Sun May  8 08:59:33 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ In India, "cold weather" is merely a    \
-| conventional phrase and has come into   |
-| use through the necessity of having     |
-| some way to distinguish between weather |
-| which will melt a brass door-knob and   |
-| weather which will only make it mushy.  |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ _______________________________________
+/ "Life, loathe it or ignore it, you    \
+| can't like it."                       |
+|                                       |
+| -- Marvin, "Hitchhiker's Guide to the |
+\ Galaxy"                               /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
