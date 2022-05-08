@@ -1,11 +1,10 @@
 Last Update Time: 
-Sun May  8 10:18:59 UTC 2022
+Sun May  8 10:39:19 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Write yourself a threatening letter and \
-\ pen a defiant reply.                    /
- -----------------------------------------
+ _________________________
+< You now have Asian Flu. >
+ -------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
