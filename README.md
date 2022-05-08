@@ -1,10 +1,14 @@
 Last Update Time: 
-Sun May  8 16:34:28 UTC 2022
+Sun May  8 16:59:18 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Keep emotionally active. Cater to your \
-\ favorite neurosis.                     /
+/ A classic is something that everyone   \
+| wants to have read and nobody wants to |
+| read.                                  |
+|                                        |
+| -- Mark Twain, "The Disappearance of   |
+\ Literature"                            /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
