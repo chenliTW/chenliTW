@@ -1,14 +1,10 @@
 Last Update Time: 
-Sun May  8 23:21:35 UTC 2022
+Sun May  8 23:37:47 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ My only love sprung from my only hate! \
-| Too early seen unknown, and known too  |
-| late!                                  |
-|                                        |
-| -- William Shakespeare, "Romeo and     |
-\ Juliet"                                /
+/ Q: Why was Stonehenge abandoned? A: It \
+\ wasn't IBM compatible.                 /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
