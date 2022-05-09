@@ -1,14 +1,11 @@
 Last Update Time: 
-Mon May  9 15:48:06 UTC 2022
+Mon May  9 15:59:55 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Zounds! I was never so bethumped with   \
-| words since I first called my brother's |
-| father dad.                             |
-|                                         |
-\ -- William Shakespeare, "Kind John"     /
- -----------------------------------------
+ ______________________________________
+/ You are only young once, but you can \
+\ stay immature indefinitely.          /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
