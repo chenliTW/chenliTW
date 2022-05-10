@@ -1,13 +1,11 @@
 Last Update Time: 
-Tue May 10 20:23:59 UTC 2022
+Tue May 10 20:40:49 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _______________________________________
-/ "Life, loathe it or ignore it, you    \
-| can't like it."                       |
-|                                       |
-| -- Marvin, "Hitchhiker's Guide to the |
-\ Galaxy"                               /
+/ Q: How many IBM 370's does it take to \
+| execute a job? A: Four, three to hold |
+\ it down, and one to rip its head off. /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
