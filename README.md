@@ -1,11 +1,12 @@
 Last Update Time: 
-Tue May 10 16:56:14 UTC 2022
+Tue May 10 17:30:26 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Accent on helpful side of your nature. \
-\ Drain the moat.                        /
- ----------------------------------------
+ _________________________________________
+/ You are scrupulously honest, frank, and \
+| straightforward. Therefore you have few |
+\ friends.                                /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
