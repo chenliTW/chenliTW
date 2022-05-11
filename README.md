@@ -1,13 +1,10 @@
 Last Update Time: 
-Tue May 10 23:50:10 UTC 2022
+Wed May 11 00:43:40 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Alas, how love can trifle with itself! \
-|                                        |
-| -- William Shakespeare, "The Two       |
-\ Gentlemen of Verona"                   /
- ----------------------------------------
+ _________________________________________
+< If you can read this, you're too close. >
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
