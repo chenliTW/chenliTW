@@ -1,12 +1,11 @@
 Last Update Time: 
-Thu May 12 08:27:14 UTC 2022
+Thu May 12 08:49:17 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ I fell asleep reading a dull book, and \
-| I dreamt that I was reading on, so I   |
-\ woke up from sheer boredom.            /
- ----------------------------------------
+ _________________________________________
+/ You attempt things that you do not even \
+\ plan because of your extreme stupidity. /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
