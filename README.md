@@ -1,11 +1,11 @@
 Last Update Time: 
-Thu May 12 09:05:34 UTC 2022
+Thu May 12 09:30:07 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Your boss climbed the corporate ladder, \
-\ wrong by wrong.                         /
- -----------------------------------------
+ ________________________________
+/ Your business will assume vast \
+\ proportions.                   /
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
