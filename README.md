@@ -1,14 +1,12 @@
 Last Update Time: 
-Fri May 13 19:51:09 UTC 2022
+Fri May 13 20:13:01 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ You may my glories and my state        \
-| dispose, But not my griefs; still am I |
-| king of those.                         |
-|                                        |
-\ -- William Shakespeare, "Richard II"   /
- ----------------------------------------
+ _________________
+/ A is for Apple. \
+|                 |
+\ -- Hester Pryne /
+ -----------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
