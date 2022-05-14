@@ -1,10 +1,11 @@
 Last Update Time: 
-Sat May 14 07:49:45 UTC 2022
+Sat May 14 08:09:28 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-< Your aim is high and to the right. >
- ------------------------------------
+ ________________________________________
+/ Everything that you know is wrong, but \
+\ you can be straightened out.           /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
