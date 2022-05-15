@@ -1,11 +1,12 @@
 Last Update Time: 
-Sun May 15 14:03:45 UTC 2022
+Sun May 15 14:25:12 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- __________________________________
-/ Break into jail and claim police \
-\ brutality.                       /
- ----------------------------------
+ _____________________________________
+/ You learn to write as if to someone \
+| else because NEXT YEAR YOU WILL BE  |
+\ "SOMEONE ELSE."                     /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
