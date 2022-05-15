@@ -1,12 +1,12 @@
 Last Update Time: 
-Sun May 15 08:18:50 UTC 2022
+Sun May 15 08:40:38 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You can create your own opportunities \
-| this week. Blackmail a senior         |
-\ executive.                            /
- ---------------------------------------
+ ______________________________________
+/ Q: What does it say on the bottom of \
+| Coke cans in North Dakota? A: Open   |
+\ other end.                           /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
