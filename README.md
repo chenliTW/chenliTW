@@ -1,16 +1,14 @@
 Last Update Time: 
-Sun May 15 22:47:49 UTC 2022
+Sun May 15 22:59:44 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ All I know is what the words know, and  \
-| dead things, and that makes a handsome  |
-| little sum, with a beginning and a      |
-| middle and an end, as in the well-built |
-| phrase and the long sonata of the dead. |
-|                                         |
-\ -- Samuel Beckett                       /
- -----------------------------------------
+ _______________________________________
+/ I must have a prodigious quantity of  \
+| mind; it takes me as much as a week   |
+| sometimes to make it up.              |
+|                                       |
+\ -- Mark Twain, "The Innocents Abroad" /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
