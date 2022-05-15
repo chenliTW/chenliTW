@@ -1,15 +1,11 @@
 Last Update Time: 
-Sun May 15 02:19:00 UTC 2022
+Sun May 15 03:27:51 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ A hundred years from now it is very     \
-| likely that [of Twain's works] "The     |
-| Jumping Frog" alone will be remembered. |
-|                                         |
-| -- Harry Thurston Peck (Editor of "The  |
-\ Bookman"), January 1901.                /
- -----------------------------------------
+ ___________________________________
+/ You have literary talent that you \
+\ should take pains to develop.     /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
