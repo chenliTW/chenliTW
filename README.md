@@ -1,15 +1,12 @@
 Last Update Time: 
-Sun May 15 10:48:25 UTC 2022
+Sun May 15 11:00:17 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ "I understand this is your first dead   \
-| client," Sabian was saying. The         |
-| absurdity of the statement made me want |
-| to laugh but they don't call me Deadpan |
-| Allie and lie.                          |
+/ Clothes make the man. Naked people have \
+| little or no influence on society.      |
 |                                         |
-\ -- Pat Cadigan, "Mindplayers"           /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
