@@ -1,11 +1,11 @@
 Last Update Time: 
-Mon May 16 07:43:34 UTC 2022
+Mon May 16 07:55:32 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ You will inherit some money or a small \
-\ piece of land.                         /
- ----------------------------------------
+ _________________________________________
+/ If you stand on your head, you will get \
+\ footprints in your hair.                /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
