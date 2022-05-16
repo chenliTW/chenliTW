@@ -1,11 +1,11 @@
 Last Update Time: 
-Mon May 16 10:30:17 UTC 2022
+Mon May 16 10:48:25 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You shall be rewarded for a dastardly \
-\ deed.                                 /
- ---------------------------------------
+ _____________________________________
+/ Your goose is cooked. (Your current \
+\ chick is burned up too!)            /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
