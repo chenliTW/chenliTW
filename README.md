@@ -1,12 +1,18 @@
 Last Update Time: 
-Mon May 16 22:45:57 UTC 2022
+Mon May 16 22:57:37 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Many pages make a thick book, except \
-| for pocket Bibles which are on very  |
-\ very thin paper.                     /
- --------------------------------------
+ _________________________________________
+/ Persons attempting to find a motive in  \
+| this narrative will be prosecuted;      |
+| persons attempting to find a moral in   |
+| it will be banished; persons attempting |
+| to find a plot in it will be shot. By   |
+| Order of the Author                     |
+|                                         |
+| -- Mark Twain, "The Adventures of       |
+\ Huckleberry Finn"                       /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
