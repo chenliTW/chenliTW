@@ -1,14 +1,10 @@
 Last Update Time: 
-Mon May 16 19:34:30 UTC 2022
+Mon May 16 19:45:42 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ The fashion wears out more apparel than \
-| the man.                                |
-|                                         |
-| -- William Shakespeare, "Much Ado About |
-\ Nothing"                                /
- -----------------------------------------
+ _______________________________________
+< Your domestic life may be harmonious. >
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
