@@ -1,15 +1,10 @@
 Last Update Time: 
-Mon May 16 16:08:07 UTC 2022
+Mon May 16 16:50:58 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ F.S. Fitzgerald to Hemingway:        \
-|                                      |
-| "Ernest, the rich are different from |
-| us." Hemingway:                      |
-|                                      |
-\ "Yes. They have more money."         /
- --------------------------------------
+ _________________________________________
+< A day for firm decisions!!!!! Or is it? >
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
