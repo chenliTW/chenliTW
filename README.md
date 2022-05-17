@@ -1,13 +1,11 @@
 Last Update Time: 
-Tue May 17 22:26:34 UTC 2022
+Tue May 17 22:44:09 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ No violence, gentlemen -- no violence, \
-| I beg of you! Consider the furniture!  |
-|                                        |
-\ -- Sherlock Holmes                     /
- ----------------------------------------
+ ___________________________________
+/ Don't look back, the lemmings are \
+\ gaining on you.                   /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
