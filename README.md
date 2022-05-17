@@ -1,23 +1,12 @@
 Last Update Time: 
-Tue May 17 11:53:38 UTC 2022
+Tue May 17 12:34:10 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Mind! I don't mean to say that I know,  \
-| of my own knowledge, what there is      |
-| particularly dead about a door-nail. I  |
-| might have been inclined, myself, to    |
-| regard a coffin-nail as the deadest     |
-| piece of ironmongery in the trade. But  |
-| the wisdom of our ancestors is in the   |
-| simile; and my unhallowed hands shall   |
-| not disturb it, or the Country's done   |
-| for. You will therefore permit me to    |
-| repeat, emphatically, that Marley was   |
-| as dead as a door-nail.                 |
-|                                         |
-\ -- Charles Dickens, "A Christmas Carol" /
- -----------------------------------------
+ _____________________________________
+/ Q: Why did the astrophysicist order \
+| three hamburgers? A: Because he was |
+\ hungry.                             /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
