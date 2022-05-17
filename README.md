@@ -1,20 +1,26 @@
 Last Update Time: 
-Tue May 17 19:34:53 UTC 2022
+Tue May 17 19:45:58 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: Why is Poland just like the United \
-| States? A: In the United States you   |
-| can't buy anything for zlotys and in  |
-|                                       |
-| Poland you can't either, while in the |
-| U.S. you can get whatever             |
-|                                       |
-| you want for dollars, just as you can |
-| in Poland.                            |
-|                                       |
-\ -- being told in Poland, 1987         /
- ---------------------------------------
+ _________________________________________
+/ Q: How many Californians does it take   \
+| to screw in a light bulb? A: Five. One  |
+| to screw in the light bulb and four to  |
+| share the                               |
+|                                         |
+| experience. (Actually, Californians     |
+| don't screw in                          |
+|                                         |
+| light bulbs, they screw in hot tubs.)   |
+|                                         |
+| Q: How many Oregonians does it take to  |
+| screw in a light bulb? A: Three. One to |
+| screw in the light bulb and two to fend |
+| off all                                 |
+|                                         |
+| those Californians trying to share the  |
+\ experience.                             /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
