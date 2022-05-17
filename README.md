@@ -1,14 +1,11 @@
 Last Update Time: 
-Tue May 17 09:50:58 UTC 2022
+Tue May 17 10:11:21 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ "You have been in Afghanistan, I       \
-| perceive."                             |
-|                                        |
-| -- Sir Arthur Conan Doyle, "A Study in |
-\ Scarlet"                               /
- ----------------------------------------
+ _____________________________________
+/ Your lover will never wish to leave \
+\ you.                                /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
