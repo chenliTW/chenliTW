@@ -1,15 +1,10 @@
 Last Update Time: 
-Wed May 18 14:57:19 UTC 2022
+Wed May 18 15:27:11 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ My only love sprung from my only hate! \
-| Too early seen unknown, and known too  |
-| late!                                  |
-|                                        |
-| -- William Shakespeare, "Romeo and     |
-\ Juliet"                                /
- ----------------------------------------
+ ____________________
+< Beware of Bigfoot! >
+ --------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
