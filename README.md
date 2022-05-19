@@ -1,13 +1,11 @@
 Last Update Time: 
-Thu May 19 09:38:26 UTC 2022
+Thu May 19 09:50:55 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________
-/ All generalizations are false, \
-| including this one.            |
-|                                |
-\ -- Mark Twain                  /
- --------------------------------
+ ____________________________________
+/ You will pioneer the first Martian \
+\ colony.                            /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
