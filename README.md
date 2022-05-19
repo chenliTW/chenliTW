@@ -1,13 +1,11 @@
 Last Update Time: 
-Thu May 19 12:39:56 UTC 2022
+Thu May 19 13:26:48 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ I have never let my schooling interfere \
-| with my education.                      |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ____________________________________
+/ Don't worry so loud, your roommate \
+\ can't think.                       /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
