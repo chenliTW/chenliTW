@@ -1,14 +1,16 @@
 Last Update Time: 
-Fri May 20 21:46:49 UTC 2022
+Fri May 20 21:58:52 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: Why is it that the more accuracy you \
-| demand from an interpolation            |
+/ The holy passion of Friendship is of so \
+| sweet and steady and loyal and enduring |
+| a nature that it will last through a    |
+| whole lifetime, if not asked to lend    |
+| money.                                  |
 |                                         |
-| function, the more expensive it becomes |
-| to compute? A: That's the Law of Spline |
-\ Demand.                                 /
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
