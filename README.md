@@ -1,10 +1,10 @@
 Last Update Time: 
-Fri May 20 19:54:56 UTC 2022
+Fri May 20 20:22:47 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-< You will triumph over your enemy. >
- -----------------------------------
+ _____________________________
+< Do not overtax your powers. >
+ -----------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
