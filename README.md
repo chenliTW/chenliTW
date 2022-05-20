@@ -1,13 +1,13 @@
 Last Update Time: 
-Fri May 20 05:53:10 UTC 2022
+Fri May 20 06:20:11 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________
-/ All generalizations are false, \
-| including this one.            |
-|                                |
-\ -- Mark Twain                  /
- --------------------------------
+ ________________________________________
+/ Q: How many college football players   \
+| does it take to screw in a light bulb? |
+| A: Only one, but he gets three credits |
+\ for it.                                /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
