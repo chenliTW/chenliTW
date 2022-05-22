@@ -1,11 +1,12 @@
 Last Update Time: 
-Sun May 22 09:53:03 UTC 2022
+Sun May 22 10:17:10 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Conscience doth make cowards of us all. \
+/ Clothes make the man. Naked people have \
+| little or no influence on society.      |
 |                                         |
-\ -- Shakespeare                          /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
