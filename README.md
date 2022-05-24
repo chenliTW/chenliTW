@@ -1,13 +1,11 @@
 Last Update Time: 
-Tue May 24 19:20:43 UTC 2022
+Tue May 24 19:33:39 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ He that breaks a thing to find out what \
-| it is has left the path of wisdom.      |
-|                                         |
-\ -- J.R.R. Tolkien                       /
- -----------------------------------------
+ _____________________________________
+/ You have the power to influence all \
+\ with whom you come in contact.      /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
