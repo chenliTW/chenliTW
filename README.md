@@ -1,22 +1,12 @@
 Last Update Time: 
-Tue May 24 18:43:34 UTC 2022
+Tue May 24 18:58:14 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/  "You have heard me speak of Professor  \
-| Moriarty?"                              |
-|                                         |
-| "The famous scientific criminal, as     |
-| famous among crooks as --"              |
-|                                         |
-| "My blushes, Watson," Holmes murmured,  |
-| in a deprecating voice.                 |
-|                                         |
-| "I was about to say 'as he is unknown   |
-| to the public.'"                        |
-|                                         |
-\ -- A. Conan Doyle, "The Valley of Fear" /
- -----------------------------------------
+ ________________________________________
+/ For a light heart lives long.          \
+|                                        |
+\ -- Shakespeare, "Love's Labour's Lost" /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
