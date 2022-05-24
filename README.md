@@ -1,12 +1,13 @@
 Last Update Time: 
-Tue May 24 18:58:14 UTC 2022
+Tue May 24 19:20:43 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ For a light heart lives long.          \
-|                                        |
-\ -- Shakespeare, "Love's Labour's Lost" /
- ----------------------------------------
+ _________________________________________
+/ He that breaks a thing to find out what \
+| it is has left the path of wisdom.      |
+|                                         |
+\ -- J.R.R. Tolkien                       /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
