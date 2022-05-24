@@ -1,11 +1,13 @@
 Last Update Time: 
-Tue May 24 09:59:09 UTC 2022
+Tue May 24 10:29:15 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You are so boring that when I see you \
-\ my feet go to sleep.                  /
- ---------------------------------------
+ _______________________________
+/ The surest protection against \
+| temptation is cowardice.      |
+|                               |
+\ -- Mark Twain                 /
+ -------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
