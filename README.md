@@ -1,15 +1,14 @@
 Last Update Time: 
-Wed May 25 15:49:21 UTC 2022
+Wed May 25 16:12:13 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ There is an old time toast which is     \
-| golden for its beauty. "When you ascend |
-| the hill of prosperity may you not meet |
-| a friend."                              |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ _____________________________________
+/ The naked truth of it is, I have no \
+| shirt.                              |
+|                                     |
+| -- William Shakespeare, "Love's     |
+\ Labour's Lost"                      /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
