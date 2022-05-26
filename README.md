@@ -1,10 +1,11 @@
 Last Update Time: 
-Thu May 26 14:18:09 UTC 2022
+Thu May 26 14:34:52 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________
-< You will get what you deserve. >
- --------------------------------
+ ___________________________________
+/ You will gain money by an illegal \
+\ action.                           /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
