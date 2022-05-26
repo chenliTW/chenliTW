@@ -1,11 +1,10 @@
 Last Update Time: 
-Thu May 26 13:54:33 UTC 2022
+Thu May 26 14:18:09 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ You have literary talent that you \
-\ should take pains to develop.     /
- -----------------------------------
+ ________________________________
+< You will get what you deserve. >
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
