@@ -1,18 +1,14 @@
 Last Update Time: 
-Thu May 26 06:58:34 UTC 2022
+Thu May 26 07:24:37 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why don't Scotsmen ever have coffee \
-| the way they like it? A: Well, they    |
-| like it with two lumps of sugar. If    |
-| they drink                             |
-|                                        |
-| it at home, they only take one, and if |
-| they drink it while                    |
-|                                        |
-\ visiting, they always take three.      /
- ----------------------------------------
+ ____________________________________
+/ Q: What does a WASP Mom make for   \
+| dinner? A: A crisp salad, a hearty |
+| soup, a lovely entree, followed by |
+|                                    |
+\ a delicious dessert.               /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
