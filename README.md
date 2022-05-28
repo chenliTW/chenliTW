@@ -1,10 +1,11 @@
 Last Update Time: 
-Sat May 28 15:58:30 UTC 2022
+Sat May 28 16:37:05 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________
-< Be different: conform. >
- ------------------------
+ ___________________________________
+/ You will gain money by an immoral \
+\ action.                           /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
