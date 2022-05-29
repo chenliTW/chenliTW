@@ -1,13 +1,12 @@
 Last Update Time: 
-Sun May 29 19:25:20 UTC 2022
+Sun May 29 19:37:45 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ It usually takes more than three weeks \
-| to prepare a good impromptu speech.    |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ __________________________________
+/ Be cheerful while you are alive. \
+|                                  |
+\ -- Phathotep, 24th Century B.C.  /
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
