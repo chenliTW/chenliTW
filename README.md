@@ -1,34 +1,36 @@
 Last Update Time: 
-Sun May 29 07:23:15 UTC 2022
+Sun May 29 07:37:59 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The Least Successful Collector          \
+/ You see, I consider that a man's brain  \
+| originally is like a little empty       |
+| attic, and you have to stock it with    |
+| such furniture as you choose. A fool    |
+| takes in all the lumber of every sort   |
+| he comes across, so that the knowledge  |
+| which might be useful to him gets       |
+| crowded out, or at best is jumbled up   |
+| with a lot of other things, so that he  |
+| has difficulty in laying his hands upon |
+| it. Now the skilful workman is very     |
+| careful indeed as to what he takes into |
+| his brain-attic. He will have nothing   |
+| but the tools which may help him in     |
+| doing his work, but of these he has a   |
+| large assortment, and all in the most   |
+| perfect order. It is a mistake to think |
+| that that little room has elastic walls |
+| and can distend to any extent. Depend   |
+| upon it there comes a time when for     |
+| every addition of knowledge you forget  |
+| something that you knew before. It is   |
+| of the highest importance, therefore,   |
+| not to have useless facts elbowing out  |
+| the useful ones.                        |
 |                                         |
-| Betsy Baker played a central role in    |
-| the history of collecting. She was      |
-| employed as a servant in the house of   |
-| John Warburton (1682-1759) who had      |
-| amassed a fine collection of 58 first   |
-| edition plays, including most of the    |
-| works of Shakespeare.                   |
-|                                         |
-| One day Warburton returned home to find |
-| 55 of them charred beyond legibility.   |
-| Betsy had either burned them or used    |
-| them as pie bottoms. The remaining      |
-| three folios are now in the British     |
-| Museum.                                 |
-|                                         |
-| The only comparable literary figure was |
-| the maid who in 1835 burned the         |
-| manuscript of the first volume of       |
-| Thomas Carlyle's "The Hisory of the     |
-| French Revolution", thinking it was     |
-| wastepaper.                             |
-|                                         |
-| -- Stephen Pile, "The Book of Heroic    |
-\ Failures"                               /
+| -- Sir Arthur Conan Doyle, "A Study in  |
+\ Scarlet"                                /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
