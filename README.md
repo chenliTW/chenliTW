@@ -1,13 +1,18 @@
 Last Update Time: 
-Sun May 29 20:46:52 UTC 2022
+Sun May 29 20:58:41 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ A long-forgotten loved one will appear \
-| soon.                                  |
-|                                        |
-\ Buy the negatives at any price.        /
- ----------------------------------------
+ _________________________________________
+/ Q: What did Tarzan say when he saw the  \
+| elephants coming over the hill? A: "The |
+| elephants are coming over the hill."    |
+|                                         |
+| Q: What did he say when saw them coming |
+| over the hill wearing                   |
+|                                         |
+| sunglasses? A: Nothing, for he didn't   |
+\ recognize them.                         /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
