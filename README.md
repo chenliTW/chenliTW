@@ -1,16 +1,11 @@
 Last Update Time: 
-Mon May 30 10:37:58 UTC 2022
+Mon May 30 10:52:30 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How many bureaucrats does it take to \
-| screw in a light bulb? A: Two. One to   |
-| assure everyone that everything         |
-| possible is being                       |
-|                                         |
-| done while the other screws the bulb    |
-\ into the water faucet.                  /
- -----------------------------------------
+ ________________________________________
+/ You will obey or molten silver will be \
+\ poured into your ears.                 /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
