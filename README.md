@@ -1,12 +1,11 @@
 Last Update Time: 
-Tue May 31 09:04:01 UTC 2022
+Tue May 31 09:29:18 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What do little WASPs want to be when \
-| they grow up? A: The very best person   |
-\ they can possibly be.                   /
- -----------------------------------------
+ ______________________________________
+/ Do nothing unless you must, and when \
+\ you must act -- hesitate.            /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
