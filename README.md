@@ -1,11 +1,12 @@
 Last Update Time: 
-Tue May 31 14:21:05 UTC 2022
+Tue May 31 14:38:55 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ You will be the victim of a bizarre \
-\ joke.                               /
- -------------------------------------
+ _________________________________________
+/ Q: What's the difference between an     \
+| Irish wedding and an Irish wake? A: One |
+\ less drunk.                             /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
