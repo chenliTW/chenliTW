@@ -1,12 +1,10 @@
 Last Update Time: 
-Wed Jun  1 07:00:39 UTC 2022
+Wed Jun  1 07:28:37 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What do you say to a New Yorker with \
-| a job? A: Big Mac, fries and a Coke,    |
-\ please!                                 /
- -----------------------------------------
+ ________________________
+< Don't get to bragging. >
+ ------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
