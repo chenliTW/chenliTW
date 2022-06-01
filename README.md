@@ -1,11 +1,12 @@
 Last Update Time: 
-Wed Jun  1 14:55:15 UTC 2022
+Wed Jun  1 15:25:09 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Don't tell any big lies today. Small \
-\ ones can be just as effective.       /
- --------------------------------------
+ _________________________________________
+/ Q: What do little WASPs want to be when \
+| they grow up? A: The very best person   |
+\ they can possibly be.                   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
