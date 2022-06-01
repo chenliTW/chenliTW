@@ -1,12 +1,12 @@
 Last Update Time: 
-Wed Jun  1 22:58:42 UTC 2022
+Wed Jun  1 23:26:55 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ He hath eaten me out of house and home. \
-|                                         |
-\ -- William Shakespeare, "Henry IV"      /
- -----------------------------------------
+ _______________________________________
+/ Q: Why did the programmer call his    \
+| mother long distance? A: Because that |
+\ was her name.                         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
