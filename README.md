@@ -1,11 +1,10 @@
 Last Update Time: 
-Wed Jun  1 17:20:21 UTC 2022
+Wed Jun  1 17:46:52 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Your object is to save the world, while \
-\ still leading a pleasant life.          /
- -----------------------------------------
+ _________________________
+< You now have Asian Flu. >
+ -------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
