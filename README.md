@@ -1,13 +1,14 @@
 Last Update Time: 
-Fri Jun  3 15:38:18 UTC 2022
+Fri Jun  3 15:51:03 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How many college football players   \
-| does it take to screw in a light bulb? |
-| A: Only one, but he gets three credits |
-\ for it.                                /
- ----------------------------------------
+ _________________________________________
+/ They spell it "da Vinci" and pronounce  \
+| it "da Vinchy". Foreigners always spell |
+| better than they pronounce.             |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
