@@ -1,53 +1,19 @@
 Last Update Time: 
-Fri Jun  3 22:57:00 UTC 2022
+Fri Jun  3 23:22:31 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The Least Perceptive Literary Critic    \
+/ The camel died quite suddenly on the    \
+| second day, and Selena fretted sullenly |
+| and, buffing her already impeccable     |
+| nails -- not for the first time since   |
+| the journey begain -- pondered snidely  |
+| if this would dissolve into a vignette  |
+| of minor inconveniences like all the    |
+| other holidays spent with Basil.        |
 |                                         |
-| The most important critic in our field  |
-| of study is Lord Halifax. A most        |
-| individual judge of poetry, he once     |
-| invited Alexander Pope round to give a  |
-| public reading of his latest poem.      |
-|                                         |
-| Pope, the leading poet of his day, was  |
-| greatly surprised when Lord Halifax     |
-| stopped him four or five times and      |
-| said, "I beg your pardon, Mr. Pope, but |
-| there is something in that passage that |
-| does not quite please me."              |
-|                                         |
-| Pope was rendered speechless, as this   |
-| fine critic suggested sizeable and      |
-| unwise emendations to his latest        |
-| masterpiece. "Be so good as to mark the |
-| place and consider at your leisure. I'm |
-| sure you can give it a better turn."    |
-|                                         |
-| After the reading, a good friend of     |
-| Lord Halifax, a certain Dr. Garth, took |
-| the stunned Pope to one side. "There is |
-| no need to touch the lines," he said.   |
-| "All you need do is leave them just as  |
-| they are, call on Lord Halifax two or   |
-| three months hence, thank him for his   |
-| kind observation on those passages, and |
-| then read them to him as altered. I     |
-| have known him much longer than you     |
-| have, and will be answerable for the    |
-| event."                                 |
-|                                         |
-| Pope took his advice, called on Lord    |
-| Halifax and read the poem exactly as it |
-| was before. His unique critical         |
-| faculties had lost none of their edge.  |
-| "Ay", he commented, "now they are       |
-| perfectly right. Nothing can be         |
-| better."                                |
-|                                         |
-| -- Stephen Pile, "The Book of Heroic    |
-\ Failures"                               /
+| -- Winning sentence, 1983 Bulwer-Lytton |
+\ bad fiction contest.                    /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
