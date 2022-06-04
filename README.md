@@ -1,11 +1,10 @@
 Last Update Time: 
-Sat Jun  4 11:41:24 UTC 2022
+Sat Jun  4 11:53:16 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You're working under a slight handicap. \
-\ You happen to be human.                 /
- -----------------------------------------
+ _________________
+< You look tired. >
+ -----------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
