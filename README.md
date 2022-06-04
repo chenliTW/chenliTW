@@ -1,11 +1,14 @@
 Last Update Time: 
-Sat Jun  4 15:45:10 UTC 2022
+Sat Jun  4 15:56:35 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Write yourself a threatening letter and \
-\ pen a defiant reply.                    /
- -----------------------------------------
+ ________________________________________
+/ Always the dullness of the fool is the \
+| whetstone of the wits.                 |
+|                                        |
+| -- William Shakespeare, "As You Like   |
+\ It"                                    /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
