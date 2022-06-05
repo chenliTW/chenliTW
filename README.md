@@ -1,11 +1,11 @@
 Last Update Time: 
-Sun Jun  5 18:18:59 UTC 2022
+Sun Jun  5 18:38:37 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You get along very well with everyone \
-\ except animals and people.            /
- ---------------------------------------
+ _________________________________________
+/ If your life was a horse, you'd have to \
+\ shoot it.                               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
