@@ -1,14 +1,12 @@
 Last Update Time: 
-Sun Jun  5 06:37:42 UTC 2022
+Sun Jun  5 06:51:26 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Q: What does a WASP Mom make for   \
-| dinner? A: A crisp salad, a hearty |
-| soup, a lovely entree, followed by |
-|                                    |
-\ a delicious dessert.               /
- ------------------------------------
+ _______________________________________
+/ Troubled day for virgins over 16 who  \
+| are beautiful and wealthy and live in |
+\ eucalyptus trees.                     /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
