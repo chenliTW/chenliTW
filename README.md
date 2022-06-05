@@ -1,14 +1,11 @@
 Last Update Time: 
-Sun Jun  5 05:07:29 UTC 2022
+Sun Jun  5 05:27:12 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ What good is an obscenity trial except \
-| to popularize literature?              |
-|                                        |
-| -- Nero Wolfe, "The League of          |
-\ Frightened Men"                        /
- ----------------------------------------
+ _______________________________________
+/ Don't plan any hasty moves. You'll be \
+\ evicted soon anyway.                  /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
