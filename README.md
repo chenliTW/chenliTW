@@ -1,14 +1,11 @@
 Last Update Time: 
-Sun Jun  5 22:53:36 UTC 2022
+Sun Jun  5 23:15:17 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Tell the truth or trump--but get the \
-| trick.                               |
-|                                      |
-| -- Mark Twain, "Pudd'nhead Wilson's  |
-\ Calendar"                            /
- --------------------------------------
+ _________________________________________
+/ Don't look now, but the man in the moon \
+\ is laughing at you.                     /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
