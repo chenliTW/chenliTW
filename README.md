@@ -1,11 +1,10 @@
 Last Update Time: 
-Mon Jun  6 20:41:18 UTC 2022
+Mon Jun  6 20:53:13 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: What's the difference between an     \
-| Irish wedding and an Irish wake? A: One |
-\ less drunk.                             /
+/ Q: What do you call a blind, deaf-mute, \
+\ quadraplegic Virginian? A: Trustworthy. /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
