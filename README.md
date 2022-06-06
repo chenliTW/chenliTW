@@ -1,15 +1,13 @@
 Last Update Time: 
-Mon Jun  6 23:24:59 UTC 2022
+Mon Jun  6 23:40:02 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Writing is easy; all you do is sit  \
-| staring at the blank sheet of paper |
-| until drops of blood form on your   |
-| forehead.                           |
-|                                     |
-\ -- Gene Fowler                      /
- -------------------------------------
+ ________________________________________
+/ Q: How many college football players   \
+| does it take to screw in a light bulb? |
+| A: Only one, but he gets three credits |
+\ for it.                                /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
