@@ -1,11 +1,11 @@
 Last Update Time: 
-Mon Jun  6 09:31:47 UTC 2022
+Mon Jun  6 09:44:11 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You'd like to do it instantaneously, \
-\ but that's too slow.                 /
- --------------------------------------
+ ___________________________________
+/ Don't look back, the lemmings are \
+\ gaining on you.                   /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
