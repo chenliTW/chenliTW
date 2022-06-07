@@ -1,18 +1,11 @@
 Last Update Time: 
-Tue Jun  7 22:51:06 UTC 2022
+Tue Jun  7 23:09:48 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ The only people for me are the mad ones \
-| -- the ones who are mad to live, mad to |
-| talk, mad to be saved, desirous of      |
-| everything at the same time, the ones   |
-| who never yawn or say a commonplace     |
-| thing, but burn, burn, burn like        |
-| fabulous yellow Roman candles.          |
-|                                         |
-\ -- Jack Kerouac, "On the Road"          /
- -----------------------------------------
+ _________________________________
+/ You are taking yourself far too \
+\ seriously.                      /
+ ---------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
