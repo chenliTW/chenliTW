@@ -1,16 +1,11 @@
 Last Update Time: 
-Wed Jun  8 14:29:27 UTC 2022
+Wed Jun  8 14:41:48 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Gratitude and treachery are merely the  \
-| two extremities of the same procession. |
-| You have seen all of it that is worth   |
-| staying for when the band and the gaudy |
-| officials have gone by.                 |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
+/ Be free and open and breezy! Enjoy!     \
+| Things won't get any better so get used |
+\ to it.                                  /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
