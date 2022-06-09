@@ -1,13 +1,20 @@
 Last Update Time: 
-Thu Jun  9 05:37:48 UTC 2022
+Thu Jun  9 05:49:35 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Must I hold a candle to my shames?    \
-|                                       |
-| -- William Shakespeare, "The Merchant |
-\ of Venice"                            /
- ---------------------------------------
+ _________________________________________
+/ The notes blatted skyward as they rose  \
+| over the Canada geese, feathered rumps  |
+| mooning the day, webbed appendages      |
+| frantically pedaling unseen bicycles in |
+| their search for sustenance, driven by  |
+| cruel Nature's maxim, 'Ya wanna eat, ya |
+| gotta work,' and at last I knew         |
+| Pittsburgh.                             |
+|                                         |
+| -- Winning sentence, 1987 Bulwer-Lytton |
+\ bad fiction contest.                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
