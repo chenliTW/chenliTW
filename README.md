@@ -1,11 +1,15 @@
 Last Update Time: 
-Sat Jun 11 21:14:17 UTC 2022
+Sat Jun 11 21:29:38 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Your goose is cooked. (Your current \
-\ chick is burned up too!)            /
- -------------------------------------
+ ________________________________________
+/ My only love sprung from my only hate! \
+| Too early seen unknown, and known too  |
+| late!                                  |
+|                                        |
+| -- William Shakespeare, "Romeo and     |
+\ Juliet"                                /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
