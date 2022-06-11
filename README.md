@@ -1,15 +1,11 @@
 Last Update Time: 
-Sat Jun 11 15:35:28 UTC 2022
+Sat Jun 11 15:47:31 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ F.S. Fitzgerald to Hemingway:        \
-|                                      |
-| "Ernest, the rich are different from |
-| us." Hemingway:                      |
-|                                      |
-\ "Yes. They have more money."         /
- --------------------------------------
+ _______________________________________
+/ You are fighting for survival in your \
+\ own sweet and gentle way.             /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
