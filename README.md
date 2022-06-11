@@ -1,11 +1,10 @@
 Last Update Time: 
-Fri Jun 10 23:49:50 UTC 2022
+Sat Jun 11 00:39:30 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________
-/ Your business will assume vast \
-\ proportions.                   /
- --------------------------------
+ ___________________________
+< Condense soup, not books! >
+ ---------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
