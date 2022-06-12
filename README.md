@@ -1,15 +1,14 @@
 Last Update Time: 
-Sun Jun 12 10:47:22 UTC 2022
+Sun Jun 12 10:59:03 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/  You will remember, Watson, how the     \
-| dreadful business of the Abernetty      |
-| family was first brought to my notice   |
-| by the depth which the parsley had sunk |
-| into the butter upon a hot day.         |
+/ Habit is habit, and not to be flung out \
+| of the window by any man, but coaxed    |
+| down-stairs a step at a time.           |
 |                                         |
-\ -- Sherlock Holmes                      /
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar                                /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
