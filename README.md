@@ -1,10 +1,14 @@
 Last Update Time: 
-Sun Jun 12 18:43:01 UTC 2022
+Sun Jun 12 18:54:43 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________
-< Blow it out your ear. >
- -----------------------
+ ________________________________________
+/ He jests at scars who never felt a     \
+| wound.                                 |
+|                                        |
+| -- Shakespeare, "Romeo and Juliet, II. |
+\ 2"                                     /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
