@@ -1,13 +1,16 @@
 Last Update Time: 
-Mon Jun 13 21:50:38 UTC 2022
+Mon Jun 13 22:09:15 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ It is so very hard to be an             \
-| on-your-own-take-care-of-yourself-becau |
-| se-there-is-no-one-else-to-do-it-for-yo |
-\ u grown-up.                             /
- -----------------------------------------
+ ________________________________________
+/ All say, "How hard it is that we have  \
+| to die"--a strange complaint to come   |
+| from the mouths of people who have had |
+| to live.                               |
+|                                        |
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
