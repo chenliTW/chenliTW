@@ -1,11 +1,10 @@
 Last Update Time: 
-Mon Jun 13 19:39:17 UTC 2022
+Mon Jun 13 19:51:10 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________
-/ Q: What is the sound of one cat \
-\ napping? A: Mu.                 /
- ---------------------------------
+ ______________________________________
+< You are fairminded, just and loving. >
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
