@@ -1,14 +1,12 @@
 Last Update Time: 
-Mon Jun 13 11:59:52 UTC 2022
+Mon Jun 13 12:51:10 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ There is always one thing to remember: \
-| writers are always selling somebody    |
-| out.                                   |
+/ Q: What looks like a cat, flies like a \
+| bat, brays like a donkey, and          |
 |                                        |
-| -- Joan Didion, "Slouching Towards     |
-\ Bethlehem"                             /
+\ plays like a monkey? A: Nothing.       /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
