@@ -1,11 +1,12 @@
 Last Update Time: 
-Wed Jun 15 14:44:26 UTC 2022
+Wed Jun 15 14:56:11 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Q: Do you know what the death rate \
-\ around here is? A: One per person. /
- ------------------------------------
+ ________________________________________
+/ If you learn one useless thing every   \
+| day, in a single year you'll learn 365 |
+\ useless things.                        /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
