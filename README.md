@@ -1,12 +1,11 @@
 Last Update Time: 
-Wed Jun 15 14:56:11 UTC 2022
+Wed Jun 15 15:25:25 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ If you learn one useless thing every   \
-| day, in a single year you'll learn 365 |
-\ useless things.                        /
- ----------------------------------------
+ _______________________________________
+/ You have an ability to sense and know \
+\ higher truth.                         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
