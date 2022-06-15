@@ -1,11 +1,10 @@
 Last Update Time: 
-Wed Jun 15 18:23:20 UTC 2022
+Wed Jun 15 18:41:30 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ You'll feel devilish tonight. Toss      \
-| dynamite caps under a flamenco dancer's |
-\ heel.                                   /
+/ If your life was a horse, you'd have to \
+\ shoot it.                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
