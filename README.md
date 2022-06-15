@@ -1,15 +1,17 @@
 Last Update Time: 
-Wed Jun 15 07:52:03 UTC 2022
+Wed Jun 15 08:18:20 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/  You will remember, Watson, how the     \
-| dreadful business of the Abernetty      |
-| family was first brought to my notice   |
-| by the depth which the parsley had sunk |
-| into the butter upon a hot day.         |
+/ Q: What did Tarzan say when he saw the  \
+| elephants coming over the hill? A: "The |
+| elephants are coming over the hill."    |
 |                                         |
-\ -- Sherlock Holmes                      /
+| Q: What did he say when saw them coming |
+| over the hill wearing                   |
+|                                         |
+| sunglasses? A: Nothing, for he didn't   |
+\ recognize them.                         /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
