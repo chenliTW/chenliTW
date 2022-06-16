@@ -1,17 +1,24 @@
 Last Update Time: 
-Thu Jun 16 22:37:30 UTC 2022
+Thu Jun 16 22:49:16 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The only people for me are the mad ones \
-| -- the ones who are mad to live, mad to |
-| talk, mad to be saved, desirous of      |
-| everything at the same time, the ones   |
-| who never yawn or say a commonplace     |
-| thing, but burn, burn, burn like        |
-| fabulous yellow Roman candles.          |
+/ Delores breezed along the surface of    \
+| her life like a flat stone forever      |
+| skipping along smooth water, rippling   |
+| reality sporadically but oblivious to   |
+| it consistently, until she finally lost |
+| momentum, sank, and due to an overdose  |
+| of flouride as a child which caused her |
+| to suffer from chronic apathy, doomed   |
+| herself to lie forever on the floor of  |
+| her life as useless as an appendix and  |
+| as lonely as a five-hundred pound       |
+| barbell in a steroid-free fitness       |
+| center.                                 |
 |                                         |
-\ -- Jack Kerouac, "On the Road"          /
+| -- Winning sentence, 1990 Bulwer-Lytton |
+\ bad fiction contest.                    /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
