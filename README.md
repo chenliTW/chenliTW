@@ -1,12 +1,11 @@
 Last Update Time: 
-Thu Jun 16 19:58:27 UTC 2022
+Thu Jun 16 20:26:29 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You're definitely on their list. The \
-| question to ask next is what list it |
-\ is.                                  /
- --------------------------------------
+ ___________________________________
+/ You will gain money by an illegal \
+\ action.                           /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
