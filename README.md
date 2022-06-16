@@ -1,24 +1,24 @@
 Last Update Time: 
-Thu Jun 16 11:58:04 UTC 2022
+Thu Jun 16 12:49:50 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The bone-chilling scream split the warm \
-| summer night in two, the first half     |
-| being before the scream when it was     |
-| fairly balmy and calm and pleasant, the |
-| second half still balmy and quite       |
-| pleasant for those who hadn't heard the |
-| scream at all, but not calm or balmy or |
-| even very nice for those who did hear   |
-| the scream, discounting the little      |
-| period of time during the actual scream |
-| itself when your ears might have been   |
-| hearing it but your brain wasn't        |
-| reacting yet to let you know.           |
+/ Q: How many IBM types does it take to   \
+| change a light bulb? A: Fifteen. One to |
+| do it, and fourteen to write document   |
+| number                                  |
 |                                         |
-| -- Winning sentence, 1986 Bulwer-Lytton |
-\ bad fiction contest.                    /
+| GC7500439-0001, Multitasking            |
+| Incandescent Source System Facility,    |
+|                                         |
+| of which 10% of the pages state only    |
+| "This page intentionally                |
+|                                         |
+| left blank", and 20% of the definitions |
+| are of the form "A:.....                |
+|                                         |
+| consists of sequences of non-blank      |
+\ characters separated by blanks".        /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
