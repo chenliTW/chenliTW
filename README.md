@@ -1,11 +1,10 @@
 Last Update Time: 
-Thu Jun 16 20:26:29 UTC 2022
+Thu Jun 16 20:47:45 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ You will gain money by an illegal \
-\ action.                           /
- -----------------------------------
+ ________________________________________
+< You will forget that you ever knew me. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
