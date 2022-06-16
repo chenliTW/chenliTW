@@ -1,15 +1,11 @@
 Last Update Time: 
-Thu Jun 16 05:01:43 UTC 2022
+Thu Jun 16 05:27:16 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ There is always one thing to remember: \
-| writers are always selling somebody    |
-| out.                                   |
-|                                        |
-| -- Joan Didion, "Slouching Towards     |
-\ Bethlehem"                             /
- ----------------------------------------
+ ______________________________________
+/ Q: What's a light-year? A: One-third \
+\ less calories than a regular year.   /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
