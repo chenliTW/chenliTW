@@ -1,11 +1,11 @@
 Last Update Time: 
-Fri Jun 17 22:51:31 UTC 2022
+Fri Jun 17 23:10:50 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ You will be winged by an anti-aircraft \
-\ battery.                               /
- ----------------------------------------
+ _______________________________________
+/ You will be given a post of trust and \
+\ responsibility.                       /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
