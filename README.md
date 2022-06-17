@@ -1,20 +1,12 @@
 Last Update Time: 
-Fri Jun 17 14:38:12 UTC 2022
+Fri Jun 17 14:50:11 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ The notes blatted skyward as they rose  \
-| over the Canada geese, feathered rumps  |
-| mooning the day, webbed appendages      |
-| frantically pedaling unseen bicycles in |
-| their search for sustenance, driven by  |
-| cruel Nature's maxim, 'Ya wanna eat, ya |
-| gotta work,' and at last I knew         |
-| Pittsburgh.                             |
-|                                         |
-| -- Winning sentence, 1987 Bulwer-Lytton |
-\ bad fiction contest.                    /
- -----------------------------------------
+ ________________________________________
+/ Q: Why do firemen wear red suspenders? \
+| A: To conform with departmental        |
+\ regulations concerning uniform dress.  /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
