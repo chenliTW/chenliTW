@@ -1,20 +1,14 @@
 Last Update Time: 
-Sat Jun 18 17:50:06 UTC 2022
+Sat Jun 18 18:09:41 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: How many DEC repairman does it take \
-| to fix a flat? A: Five; four to hold   |
-| the car up and one to swap tires.      |
+/ It is often the case that the man who  \
+| can't tell a lie thinks he is the best |
+| judge of one.                          |
 |                                        |
-| Q: How long does it take? A: It's      |
-| indeterminate.                         |
-|                                        |
-| It will depend upon how many flats     |
-| they've brought with them.             |
-|                                        |
-| Q: What happens if you've got TWO      |
-\ flats? A: They replace your generator. /
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
