@@ -1,18 +1,12 @@
 Last Update Time: 
-Sat Jun 18 14:51:29 UTC 2022
+Sat Jun 18 14:58:19 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ When I was younger, I could remember   \
-| anything, whether it had happened or   |
-| not; but my faculties are decaying now |
-| and soon I shall be so I cannot        |
-| remember any but the things that never |
-| happened. It is sad to go to pieces    |
-| like this but we all have to do it.    |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _________________________________________
+/ Be free and open and breezy! Enjoy!     \
+| Things won't get any better so get used |
+\ to it.                                  /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
