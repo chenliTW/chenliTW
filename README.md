@@ -1,15 +1,12 @@
 Last Update Time: 
-Sun Jun 19 07:42:42 UTC 2022
+Sun Jun 19 07:54:26 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ F.S. Fitzgerald to Hemingway:        \
-|                                      |
-| "Ernest, the rich are different from |
-| us." Hemingway:                      |
-|                                      |
-\ "Yes. They have more money."         /
- --------------------------------------
+ ____________________________________
+/ You're currently going through a   \
+| difficult transition period called |
+\ "Life."                            /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
