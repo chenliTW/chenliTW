@@ -1,11 +1,10 @@
 Last Update Time: 
-Sun Jun 19 09:31:01 UTC 2022
+Sun Jun 19 09:45:06 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You will be aided greatly by a person \
-\ whom you thought to be unimportant.   /
- ---------------------------------------
+ __________________________
+< Advancement in position. >
+ --------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
