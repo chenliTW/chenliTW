@@ -1,11 +1,17 @@
 Last Update Time: 
-Sun Jun 19 14:28:33 UTC 2022
+Sun Jun 19 14:40:44 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ You've been leading a dog's life. Stay \
-\ off the furniture.                     /
- ----------------------------------------
+ _________________________________________
+/ Whoever has lived long enough to find   \
+| out what life is, knows how deep a debt |
+| of gratitude we owe to Adam, the first  |
+| great benefactor of our race. He        |
+| brought death into the world.           |
+|                                         |
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
