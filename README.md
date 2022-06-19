@@ -1,11 +1,12 @@
 Last Update Time: 
-Sun Jun 19 21:20:58 UTC 2022
+Sun Jun 19 21:35:37 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Think twice before speaking, but don't \
-\ say "think think click click".         /
- ----------------------------------------
+ _________________________________________
+/ You are wise, witty, and wonderful, but \
+| you spend too much time reading this    |
+\ sort of trash.                          /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
