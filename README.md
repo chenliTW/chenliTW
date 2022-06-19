@@ -1,11 +1,11 @@
 Last Update Time: 
-Sun Jun 19 14:12:12 UTC 2022
+Sun Jun 19 14:28:33 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ And do you think (fop that I am) that I \
-\ could be the Scarlet Pumpernickel?      /
- -----------------------------------------
+ ________________________________________
+/ You've been leading a dog's life. Stay \
+\ off the furniture.                     /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
