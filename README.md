@@ -1,14 +1,10 @@
 Last Update Time: 
-Sun Jun 19 08:21:13 UTC 2022
+Sun Jun 19 08:39:38 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How does a hacker fix a function     \
-| which                                   |
-|                                         |
-| doesn't work for all of the elements in |
-\ its domain? A: He changes the domain.   /
- -----------------------------------------
+ ___________________________________
+< You will triumph over your enemy. >
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
