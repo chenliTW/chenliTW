@@ -1,11 +1,12 @@
 Last Update Time: 
-Mon Jun 20 22:51:35 UTC 2022
+Mon Jun 20 23:11:12 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Of course you have a purpose -- to find \
-\ a purpose.                              /
- -----------------------------------------
+ ______________________________________
+/ Q: How did you get into artificial   \
+| intelligence? A: Seemed logical -- I |
+\ didn't have any real intelligence.   /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
