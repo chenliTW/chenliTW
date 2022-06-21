@@ -1,18 +1,12 @@
 Last Update Time: 
-Tue Jun 21 08:42:38 UTC 2022
+Tue Jun 21 08:59:20 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ You mentioned your name as if I should \
-| recognize it, but beyond the obvious   |
-| facts that you are a bachelor, a       |
-| solicitor, a freemason, and an         |
-| asthmatic, I know nothing whatever     |
-| about you.                             |
-|                                        |
-| -- Sherlock Holmes, "The Norwood       |
-\ Builder"                               /
- ----------------------------------------
+ _________________________________________
+/ Q: What do you say to a New Yorker with \
+| a job? A: Big Mac, fries and a Coke,    |
+\ please!                                 /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
