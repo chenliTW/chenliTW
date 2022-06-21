@@ -1,14 +1,10 @@
 Last Update Time: 
-Tue Jun 21 11:57:38 UTC 2022
+Tue Jun 21 12:52:28 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ The lunatic, the lover, and the poet, \
-| Are of imagination all compact...     |
-|                                       |
-| -- Wm. Shakespeare, "A Midsummer      |
-\ Night's Dream"                        /
- ---------------------------------------
+ ___________________________________
+< You will triumph over your enemy. >
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
