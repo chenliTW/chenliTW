@@ -1,12 +1,10 @@
 Last Update Time: 
-Tue Jun 21 22:46:01 UTC 2022
+Tue Jun 21 22:57:50 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ "... all the modern inconveniences ..." \
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ___________________________________
+< You may be recognized soon. Hide. >
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
