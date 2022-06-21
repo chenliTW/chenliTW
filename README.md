@@ -1,12 +1,11 @@
 Last Update Time: 
-Tue Jun 21 05:42:52 UTC 2022
+Tue Jun 21 05:54:48 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: What's the difference between Bell  \
-| Labs and the Boy Scouts of America? A: |
-\ The Boy Scouts have adult supervision. /
- ----------------------------------------
+ ______________________________________
+/ Q: What do you call a boomerang that \
+\ doesn't come back? A: A stick.       /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
