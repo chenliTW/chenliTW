@@ -1,11 +1,12 @@
 Last Update Time: 
-Tue Jun 21 20:21:49 UTC 2022
+Tue Jun 21 20:38:20 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ That secret you've been guarding, \
-\ isn't.                            /
- -----------------------------------
+ ________________________________________
+/ Q: What's the difference between Bell  \
+| Labs and the Boy Scouts of America? A: |
+\ The Boy Scouts have adult supervision. /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
