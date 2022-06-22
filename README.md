@@ -1,11 +1,10 @@
 Last Update Time: 
-Wed Jun 22 04:08:40 UTC 2022
+Wed Jun 22 04:51:39 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Your true value depends entirely on \
-\ what you are compared with.         /
- -------------------------------------
+ ______________________
+< You are always busy. >
+ ----------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
