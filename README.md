@@ -1,12 +1,14 @@
 Last Update Time: 
-Wed Jun 22 10:27:18 UTC 2022
+Wed Jun 22 10:45:25 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ A light wife doth make a heavy husband. \
+/ ROMEO: Courage, man; the hurt cannot be \
+| much. MERCUTIO: No, 'tis not so deep as |
+| a well, nor so wide                     |
 |                                         |
-| -- Wm. Shakespeare, "The Merchant of    |
-\ Venice"                                 /
+| as a church-door; but 'tis enough,      |
+\ 'twill serve.                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
