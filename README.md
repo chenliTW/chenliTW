@@ -1,13 +1,14 @@
 Last Update Time: 
-Wed Jun 22 16:37:25 UTC 2022
+Wed Jun 22 17:04:25 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Alas, how love can trifle with itself! \
-|                                        |
-| -- William Shakespeare, "The Two       |
-\ Gentlemen of Verona"                   /
- ----------------------------------------
+ ____________________________________
+/ The last thing one knows in        \
+| constructing a work is what to put |
+| first.                             |
+|                                    |
+\ -- Blaise Pascal                   /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
