@@ -1,11 +1,15 @@
 Last Update Time: 
-Thu Jun 23 21:25:57 UTC 2022
+Thu Jun 23 21:40:51 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ If you sow your wild oats, hope for a \
-\ crop failure.                         /
- ---------------------------------------
+ ________________________________________
+/ My only love sprung from my only hate! \
+| Too early seen unknown, and known too  |
+| late!                                  |
+|                                        |
+| -- William Shakespeare, "Romeo and     |
+\ Juliet"                                /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
