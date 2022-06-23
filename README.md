@@ -1,11 +1,11 @@
 Last Update Time: 
-Wed Jun 22 23:49:50 UTC 2022
+Thu Jun 23 00:35:26 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Go to a movie tonight. Darkness becomes \
-\ you.                                    /
- -----------------------------------------
+ ______________________________________
+/ Q: Why did Menachem Begin invade     \
+\ Lebanon? A: To impress Jodie Foster. /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
