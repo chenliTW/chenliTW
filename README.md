@@ -1,15 +1,14 @@
 Last Update Time: 
-Fri Jun 24 22:21:21 UTC 2022
+Fri Jun 24 22:37:13 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: Know what the difference between     \
-| your latest project                     |
-|                                         |
-| and putting wings on an elephant is? A: |
-| Who knows? The elephant *might* fly,    |
-\ heh, heh...                             /
- -----------------------------------------
+ ________________________________________
+/ When you are about to die, a wombat is \
+| better than no company at all.         |
+|                                        |
+| -- Roger Zelazny, "Doorways in the     |
+\ Sand"                                  /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
