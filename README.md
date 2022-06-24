@@ -1,12 +1,14 @@
 Last Update Time: 
-Fri Jun 24 10:36:22 UTC 2022
+Fri Jun 24 10:48:54 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You will be attacked by a beast who has \
-| the body of a wolf, the tail of a lion, |
-\ and the face of Donald Duck.            /
- -----------------------------------------
+ ___________________________________
+/ After all, all he did was string  \
+| together a lot of old, well-known |
+| quotations.                       |
+|                                   |
+\ -- H. L. Mencken, on Shakespeare  /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
