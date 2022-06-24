@@ -1,14 +1,13 @@
 Last Update Time: 
-Fri Jun 24 22:37:13 UTC 2022
+Fri Jun 24 22:49:10 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ When you are about to die, a wombat is \
-| better than no company at all.         |
-|                                        |
-| -- Roger Zelazny, "Doorways in the     |
-\ Sand"                                  /
- ----------------------------------------
+ _________________________________________
+/ FORTUNE PROVIDES QUESTIONS FOR THE      \
+| GREAT ANSWERS: #31 A: Chicken Teriyaki. |
+| Q: What is the name of the world's      |
+\ oldest kamikaze pilot?                  /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
