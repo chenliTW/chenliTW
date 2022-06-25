@@ -1,12 +1,12 @@
 Last Update Time: 
-Sat Jun 25 04:38:23 UTC 2022
+Sat Jun 25 04:57:26 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ You're growing out of some of your  \
-| problems, but there are others that |
-\ you're growing into.                /
- -------------------------------------
+ _________________________________________
+/ Q: What do you get when you cross the   \
+| Godfather with an attorney? A: An offer |
+\ you can't understand.                   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
