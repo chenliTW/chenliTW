@@ -1,15 +1,14 @@
 Last Update Time: 
-Sat Jun 25 21:17:06 UTC 2022
+Sat Jun 25 21:31:10 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How many psychiatrists does it take  \
-| to change a light bulb? A: Only one,    |
-| but it takes a long time, and the light |
-| bulb has                                |
-|                                         |
-\ to really want to change.               /
- -----------------------------------------
+ _______________________________________
+/ You never have to change anything you \
+| got up in the middle of the night to  |
+| write.                                |
+|                                       |
+\ -- Saul Bellow                        /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
