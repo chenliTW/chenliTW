@@ -1,11 +1,11 @@
 Last Update Time: 
-Sun Jun 26 23:19:59 UTC 2022
+Sun Jun 26 23:35:13 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You don't become a failure until you're \
-\ satisfied with being one.               /
- -----------------------------------------
+ ___________________________________
+/ Don't look back, the lemmings are \
+\ gaining on you.                   /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
