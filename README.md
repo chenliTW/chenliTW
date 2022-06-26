@@ -1,12 +1,12 @@
 Last Update Time: 
-Sun Jun 26 05:37:24 UTC 2022
+Sun Jun 26 05:49:22 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Every cloud engenders not a storm. \
-|                                    |
-\ -- William Shakespeare, "Henry VI" /
- ------------------------------------
+ ________________________________________
+/ Q: What's the difference between Bell  \
+| Labs and the Boy Scouts of America? A: |
+\ The Boy Scouts have adult supervision. /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
