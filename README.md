@@ -1,11 +1,11 @@
 Last Update Time: 
-Sun Jun 26 07:51:36 UTC 2022
+Sun Jun 26 08:12:21 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ You prefer the company of the opposite \
-\ sex, but are well liked by your own.   /
- ----------------------------------------
+ ______________________________________
+/ You will probably marry after a very \
+\ brief courtship.                     /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
