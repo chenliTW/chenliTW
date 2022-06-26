@@ -1,13 +1,17 @@
 Last Update Time: 
-Sun Jun 26 20:40:17 UTC 2022
+Sun Jun 26 20:52:08 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How do you catch a unique rabbit? A: \
-| Unique up on it!                        |
+/ I got a hint of things to come when I   \
+| overheard my boss lamenting, 'The books |
+| are done and we still don't have an     |
+| author! I must sign someone today!      |
 |                                         |
-| Q: How do you catch a tame rabbit? A:   |
-\ The tame way!                           /
+| -- Tamim Ansary, "Edutopia Magazine,    |
+| Issue 2, November 2004"                 |
+|                                         |
+\ on the topic of school textbooks        /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
