@@ -1,11 +1,13 @@
 Last Update Time: 
-Sun Jun 26 05:49:22 UTC 2022
+Sun Jun 26 06:07:33 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: What's the difference between Bell  \
-| Labs and the Boy Scouts of America? A: |
-\ The Boy Scouts have adult supervision. /
+/ Q: Why is Christmas just like a day at \
+| the office? A: You do all of the work  |
+| and the fat guy in the suit            |
+|                                        |
+\ gets all the credit.                   /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
