@@ -1,12 +1,11 @@
 Last Update Time: 
-Sun Jun 26 17:52:05 UTC 2022
+Sun Jun 26 18:13:57 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Conscience doth make cowards of us all. \
-|                                         |
-\ -- Shakespeare                          /
- -----------------------------------------
+ ______________________________________
+/ You'd like to do it instantaneously, \
+\ but that's too slow.                 /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
