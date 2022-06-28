@@ -1,17 +1,13 @@
 Last Update Time: 
-Tue Jun 28 06:32:53 UTC 2022
+Tue Jun 28 06:53:05 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Behold, the fool saith, "Put not all    \
-| thine eggs in the one basket"--which is |
-| but a manner of saying, "Scatter your   |
-| money and your attention;" but the wise |
-| man saith, "Put all your eggs in the    |
-| one basket and--WATCH THAT BASKET."     |
+/ Q: How does a hacker fix a function     \
+| which                                   |
 |                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
+| doesn't work for all of the elements in |
+\ its domain? A: He changes the domain.   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
