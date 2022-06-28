@@ -1,14 +1,15 @@
 Last Update Time: 
-Tue Jun 28 06:53:05 UTC 2022
+Tue Jun 28 07:13:59 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How does a hacker fix a function     \
-| which                                   |
-|                                         |
-| doesn't work for all of the elements in |
-\ its domain? A: He changes the domain.   /
- -----------------------------------------
+ ________________________________________
+/ It has long been an axiom of mine that \
+| the little things are infinitely the   |
+| most important.                        |
+|                                        |
+| -- Sir Arthur Conan Doyle, "A Case of  |
+\ Identity"                              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
