@@ -1,14 +1,11 @@
 Last Update Time: 
-Wed Jun 29 22:19:36 UTC 2022
+Wed Jun 29 22:36:47 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why is Christmas just like a day at \
-| the office? A: You do all of the work  |
-| and the fat guy in the suit            |
-|                                        |
-\ gets all the credit.                   /
- ----------------------------------------
+ _________________________________________
+/ Q: What is the difference between Texas \
+\ and yogurt? A: Yogurt has culture.      /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
