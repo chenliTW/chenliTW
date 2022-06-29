@@ -1,11 +1,15 @@
 Last Update Time: 
-Wed Jun 29 07:13:04 UTC 2022
+Wed Jun 29 07:32:35 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: What do you get when you cross the   \
-| Godfather with an attorney? A: An offer |
-\ you can't understand.                   /
+/ Q: How many bureaucrats does it take to \
+| screw in a light bulb? A: Two. One to   |
+| assure everyone that everything         |
+| possible is being                       |
+|                                         |
+| done while the other screws the bulb    |
+\ into the water faucet.                  /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
