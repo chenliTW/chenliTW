@@ -1,14 +1,19 @@
 Last Update Time: 
-Thu Jun 30 05:00:30 UTC 2022
+Thu Jun 30 05:30:58 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ He draweth out the thread of his       \
-| verbosity finer than the staple of his |
-| argument.                              |
+/ At once it struck me what quality went \
+| to form a man of achievement,          |
+| especially in literature, and which    |
+| Shakespeare possessed so enormously -- |
+| I mean negative capability, that is,   |
+| when a man is capable of being in      |
+| uncertainties, mysteries, doubts,      |
+| without any irritable reaching after   |
+| fact and reason.                       |
 |                                        |
-| -- William Shakespeare, "Love's        |
-\ Labour's Lost"                         /
+\ -- John Keats                          /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
