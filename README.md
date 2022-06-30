@@ -1,13 +1,12 @@
 Last Update Time: 
-Thu Jun 30 07:55:04 UTC 2022
+Thu Jun 30 08:28:15 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How many Harvard MBA's does it take \
-| to screw in a light bulb? A: Just one. |
-| He grasps it firmly and the universe   |
-\ revolves around him.                   /
- ----------------------------------------
+ _________________________________________
+/ You will lose your present job and have \
+| to become a door to door mayonnaise     |
+\ salesman.                               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
