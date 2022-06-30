@@ -1,13 +1,11 @@
 Last Update Time: 
-Thu Jun 30 09:30:16 UTC 2022
+Thu Jun 30 09:44:51 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ A kind of Batman of contemporary    \
-| letters.                            |
-|                                     |
-\ -- Philip Larkin on Anthony Burgess /
- -------------------------------------
+ __________________________________
+/ You will overcome the attacks of \
+\ jealous associates.              /
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
