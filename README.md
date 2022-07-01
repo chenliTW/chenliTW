@@ -1,11 +1,13 @@
 Last Update Time: 
-Fri Jul  1 12:15:35 UTC 2022
+Fri Jul  1 13:04:20 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Best of all is never to have been born. \
-\ Second best is to die soon.             /
- -----------------------------------------
+ _______________________________________
+/ Q: How many IBM CPU's does it take to \
+| do a logical right shift? A: 33. 1 to |
+| hold the bits and 32 to push the      |
+\ register.                             /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
