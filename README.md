@@ -1,12 +1,11 @@
 Last Update Time: 
-Fri Jul  1 07:53:11 UTC 2022
+Fri Jul  1 08:20:54 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You'll never see all the places, or  \
-| read all the books, but fortunately, |
-\ they're not all recommended.         /
- --------------------------------------
+ _________________________________________
+/ You worry too much about your job. Stop \
+\ it. You are not paid enough to worry.   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
