@@ -1,11 +1,10 @@
 Last Update Time: 
-Fri Jul  1 17:57:05 UTC 2022
+Fri Jul  1 18:31:44 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Think twice before speaking, but don't \
-\ say "think think click click".         /
- ----------------------------------------
+ ________________________
+< Cold hands, no gloves. >
+ ------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
