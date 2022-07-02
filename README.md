@@ -1,14 +1,14 @@
 Last Update Time: 
-Sat Jul  2 04:59:36 UTC 2022
+Sat Jul  2 05:24:51 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ When angry, count four; when very   \
-| angry, swear.                       |
-|                                     |
-| -- Mark Twain, "Pudd'nhead Wilson's |
-\ Calendar"                           /
- -------------------------------------
+ ________________________________________
+/ Kiss me, Kate, we will be married o'   \
+| Sunday.                                |
+|                                        |
+| -- William Shakespeare, "The Taming of |
+\ the Shrew"                             /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
