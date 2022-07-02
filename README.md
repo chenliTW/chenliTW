@@ -1,12 +1,11 @@
 Last Update Time: 
-Sat Jul  2 09:42:53 UTC 2022
+Sat Jul  2 09:54:41 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ You're currently going through a   \
-| difficult transition period called |
-\ "Life."                            /
- ------------------------------------
+ __________________________________
+/ You are capable of planning your \
+\ future.                          /
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
