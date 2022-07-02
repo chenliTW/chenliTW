@@ -1,9 +1,17 @@
 Last Update Time: 
-Sat Jul  2 17:53:16 UTC 2022
+Sat Jul  2 18:17:38 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-< You will be surprised by a loud noise. >
+/ Q: Why don't Scotsmen ever have coffee \
+| the way they like it? A: Well, they    |
+| like it with two lumps of sugar. If    |
+| they drink                             |
+|                                        |
+| it at home, they only take one, and if |
+| they drink it while                    |
+|                                        |
+\ visiting, they always take three.      /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
