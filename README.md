@@ -1,13 +1,11 @@
 Last Update Time: 
-Sat Jul  2 06:13:03 UTC 2022
+Sat Jul  2 06:37:53 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ If you laid all of our laws end to end, \
-| there would be no end.                  |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ______________________________________
+/ Your life would be very empty if you \
+\ had nothing to regret.               /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
