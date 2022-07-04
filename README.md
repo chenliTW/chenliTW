@@ -1,23 +1,11 @@
 Last Update Time: 
-Mon Jul  4 13:55:28 UTC 2022
+Mon Jul  4 14:09:02 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Sheriff Chameleotoptor sighed with an  \
-| air of weary sadness, and then turned  |
-| to Doppelgutt and said 'The Senator    |
-| must really have been on a bender this |
-| time -- he left a party in Cleveland,  |
-| Ohio, at 11:30 last night, and they    |
-| found his car this morning in the      |
-| smokestack of a British aircraft       |
-| carrier in the Formosa Straits.'       |
-|                                        |
-| -- Grand Panjandrum's Special Award,   |
-| 1985 Bulwer-Lytton                     |
-|                                        |
-\ bad fiction contest.                   /
- ----------------------------------------
+ ______________________________________
+/ Q: What do you call a boomerang that \
+\ doesn't come back? A: A stick.       /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
