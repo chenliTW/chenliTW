@@ -1,13 +1,12 @@
 Last Update Time: 
-Mon Jul  4 15:16:17 UTC 2022
+Mon Jul  4 15:38:36 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ As flies to wanton boys are we to the \
-| gods; they kill us for their sport.   |
-|                                       |
-\ -- Shakespeare, "King Lear"           /
- ---------------------------------------
+ _________________________________________
+/ Q: What's the difference between a duck \
+| and an elephant? A: You can't get down  |
+\ off an elephant.                        /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
