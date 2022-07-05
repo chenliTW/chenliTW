@@ -1,16 +1,15 @@
 Last Update Time: 
-Tue Jul  5 23:46:16 UTC 2022
+Tue Jul  5 23:58:07 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ When I reflect upon the number of       \
-| disagreeable people who I know who have |
-| gone to a better world, I am moved to   |
-| lead a different life.                  |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
- -----------------------------------------
+ ________________________________________
+/ I don't know half of you half as well  \
+| as I should like; and I like less than |
+| half of you half as well as you        |
+| deserve.                               |
+|                                        |
+\ -- J. R. R. Tolkien                    /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
