@@ -1,13 +1,12 @@
 Last Update Time: 
-Wed Jul  6 15:50:11 UTC 2022
+Wed Jul  6 16:11:47 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ By trying we can easily learn to endure \
-| adversity. Another man's, I mean.       |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ________________________________________
+/ Your best consolation is the hope that \
+| the things you failed to get weren't   |
+\ really worth having.                   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
