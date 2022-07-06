@@ -1,11 +1,10 @@
 Last Update Time: 
-Wed Jul  6 13:54:32 UTC 2022
+Wed Jul  6 14:27:24 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ______________________________________
-/ Q: How many marketing people does it \
-| take to change a light bulb? A: I'll |
-\ have to get back to you on that.     /
+/ You teach best what you most need to \
+\ learn.                               /
  --------------------------------------
         \   ^__^
          \  (oo)\_______
