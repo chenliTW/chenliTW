@@ -1,11 +1,13 @@
 Last Update Time: 
-Wed Jul  6 23:49:09 UTC 2022
+Thu Jul  7 00:37:33 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Don't plan any hasty moves. You'll be \
-\ evicted soon anyway.                  /
- ---------------------------------------
+ ________________________________________
+/ There's small choice in rotten apples. \
+|                                        |
+| -- William Shakespeare, "The Taming of |
+\ the Shrew"                             /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
