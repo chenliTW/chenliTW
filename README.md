@@ -1,14 +1,12 @@
 Last Update Time: 
-Fri Jul  8 14:18:11 UTC 2022
+Fri Jul  8 14:40:30 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ The devil can cite Scripture for his  \
-| purpose.                              |
-|                                       |
-| -- William Shakespeare, "The Merchant |
-\ of Venice"                            /
- ---------------------------------------
+ ____________________________________
+/ It's lucky you're going so slowly, \
+| because you're going in the wrong  |
+\ direction.                         /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
