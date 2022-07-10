@@ -1,12 +1,11 @@
 Last Update Time: 
-Sun Jul 10 15:21:16 UTC 2022
+Sun Jul 10 15:39:52 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why do mountain climbers rope       \
-| themselves together? A: To prevent the |
-\ sensible ones from going home.         /
- ----------------------------------------
+ _________________________________________
+/ You have a strong desire for a home and \
+\ your family interests come first.       /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
