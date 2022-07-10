@@ -1,13 +1,10 @@
 Last Update Time: 
-Sun Jul 10 05:22:42 UTC 2022
+Sun Jul 10 05:36:42 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Always do right. This will gratify some \
-| people and astonish the rest.           |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ________________________________________
+< You have taken yourself too seriously. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
