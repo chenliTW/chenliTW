@@ -1,10 +1,13 @@
 Last Update Time: 
-Mon Jul 11 09:26:35 UTC 2022
+Mon Jul 11 09:39:24 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________
-< You love peace. >
- -----------------
+ _________________________________________
+/ The abuse of greatness is when it       \
+| disjoins remorse from power.            |
+|                                         |
+\ -- William Shakespeare, "Julius Caesar" /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
