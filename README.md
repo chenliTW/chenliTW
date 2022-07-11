@@ -1,13 +1,13 @@
 Last Update Time: 
-Mon Jul 11 11:28:13 UTC 2022
+Mon Jul 11 11:41:26 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Kindness is a language which the deaf \
-| can hear and the blind can read.      |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ _________________________________________
+/ I have never let my schooling interfere \
+| with my education.                      |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
