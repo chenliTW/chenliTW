@@ -1,13 +1,13 @@
 Last Update Time: 
-Mon Jul 11 07:58:37 UTC 2022
+Mon Jul 11 08:43:33 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ It's a very *__UN*lucky week in which \
-| to be took dead.                    |
-|                                     |
-\ -- Churchy La Femme                 /
- -------------------------------------
+ ________________________________________
+/ Q: How many Harvard MBA's does it take \
+| to screw in a light bulb? A: Just one. |
+| He grasps it firmly and the universe   |
+\ revolves around him.                   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
