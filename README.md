@@ -1,12 +1,22 @@
 Last Update Time: 
-Mon Jul 11 15:17:45 UTC 2022
+Mon Jul 11 15:41:55 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You are destined to become the        \
-| commandant of the fighting men of the |
-\ department of transportation.         /
- ---------------------------------------
+ _________________________________________
+/ Many enraged psychiatrists are inciting \
+| a weary butcher. The butcher is weary   |
+| and tired because he has cut meat and   |
+| steak and lamb for hours and weeks. He  |
+| does not desire to chant about anything |
+| with raving psychiatrists, but he sings |
+| about his gingivectomist, he dreams     |
+| about a single cosmologist, he thinks   |
+| about his dog. The dog is named         |
+| Herbert.                                |
+|                                         |
+| -- Racter, "The Policeman's Beard is    |
+\ Half-Constructed"                       /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
