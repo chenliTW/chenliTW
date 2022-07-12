@@ -1,16 +1,11 @@
 Last Update Time: 
-Tue Jul 12 07:49:59 UTC 2022
+Tue Jul 12 08:11:04 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ When I reflect upon the number of       \
-| disagreeable people who I know who have |
-| gone to a better world, I am moved to   |
-| lead a different life.                  |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
- -----------------------------------------
+ ___________________________________
+/ That secret you've been guarding, \
+\ isn't.                            /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
