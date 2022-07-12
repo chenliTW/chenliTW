@@ -1,10 +1,12 @@
 Last Update Time: 
-Tue Jul 12 17:47:44 UTC 2022
+Tue Jul 12 17:59:44 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- __________________________________
-< Make a wish, it might come true. >
- ----------------------------------
+ ________________________________________
+/ Your best consolation is the hope that \
+| the things you failed to get weren't   |
+\ really worth having.                   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
