@@ -1,12 +1,11 @@
 Last Update Time: 
-Tue Jul 12 17:59:44 UTC 2022
+Tue Jul 12 18:32:17 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Your best consolation is the hope that \
-| the things you failed to get weren't   |
-\ really worth having.                   /
- ----------------------------------------
+ _________________________________________
+/ Learn to pause -- or nothing worthwhile \
+\ can catch up to you.                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
