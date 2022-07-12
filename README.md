@@ -1,12 +1,13 @@
 Last Update Time: 
-Tue Jul 12 19:27:04 UTC 2022
+Tue Jul 12 19:39:16 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What's the difference between an     \
-| Irish wedding and an Irish wake? A: One |
-\ less drunk.                             /
- -----------------------------------------
+ ________________________________________
+/ Q: How many supply-siders does it take \
+| to change a light bulb? A: None. The   |
+| darkness will cause the light bulb to  |
+\ change by itself.                      /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
