@@ -1,11 +1,11 @@
 Last Update Time: 
-Tue Jul 12 14:49:31 UTC 2022
+Tue Jul 12 15:16:45 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Abandon the search for Truth; settle \
-\ for a good fantasy.                  /
- --------------------------------------
+ ________________________________________
+/ Q: How was Thomas J. Watson buried? A: \
+\ 9 edge down.                           /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
