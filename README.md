@@ -1,20 +1,12 @@
 Last Update Time: 
-Wed Jul 13 05:11:08 UTC 2022
+Wed Jul 13 05:33:44 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/  The Priest's grey nimbus in a niche    \
-| where he dressed discreetly. I will not |
-| sleep here tonight. Home also I cannot  |
-| go.                                     |
+/ He that breaks a thing to find out what \
+| it is has left the path of wisdom.      |
 |                                         |
-| A voice, sweetened and sustained,       |
-| called to him from the sea. Turning the |
-| curve he waved his hand. A sleek brown  |
-| head, a seal's, far out on the water,   |
-| round. Usurper.                         |
-|                                         |
-\ -- James Joyce, "Ulysses"               /
+\ -- J.R.R. Tolkien                       /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
