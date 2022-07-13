@@ -1,13 +1,10 @@
 Last Update Time: 
-Wed Jul 13 17:33:15 UTC 2022
+Wed Jul 13 17:49:04 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _______________________________________
-/ Anyone who has had a bull by the tail \
-| knows five or six more things than    |
-| someone who hasn't.                   |
-|                                       |
-\ -- Mark Twain                         /
+/ Many changes of mind and mood; do not \
+\ hesitate too long.                    /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
