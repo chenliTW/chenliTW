@@ -1,14 +1,14 @@
 Last Update Time: 
-Wed Jul 13 04:03:17 UTC 2022
+Wed Jul 13 04:48:17 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ There are more things in heaven and   \
-| earth, Horatio, than are dreamt of in |
-| your philosophy.                      |
-|                                       |
-\ -- Wm. Shakespeare, "Hamlet"          /
- ---------------------------------------
+ _______________________________
+/ Civilization is the limitless \
+| multiplication of unnecessary |
+| necessities.                  |
+|                               |
+\ -- Mark Twain                 /
+ -------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
