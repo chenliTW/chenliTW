@@ -1,12 +1,15 @@
 Last Update Time: 
-Thu Jul 14 23:43:11 UTC 2022
+Thu Jul 14 23:55:04 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ____________________________________
-/ Lord, what fools these mortals be! \
+/ Q: What do you call a blind        \
+| pre-historic animal? A:            |
+| Diyathinkhesaurus.                 |
 |                                    |
-| -- William Shakespeare, "A         |
-\ Midsummer-Night's Dream"           /
+| Q: What do you call a blind        |
+| pre-historic animal with a dog? A: |
+\ Diyathinkhesaurus Rex.             /
  ------------------------------------
         \   ^__^
          \  (oo)\_______
