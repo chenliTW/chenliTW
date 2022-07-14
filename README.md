@@ -1,14 +1,11 @@
 Last Update Time: 
-Wed Jul 13 23:49:57 UTC 2022
+Thu Jul 14 00:47:02 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ I was gratified to be able to answer \
-| promptly, and I did. I said I didn't |
-| know.                                |
-|                                      |
-\ -- Mark Twain                        /
- --------------------------------------
+ _________________________________________
+/ If your life was a horse, you'd have to \
+\ shoot it.                               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
