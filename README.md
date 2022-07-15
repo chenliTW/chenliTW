@@ -1,13 +1,14 @@
 Last Update Time: 
-Fri Jul 15 11:45:05 UTC 2022
+Fri Jul 15 11:57:03 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: How many Marxists does it take to \
-| screw in a light bulb? A: None: The  |
-| light bulb contains the seeds of its |
-\ own revolution.                      /
- --------------------------------------
+ ________________________________________
+/ Q: How do you play religious roulette? \
+| A: You stand around in a circle and    |
+| blaspheme and see who gets             |
+|                                        |
+\ struck by lightning first.             /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
