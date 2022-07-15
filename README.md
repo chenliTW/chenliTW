@@ -1,12 +1,12 @@
 Last Update Time: 
-Fri Jul 15 14:48:21 UTC 2022
+Fri Jul 15 15:00:21 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ You can do very well in speculation    \
-| where land or anything to do with dirt |
-\ is concerned.                          /
- ----------------------------------------
+ _________________________________________
+/ You are wise, witty, and wonderful, but \
+| you spend too much time reading this    |
+\ sort of trash.                          /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
