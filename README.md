@@ -1,14 +1,10 @@
 Last Update Time: 
-Sat Jul 16 20:09:44 UTC 2022
+Sat Jul 16 20:30:35 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ "Elves and Dragons!" I says to him.   \
-| "Cabbages and potatoes are better for |
-| you and me."                          |
-|                                       |
-\ -- J. R. R. Tolkien                   /
- ---------------------------------------
+ ____________________________________
+< There is a 20% chance of tomorrow. >
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
