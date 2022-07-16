@@ -1,13 +1,14 @@
 Last Update Time: 
-Sat Jul 16 15:41:35 UTC 2022
+Sat Jul 16 15:53:26 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: How many IBM CPU's does it take to \
-| do a logical right shift? A: 33. 1 to |
-| hold the bits and 32 to push the      |
-\ register.                             /
- ---------------------------------------
+ _____________________________________
+/ The mind is its own place, and in   \
+| itself Can make a Heav'n of Hell, a |
+| Hell of Heav'n.                     |
+|                                     |
+\ -- John Milton                      /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
