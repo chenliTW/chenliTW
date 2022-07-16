@@ -1,14 +1,12 @@
 Last Update Time: 
-Sat Jul 16 20:55:42 UTC 2022
+Sat Jul 16 21:18:02 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________
-/ Civilization is the limitless \
-| multiplication of unnecessary |
-| necessities.                  |
-|                               |
-\ -- Mark Twain                 /
- -------------------------------
+ ____________________________________
+/ Try to relax and enjoy the crisis. \
+|                                    |
+\ -- Ashleigh Brilliant              /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
