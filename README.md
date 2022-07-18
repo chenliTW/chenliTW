@@ -1,14 +1,12 @@
 Last Update Time: 
-Mon Jul 18 19:17:26 UTC 2022
+Mon Jul 18 19:29:05 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What's the difference between a dead \
-| dog in the road and a dead              |
-|                                         |
-| lawyer in the road? A: There are skid   |
-\ marks in front of the dog.              /
- -----------------------------------------
+ ________________________________________
+/ You can do very well in speculation    \
+| where land or anything to do with dirt |
+\ is concerned.                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
