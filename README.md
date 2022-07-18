@@ -1,11 +1,11 @@
 Last Update Time: 
-Mon Jul 18 17:08:43 UTC 2022
+Mon Jul 18 17:38:16 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Don't tell any big lies today. Small \
-\ ones can be just as effective.       /
- --------------------------------------
+ _________________________________________
+/ You worry too much about your job. Stop \
+\ it. You are not paid enough to worry.   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
