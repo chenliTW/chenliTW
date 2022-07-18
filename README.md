@@ -1,22 +1,18 @@
 Last Update Time: 
-Mon Jul 18 08:24:45 UTC 2022
+Mon Jul 18 08:47:42 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ I reverently believe that the maker who \
-| made us all makes everything in New     |
-| England, but the weather. I don't know  |
-| who makes that, but I think it must be  |
-| raw apprentices in the weather-clerks   |
-| factory who experiment and learn how,   |
-| in New England, for board and clothes,  |
-| and then are promoted to make weather   |
-| for countries that require a good       |
-| article, and will take their custom     |
-| elsewhere if they don't get it.         |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ________________________________________
+/ Steady movement is more important than \
+| speed, much of the time. So long as    |
+| there is a regular progression of      |
+| stimuli to get your mental hooks into, |
+| there is room for lateral movement.    |
+| Once this begins, its rate is a matter |
+| of discretion.                         |
+|                                        |
+\ -- Corwin, Prince of Amber             /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
