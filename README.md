@@ -1,15 +1,21 @@
 Last Update Time: 
-Mon Jul 18 06:24:23 UTC 2022
+Mon Jul 18 06:50:39 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Perilous to all of us are the devices \
-| of an art deeper than we ourselves    |
-| possess.                              |
-|                                       |
-| -- Gandalf the Grey [J.R.R. Tolkien,  |
-\ "Lord of the Rings"]                  /
- ---------------------------------------
+ _________________________________________
+/  The Priest's grey nimbus in a niche    \
+| where he dressed discreetly. I will not |
+| sleep here tonight. Home also I cannot  |
+| go.                                     |
+|                                         |
+| A voice, sweetened and sustained,       |
+| called to him from the sea. Turning the |
+| curve he waved his hand. A sleek brown  |
+| head, a seal's, far out on the water,   |
+| round. Usurper.                         |
+|                                         |
+\ -- James Joyce, "Ulysses"               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
