@@ -1,15 +1,17 @@
 Last Update Time: 
-Tue Jul 19 07:55:20 UTC 2022
+Tue Jul 19 08:26:15 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many Oregonians does it take to  \
-| screw in a light bulb? A: Three. One to |
-| screw in the light bulb and two to fend |
-| off all those                           |
+/ Q: How many surrealists does it take to \
+| change a light bulb? A: Two, one to     |
+| hold the giraffe, and the other to fill |
+| the bathtub                             |
 |                                         |
-| Californians trying to share the        |
-\ experience.                             /
+| with brightly colored machine tools.    |
+|                                         |
+| [Surrealist jokes just aren't my cup of |
+\ fur. Ed.]                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
