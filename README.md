@@ -1,14 +1,15 @@
 Last Update Time: 
-Tue Jul 19 17:39:31 UTC 2022
+Tue Jul 19 17:54:17 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What's the difference between a dead \
-| dog in the road and a dead              |
-|                                         |
-| lawyer in the road? A: There are skid   |
-\ marks in front of the dog.              /
- -----------------------------------------
+ ________________________________________
+/ Your manuscript is both good and       \
+| original, but the part that is good is |
+| not original and the part that is      |
+| original is not good.                  |
+|                                        |
+\ -- Samuel Johnson                      /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
