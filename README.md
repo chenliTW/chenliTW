@@ -1,11 +1,10 @@
 Last Update Time: 
-Wed Jul 20 11:23:28 UTC 2022
+Wed Jul 20 11:36:27 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Think twice before speaking, but don't \
-\ say "think think click click".         /
- ----------------------------------------
+ _______________________________________
+< Are you sure the back door is locked? >
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
