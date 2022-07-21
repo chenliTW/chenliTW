@@ -1,13 +1,12 @@
 Last Update Time: 
-Thu Jul 21 19:44:51 UTC 2022
+Thu Jul 21 19:56:44 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Familiarity breeds contempt -- and \
-| children.                          |
-|                                    |
-\ -- Mark Twain                      /
- ------------------------------------
+ _________________________________________
+/ You may be infinitely smaller than some \
+| things, but you're infinitely larger    |
+\ than others.                            /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
