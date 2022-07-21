@@ -1,14 +1,12 @@
 Last Update Time: 
-Thu Jul 21 23:07:34 UTC 2022
+Thu Jul 21 23:31:43 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Tell the truth or trump--but get the \
-| trick.                               |
-|                                      |
-| -- Mark Twain, "Pudd'nhead Wilson's  |
-\ Calendar"                            /
- --------------------------------------
+ ________________________________________
+/ You have a reputation for being        \
+| thoroughly reliable and trustworthy. A |
+\ pity that it's totally undeserved.     /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
