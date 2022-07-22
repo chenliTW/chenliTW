@@ -1,14 +1,13 @@
 Last Update Time: 
-Fri Jul 22 23:39:47 UTC 2022
+Fri Jul 22 23:51:40 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ This is the first age that's paid much \
-| attention to the future, which is a    |
-| little ironic since we may not have    |
-| one.                                   |
+/ Always the dullness of the fool is the \
+| whetstone of the wits.                 |
 |                                        |
-\ -- Arthur Clarke                       /
+| -- William Shakespeare, "As You Like   |
+\ It"                                    /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
