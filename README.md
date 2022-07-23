@@ -1,14 +1,13 @@
 Last Update Time: 
-Sat Jul 23 07:51:35 UTC 2022
+Sat Jul 23 08:14:44 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Why is it that we rejoice at a birth   \
-| and grieve at a funeral? It is because |
-| we are not the person involved.        |
+/ Q: Why do the police always travel in  \
+| threes? A: One to do the reading, one  |
+| to do the writing, and the other keeps |
 |                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
+\ an eye on the two intellectuals.       /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
