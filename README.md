@@ -1,14 +1,12 @@
 Last Update Time: 
-Sat Jul 23 23:58:42 UTC 2022
+Sun Jul 24 02:31:35 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ FORTUNE PROVIDES QUESTIONS FOR THE      \
-| GREAT ANSWERS: #5 A: The Halls of       |
-| Montezuma and the Shores of Tripoli. Q: |
-| Name two families whose kids won't join |
-\ the Marines.                            /
- -----------------------------------------
+ _____________________________________
+/ You learn to write as if to someone \
+| else because NEXT YEAR YOU WILL BE  |
+\ "SOMEONE ELSE."                     /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
