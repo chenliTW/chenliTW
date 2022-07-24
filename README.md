@@ -1,20 +1,38 @@
 Last Update Time: 
-Sun Jul 24 03:47:38 UTC 2022
+Sun Jul 24 04:20:05 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The lovely woman-child Kaa was          \
-| mercilessly chained to the cruel post   |
-| of the warrior-chief Beast, with his    |
-| barbarian tribe now stacking wood at    |
-| her nubile feet, when the strong clear  |
-| voice of the poetic and heroic          |
-| Handsomas roared, 'Flick your Bic,      |
-| crisp that chick, and you'll feel my    |
-| steel through your last meal!'          |
+/ A Tale of Two Cities LITE(tm)           \
 |                                         |
-| -- Winning sentence, 1984 Bulwer-Lytton |
-\ bad fiction contest.                    /
+| -- by Charles Dickens                   |
+|                                         |
+| A lawyer who looks like a French        |
+| Nobleman is executed in his place.      |
+|                                         |
+| The Metamorphosis LITE(tm)              |
+|                                         |
+| -- by Franz Kafka                       |
+|                                         |
+| A man turns into a bug and his family   |
+| gets annoyed.                           |
+|                                         |
+| Lord of the Rings LITE(tm)              |
+|                                         |
+| -- by J. R. R. Tolkien                  |
+|                                         |
+| Some guys take a long vacation to throw |
+| a ring into a volcano.                  |
+|                                         |
+| Hamlet LITE(tm)                         |
+|                                         |
+| -- by Wm. Shakespeare                   |
+|                                         |
+| A college student on vacation with      |
+| family problems, a screwy               |
+|                                         |
+| girl-friend and a mother who won't act  |
+\ her age.                                /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
