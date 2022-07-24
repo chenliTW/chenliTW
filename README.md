@@ -1,12 +1,13 @@
 Last Update Time: 
-Sun Jul 24 12:39:58 UTC 2022
+Sun Jul 24 13:13:55 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: Why did the programmer call his    \
-| mother long distance? A: Because that |
-\ was her name.                         /
- ---------------------------------------
+ ________________________________________
+/ Water, taken in moderation cannot hurt \
+| anybody.                               |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
