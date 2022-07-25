@@ -1,12 +1,14 @@
 Last Update Time: 
-Mon Jul 25 03:51:29 UTC 2022
+Mon Jul 25 04:42:01 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why did the lone ranger kill Tonto? \
-| A: He found out what "kimosabe" really |
-\ means.                                 /
- ----------------------------------------
+ _________________________________________
+/ The fashion wears out more apparel than \
+| the man.                                |
+|                                         |
+| -- William Shakespeare, "Much Ado About |
+\ Nothing"                                /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
