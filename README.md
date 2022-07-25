@@ -1,9 +1,10 @@
 Last Update Time: 
-Mon Jul 25 21:29:39 UTC 2022
+Mon Jul 25 21:43:08 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _____________________________________
-< You will be divorced within a year. >
+/ Someone whom you reject today, will \
+\ reject you tomorrow.                /
  -------------------------------------
         \   ^__^
          \  (oo)\_______
