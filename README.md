@@ -1,13 +1,15 @@
 Last Update Time: 
-Thu Jul 28 21:47:55 UTC 2022
+Thu Jul 28 21:59:35 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ If two people love each other, there \
-| can be no happy end to it.           |
-|                                      |
-\ -- Ernest Hemingway                  /
- --------------------------------------
+ _________________________________________
+/ ROMEO: Courage, man; the hurt cannot be \
+| much. MERCUTIO: No, 'tis not so deep as |
+| a well, nor so wide                     |
+|                                         |
+| as a church-door; but 'tis enough,      |
+\ 'twill serve.                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
