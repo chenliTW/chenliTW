@@ -1,41 +1,24 @@
 Last Update Time: 
-Thu Jul 28 02:07:48 UTC 2022
+Thu Jul 28 03:50:17 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The Bulwer-Lytton fiction contest is    \
-| held ever year at San Jose State Univ.  |
-| by Professor Scott Rice. It is held in  |
-| memory of Edward George Earle           |
-| Bulwer-Lytton (1803-1873), a rather     |
-| prolific and popular (in his time)      |
-| novelist. He is best known today for    |
-| having written "The Last Days of        |
-| Pompeii."                               |
+/ The bone-chilling scream split the warm \
+| summer night in two, the first half     |
+| being before the scream when it was     |
+| fairly balmy and calm and pleasant, the |
+| second half still balmy and quite       |
+| pleasant for those who hadn't heard the |
+| scream at all, but not calm or balmy or |
+| even very nice for those who did hear   |
+| the scream, discounting the little      |
+| period of time during the actual scream |
+| itself when your ears might have been   |
+| hearing it but your brain wasn't        |
+| reacting yet to let you know.           |
 |                                         |
-| Whenever Snoopy starts typing his novel |
-| from the top of his doghouse, beginning |
-| "It was a dark and stormy night..." he  |
-| is borrowing from Lord Bulwer-Lytton.   |
-| This was the line that opened his       |
-| novel, "Paul Clifford," written in      |
-| 1830. The full line reveals why it is   |
-| so bad:                                 |
-|                                         |
-| It was a dark and stormy night; the     |
-| rain fell in torrents -- except         |
-|                                         |
-| at occasional intervals, when it was    |
-| checked by a violent gust of            |
-|                                         |
-| wind which swept up the streets (for it |
-| is in London that our scene             |
-|                                         |
-| lies), rattling along the housetops,    |
-| and fiercely agitating the scanty       |
-|                                         |
-| flame of the lamps that struggled       |
-\ against the darkness.                   /
+| -- Winning sentence, 1986 Bulwer-Lytton |
+\ bad fiction contest.                    /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
