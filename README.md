@@ -1,15 +1,25 @@
 Last Update Time: 
-Thu Jul 28 07:49:18 UTC 2022
+Thu Jul 28 08:08:36 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many Oregonians does it take to  \
-| screw in a light bulb? A: Three. One to |
-| screw in the light bulb and two to fend |
-| off all those                           |
+/ No live organism can continue for long  \
+| to exist sanely under conditions of     |
+| absolute reality; even larks and        |
+| katydids are supposed, by some, to      |
+| dream. Hill House, not sane, stood by   |
+| itself against its hills, holding       |
+| darkness within; it had stood so for    |
+| eighty years and might stand for eighty |
+| more. Within, walls continued upright,  |
+| bricks met neatly, floors were firm,    |
+| and doors were sensibly shut; silence   |
+| lay steadily against the wood and stone |
+| of Hill House, and whatever walked      |
+| there, walked alone.                    |
 |                                         |
-| Californians trying to share the        |
-\ experience.                             /
+| -- Shirley Jackson, "The Haunting of    |
+\ Hill House"                             /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
