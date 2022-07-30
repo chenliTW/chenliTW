@@ -1,17 +1,12 @@
 Last Update Time: 
-Sat Jul 30 06:21:06 UTC 2022
+Sat Jul 30 06:42:49 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: What did Tarzan say when he saw the  \
-| elephants coming over the hill? A: "The |
-| elephants are coming over the hill."    |
-|                                         |
-| Q: What did he say when saw them coming |
-| over the hill wearing                   |
-|                                         |
-| sunglasses? A: Nothing, for he didn't   |
-\ recognize them.                         /
+/ Q: What do you get when you cross a     \
+| mobster with an international standard? |
+| A: You get someone who makes you an     |
+\ offer that you can't understand!        /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
