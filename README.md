@@ -1,21 +1,11 @@
 Last Update Time: 
-Sat Jul 30 08:46:04 UTC 2022
+Sat Jul 30 08:57:47 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Many enraged psychiatrists are inciting \
-| a weary butcher. The butcher is weary   |
-| and tired because he has cut meat and   |
-| steak and lamb for hours and weeks. He  |
-| does not desire to chant about anything |
-| with raving psychiatrists, but he sings |
-| about his gingivectomist, he dreams     |
-| about a single cosmologist, he thinks   |
-| about his dog. The dog is named         |
-| Herbert.                                |
+/ Conscience doth make cowards of us all. \
 |                                         |
-| -- Racter, "The Policeman's Beard is    |
-\ Half-Constructed"                       /
+\ -- Shakespeare                          /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
