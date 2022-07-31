@@ -1,11 +1,12 @@
 Last Update Time: 
-Sun Jul 31 08:58:16 UTC 2022
+Sun Jul 31 09:23:00 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ You will gain money by an immoral \
-\ action.                           /
- -----------------------------------
+ ______________________________________
+/ Q: What happens when four WASPs find \
+| themselves in the same room? A: A    |
+\ dinner party.                        /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
