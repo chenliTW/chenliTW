@@ -1,13 +1,12 @@
 Last Update Time: 
-Sun Jul 31 20:46:10 UTC 2022
+Sun Jul 31 20:57:56 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ He was part of my dream, of course -- \
-| but then I was part of his dream too. |
-|                                       |
-\ -- Lewis Carroll                      /
- ---------------------------------------
+ ________________________________________
+/ What no spouse of a writer can ever    \
+| understand is that a writer is working |
+\ when he's staring out the window.      /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
