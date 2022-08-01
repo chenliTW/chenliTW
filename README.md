@@ -1,10 +1,17 @@
 Last Update Time: 
-Mon Aug  1 18:00:01 UTC 2022
+Mon Aug  1 18:36:45 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Tuesday After Lunch is the cosmic time \
-\ of the week.                           /
+/ Steady movement is more important than \
+| speed, much of the time. So long as    |
+| there is a regular progression of      |
+| stimuli to get your mental hooks into, |
+| there is room for lateral movement.    |
+| Once this begins, its rate is a matter |
+| of discretion.                         |
+|                                        |
+\ -- Corwin, Prince of Amber             /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
