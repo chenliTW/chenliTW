@@ -1,85 +1,47 @@
 Last Update Time: 
-Tue Aug  2 20:21:55 UTC 2022
+Tue Aug  2 20:39:14 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ "Good afternoon, madam. How may I help  \
-| you?"                                   |
+/ Like an expensive sports car,           \
+| fine-tuned and well-built, Portia was   |
+| sleek, shapely, and gorgeous, her red   |
+| jumpsuit moulding her body, which was   |
+| as warm as seatcovers in July, her hair |
+| as dark as new tires, her eyes flashing |
+| like bright hubcaps, and her lips as    |
+| dewy as the beads of fresh rain on the  |
+| hood; she was a woman driven -- fueled  |
+| by a single accelerant -- and she       |
+| needed a man, a man who wouldn't shift  |
+| from his views, a man to steer her      |
+| along the right road: a man like Alf    |
+| Romeo.                                  |
 |                                         |
-| "Good afternoon. I'd like a FrintArms   |
-| HandCannon, please."                    |
+| -- Rachel Sheeley, winner               |
 |                                         |
-| "A--? Oh, now, that's an awfully big    |
-| gun for such a lovely lady. I mean, not |
-| everybody thinks ladies should carry    |
-| guns at all, though I say they have a   |
-| right to. But I think... I might...     |
-| Let's have a look down here. I might    |
-| have just the thing for you. Yes, here  |
-| we are! Look at that, isn't it neat?    |
-| Now that is a FrintArms product as      |
-| well, but it's what's called a laser -- |
-| a light-pistol some people call them.   |
-| Very small, as you see; fits easily     |
-| into a pocket or bag; won't spoil the   |
-| line of a jacket; and you won't feel    |
-| you're lugging half a tonne of iron     |
-| around with you. We do a range of       |
-| matching accessories, including -- if I |
-| may say so -- a rather saucy garter     |
-| holster. Wish I got to do the fitting   |
-| for that! Ha -- just my little joke.    |
-| And there's *even*... here we are --    |
-| this special presentation pack: gun,    |
-| charged battery, charging unit,         |
-| beautiful glider-hide shoulder holster  |
-| with adjustable fitting and contrast    |
-| stitching, and a discount on your next  |
-| battery. Full instructions, of course,  |
-| and a voucher for free lessons at your  |
-| local gun club or range. Or there's the |
-| *special* presentation pack; it has all |
-| the other one's got but with *two*      |
-| charged batteries and a night-sight,    |
-| too. Here, feel that -- don't worry,    |
-| it's a dummy battery -- isn't it neat?  |
-| Feel how light it is? Smooth, see? No   |
-| bits to stick out and catch on your     |
-| clothes, *and* beautifully balanced.    |
-| And of course the beauty of a laser is, |
-| there's no recoil. Because it's         |
-| shooting light, you see? Beautiful gun, |
-| beautiful gun; my wife has one. Really. |
-| That's not a line, she really has. Now, |
-| I can do you that one -- with a battery |
-| and a free charge -- for ninety-five;   |
-| or the presentation pack on a special   |
-| offer for one-nineteen; or this, the    |
-| special presentation pack, for          |
-| one-forty-nine."                        |
+| The hair ball blocking the drain of the |
+| shower reminded Laura she would never   |
+| see her little dog Pritzi again.        |
 |                                         |
-| "I'll take the special."                |
+| -- Claudia Fields, runner-up            |
 |                                         |
-| "Sound choice, madam, *sound* choice.   |
-| Now, do--?"                             |
+| It could have been an organically based |
+| disturbance of the brain -- perhaps a   |
+| tumor or a metabolic deficiency -- but  |
+| after a thorough neurological exam it   |
+| was determined that Byron was simply a  |
+| jerk.                                   |
 |                                         |
-| "And a HandCannon, with the eighty-mill |
-| silencer, five GP clips, three six-five |
-| AP/wire-fl'echettes clips, two           |
-| bipropellant HE clips, and a Special    |
-| Projectile Pack if you have one -- the  |
-| one with the embedding rounds, not the  |
-| signalers. I assume the night-sight on  |
-| this toy is compatible?"                |
+| -- Jeff Jahnke, runner-up               |
 |                                         |
-| "Aah... yes, And how does madam wish to |
-| pay?"                                   |
-|                                         |
-| She slapped her credit card on the      |
-| counter. "Eventually."                  |
-|                                         |
-| -- Iain M. Banks, "Against a Dark       |
-\ Background"                             /
+| Winners in the 7th Annual Bulwer-Lytton |
+| Bad Writing Contest. The contest is     |
+| named after the author of the immortal  |
+| lines: "It was a dark and stormy        |
+| night." The object of the contest is to |
+| write the opening sentence of the worst |
+\ possible novel.                         /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
