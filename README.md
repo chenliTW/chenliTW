@@ -1,11 +1,10 @@
 Last Update Time: 
-Wed Aug  3 21:32:59 UTC 2022
+Wed Aug  3 21:45:24 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why was Stonehenge abandoned? A: It \
-\ wasn't IBM compatible.                 /
- ----------------------------------------
+ ________________________
+< Be different: conform. >
+ ------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
