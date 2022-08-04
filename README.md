@@ -1,14 +1,11 @@
 Last Update Time: 
-Thu Aug  4 23:32:13 UTC 2022
+Thu Aug  4 23:45:25 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Reader, suppose you were an idiot. And \
-| suppose you were a member of Congress. |
-| But I repeat myself.                   |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _______________________________________
+/ Try to have as good a life as you can \
+\ under the circumstances.              /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
