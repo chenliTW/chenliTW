@@ -1,12 +1,12 @@
 Last Update Time: 
-Thu Aug  4 20:51:38 UTC 2022
+Thu Aug  4 21:10:31 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ For courage mounteth with occasion. \
-|                                     |
-\ -- William Shakespeare, "King John" /
- -------------------------------------
+ _______________________________________
+/ Q: How many IBM 370's does it take to \
+| execute a job? A: Four, three to hold |
+\ it down, and one to rip its head off. /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
