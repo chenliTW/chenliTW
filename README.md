@@ -1,11 +1,11 @@
 Last Update Time: 
-Thu Aug  4 17:48:59 UTC 2022
+Thu Aug  4 18:06:48 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You have an ambitious nature and may \
-\ make a name for yourself.            /
- --------------------------------------
+ _________________________________________
+/ You will be reincarnated as a toad; and \
+\ you will be much happier.               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
