@@ -1,10 +1,11 @@
 Last Update Time: 
-Thu Aug  4 12:59:49 UTC 2022
+Thu Aug  4 13:43:45 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Of course you have a purpose -- to find \
-\ a purpose.                              /
+/ Q: What do little WASPs want to be when \
+| they grow up? A: The very best person   |
+\ they can possibly be.                   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
