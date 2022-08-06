@@ -1,12 +1,11 @@
 Last Update Time: 
-Sat Aug  6 14:04:04 UTC 2022
+Sat Aug  6 14:24:41 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You'll wish that you had done some of \
-| the hard things when they were easier |
-\ to do.                                /
- ---------------------------------------
+ ________________________________________
+/ Q: What's buried in Grant's tomb? A: A \
+\ corpse.                                /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
