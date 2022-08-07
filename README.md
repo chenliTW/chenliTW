@@ -1,10 +1,13 @@
 Last Update Time: 
-Sun Aug  7 07:52:09 UTC 2022
+Sun Aug  7 08:15:46 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Increased knowledge will help you now. \
-\ Have mate's phone bugged.              /
+/ Q: Why should you always serve a       \
+| Southern Carolina football man         |
+|                                        |
+| soup in a plate? A: 'Cause if you give |
+\ him a bowl, he'll throw it away.       /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
