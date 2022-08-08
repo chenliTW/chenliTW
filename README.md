@@ -1,14 +1,11 @@
 Last Update Time: 
-Mon Aug  8 14:54:41 UTC 2022
+Mon Aug  8 15:22:24 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ You may my glories and my state        \
-| dispose, But not my griefs; still am I |
-| king of those.                         |
-|                                        |
-\ -- William Shakespeare, "Richard II"   /
- ----------------------------------------
+ ______________________________________
+/ Q: Why did Menachem Begin invade     \
+\ Lebanon? A: To impress Jodie Foster. /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
