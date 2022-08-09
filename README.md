@@ -1,14 +1,11 @@
 Last Update Time: 
-Tue Aug  9 06:57:21 UTC 2022
+Tue Aug  9 07:22:44 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Have a place for everything and keep  \
-| the thing somewhere else; this is not |
-| advice, it is merely custom.          |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ ___________________________________
+/ Do not sleep in a eucalyptus tree \
+\ tonight.                          /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
