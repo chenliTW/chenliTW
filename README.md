@@ -1,32 +1,54 @@
 Last Update Time: 
-Tue Aug  9 12:55:27 UTC 2022
+Tue Aug  9 13:50:47 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: What's the contour integral around \
-| Western Europe? A: Zero, because all  |
-| the Poles are in Eastern Europe!      |
-|                                       |
-| Addendum: Actually, there ARE some    |
-| Poles in Western Europe, but they     |
-|                                       |
-| are removable!                        |
-|                                       |
-| Q: An English mathematician (I forgot |
-| who) was asked by his                 |
-|                                       |
-| very religious colleague: Do you      |
-| believe in one God? A: Yes, up to     |
-| isomorphism!                          |
-|                                       |
-| Q: What is a compact city? A: It's a  |
-| city that can be guarded by finitely  |
-| many near-sighted                     |
-|                                       |
-| policemen!                            |
-|                                       |
-\ -- Peter Lax                          /
- ---------------------------------------
+ _________________________________________
+/ The Least Perceptive Literary Critic    \
+|                                         |
+| The most important critic in our field  |
+| of study is Lord Halifax. A most        |
+| individual judge of poetry, he once     |
+| invited Alexander Pope round to give a  |
+| public reading of his latest poem.      |
+|                                         |
+| Pope, the leading poet of his day, was  |
+| greatly surprised when Lord Halifax     |
+| stopped him four or five times and      |
+| said, "I beg your pardon, Mr. Pope, but |
+| there is something in that passage that |
+| does not quite please me."              |
+|                                         |
+| Pope was rendered speechless, as this   |
+| fine critic suggested sizeable and      |
+| unwise emendations to his latest        |
+| masterpiece. "Be so good as to mark the |
+| place and consider at your leisure. I'm |
+| sure you can give it a better turn."    |
+|                                         |
+| After the reading, a good friend of     |
+| Lord Halifax, a certain Dr. Garth, took |
+| the stunned Pope to one side. "There is |
+| no need to touch the lines," he said.   |
+| "All you need do is leave them just as  |
+| they are, call on Lord Halifax two or   |
+| three months hence, thank him for his   |
+| kind observation on those passages, and |
+| then read them to him as altered. I     |
+| have known him much longer than you     |
+| have, and will be answerable for the    |
+| event."                                 |
+|                                         |
+| Pope took his advice, called on Lord    |
+| Halifax and read the poem exactly as it |
+| was before. His unique critical         |
+| faculties had lost none of their edge.  |
+| "Ay", he commented, "now they are       |
+| perfectly right. Nothing can be         |
+| better."                                |
+|                                         |
+| -- Stephen Pile, "The Book of Heroic    |
+\ Failures"                               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
