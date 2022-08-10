@@ -1,11 +1,11 @@
 Last Update Time: 
-Wed Aug 10 17:17:18 UTC 2022
+Wed Aug 10 17:40:29 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You're working under a slight handicap. \
-\ You happen to be human.                 /
- -----------------------------------------
+ ____________________________________
+/ After your lover has gone you will \
+\ still have PEANUT BUTTER!          /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
