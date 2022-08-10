@@ -1,18 +1,13 @@
 Last Update Time: 
-Wed Aug 10 09:42:21 UTC 2022
+Wed Aug 10 09:54:13 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ The only people for me are the mad ones \
-| -- the ones who are mad to live, mad to |
-| talk, mad to be saved, desirous of      |
-| everything at the same time, the ones   |
-| who never yawn or say a commonplace     |
-| thing, but burn, burn, burn like        |
-| fabulous yellow Roman candles.          |
-|                                         |
-\ -- Jack Kerouac, "On the Road"          /
- -----------------------------------------
+ ________________________________________
+/ There is a great discovery still to be \
+| made in Literature: that of paying     |
+| literary men by the quantity they do   |
+\ NOT write.                             /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
