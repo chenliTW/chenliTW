@@ -1,13 +1,10 @@
 Last Update Time: 
-Thu Aug 11 11:52:29 UTC 2022
+Thu Aug 11 12:30:37 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ______________________________________
-/ In the first place, God made idiots; \
-| this was for practice; then he made  |
-| school boards.                       |
-|                                      |
-\ -- Mark Twain                        /
+/ You have an unusual equipment for    \
+\ success. Be sure to use it properly. /
  --------------------------------------
         \   ^__^
          \  (oo)\_______
