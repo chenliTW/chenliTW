@@ -1,10 +1,13 @@
 Last Update Time: 
-Thu Aug 11 15:57:12 UTC 2022
+Thu Aug 11 16:33:42 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ____________________________________
-/ Q: Do you know what the death rate \
-\ around here is? A: One per person. /
+/ FORTUNE PROVIDES QUESTIONS FOR THE \
+| GREAT ANSWERS: #13 A: Doc, Happy,  |
+| Bashful, Dopey, Sneezy, Sleepy, &  |
+| Grumpy Q: Who were the Democratic  |
+\ presidential candidates?           /
  ------------------------------------
         \   ^__^
          \  (oo)\_______
