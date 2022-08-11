@@ -1,12 +1,17 @@
 Last Update Time: 
-Thu Aug 11 06:44:04 UTC 2022
+Thu Aug 11 06:57:08 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: How many marketing people does it \
-| take to change a light bulb? A: I'll |
-\ have to get back to you on that.     /
- --------------------------------------
+ _________________________________________
+/ Whoever has lived long enough to find   \
+| out what life is, knows how deep a debt |
+| of gratitude we owe to Adam, the first  |
+| great benefactor of our race. He        |
+| brought death into the world.           |
+|                                         |
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
