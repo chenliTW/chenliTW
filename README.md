@@ -1,14 +1,12 @@
 Last Update Time: 
-Thu Aug 11 06:19:45 UTC 2022
+Thu Aug 11 06:44:04 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ As to the Adjective: when in doubt, \
-| strike it out.                      |
-|                                     |
-| -- Mark Twain, "Pudd'nhead Wilson's |
-\ Calendar"                           /
- -------------------------------------
+ ______________________________________
+/ Q: How many marketing people does it \
+| take to change a light bulb? A: I'll |
+\ have to get back to you on that.     /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
