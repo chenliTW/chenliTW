@@ -1,9 +1,13 @@
 Last Update Time: 
-Fri Aug 12 19:28:20 UTC 2022
+Fri Aug 12 19:40:10 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-< A day for firm decisions!!!!! Or is it? >
+/ Q: What's the difference between a dead \
+| dog in the road and a dead              |
+|                                         |
+| lawyer in the road? A: There are skid   |
+\ marks in front of the dog.              /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
