@@ -1,14 +1,11 @@
 Last Update Time: 
-Sat Aug 13 09:24:35 UTC 2022
+Sat Aug 13 09:40:18 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Its name is Public Opinion. It is held \
-| in reverence. It settles everything.   |
-| Some think it is the voice of God.     |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ ___________________________________
+/ Q: How many WASPs does it take to \
+\ change a light bulb? A: One.      /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
