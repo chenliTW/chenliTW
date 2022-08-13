@@ -1,12 +1,11 @@
 Last Update Time: 
-Sat Aug 13 10:35:39 UTC 2022
+Sat Aug 13 10:48:44 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What's the difference between a Mac  \
-| and an Etch-a-Sketch? A: You don't have |
-\ to shake the Mac to clear the screen.   /
- -----------------------------------------
+ ________________________________________
+/ You are farsighted, a good planner, an \
+\ ardent lover, and a faithful friend.   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
