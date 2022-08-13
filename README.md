@@ -1,14 +1,11 @@
 Last Update Time: 
-Sat Aug 13 16:10:26 UTC 2022
+Sat Aug 13 16:44:03 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ If more of us valued food and cheer and \
-| song above hoarded gold, it would be a  |
-| merrier world.                          |
-|                                         |
-\ -- J.R.R. Tolkien                       /
- -----------------------------------------
+ ___________________________________
+/ Your nature demands love and your \
+\ happiness depends on it.          /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
