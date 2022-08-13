@@ -1,10 +1,10 @@
 Last Update Time: 
-Sat Aug 13 07:57:59 UTC 2022
+Sat Aug 13 08:30:00 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: Why do WASPs play golf ? A: So they \
-\ can dress like pimps.                  /
+/ Everything that you know is wrong, but \
+\ you can be straightened out.           /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
