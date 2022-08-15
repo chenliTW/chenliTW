@@ -1,15 +1,10 @@
 Last Update Time: 
-Mon Aug 15 12:54:22 UTC 2022
+Mon Aug 15 13:41:05 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ In a museum in Havana, there are two    \
-| skulls of Christopher Columbus, "one    |
-| when he was a boy and one when he was a |
-| man."                                   |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ____________________
+< Beware of Bigfoot! >
+ --------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
