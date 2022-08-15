@@ -1,13 +1,12 @@
 Last Update Time: 
-Mon Aug 15 19:44:22 UTC 2022
+Mon Aug 15 19:56:09 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/  A man was reading The Canterbury Tales \
-| one Saturday morning, when his wife     |
-| asked "What have you got there?"        |
-\ Replied he, "Just my cup and Chaucer."  /
- -----------------------------------------
+ ________________________________________
+/ Give thought to your reputation.       \
+| Consider changing name and moving to a |
+\ new town.                              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
