@@ -1,11 +1,14 @@
 Last Update Time: 
-Wed Aug 17 11:49:20 UTC 2022
+Wed Aug 17 12:11:59 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Abandon the search for Truth; settle \
-\ for a good fantasy.                  /
- --------------------------------------
+ _______________________________________
+/ Noise proves nothing. Often a hen who \
+| has merely laid an egg cackles as if  |
+| she laid an asteroid.                 |
+|                                       |
+\ -- Mark Twain                         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
