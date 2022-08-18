@@ -1,13 +1,13 @@
 Last Update Time: 
-Thu Aug 18 16:41:47 UTC 2022
+Thu Aug 18 17:23:40 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ If two people love each other, there \
-| can be no happy end to it.           |
-|                                      |
-\ -- Ernest Hemingway                  /
- --------------------------------------
+ ________________________________________
+/ Lay on, MacDuff, and curs'd be him who \
+| first cries, "Hold, enough!".          |
+|                                        |
+\ -- Shakespeare                         /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
