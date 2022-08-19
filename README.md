@@ -1,14 +1,14 @@
 Last Update Time: 
-Fri Aug 19 13:02:02 UTC 2022
+Fri Aug 19 13:48:56 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Why is it that we rejoice at a birth   \
-| and grieve at a funeral? It is because |
-| we are not the person involved.        |
+/ My only love sprung from my only hate! \
+| Too early seen unknown, and known too  |
+| late!                                  |
 |                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
+| -- William Shakespeare, "Romeo and     |
+\ Juliet"                                /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
