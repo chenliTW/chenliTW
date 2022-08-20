@@ -1,19 +1,12 @@
 Last Update Time: 
-Sat Aug 20 09:16:45 UTC 2022
+Sat Aug 20 09:34:26 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The notes blatted skyward as they rose  \
-| over the Canada geese, feathered rumps  |
-| mooning the day, webbed appendages      |
-| frantically pedaling unseen bicycles in |
-| their search for sustenance, driven by  |
-| cruel Nature's maxim, 'Ya wanna eat, ya |
-| gotta work,' and at last I knew         |
-| Pittsburgh.                             |
-|                                         |
-| -- Winning sentence, 1987 Bulwer-Lytton |
-\ bad fiction contest.                    /
+/ Q: What do you get when you cross a     \
+| mobster with an international standard? |
+| A: You get someone who makes you an     |
+\ offer that you can't understand!        /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
