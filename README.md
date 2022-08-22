@@ -1,16 +1,13 @@
 Last Update Time: 
-Mon Aug 22 20:54:06 UTC 2022
+Mon Aug 22 21:15:45 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Remark of Dr. Baldwin's concerning  \
-| upstarts: We don't care to eat      |
-| toadstools that think they are      |
-| truffles.                           |
-|                                     |
-| -- Mark Twain, "Pudd'nhead Wilson's |
-\ Calendar"                           /
- -------------------------------------
+ _________________________________________
+/ But, for my own part, it was Greek to   \
+| me.                                     |
+|                                         |
+\ -- William Shakespeare, "Julius Caesar" /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
