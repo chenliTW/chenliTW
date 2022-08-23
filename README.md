@@ -1,14 +1,13 @@
 Last Update Time: 
-Tue Aug 23 23:25:35 UTC 2022
+Tue Aug 23 23:42:13 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ In the first place, God made idiots; \
-| this was for practice; then he made  |
-| school boards.                       |
-|                                      |
-\ -- Mark Twain                        /
- --------------------------------------
+ _________________________________________
+/ He that breaks a thing to find out what \
+| it is has left the path of wisdom.      |
+|                                         |
+\ -- J.R.R. Tolkien                       /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
