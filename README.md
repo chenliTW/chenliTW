@@ -1,20 +1,12 @@
 Last Update Time: 
-Wed Aug 24 05:25:38 UTC 2022
+Wed Aug 24 05:56:56 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ At once it struck me what quality went \
-| to form a man of achievement,          |
-| especially in literature, and which    |
-| Shakespeare possessed so enormously -- |
-| I mean negative capability, that is,   |
-| when a man is capable of being in      |
-| uncertainties, mysteries, doubts,      |
-| without any irritable reaching after   |
-| fact and reason.                       |
-|                                        |
-\ -- John Keats                          /
- ----------------------------------------
+ ______________________________________
+/ Q: How can you tell when a Burroughs \
+| salesman is lying? A: When his lips  |
+\ move.                                /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
