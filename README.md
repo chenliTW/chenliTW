@@ -1,11 +1,12 @@
 Last Update Time: 
-Wed Aug 24 20:00:02 UTC 2022
+Wed Aug 24 20:27:06 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ You've been leading a dog's life. Stay \
-\ off the furniture.                     /
- ----------------------------------------
+ _________________________________________
+/ You will lose your present job and have \
+| to become a door to door mayonnaise     |
+\ salesman.                               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
