@@ -1,13 +1,15 @@
 Last Update Time: 
-Wed Aug 24 19:22:49 UTC 2022
+Wed Aug 24 19:35:40 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Lord, what fools these mortals be! \
-|                                    |
-| -- William Shakespeare, "A         |
-\ Midsummer-Night's Dream"           /
- ------------------------------------
+ _______________________________________
+/ The difference between the right word \
+| and the almost right word is the      |
+| difference between lightning and the  |
+| lightning bug.                        |
+|                                       |
+\ -- Mark Twain                         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
