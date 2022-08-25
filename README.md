@@ -1,22 +1,14 @@
 Last Update Time: 
-Thu Aug 25 13:28:38 UTC 2022
+Thu Aug 25 13:58:54 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/  "You have heard me speak of Professor  \
-| Moriarty?"                              |
-|                                         |
-| "The famous scientific criminal, as     |
-| famous among crooks as --"              |
-|                                         |
-| "My blushes, Watson," Holmes murmured,  |
-| in a deprecating voice.                 |
-|                                         |
-| "I was about to say 'as he is unknown   |
-| to the public.'"                        |
-|                                         |
-\ -- A. Conan Doyle, "The Valley of Fear" /
- -----------------------------------------
+ _______________________________________
+/ You never have to change anything you \
+| got up in the middle of the night to  |
+| write.                                |
+|                                       |
+\ -- Saul Bellow                        /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
