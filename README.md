@@ -1,13 +1,11 @@
 Last Update Time: 
-Thu Aug 25 08:25:43 UTC 2022
+Thu Aug 25 08:49:27 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Today's weirdness is tomorrow's reason \
-| why.                                   |
-|                                        |
-\ -- Hunter S. Thompson                  /
- ----------------------------------------
+ _________________________________________
+/ Don't look now, but there is a          \
+\ multi-legged creature on your shoulder. /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
