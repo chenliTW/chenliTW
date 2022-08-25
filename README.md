@@ -1,12 +1,10 @@
 Last Update Time: 
-Thu Aug 25 15:13:56 UTC 2022
+Thu Aug 25 15:37:53 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: What happens when four WASPs find \
-| themselves in the same room? A: A    |
-\ dinner party.                        /
- --------------------------------------
+ _______________________________________
+< You will inherit millions of dollars. >
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
