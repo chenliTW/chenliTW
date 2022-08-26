@@ -1,12 +1,11 @@
 Last Update Time: 
-Fri Aug 26 20:35:00 UTC 2022
+Fri Aug 26 20:48:21 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ I have never let my schooling interfere \
-| with my education.                      |
-|                                         |
-\ -- Mark Twain                           /
+/ You are wise, witty, and wonderful, but \
+| you spend too much time reading this    |
+\ sort of trash.                          /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
