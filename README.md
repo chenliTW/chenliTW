@@ -1,10 +1,11 @@
 Last Update Time: 
-Fri Aug 26 15:59:53 UTC 2022
+Fri Aug 26 16:37:33 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-< You will be surprised by a loud noise. >
- ----------------------------------------
+ _________________________________________
+/ Your object is to save the world, while \
+\ still leading a pleasant life.          /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
