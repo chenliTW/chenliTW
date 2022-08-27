@@ -1,11 +1,11 @@
 Last Update Time: 
-Sat Aug 27 19:05:22 UTC 2022
+Sat Aug 27 19:23:24 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Avert misunderstanding by calm, poise, \
-\ and balance.                           /
- ----------------------------------------
+ _______________________________________
+/ Try to have as good a life as you can \
+\ under the circumstances.              /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
