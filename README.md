@@ -1,15 +1,29 @@
 Last Update Time: 
-Sat Aug 27 14:55:48 UTC 2022
+Sat Aug 27 15:22:57 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ O, it is excellent To have a giant's    \
-| strength; but it is tyrannous To use it |
-| like a giant.                           |
-|                                         |
-| -- Shakespeare, "Measure for Measure",  |
-\ II, 2                                   /
- -----------------------------------------
+ _______________________________________
+/ Gone With The Wind LITE(tm)           \
+|                                       |
+| -- by Margaret Mitchell               |
+|                                       |
+| A woman only likes men she can't have |
+| and the South gets trashed.           |
+|                                       |
+| Gift of the Magi LITE(tm)             |
+|                                       |
+| -- by O. Henry                        |
+|                                       |
+| A husband and wife forget to register |
+| their gift preferences.               |
+|                                       |
+| The Old Man and the Sea LITE(tm)      |
+|                                       |
+| -- by Ernest Hemingway                |
+|                                       |
+| An old man goes fishing, but doesn't  |
+\ have much luck.                       /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
