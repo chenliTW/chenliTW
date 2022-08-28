@@ -1,13 +1,10 @@
 Last Update Time: 
-Sun Aug 28 16:52:13 UTC 2022
+Sun Aug 28 17:14:55 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Familiarity breeds contempt -- and \
-| children.                          |
-|                                    |
-\ -- Mark Twain                      /
- ------------------------------------
+ ________________________
+< Be different: conform. >
+ ------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
