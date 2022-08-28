@@ -1,13 +1,14 @@
 Last Update Time: 
-Sun Aug 28 09:30:10 UTC 2022
+Sun Aug 28 09:45:11 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Things past redress and now with me  \
-| past care.                           |
-|                                      |
-\ -- William Shakespeare, "Richard II" /
- --------------------------------------
+ ________________________________________
+/ Q: Why haven't you graduated yet? A:   \
+| Well, Dad, I could have finished years |
+| ago, but I wanted                      |
+|                                        |
+\ my dissertation to rhyme.              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
