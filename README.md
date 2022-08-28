@@ -1,11 +1,11 @@
 Last Update Time: 
-Sun Aug 28 21:24:10 UTC 2022
+Sun Aug 28 21:40:31 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ You're a card which will have to be \
-\ dealt with.                         /
- -------------------------------------
+ ___________________________________
+/ You will gain money by an illegal \
+\ action.                           /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
