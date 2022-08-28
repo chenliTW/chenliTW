@@ -1,10 +1,10 @@
 Last Update Time: 
-Sun Aug 28 13:53:07 UTC 2022
+Sun Aug 28 14:13:43 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-< If you can read this, you're too close. >
- -----------------------------------------
+ ________________________________
+< You will be run over by a bus. >
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
