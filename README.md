@@ -1,13 +1,11 @@
 Last Update Time: 
-Sun Aug 28 06:17:13 UTC 2022
+Sun Aug 28 06:42:29 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Truth is the most valuable thing we \
-| have -- so let us economize it.     |
-|                                     |
-\ -- Mark Twain                       /
- -------------------------------------
+ _______________________________________
+/ Q: Why don't lawyers go to the beach? \
+\ A: The cats keep trying to bury them. /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
