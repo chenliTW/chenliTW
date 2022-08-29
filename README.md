@@ -1,10 +1,18 @@
 Last Update Time: 
-Mon Aug 29 14:33:37 UTC 2022
+Mon Aug 29 14:46:15 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ You will obey or molten silver will be \
-\ poured into your ears.                 /
+/ We know all about the habits of the    \
+| ant, we know all about the habits of   |
+| the bee, but we know nothing at all    |
+| about the habits of the oyster. It     |
+| seems almost certain that we have been |
+| choosing the wrong time for studying   |
+| the oyster.                            |
+|                                        |
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
