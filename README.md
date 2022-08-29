@@ -1,10 +1,12 @@
 Last Update Time: 
-Mon Aug 29 17:32:16 UTC 2022
+Mon Aug 29 17:48:08 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ If you stand on your head, you will get \
-\ footprints in your hair.                /
+/ Q: "What is the burning question on the \
+| mind of every dyslexic                  |
+|                                         |
+\ existentialist?" A: "Is there a dog?"   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
