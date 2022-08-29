@@ -1,14 +1,12 @@
 Last Update Time: 
-Mon Aug 29 20:36:35 UTC 2022
+Mon Aug 29 20:50:11 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ A hundred years from now it is very     \
-| likely that [of Twain's works] "The     |
-| Jumping Frog" alone will be remembered. |
+/ I have never let my schooling interfere \
+| with my education.                      |
 |                                         |
-| -- Harry Thurston Peck (Editor of "The  |
-\ Bookman"), January 1901.                /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
