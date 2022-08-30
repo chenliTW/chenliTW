@@ -1,12 +1,13 @@
 Last Update Time: 
-Tue Aug 30 08:57:36 UTC 2022
+Tue Aug 30 09:24:59 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: What do you have when you have a   \
-| lawyer buried up to his neck in sand? |
-\ A: Not enough sand.                   /
- ---------------------------------------
+ ________________________________________
+/ Writing is turning one's worst moments \
+| into money.                            |
+|                                        |
+\ -- J.P. Donleavy                       /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
