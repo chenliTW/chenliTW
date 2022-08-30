@@ -1,10 +1,11 @@
 Last Update Time: 
-Tue Aug 30 19:53:39 UTC 2022
+Tue Aug 30 20:17:58 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ______________________________________
-/ You'd like to do it instantaneously, \
-\ but that's too slow.                 /
+/ You'll never see all the places, or  \
+| read all the books, but fortunately, |
+\ they're not all recommended.         /
  --------------------------------------
         \   ^__^
          \  (oo)\_______
