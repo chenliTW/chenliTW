@@ -1,12 +1,17 @@
 Last Update Time: 
-Wed Aug 31 04:37:36 UTC 2022
+Wed Aug 31 06:12:40 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: What do agnostic, insomniac       \
-| dyslexics do at night? A: Stay awake |
-\ and wonder if there's a dog.         /
- --------------------------------------
+ _________________________________________
+/ Q: How do you shoot a blue elephant? A: \
+| With a blue-elephant gun.               |
+|                                         |
+| Q: How do you shoot a pink elephant? A: |
+| Twist its trunk until it turns blue,    |
+| then shoot it with                      |
+|                                         |
+\ a blue-elephant gun.                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
