@@ -1,21 +1,13 @@
 Last Update Time: 
-Thu Sep  1 07:44:28 UTC 2022
+Thu Sep  1 07:56:21 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How many DEC repairman does it take \
-| to fix a flat? A: Five; four to hold   |
-| the car up and one to swap tires.      |
-|                                        |
-| Q: How long does it take? A: It's      |
-| indeterminate.                         |
-|                                        |
-| It will depend upon how many flats     |
-| they've brought with them.             |
-|                                        |
-| Q: What happens if you've got TWO      |
-\ flats? A: They replace your generator. /
- ----------------------------------------
+ _________________________________________
+/ But, for my own part, it was Greek to   \
+| me.                                     |
+|                                         |
+\ -- William Shakespeare, "Julius Caesar" /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
