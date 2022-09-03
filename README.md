@@ -1,12 +1,13 @@
 Last Update Time: 
-Sat Sep  3 11:34:25 UTC 2022
+Sat Sep  3 11:46:12 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What do Winnie the Pooh and John the \
-| Baptist have in common? A: The same     |
-\ middle name.                            /
- -----------------------------------------
+ ________________________________________
+/ Q: How many college football players   \
+| does it take to screw in a light bulb? |
+| A: Only one, but he gets three credits |
+\ for it.                                /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
