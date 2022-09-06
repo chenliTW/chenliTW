@@ -1,11 +1,10 @@
 Last Update Time: 
-Tue Sep  6 18:46:52 UTC 2022
+Tue Sep  6 19:00:11 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What's tan and black and looks great \
-\ on a lawyer? A: A doberman.             /
- -----------------------------------------
+ ____________________________
+< Just to have it is enough. >
+ ----------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
