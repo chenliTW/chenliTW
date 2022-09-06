@@ -1,12 +1,10 @@
 Last Update Time: 
-Tue Sep  6 11:44:38 UTC 2022
+Tue Sep  6 11:56:30 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You will stop at nothing to reach your  \
-| objective, but only because your brakes |
-\ are defective.                          /
- -----------------------------------------
+ ___________________________________
+< You may be recognized soon. Hide. >
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
