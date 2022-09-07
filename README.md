@@ -1,28 +1,42 @@
 Last Update Time: 
-Wed Sep  7 15:50:12 UTC 2022
+Wed Sep  7 16:09:42 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How many elephants can you fit in a \
-| VW Bug? A: Four. Two in the front, two |
-| in the back.                           |
-|                                        |
-| Q: How can you tell if an elephant is  |
-| in your refrigerator? A: There's a     |
-| footprint in the mayo.                 |
-|                                        |
-| Q: How can you tell if two elephants   |
-| are in your refrigerator? A: There's   |
-| two footprints in the mayo.            |
-|                                        |
-| Q: How can you tell if three elephants |
-| are in your refrigerator? A: The door  |
-| won't shut.                            |
-|                                        |
-| Q: How can you tell if four elephants  |
-| are in your refrigerator? A: There's a |
-\ VW Bug in your driveway.               /
- ----------------------------------------
+ _________________________________________
+/ The Bulwer-Lytton fiction contest is    \
+| held ever year at San Jose State Univ.  |
+| by Professor Scott Rice. It is held in  |
+| memory of Edward George Earle           |
+| Bulwer-Lytton (1803-1873), a rather     |
+| prolific and popular (in his time)      |
+| novelist. He is best known today for    |
+| having written "The Last Days of        |
+| Pompeii."                               |
+|                                         |
+| Whenever Snoopy starts typing his novel |
+| from the top of his doghouse, beginning |
+| "It was a dark and stormy night..." he  |
+| is borrowing from Lord Bulwer-Lytton.   |
+| This was the line that opened his       |
+| novel, "Paul Clifford," written in      |
+| 1830. The full line reveals why it is   |
+| so bad:                                 |
+|                                         |
+| It was a dark and stormy night; the     |
+| rain fell in torrents -- except         |
+|                                         |
+| at occasional intervals, when it was    |
+| checked by a violent gust of            |
+|                                         |
+| wind which swept up the streets (for it |
+| is in London that our scene             |
+|                                         |
+| lies), rattling along the housetops,    |
+| and fiercely agitating the scanty       |
+|                                         |
+| flame of the lamps that struggled       |
+\ against the darkness.                   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
