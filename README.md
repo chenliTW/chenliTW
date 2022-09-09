@@ -1,15 +1,11 @@
 Last Update Time: 
-Fri Sep  9 14:40:46 UTC 2022
+Fri Sep  9 14:55:12 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ There is no hunting like the hunting of \
-| man, and those who have hunted armed    |
-| men long enough and liked it, never     |
-| care for anything else thereafter.      |
-|                                         |
-\ -- Ernest Hemingway                     /
- -----------------------------------------
+ ___________________________
+/ You will live to see your \
+\ grandchildren.            /
+ ---------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
