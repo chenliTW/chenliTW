@@ -1,22 +1,14 @@
 Last Update Time: 
-Tue Sep 13 21:56:59 UTC 2022
+Tue Sep 13 22:28:16 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Even the clearest and most perfect      \
-| circumstantial evidence is likely to be |
-| at fault, after all, and therefore      |
-| ought to be received with great         |
-| caution. Take the case of any pencil,   |
-| sharpened by any woman; if you have     |
-| witnesses, you will find she did it     |
-| with a knife; but if you take simply    |
-| the aspect of the pencil, you will say  |
-| that she did it with her teeth.         |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
- -----------------------------------------
+ _______________________________________
+/ Q: What do you call the money you pay \
+| to the government when                |
+|                                       |
+| you ride into the country on the back |
+\ of an elephant? A: A howdah duty.     /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
