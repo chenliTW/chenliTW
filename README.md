@@ -1,11 +1,12 @@
 Last Update Time: 
-Thu Sep 15 10:55:45 UTC 2022
+Thu Sep 15 11:21:26 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- __________________________________
-/ You will overcome the attacks of \
-\ jealous associates.              /
- ----------------------------------
+ ______________________________________
+/ Q: How did you get into artificial   \
+| intelligence? A: Seemed logical -- I |
+\ didn't have any real intelligence.   /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
