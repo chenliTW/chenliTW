@@ -1,15 +1,11 @@
 Last Update Time: 
-Thu Sep 15 10:40:48 UTC 2022
+Thu Sep 15 10:55:45 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ There is always one thing to remember: \
-| writers are always selling somebody    |
-| out.                                   |
-|                                        |
-| -- Joan Didion, "Slouching Towards     |
-\ Bethlehem"                             /
- ----------------------------------------
+ __________________________________
+/ You will overcome the attacks of \
+\ jealous associates.              /
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
