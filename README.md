@@ -1,14 +1,10 @@
 Last Update Time: 
-Fri Sep 16 09:32:12 UTC 2022
+Fri Sep 16 09:51:34 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Many a writer seems to think he is  \
-| never profound except when he can't |
-| understand his own meaning.         |
-|                                     |
-\ -- George D. Prentice               /
- -------------------------------------
+ _______________________________________
+< Are you sure the back door is locked? >
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
