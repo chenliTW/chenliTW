@@ -1,16 +1,21 @@
 Last Update Time: 
-Sun Sep 18 09:35:11 UTC 2022
+Sun Sep 18 09:50:40 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Training is everything. The peach was \
-| once a bitter almond; cauliflower is  |
-| nothing but cabbage with a college    |
-| education.                            |
-|                                       |
-| -- Mark Twain, "Pudd'nhead Wilson's   |
-\ Calendar"                             /
- ---------------------------------------
+ _________________________________________
+/ Q: How many existentialists does it     \
+| take to screw in a light bulb? A: Two.  |
+| One to screw it in and one to observe   |
+| how the light bulb                      |
+|                                         |
+| itself symbolizes a single incandescent |
+| beacon of subjective                    |
+|                                         |
+| reality in a netherworld of endless     |
+| absurdity reaching out toward a         |
+|                                         |
+\ maudlin cosmos of nothingness.          /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
