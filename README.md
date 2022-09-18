@@ -1,12 +1,11 @@
 Last Update Time: 
-Sun Sep 18 11:45:27 UTC 2022
+Sun Sep 18 11:57:26 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ______________________________________
-/ Go not to the elves for counsel, for \
-| they will say both yes and no.       |
-|                                      |
-\ -- J.R.R. Tolkien                    /
+/ Your motives for doing whatever good \
+| deed you may have in mind will be    |
+\ misinterpreted by somebody.          /
  --------------------------------------
         \   ^__^
          \  (oo)\_______
