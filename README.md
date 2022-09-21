@@ -1,14 +1,13 @@
 Last Update Time: 
-Wed Sep 21 19:43:34 UTC 2022
+Wed Sep 21 19:55:22 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ The naked truth of it is, I have no \
-| shirt.                              |
-|                                     |
-| -- William Shakespeare, "Love's     |
-\ Labour's Lost"                      /
- -------------------------------------
+ ________________________________________
+/ Q: How many college football players   \
+| does it take to screw in a light bulb? |
+| A: Only one, but he gets three credits |
+\ for it.                                /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
