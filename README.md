@@ -1,16 +1,16 @@
 Last Update Time: 
-Fri Sep 23 09:56:14 UTC 2022
+Fri Sep 23 10:29:13 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Swerve me? The path to my fixed purpose \
-| is laid with iron rails, whereon my     |
-| soul is grooved to run. Over unsounded  |
-| gorges, through the rifled hearts of    |
-| mountains, under torrents' beds,        |
-| unerringly I rush!                      |
+/ The holy passion of Friendship is of so \
+| sweet and steady and loyal and enduring |
+| a nature that it will last through a    |
+| whole lifetime, if not asked to lend    |
+| money.                                  |
 |                                         |
-\ -- Captain Ahab, "Moby Dick"            /
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
