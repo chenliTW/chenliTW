@@ -1,21 +1,50 @@
 Last Update Time: 
-Sat Sep 24 14:24:56 UTC 2022
+Sat Sep 24 14:42:11 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ There are three infallible ways of      \
-| pleasing an author, and the three form  |
-| a rising scale of compliment: 1, to     |
-| tell him you have read one of his       |
-| books; 2, to tell him you have read all |
-| of his books; 3, to ask him to let you  |
-| read the manuscript of his forthcoming  |
-| book. No. 1 admits you to his respect;  |
-| No. 2 admits you to his admiration; No. |
-| 3 carries you clear into his heart.     |
+/ We were young and our happiness dazzled \
+| us with its strength. But there was     |
+| also a terrible betrayal that lay       |
+| within me like a Merle Haggard song at  |
+| a French restaurant. [...]              |
 |                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
+| I could not tell the girl about the     |
+| woman of the tollway, of her milk white |
+| BMW and her Jordache smile. There had   |
+| been a fight. I had punched her         |
+| boyfriend, who fought the mechanical    |
+| bulls. Everyone told him, "You ride the |
+| bull, senor. You do not fight it." But  |
+| he was lean and tough like a bad        |
+| rib-eye and he fought the bull. And     |
+| then he fought me. And when we finished |
+| there were no winners, just men doing   |
+| what men must do. [...]                 |
+|                                         |
+| "Stop the car," the girl said.          |
+|                                         |
+| There was a look of terrible sadness in |
+| her eyes. She knew about the woman of   |
+| the tollway. I knew not how. I started  |
+| to speak, but she raised an arm and     |
+| spoke with a quiet and peace I will     |
+| never forget.                           |
+|                                         |
+| "I do not ask for whom's the tollway    |
+| belle," she said, "the tollway belle's  |
+| for thee."                              |
+|                                         |
+| The next morning our youth was a        |
+| memory, and our happiness was a lie.    |
+| Life is like a bad margarita with good  |
+| tequila, I thought as I poured whiskey  |
+| onto my granola and faced a new day.    |
+|                                         |
+| -- Peter Applebome, International       |
+| Imitation Hemingway                     |
+|                                         |
+\ Competition                             /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
