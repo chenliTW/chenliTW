@@ -1,14 +1,15 @@
 Last Update Time: 
-Sun Sep 25 13:01:13 UTC 2022
+Sun Sep 25 13:42:26 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ The devil can cite Scripture for his  \
-| purpose.                              |
-|                                       |
-| -- William Shakespeare, "The Merchant |
-\ of Venice"                            /
- ---------------------------------------
+ ________________________________________
+/ My only love sprung from my only hate! \
+| Too early seen unknown, and known too  |
+| late!                                  |
+|                                        |
+| -- William Shakespeare, "Romeo and     |
+\ Juliet"                                /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
