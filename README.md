@@ -1,20 +1,12 @@
 Last Update Time: 
-Sun Sep 25 09:53:16 UTC 2022
+Sun Sep 25 10:19:07 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ October.                                \
-|                                         |
-| This is one of the peculiarly dangerous |
-| months to speculate in stocks in.       |
-|                                         |
-| The others are July, January,           |
-| September, April, November, May, March, |
-| June, December, August, and February.   |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
- -----------------------------------------
+ ______________________________________
+/ Q: How did you get into artificial   \
+| intelligence? A: Seemed logical -- I |
+\ didn't have any real intelligence.   /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
