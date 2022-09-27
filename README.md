@@ -1,18 +1,14 @@
 Last Update Time: 
-Tue Sep 27 02:24:24 UTC 2022
+Tue Sep 27 04:20:41 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ You mentioned your name as if I should \
-| recognize it, but beyond the obvious   |
-| facts that you are a bachelor, a       |
-| solicitor, a freemason, and an         |
-| asthmatic, I know nothing whatever     |
-| about you.                             |
-|                                        |
-| -- Sherlock Holmes, "The Norwood       |
-\ Builder"                               /
- ----------------------------------------
+ _______________________________________
+/ Few things are harder to put up with  \
+| than the annoyance of a good example. |
+|                                       |
+| -- "Mark Twain, Pudd'nhead Wilson's   |
+\ Calendar"                             /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
