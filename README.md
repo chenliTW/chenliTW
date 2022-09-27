@@ -1,13 +1,16 @@
 Last Update Time: 
-Tue Sep 27 11:45:45 UTC 2022
+Tue Sep 27 11:57:28 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- __________________________________
-/ Wagner's music is better than it \
-| sounds.                          |
-|                                  |
-\ -- Mark Twain                    /
- ----------------------------------
+ _______________________________________
+/ Training is everything. The peach was \
+| once a bitter almond; cauliflower is  |
+| nothing but cabbage with a college    |
+| education.                            |
+|                                       |
+| -- Mark Twain, "Pudd'nhead Wilson's   |
+\ Calendar"                             /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
