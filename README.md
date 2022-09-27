@@ -1,21 +1,11 @@
 Last Update Time: 
-Tue Sep 27 15:34:32 UTC 2022
+Tue Sep 27 15:57:31 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/  "You have heard me speak of Professor  \
-| Moriarty?"                              |
+/ The better part of valor is discretion. \
 |                                         |
-| "The famous scientific criminal, as     |
-| famous among crooks as --"              |
-|                                         |
-| "My blushes, Watson," Holmes murmured,  |
-| in a deprecating voice.                 |
-|                                         |
-| "I was about to say 'as he is unknown   |
-| to the public.'"                        |
-|                                         |
-\ -- A. Conan Doyle, "The Valley of Fear" /
+\ -- William Shakespeare, "Henry IV"      /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
