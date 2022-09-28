@@ -1,13 +1,11 @@
 Last Update Time: 
-Wed Sep 28 19:52:11 UTC 2022
+Wed Sep 28 20:17:12 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ I think we are in Rats' Alley where the \
-| dead men lost their bones.              |
-|                                         |
-\ -- T.S. Eliot                           /
- -----------------------------------------
+ ______________________________________
+/ Q: What's a light-year? A: One-third \
+\ less calories than a regular year.   /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
