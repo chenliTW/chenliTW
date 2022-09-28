@@ -1,12 +1,12 @@
 Last Update Time: 
-Wed Sep 28 11:30:53 UTC 2022
+Wed Sep 28 11:48:03 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Q: Why did the astrophysicist order \
-| three hamburgers? A: Because he was |
-\ hungry.                             /
- -------------------------------------
+ ______________________________________
+/ Q: What happens when four WASPs find \
+| themselves in the same room? A: A    |
+\ dinner party.                        /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
