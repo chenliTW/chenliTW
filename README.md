@@ -1,14 +1,11 @@
 Last Update Time: 
-Wed Sep 28 19:19:42 UTC 2022
+Wed Sep 28 19:38:57 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Don't go around saying the world owes \
-| you a living. The world owes you      |
-| nothing. It was here first.           |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ ____________________________________
+/ Q: What is orange and goes "click, \
+\ click?" A: A ball point carrot.    /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
