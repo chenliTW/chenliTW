@@ -1,16 +1,10 @@
 Last Update Time: 
-Thu Sep 29 13:33:46 UTC 2022
+Thu Sep 29 14:15:53 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/  You will remember, Watson, how the     \
-| dreadful business of the Abernetty      |
-| family was first brought to my notice   |
-| by the depth which the parsley had sunk |
-| into the butter upon a hot day.         |
-|                                         |
-\ -- Sherlock Holmes                      /
- -----------------------------------------
+ _______________________________
+< Keep it short for pithy sake. >
+ -------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
