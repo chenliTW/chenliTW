@@ -1,18 +1,11 @@
 Last Update Time: 
-Fri Sep 30 10:40:31 UTC 2022
+Fri Sep 30 10:58:04 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________
-/ To be or not to be.            \
-|                                |
-| -- Shakespeare To do is to be. |
-|                                |
-| -- Nietzsche To be is to do.   |
-|                                |
-| -- Sartre Do be do be do.      |
-|                                |
-\ -- Sinatra                     /
- --------------------------------
+ ______________________________________
+/ You like to form new friendships and \
+\ make new acquaintances.              /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
