@@ -1,13 +1,11 @@
 Last Update Time: 
-Mon Oct  3 22:38:45 UTC 2022
+Mon Oct  3 22:56:50 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Suspicion always haunts the guilty \
-| mind.                              |
-|                                    |
-\ -- Wm. Shakespeare                 /
- ------------------------------------
+ _______________________________________
+/ You will give someone a piece of your \
+\ mind, which you can ill afford.       /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
