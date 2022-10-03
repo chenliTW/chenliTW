@@ -1,11 +1,13 @@
 Last Update Time: 
-Mon Oct  3 17:01:11 UTC 2022
+Mon Oct  3 17:50:01 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ What no spouse of a writer can ever    \
-| understand is that a writer is working |
-\ when he's staring out the window.      /
+/ No group of professionals meets except \
+| to conspire against the public at      |
+| large.                                 |
+|                                        |
+\ -- Mark Twain                          /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
