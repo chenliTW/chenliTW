@@ -1,13 +1,15 @@
 Last Update Time: 
-Mon Oct  3 02:25:16 UTC 2022
+Mon Oct  3 03:47:03 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ There is a great discovery still to be \
-| made in Literature: that of paying     |
-| literary men by the quantity they do   |
-\ NOT write.                             /
- ----------------------------------------
+ _________________________________________
+/ Q: Why is it that the more accuracy you \
+| demand from an interpolation            |
+|                                         |
+| function, the more expensive it becomes |
+| to compute? A: That's the Law of Spline |
+\ Demand.                                 /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
