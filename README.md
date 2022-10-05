@@ -1,12 +1,11 @@
 Last Update Time: 
-Wed Oct  5 08:36:00 UTC 2022
+Wed Oct  5 08:59:24 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Q: How do you stop an elephant from \
-| charging? A: Take away his credit   |
-\ cards.                              /
- -------------------------------------
+ _________________________________________
+/ Of course you have a purpose -- to find \
+\ a purpose.                              /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
