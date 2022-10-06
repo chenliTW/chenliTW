@@ -1,13 +1,14 @@
 Last Update Time: 
-Thu Oct  6 15:59:23 UTC 2022
+Thu Oct  6 16:48:39 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ There is no distinctly native American \
-| criminal class except Congress.        |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ ______________________________________
+/ Tell the truth or trump--but get the \
+| trick.                               |
+|                                      |
+| -- Mark Twain, "Pudd'nhead Wilson's  |
+\ Calendar"                            /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
