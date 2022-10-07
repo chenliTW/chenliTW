@@ -1,14 +1,12 @@
 Last Update Time: 
-Fri Oct  7 11:00:14 UTC 2022
+Fri Oct  7 11:29:59 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Many a writer seems to think he is  \
-| never profound except when he can't |
-| understand his own meaning.         |
-|                                     |
-\ -- George D. Prentice               /
- -------------------------------------
+ ______________________________________
+/ Your motives for doing whatever good \
+| deed you may have in mind will be    |
+\ misinterpreted by somebody.          /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
