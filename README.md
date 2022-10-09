@@ -1,11 +1,10 @@
 Last Update Time: 
-Sun Oct  9 21:25:49 UTC 2022
+Sun Oct  9 21:46:11 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Your true value depends entirely on \
-\ what you are compared with.         /
- -------------------------------------
+ _________________
+< Stay the curse. >
+ -----------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
