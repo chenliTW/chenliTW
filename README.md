@@ -1,19 +1,47 @@
 Last Update Time: 
-Mon Oct 10 21:54:47 UTC 2022
+Mon Oct 10 22:24:39 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The camel died quite suddenly on the    \
-| second day, and Selena fretted sullenly |
-| and, buffing her already impeccable     |
-| nails -- not for the first time since   |
-| the journey begain -- pondered snidely  |
-| if this would dissolve into a vignette  |
-| of minor inconveniences like all the    |
-| other holidays spent with Basil.        |
+/ Like an expensive sports car,           \
+| fine-tuned and well-built, Portia was   |
+| sleek, shapely, and gorgeous, her red   |
+| jumpsuit moulding her body, which was   |
+| as warm as seatcovers in July, her hair |
+| as dark as new tires, her eyes flashing |
+| like bright hubcaps, and her lips as    |
+| dewy as the beads of fresh rain on the  |
+| hood; she was a woman driven -- fueled  |
+| by a single accelerant -- and she       |
+| needed a man, a man who wouldn't shift  |
+| from his views, a man to steer her      |
+| along the right road: a man like Alf    |
+| Romeo.                                  |
 |                                         |
-| -- Winning sentence, 1983 Bulwer-Lytton |
-\ bad fiction contest.                    /
+| -- Rachel Sheeley, winner               |
+|                                         |
+| The hair ball blocking the drain of the |
+| shower reminded Laura she would never   |
+| see her little dog Pritzi again.        |
+|                                         |
+| -- Claudia Fields, runner-up            |
+|                                         |
+| It could have been an organically based |
+| disturbance of the brain -- perhaps a   |
+| tumor or a metabolic deficiency -- but  |
+| after a thorough neurological exam it   |
+| was determined that Byron was simply a  |
+| jerk.                                   |
+|                                         |
+| -- Jeff Jahnke, runner-up               |
+|                                         |
+| Winners in the 7th Annual Bulwer-Lytton |
+| Bad Writing Contest. The contest is     |
+| named after the author of the immortal  |
+| lines: "It was a dark and stormy        |
+| night." The object of the contest is to |
+| write the opening sentence of the worst |
+\ possible novel.                         /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
