@@ -1,13 +1,14 @@
 Last Update Time: 
-Mon Oct 10 00:00:13 UTC 2022
+Mon Oct 10 02:48:59 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: How many IBM CPU's does it take to \
-| do a logical right shift? A: 33. 1 to |
-| hold the bits and 32 to push the      |
-\ register.                             /
- ---------------------------------------
+ ___________________________________
+/ "... an experienced, industrious, \
+| ambitious, and often quite often  |
+| picturesque liar."                |
+|                                   |
+\ -- Mark Twain                     /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
