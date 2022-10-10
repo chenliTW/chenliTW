@@ -1,22 +1,22 @@
 Last Update Time: 
-Mon Oct 10 15:37:37 UTC 2022
+Mon Oct 10 15:59:53 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Mind! I don't mean to say that I know,  \
-| of my own knowledge, what there is      |
-| particularly dead about a door-nail. I  |
-| might have been inclined, myself, to    |
-| regard a coffin-nail as the deadest     |
-| piece of ironmongery in the trade. But  |
-| the wisdom of our ancestors is in the   |
-| simile; and my unhallowed hands shall   |
-| not disturb it, or the Country's done   |
-| for. You will therefore permit me to    |
-| repeat, emphatically, that Marley was   |
-| as dead as a door-nail.                 |
+/ "What's this? Trix? Aunt! Trix? You?    \
+| You're after the prize! What is it?" He |
+| picked up the box and studied the back. |
+| "A glow-in-the-dark squid! Have you got |
+| it out of there yet?" He tilted the     |
+| box, angling the little colored balls   |
+| of cereal so as to see the bottom, and  |
+| nearly spilling them onto the table     |
+| top. "Here it is!" He hauled out a      |
+| little cream-colored, glitter-sprinkled |
+| squid, three-inches long and made out   |
+| of rubbery plastic.                     |
 |                                         |
-\ -- Charles Dickens, "A Christmas Carol" /
+\ -- James P. Blaylock, "The Last Coin"   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
