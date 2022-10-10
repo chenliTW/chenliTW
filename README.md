@@ -1,11 +1,15 @@
 Last Update Time: 
-Mon Oct 10 06:44:02 UTC 2022
+Mon Oct 10 07:25:14 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Your reasoning powers are good, and you \
-\ are a fairly good planner.              /
- -----------------------------------------
+ ______________________________________
+/ F.S. Fitzgerald to Hemingway:        \
+|                                      |
+| "Ernest, the rich are different from |
+| us." Hemingway:                      |
+|                                      |
+\ "Yes. They have more money."         /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
