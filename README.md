@@ -1,25 +1,22 @@
 Last Update Time: 
-Mon Oct 10 15:01:49 UTC 2022
+Mon Oct 10 15:37:37 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many Californians does it take   \
-| to screw in a light bulb? A: Five. One  |
-| to screw in the light bulb and four to  |
-| share the                               |
+/ Mind! I don't mean to say that I know,  \
+| of my own knowledge, what there is      |
+| particularly dead about a door-nail. I  |
+| might have been inclined, myself, to    |
+| regard a coffin-nail as the deadest     |
+| piece of ironmongery in the trade. But  |
+| the wisdom of our ancestors is in the   |
+| simile; and my unhallowed hands shall   |
+| not disturb it, or the Country's done   |
+| for. You will therefore permit me to    |
+| repeat, emphatically, that Marley was   |
+| as dead as a door-nail.                 |
 |                                         |
-| experience. (Actually, Californians     |
-| don't screw in                          |
-|                                         |
-| light bulbs, they screw in hot tubs.)   |
-|                                         |
-| Q: How many Oregonians does it take to  |
-| screw in a light bulb? A: Three. One to |
-| screw in the light bulb and two to fend |
-| off all                                 |
-|                                         |
-| those Californians trying to share the  |
-\ experience.                             /
+\ -- Charles Dickens, "A Christmas Carol" /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
