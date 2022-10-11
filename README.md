@@ -1,18 +1,17 @@
 Last Update Time: 
-Tue Oct 11 17:37:21 UTC 2022
+Tue Oct 11 17:58:42 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ "I wonder", he said to himself, "what's \
-| in a book while it's closed. Oh, I know |
-| it's full of letters printed on paper,  |
-| but all the same, something must be     |
-| happening, because as soon as I open    |
-| it, there's a whole story with people I |
-| don't know yet and all kinds of         |
-| adventures and battles."                |
+/ The only people for me are the mad ones \
+| -- the ones who are mad to live, mad to |
+| talk, mad to be saved, desirous of      |
+| everything at the same time, the ones   |
+| who never yawn or say a commonplace     |
+| thing, but burn, burn, burn like        |
+| fabulous yellow Roman candles.          |
 |                                         |
-\ -- Bastian B. Bux                       /
+\ -- Jack Kerouac, "On the Road"          /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
