@@ -1,13 +1,22 @@
 Last Update Time: 
-Wed Oct 12 11:59:31 UTC 2022
+Wed Oct 12 13:00:30 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ The smallest worm will turn being  \
-| trodden on.                        |
-|                                    |
-\ -- William Shakespeare, "Henry VI" /
- ------------------------------------
+ _________________________________________
+/ For the fashion of Minas Tirith was     \
+| such that it was built on seven levels, |
+| each delved into a hill, and about each |
+| was set a wall, and in each wall was a  |
+| gate.                                   |
+|                                         |
+| -- J.R.R. Tolkien, "The Return of the   |
+| King"                                   |
+|                                         |
+| [Quoted in "VMS Internals and Data      |
+| Structures", V4.4, when                 |
+|                                         |
+\ referring to system overview.]          /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
