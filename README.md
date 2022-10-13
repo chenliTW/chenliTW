@@ -1,15 +1,11 @@
 Last Update Time: 
-Thu Oct 13 14:03:06 UTC 2022
+Thu Oct 13 14:37:16 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ It were not best that we should all \
-| think alike; it is difference of    |
-| opinion that makes horse-races.     |
-|                                     |
-| -- Mark Twain, "Pudd'nhead Wilson's |
-\ Calendar"                           /
- -------------------------------------
+ ________________________________________
+/ You will become rich and famous unless \
+\ you don't.                             /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
