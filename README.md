@@ -1,11 +1,10 @@
 Last Update Time: 
-Fri Oct 14 19:27:42 UTC 2022
+Fri Oct 14 19:45:04 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Do what comes naturally. Seethe and \
-\ fume and throw a tantrum.           /
- -------------------------------------
+ _________________________________________
+< Day of inquiry. You will be subpoenaed. >
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
