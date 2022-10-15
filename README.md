@@ -1,13 +1,12 @@
 Last Update Time: 
-Sat Oct 15 13:45:08 UTC 2022
+Sat Oct 15 14:05:30 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Rebellion lay in his way, and he found \
-| it.                                    |
-|                                        |
-\ -- William Shakespeare, "Henry IV"     /
- ----------------------------------------
+ _______________________________________
+/ You can create your own opportunities \
+| this week. Blackmail a senior         |
+\ executive.                            /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
