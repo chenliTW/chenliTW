@@ -1,15 +1,12 @@
 Last Update Time: 
-Sat Oct 15 07:33:32 UTC 2022
+Sat Oct 15 07:51:05 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ It were not best that we should all \
-| think alike; it is difference of    |
-| opinion that makes horse-races.     |
-|                                     |
-| -- Mark Twain, "Pudd'nhead Wilson's |
-\ Calendar"                           /
- -------------------------------------
+ ______________________________________
+/ Having nothing, nothing can he lose. \
+|                                      |
+\ -- William Shakespeare, "Henry VI"   /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
