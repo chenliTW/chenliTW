@@ -1,11 +1,11 @@
 Last Update Time: 
-Sun Oct 16 03:09:34 UTC 2022
+Sun Oct 16 04:47:47 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Your society will be sought by people \
-\ of taste and refinement.              /
- ---------------------------------------
+ _________________________________________
+/ Your object is to save the world, while \
+\ still leading a pleasant life.          /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
