@@ -1,14 +1,14 @@
 Last Update Time: 
-Tue Oct 18 07:05:42 UTC 2022
+Tue Oct 18 07:50:34 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ "You have been in Afghanistan, I       \
-| perceive."                             |
-|                                        |
-| -- Sir Arthur Conan Doyle, "A Study in |
-\ Scarlet"                               /
- ----------------------------------------
+ _______________________________________
+/ Don't go around saying the world owes \
+| you a living. The world owes you      |
+| nothing. It was here first.           |
+|                                       |
+\ -- Mark Twain                         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
