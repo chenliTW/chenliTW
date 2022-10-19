@@ -1,17 +1,11 @@
 Last Update Time: 
-Wed Oct 19 11:38:42 UTC 2022
+Wed Oct 19 11:53:33 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Swerve me? The path to my fixed purpose \
-| is laid with iron rails, whereon my     |
-| soul is grooved to run. Over unsounded  |
-| gorges, through the rifled hearts of    |
-| mountains, under torrents' beds,        |
-| unerringly I rush!                      |
-|                                         |
-\ -- Captain Ahab, "Moby Dick"            /
- -----------------------------------------
+ ________________________________
+/ Never look up when dragons fly \
+\ overhead.                      /
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
