@@ -1,14 +1,12 @@
 Last Update Time: 
-Sat Oct 22 22:13:57 UTC 2022
+Sat Oct 22 22:41:33 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What do you call a principal female  \
-| opera singer whose high C               |
-|                                         |
-| is lower than those of other principal  |
-\ female opera singers? A: A deep C diva. /
- -----------------------------------------
+ _____________________________________
+/ You have the body of a 19 year old. \
+| Please return it before it gets     |
+\ wrinkled.                           /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
