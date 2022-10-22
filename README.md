@@ -1,15 +1,11 @@
 Last Update Time: 
-Sat Oct 22 15:31:10 UTC 2022
+Sat Oct 22 15:54:21 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Writing is easy; all you do is sit  \
-| staring at the blank sheet of paper |
-| until drops of blood form on your   |
-| forehead.                           |
-|                                     |
-\ -- Gene Fowler                      /
- -------------------------------------
+ _________________________________________
+/ If you stand on your head, you will get \
+\ footprints in your hair.                /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
