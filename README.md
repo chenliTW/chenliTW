@@ -1,22 +1,13 @@
 Last Update Time: 
-Sun Oct 23 11:56:06 UTC 2022
+Sun Oct 23 12:52:28 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/  My dear People.                        \
-|                                         |
-| My dear Bagginses and Boffins, and my   |
-| dear Tooks and Brandybucks, and Grubbs, |
-| and Chubbs, and Burrowses, and          |
-| Hornblowers, and Bolgers, Bracegirdles, |
-| Goodbodies, Brockhouses and Proudfoots. |
-| Also my good Sackville Bagginses that I |
-| welcome back at last to Bag End. Today  |
-| is my one hundred and eleventh          |
-| birthday: I am eleventy-one today!"     |
-|                                         |
-\ -- J. R. R. Tolkien                     /
- -----------------------------------------
+ _______________________________________
+/ Q: How many IBM CPU's does it take to \
+| do a logical right shift? A: 33. 1 to |
+| hold the bits and 32 to push the      |
+\ register.                             /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
