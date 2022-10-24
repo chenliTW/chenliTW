@@ -1,10 +1,11 @@
 Last Update Time: 
-Mon Oct 24 15:01:12 UTC 2022
+Mon Oct 24 15:38:14 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-< Don't read everything you believe. >
- ------------------------------------
+ _____________________________________
+/ You single-handedly fought your way \
+\ into this hopeless mess.            /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
