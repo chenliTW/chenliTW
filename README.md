@@ -1,11 +1,13 @@
 Last Update Time: 
-Wed Oct 26 11:58:11 UTC 2022
+Wed Oct 26 13:02:01 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You'll be called to a post requiring  \
-\ ability in handling groups of people. /
- ---------------------------------------
+ _________________________________________
+/  A man was reading The Canterbury Tales \
+| one Saturday morning, when his wife     |
+| asked "What have you got there?"        |
+\ Replied he, "Just my cup and Chaucer."  /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
