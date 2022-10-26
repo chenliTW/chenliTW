@@ -1,15 +1,10 @@
 Last Update Time: 
-Wed Oct 26 06:30:59 UTC 2022
+Wed Oct 26 06:57:36 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ One of the most striking differences  \
-| between a cat and a lie is that a cat |
-| has only nine lives.                  |
-|                                       |
-| -- Mark Twain, "Pudd'nhead Wilson's   |
-\ Calendar"                             /
- ---------------------------------------
+ ________________________________________
+< You have taken yourself too seriously. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
