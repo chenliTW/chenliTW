@@ -1,12 +1,22 @@
 Last Update Time: 
-Wed Oct 26 19:21:37 UTC 2022
+Wed Oct 26 19:35:23 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ You have a reputation for being        \
-| thoroughly reliable and trustworthy. A |
-\ pity that it's totally undeserved.     /
- ----------------------------------------
+ _________________________________________
+/  "You have heard me speak of Professor  \
+| Moriarty?"                              |
+|                                         |
+| "The famous scientific criminal, as     |
+| famous among crooks as --"              |
+|                                         |
+| "My blushes, Watson," Holmes murmured,  |
+| in a deprecating voice.                 |
+|                                         |
+| "I was about to say 'as he is unknown   |
+| to the public.'"                        |
+|                                         |
+\ -- A. Conan Doyle, "The Valley of Fear" /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
