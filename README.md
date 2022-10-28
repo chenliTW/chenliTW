@@ -1,17 +1,17 @@
 Last Update Time: 
-Fri Oct 28 17:54:44 UTC 2022
+Fri Oct 28 18:26:46 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ It is right that he too should have his \
-| little chronicle, his memories, his     |
-| reason, and be able to recognize the    |
-| good in the bad, the bad in the worst,  |
-| and so grow gently old all down the     |
-| unchanging days and die one day like    |
-| any other day, only shorter.            |
+/ Q: How many surrealists does it take to \
+| change a light bulb? A: Two, one to     |
+| hold the giraffe, and the other to fill |
+| the bathtub                             |
 |                                         |
-\ -- Samuel Beckett, "Malone Dies"        /
+| with brightly colored machine tools.    |
+|                                         |
+| [Surrealist jokes just aren't my cup of |
+\ fur. Ed.]                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
