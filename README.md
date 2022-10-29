@@ -1,11 +1,17 @@
 Last Update Time: 
-Sat Oct 29 07:38:02 UTC 2022
+Sat Oct 29 07:50:00 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The better part of valor is discretion. \
+/ I got a hint of things to come when I   \
+| overheard my boss lamenting, 'The books |
+| are done and we still don't have an     |
+| author! I must sign someone today!      |
 |                                         |
-\ -- William Shakespeare, "Henry IV"      /
+| -- Tamim Ansary, "Edutopia Magazine,    |
+| Issue 2, November 2004"                 |
+|                                         |
+\ on the topic of school textbooks        /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
