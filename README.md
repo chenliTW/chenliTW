@@ -1,18 +1,11 @@
 Last Update Time: 
-Sun Oct 30 18:32:23 UTC 2022
+Sun Oct 30 18:52:45 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ The bay-trees in our country are all  \
-| wither'd And meteors fright the fixed |
-| stars of heaven; The pale-faced moon  |
-| looks bloody on the earth And         |
-| lean-look'd prophets whisper fearful  |
-| change. These signs forerun the death |
-| or fall of kings.                     |
-|                                       |
-\ -- Wm. Shakespeare, "Richard II"      /
- ---------------------------------------
+ ________________________________________
+/ Celebrate Hannibal Day this year. Take \
+\ an elephant to lunch.                  /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
