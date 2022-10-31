@@ -1,12 +1,12 @@
 Last Update Time: 
-Mon Oct 31 18:26:41 UTC 2022
+Mon Oct 31 18:52:43 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What's the difference between an     \
-| Irish wedding and an Irish wake? A: One |
-\ less drunk.                             /
- -----------------------------------------
+ ________________________
+/ I'll burn my books.    \
+|                        |
+\ -- Christopher Marlowe /
+ ------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
