@@ -1,13 +1,14 @@
 Last Update Time: 
-Mon Oct 31 20:53:56 UTC 2022
+Mon Oct 31 21:17:59 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ A horse! A horse! My kingdom for a \
-| horse!                             |
-|                                    |
-\ -- Wm. Shakespeare, "Richard III"  /
- ------------------------------------
+ _________________________________________
+/ Q: What do you call a principal female  \
+| opera singer whose high C               |
+|                                         |
+| is lower than those of other principal  |
+\ female opera singers? A: A deep C diva. /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
