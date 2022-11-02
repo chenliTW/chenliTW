@@ -1,24 +1,12 @@
 Last Update Time: 
-Wed Nov  2 09:07:05 UTC 2022
+Wed Nov  2 09:32:33 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How many hardware engineers does it \
-| take to change a light bulb? A: None.  |
-| We'll fix it in software.              |
-|                                        |
-| Q: How many system programmers does it |
-| take to change a light bulb? A: None.  |
-| The application can work around it.    |
-|                                        |
-| Q: How many software engineers does it |
-| take to change a light bulb? A: None.  |
-| We'll document it in the manual.       |
-|                                        |
-| Q: How many tech writers does it take  |
-| to change a light bulb? A: None. The   |
-\ user can figure it out.                /
- ----------------------------------------
+ _______________________________________
+/ You'll wish that you had done some of \
+| the hard things when they were easier |
+\ to do.                                /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
