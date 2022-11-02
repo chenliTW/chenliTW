@@ -1,12 +1,13 @@
 Last Update Time: 
-Wed Nov  2 09:49:07 UTC 2022
+Wed Nov  2 10:07:23 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: What's the difference between Bell  \
-| Labs and the Boy Scouts of America? A: |
-\ The Boy Scouts have adult supervision. /
- ----------------------------------------
+ _________________________________________
+/ But, for my own part, it was Greek to   \
+| me.                                     |
+|                                         |
+\ -- William Shakespeare, "Julius Caesar" /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
