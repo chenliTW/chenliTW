@@ -1,10 +1,9 @@
 Last Update Time: 
-Thu Nov  3 10:52:37 UTC 2022
+Thu Nov  3 11:12:11 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ You have a strong appeal for members of \
-\ your own sex.                           /
+< Day of inquiry. You will be subpoenaed. >
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
