@@ -1,15 +1,11 @@
 Last Update Time: 
-Fri Nov  4 18:54:06 UTC 2022
+Fri Nov  4 19:15:10 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How many psychiatrists does it take  \
-| to change a light bulb? A: Only one,    |
-| but it takes a long time, and the light |
-| bulb has                                |
-|                                         |
-\ to really want to change.               /
- -----------------------------------------
+ ________________________________________
+/ Keep emotionally active. Cater to your \
+\ favorite neurosis.                     /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
