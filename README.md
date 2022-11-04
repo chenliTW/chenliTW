@@ -1,11 +1,10 @@
 Last Update Time: 
-Fri Nov  4 19:15:10 UTC 2022
+Fri Nov  4 19:28:15 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Keep emotionally active. Cater to your \
-\ favorite neurosis.                     /
- ----------------------------------------
+ _________________________________________
+< Day of inquiry. You will be subpoenaed. >
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
