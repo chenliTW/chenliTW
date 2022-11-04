@@ -1,21 +1,21 @@
 Last Update Time: 
-Fri Nov  4 11:41:24 UTC 2022
+Fri Nov  4 11:53:14 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ I reverently believe that the maker who \
-| made us all makes everything in New     |
-| England, but the weather. I don't know  |
-| who makes that, but I think it must be  |
-| raw apprentices in the weather-clerks   |
-| factory who experiment and learn how,   |
-| in New England, for board and clothes,  |
-| and then are promoted to make weather   |
-| for countries that require a good       |
-| article, and will take their custom     |
-| elsewhere if they don't get it.         |
+/ There is no character, howsoever good   \
+| and fine, but it can be destroyed by    |
+| ridicule, howsoever poor and witless.   |
+| Observe the ass, for instance: his      |
+| character is about perfect, he is the   |
+| choicest spirit among all the humbler   |
+| animals, yet see what ridicule has      |
+| brought him to. Instead of feeling      |
+| complimented when we are called an ass, |
+| we are left in doubt.                   |
 |                                         |
-\ -- Mark Twain                           /
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
