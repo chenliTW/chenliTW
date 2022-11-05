@@ -1,13 +1,12 @@
 Last Update Time: 
-Sat Nov  5 17:55:46 UTC 2022
+Sat Nov  5 18:26:04 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ A light wife doth make a heavy husband. \
-|                                         |
-| -- Wm. Shakespeare, "The Merchant of    |
-\ Venice"                                 /
- -----------------------------------------
+ ______________________________________
+/ Q: How many Martians does it take to \
+| screw in a light bulb? A: One and a  |
+\ half.                                /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
