@@ -1,13 +1,13 @@
 Last Update Time: 
-Sun Nov  6 20:47:43 UTC 2022
+Sun Nov  6 20:59:33 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ____________________________________
-/ Q: What does a WASP Mom make for   \
-| dinner? A: A crisp salad, a hearty |
-| soup, a lovely entree, followed by |
+/ They have been at a great feast of \
+| languages, and stolen the scraps.  |
 |                                    |
-\ a delicious dessert.               /
+| -- William Shakespeare, "Love's    |
+\ Labour's Lost"                     /
  ------------------------------------
         \   ^__^
          \  (oo)\_______
