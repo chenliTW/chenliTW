@@ -1,12 +1,13 @@
 Last Update Time: 
-Sun Nov  6 07:42:10 UTC 2022
+Sun Nov  6 07:54:06 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Never laugh at live dragons.           \
+/ Q: Why does Washington have the most   \
+| lawyers per capita and                 |
 |                                        |
-| -- Bilbo Baggins [J.R.R. Tolkien, "The |
-\ Hobbit"]                               /
+| New Jersey the most toxic waste dumps? |
+\ A: God gave New Jersey first choice.   /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
