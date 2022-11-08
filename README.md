@@ -1,14 +1,15 @@
 Last Update Time: 
-Tue Nov  8 20:57:27 UTC 2022
+Tue Nov  8 21:22:51 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Grief can take care of itself; but to \
-| get the full value of a joy you must  |
-| have somebody to divide it with.      |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ _________________________________________
+/ Q: How many Bell Labs Vice Presidents   \
+| does it take to change a light bulb? A: |
+| That's proprietary information. Answer  |
+| available from AT&T on payment          |
+|                                         |
+\ of license fee (binary only).           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
