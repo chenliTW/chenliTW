@@ -1,11 +1,18 @@
 Last Update Time: 
-Tue Nov  8 05:35:39 UTC 2022
+Tue Nov  8 05:50:12 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You will receive a legacy which will \
-\ place you above want.                /
- --------------------------------------
+ _________________________________________
+/ Q: What did Tarzan say when he saw the  \
+| elephants coming over the hill? A: "The |
+| elephants are coming over the hill."    |
+|                                         |
+| Q: What did he say when saw them coming |
+| over the hill wearing                   |
+|                                         |
+| sunglasses? A: Nothing, for he didn't   |
+\ recognize them.                         /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
