@@ -1,18 +1,13 @@
 Last Update Time: 
-Tue Nov  8 14:48:35 UTC 2022
+Tue Nov  8 14:59:27 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ It is right that he too should have his \
-| little chronicle, his memories, his     |
-| reason, and be able to recognize the    |
-| good in the bad, the bad in the worst,  |
-| and so grow gently old all down the     |
-| unchanging days and die one day like    |
-| any other day, only shorter.            |
-|                                         |
-\ -- Samuel Beckett, "Malone Dies"        /
- -----------------------------------------
+ ____________________________________
+/ Something's rotten in the state of \
+| Denmark.                           |
+|                                    |
+\ -- Shakespeare                     /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
