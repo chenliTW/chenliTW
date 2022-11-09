@@ -1,14 +1,21 @@
 Last Update Time: 
-Wed Nov  9 15:48:27 UTC 2022
+Wed Nov  9 16:00:30 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many psychiatrists does it take  \
-| to change a light bulb? A: Only one,    |
-| but it takes a long time, and the light |
-| bulb has                                |
+/  "You have heard me speak of Professor  \
+| Moriarty?"                              |
 |                                         |
-\ to really want to change.               /
+| "The famous scientific criminal, as     |
+| famous among crooks as --"              |
+|                                         |
+| "My blushes, Watson," Holmes murmured,  |
+| in a deprecating voice.                 |
+|                                         |
+| "I was about to say 'as he is unknown   |
+| to the public.'"                        |
+|                                         |
+\ -- A. Conan Doyle, "The Valley of Fear" /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
