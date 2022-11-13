@@ -1,53 +1,65 @@
 Last Update Time: 
-Sun Nov 13 17:38:53 UTC 2022
+Sun Nov 13 17:50:47 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The Least Perceptive Literary Critic    \
+/ Q: How many lawyers does it take to     \
+| change a light bulb? A: Whereas the     |
+| party of the first part, also known as  |
+| "Lawyer", and the party of the second   |
+| part, also known as "Light Bulb", do    |
+| hereby and forthwith agree to a         |
+| transaction wherein the party of the    |
+| second part shall be removed from the   |
+| current position as a result of failure |
+| to perform previously agreed upon       |
+| duties, i.e., the lighting,             |
+| elucidation, and otherwise illumination |
+| of the area ranging from the front      |
+| (north) door, through the entryway,     |
+| terminating at an area just inside the  |
+| primary living area, demarcated by the  |
+| beginning of the carpet, any spillover  |
+| illumination being at the option of the |
+| party of the second part and not        |
+| required by the aforementioned          |
+| agreement between the parties.          |
 |                                         |
-| The most important critic in our field  |
-| of study is Lord Halifax. A most        |
-| individual judge of poetry, he once     |
-| invited Alexander Pope round to give a  |
-| public reading of his latest poem.      |
-|                                         |
-| Pope, the leading poet of his day, was  |
-| greatly surprised when Lord Halifax     |
-| stopped him four or five times and      |
-| said, "I beg your pardon, Mr. Pope, but |
-| there is something in that passage that |
-| does not quite please me."              |
-|                                         |
-| Pope was rendered speechless, as this   |
-| fine critic suggested sizeable and      |
-| unwise emendations to his latest        |
-| masterpiece. "Be so good as to mark the |
-| place and consider at your leisure. I'm |
-| sure you can give it a better turn."    |
-|                                         |
-| After the reading, a good friend of     |
-| Lord Halifax, a certain Dr. Garth, took |
-| the stunned Pope to one side. "There is |
-| no need to touch the lines," he said.   |
-| "All you need do is leave them just as  |
-| they are, call on Lord Halifax two or   |
-| three months hence, thank him for his   |
-| kind observation on those passages, and |
-| then read them to him as altered. I     |
-| have known him much longer than you     |
-| have, and will be answerable for the    |
-| event."                                 |
-|                                         |
-| Pope took his advice, called on Lord    |
-| Halifax and read the poem exactly as it |
-| was before. His unique critical         |
-| faculties had lost none of their edge.  |
-| "Ay", he commented, "now they are       |
-| perfectly right. Nothing can be         |
-| better."                                |
-|                                         |
-| -- Stephen Pile, "The Book of Heroic    |
-\ Failures"                               /
+| The aforementioned removal transaction  |
+| shall include, but not be limited to,   |
+| the following. The party of the first   |
+| part shall, with or without elevation   |
+| at his option, by means of a chair,     |
+| stepstool, ladder or any other means of |
+| elevation, grasp the party of the       |
+| second part and rotate the party of the |
+| second part in a counter-clockwise      |
+| direction, this point being tendered    |
+| non-negotiable. Upon reaching a point   |
+| where the party of the second part      |
+| becomes fully detached from the         |
+| receptacle, the party of the first part |
+| shall have the option of disposing of   |
+| the party of the second part in a       |
+| manner consistent with all relevant and |
+| applicable local, state and federal     |
+| statutes. Once separation and disposal  |
+| have been achieved, the party of the    |
+| first part shall have the option of     |
+| beginning installation. Aforesaid       |
+| installation shall occur in a manner    |
+| consistent with the reverse of the      |
+| procedures described in step one of     |
+| this self-same document, being careful  |
+| to note that the rotation should occur  |
+| in a clockwise direction, this point    |
+| also being non-negotiable. The above    |
+| described steps may be performed, at    |
+| the option of the party of the first    |
+| part, by any or all agents authorized   |
+| by him, the objective being to produce  |
+| the most possible revenue for the       |
+\ Partnership.                            /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
