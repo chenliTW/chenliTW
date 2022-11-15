@@ -1,12 +1,21 @@
 Last Update Time: 
-Tue Nov 15 11:18:55 UTC 2022
+Tue Nov 15 11:30:31 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: How did you get into artificial   \
-| intelligence? A: Seemed logical -- I |
-\ didn't have any real intelligence.   /
- --------------------------------------
+ _________________________________________
+/ The lovely woman-child Kaa was          \
+| mercilessly chained to the cruel post   |
+| of the warrior-chief Beast, with his    |
+| barbarian tribe now stacking wood at    |
+| her nubile feet, when the strong clear  |
+| voice of the poetic and heroic          |
+| Handsomas roared, 'Flick your Bic,      |
+| crisp that chick, and you'll feel my    |
+| steel through your last meal!'          |
+|                                         |
+| -- Winning sentence, 1984 Bulwer-Lytton |
+\ bad fiction contest.                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
