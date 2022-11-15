@@ -1,13 +1,14 @@
 Last Update Time: 
-Tue Nov 15 23:45:12 UTC 2022
+Tue Nov 15 23:56:56 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ No group of professionals meets except \
-| to conspire against the public at      |
-| large.                                 |
+/ It has long been an axiom of mine that \
+| the little things are infinitely the   |
+| most important.                        |
 |                                        |
-\ -- Mark Twain                          /
+| -- Sir Arthur Conan Doyle, "A Case of  |
+\ Identity"                              /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
