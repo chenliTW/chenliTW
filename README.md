@@ -1,10 +1,15 @@
 Last Update Time: 
-Tue Nov 15 03:49:34 UTC 2022
+Tue Nov 15 04:12:34 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Write yourself a threatening letter and \
-\ pen a defiant reply.                    /
+/ All I know is what the words know, and  \
+| dead things, and that makes a handsome  |
+| little sum, with a beginning and a      |
+| middle and an end, as in the well-built |
+| phrase and the long sonata of the dead. |
+|                                         |
+\ -- Samuel Beckett                       /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
