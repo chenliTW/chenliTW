@@ -1,16 +1,11 @@
 Last Update Time: 
-Wed Nov 16 21:57:55 UTC 2022
+Wed Nov 16 22:23:24 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/  You will remember, Watson, how the     \
-| dreadful business of the Abernetty      |
-| family was first brought to my notice   |
-| by the depth which the parsley had sunk |
-| into the butter upon a hot day.         |
-|                                         |
-\ -- Sherlock Holmes                      /
- -----------------------------------------
+ ____________________________________
+/ After your lover has gone you will \
+\ still have PEANUT BUTTER!          /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
