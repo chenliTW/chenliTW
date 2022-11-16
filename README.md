@@ -1,19 +1,11 @@
 Last Update Time: 
-Wed Nov 16 11:42:01 UTC 2022
+Wed Nov 16 11:53:49 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ "I wonder", he said to himself, "what's \
-| in a book while it's closed. Oh, I know |
-| it's full of letters printed on paper,  |
-| but all the same, something must be     |
-| happening, because as soon as I open    |
-| it, there's a whole story with people I |
-| don't know yet and all kinds of         |
-| adventures and battles."                |
-|                                         |
-\ -- Bastian B. Bux                       /
- -----------------------------------------
+ _____________________________________
+/ Don't relax! It's only your tension \
+\ that's holding you together.        /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
