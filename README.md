@@ -1,10 +1,11 @@
 Last Update Time: 
-Thu Nov 17 03:51:13 UTC 2022
+Thu Nov 17 04:13:53 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-< You will be divorced within a year. >
- -------------------------------------
+ ______________________________________
+/ Your life would be very empty if you \
+\ had nothing to regret.               /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
