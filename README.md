@@ -1,15 +1,12 @@
 Last Update Time: 
-Thu Nov 17 16:59:10 UTC 2022
+Thu Nov 17 17:25:15 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Habit is habit, and not to be flung out \
-| of the window by any man, but coaxed    |
-| down-stairs a step at a time.           |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar                                /
- -----------------------------------------
+ ______________________________________
+/ You need no longer worry about the   \
+| future. This time tomorrow you'll be |
+\ dead.                                /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
