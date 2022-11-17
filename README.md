@@ -1,10 +1,11 @@
 Last Update Time: 
-Thu Nov 17 22:53:29 UTC 2022
+Thu Nov 17 23:17:17 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-< Are you sure the back door is locked? >
- ---------------------------------------
+ ______________________________________
+/ You are a fluke of the universe; you \
+\ have no right to be here.            /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
