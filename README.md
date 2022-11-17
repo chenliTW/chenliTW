@@ -1,11 +1,10 @@
 Last Update Time: 
-Thu Nov 17 11:39:33 UTC 2022
+Thu Nov 17 11:51:38 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ______________________________________
-/ Many pages make a thick book, except \
-| for pocket Bibles which are on very  |
-\ very thin paper.                     /
+/ Abandon the search for Truth; settle \
+\ for a good fantasy.                  /
  --------------------------------------
         \   ^__^
          \  (oo)\_______
