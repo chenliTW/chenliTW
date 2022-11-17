@@ -1,14 +1,12 @@
 Last Update Time: 
-Thu Nov 17 15:06:43 UTC 2022
+Thu Nov 17 15:31:36 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many Zen masters does it take to \
-| screw in a light bulb? A: None. The     |
-| Universe spins the bulb, and the Zen    |
-| master stays out                        |
+/ Be careful of reading health books, you \
+| might die of a misprint.                |
 |                                         |
-\ of the way.                             /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
