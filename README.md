@@ -1,10 +1,15 @@
 Last Update Time: 
-Fri Nov 18 17:54:23 UTC 2022
+Fri Nov 18 18:24:04 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-< You will outgrow your usefulness. >
- -----------------------------------
+ _________________________________________
+/ Q: How many psychiatrists does it take  \
+| to change a light bulb? A: Only one,    |
+| but it takes a long time, and the light |
+| bulb has                                |
+|                                         |
+\ to really want to change.               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
