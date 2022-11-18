@@ -1,14 +1,12 @@
 Last Update Time: 
-Fri Nov 18 22:54:56 UTC 2022
+Fri Nov 18 23:19:53 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ The lunatic, the lover, and the poet, \
-| Are of imagination all compact...     |
-|                                       |
-| -- Wm. Shakespeare, "A Midsummer      |
-\ Night's Dream"                        /
- ---------------------------------------
+ _____________________________________
+/ For courage mounteth with occasion. \
+|                                     |
+\ -- William Shakespeare, "King John" /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
