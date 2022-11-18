@@ -1,19 +1,13 @@
 Last Update Time: 
-Fri Nov 18 23:47:35 UTC 2022
+Fri Nov 18 23:59:23 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ At once it struck me what quality went \
-| to form a man of achievement,          |
-| especially in literature, and which    |
-| Shakespeare possessed so enormously -- |
-| I mean negative capability, that is,   |
-| when a man is capable of being in      |
-| uncertainties, mysteries, doubts,      |
-| without any irritable reaching after   |
-| fact and reason.                       |
+/ Always the dullness of the fool is the \
+| whetstone of the wits.                 |
 |                                        |
-\ -- John Keats                          /
+| -- William Shakespeare, "As You Like   |
+\ It"                                    /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
