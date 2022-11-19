@@ -1,14 +1,11 @@
 Last Update Time: 
-Sat Nov 19 11:00:06 UTC 2022
+Sat Nov 19 11:20:21 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ The man who sets out to carry a cat by \
-| its tail learns something that will    |
-| always be useful and which never will  |
-| grow dim or doubtful.                  |
-|                                        |
-\ -- Mark Twain                          /
+/ If you learn one useless thing every   \
+| day, in a single year you'll learn 365 |
+\ useless things.                        /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
