@@ -1,13 +1,14 @@
 Last Update Time: 
-Sat Nov 19 17:37:25 UTC 2022
+Sat Nov 19 17:49:20 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: What do monsters eat? A: Things.   \
-|                                       |
-| Q: What do monsters drink? A: Coke.   |
-\ (Because Things go better with Coke.) /
- ---------------------------------------
+ _________________________________________
+/ Q: What's the difference between a dead \
+| dog in the road and a dead              |
+|                                         |
+| lawyer in the road? A: There are skid   |
+\ marks in front of the dog.              /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
