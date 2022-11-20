@@ -1,14 +1,15 @@
 Last Update Time: 
-Sun Nov 20 04:27:42 UTC 2022
+Sun Nov 20 04:48:32 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why haven't you graduated yet? A:   \
-| Well, Dad, I could have finished years |
-| ago, but I wanted                      |
-|                                        |
-\ my dissertation to rhyme.              /
- ----------------------------------------
+ ______________________________________
+/ F.S. Fitzgerald to Hemingway:        \
+|                                      |
+| "Ernest, the rich are different from |
+| us." Hemingway:                      |
+|                                      |
+\ "Yes. They have more money."         /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
