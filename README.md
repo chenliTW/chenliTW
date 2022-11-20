@@ -1,10 +1,10 @@
 Last Update Time: 
-Sun Nov 20 05:23:35 UTC 2022
+Sun Nov 20 05:37:36 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ______________________________________
-/ Q: Why did Menachem Begin invade     \
-\ Lebanon? A: To impress Jodie Foster. /
+/ You will receive a legacy which will \
+\ place you above want.                /
  --------------------------------------
         \   ^__^
          \  (oo)\_______
