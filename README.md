@@ -1,10 +1,10 @@
 Last Update Time: 
-Sun Nov 20 13:13:12 UTC 2022
+Sun Nov 20 13:37:36 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ______________________________________
-/ Another good night not to sleep in a \
-\ eucalyptus tree.                     /
+/ Q: Why did Menachem Begin invade     \
+\ Lebanon? A: To impress Jodie Foster. /
  --------------------------------------
         \   ^__^
          \  (oo)\_______
