@@ -1,13 +1,22 @@
 Last Update Time: 
-Sun Nov 20 11:33:07 UTC 2022
+Sun Nov 20 11:45:09 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Lord, what fools these mortals be! \
-|                                    |
-| -- William Shakespeare, "A         |
-\ Midsummer-Night's Dream"           /
- ------------------------------------
+ _________________________________________
+/ I reverently believe that the maker who \
+| made us all makes everything in New     |
+| England, but the weather. I don't know  |
+| who makes that, but I think it must be  |
+| raw apprentices in the weather-clerks   |
+| factory who experiment and learn how,   |
+| in New England, for board and clothes,  |
+| and then are promoted to make weather   |
+| for countries that require a good       |
+| article, and will take their custom     |
+| elsewhere if they don't get it.         |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
