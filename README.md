@@ -1,13 +1,12 @@
 Last Update Time: 
-Sun Nov 20 17:43:31 UTC 2022
+Sun Nov 20 17:55:30 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ All things that are, are with more   \
-| spirit chased than enjoyed.          |
-|                                      |
-\ -- Shakespeare, "Merchant of Venice" /
- --------------------------------------
+ _______________________________________
+/ Q: What's tiny and yellow and very,   \
+| very, dangerous? A: A canary with the |
+\ super-user password.                  /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
