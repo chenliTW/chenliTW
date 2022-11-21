@@ -1,14 +1,12 @@
 Last Update Time: 
-Mon Nov 21 10:38:37 UTC 2022
+Mon Nov 21 10:50:49 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many Bell Labs Vice Presidents   \
-| does it take to change a light bulb? A: |
-| That's proprietary information. Answer  |
-| available from AT&T on payment          |
+/ I do desire we may be better strangers. \
 |                                         |
-\ of license fee (binary only).           /
+| -- William Shakespeare, "As You Like    |
+\ It"                                     /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
