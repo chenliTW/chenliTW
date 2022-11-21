@@ -1,12 +1,11 @@
 Last Update Time: 
-Mon Nov 21 07:43:46 UTC 2022
+Mon Nov 21 07:55:34 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- __________________________________
-/ Someone is speaking well of you. \
-|                                  |
-\ How unusual!                     /
- ----------------------------------
+ _________________________________________
+/ You will be imprisoned for contributing \
+\ your time and skill to a bank robbery.  /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
