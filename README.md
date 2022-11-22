@@ -1,11 +1,20 @@
 Last Update Time: 
-Tue Nov 22 09:48:41 UTC 2022
+Tue Nov 22 09:59:56 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Chicken Little only has to be right \
-\ once.                               /
- -------------------------------------
+ ________________________________________
+/ For there are moments when one can     \
+| neither think nor feel. And if one can |
+| neither think nor feel, she thought,   |
+| where is one?                          |
+|                                        |
+| -- Virginia Woolf, "To the Lighthouse" |
+|                                        |
+| [Quoted in "VMS Internals and Data     |
+| Structures", V4.4, when                |
+|                                        |
+\ referring to powerfail recovery.]      /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
