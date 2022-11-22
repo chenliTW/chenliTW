@@ -1,24 +1,46 @@
 Last Update Time: 
-Tue Nov 22 10:45:14 UTC 2022
+Tue Nov 22 10:57:08 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The bone-chilling scream split the warm \
-| summer night in two, the first half     |
-| being before the scream when it was     |
-| fairly balmy and calm and pleasant, the |
-| second half still balmy and quite       |
-| pleasant for those who hadn't heard the |
-| scream at all, but not calm or balmy or |
-| even very nice for those who did hear   |
-| the scream, discounting the little      |
-| period of time during the actual scream |
-| itself when your ears might have been   |
-| hearing it but your brain wasn't        |
-| reacting yet to let you know.           |
+/ "Speak, thou vast and venerable head,"  \
+| muttered Ahab, "which, though           |
+| ungarnished with a beard, yet here and  |
+| there lookest hoary with mosses; speak, |
+| mighty head, and tell us the secret     |
+| thing that is in thee. Of all divers,   |
+| thou has dived the deepest. That head   |
+| upon which the upper sun now gleams has |
+| moved amid the world's foundations.     |
+| Where unrecorded names and navies rust, |
+| and untold hopes and anchors rot; where |
+| in her murderous hold this frigate      |
+| earth is ballasted with bones of        |
+| millions of the drowned; there, in that |
+| awful water-land, there was thy most    |
+| familiar home. Thou hast been where     |
+| bell or diver never went; has slept by  |
+| many a sailer's side, where sleepless   |
+| mothers would give their lives to lay   |
+| them down. Thou saw'st the locked       |
+| lovers when leaping from their flaming  |
+| ship; heart to heart they sank beneath  |
+| the exulting wave; true to each other,  |
+| when heaven seemed false to them. Thou  |
+| saw'st the murdered mate when tossed by |
+| pirates from the midnight deck; for     |
+| hours he fell into the deeper midnight  |
+| of the insatiate maw; and his murderers |
+| still sailed on unharmed -- while swift |
+| lightnings shivered the neighboring     |
+| ship that would have borne a righteous  |
+| husband to outstretched, longing arms.  |
+| O head! thou has seen enough to split   |
+| the planets and make an infidel of      |
+| Abraham, and not one syllable is        |
+| thine!"                                 |
 |                                         |
-| -- Winning sentence, 1986 Bulwer-Lytton |
-\ bad fiction contest.                    /
+\ -- H. Melville, "Moby Dick"             /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
