@@ -1,14 +1,12 @@
 Last Update Time: 
-Tue Nov 22 13:44:57 UTC 2022
+Tue Nov 22 13:57:02 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Anyone who has had a bull by the tail \
-| knows five or six more things than    |
-| someone who hasn't.                   |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ _________________________________________
+/ Q: What's the difference between a Mac  \
+| and an Etch-a-Sketch? A: You don't have |
+\ to shake the Mac to clear the screen.   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
