@@ -1,12 +1,11 @@
 Last Update Time: 
-Wed Nov 23 22:37:42 UTC 2022
+Wed Nov 23 22:49:32 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ______________________________________
-/ Q: How many Marxists does it take to \
-| screw in a light bulb? A: None: The  |
-| light bulb contains the seeds of its |
-\ own revolution.                      /
+/ The ripest fruit falls first.        \
+|                                      |
+\ -- William Shakespeare, "Richard II" /
  --------------------------------------
         \   ^__^
          \  (oo)\_______
