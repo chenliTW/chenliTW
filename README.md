@@ -1,11 +1,11 @@
 Last Update Time: 
-Thu Nov 24 08:09:49 UTC 2022
+Thu Nov 24 08:33:49 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ Your nature demands love and your \
-\ happiness depends on it.          /
- -----------------------------------
+ __________________________________
+/ You are capable of planning your \
+\ future.                          /
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
