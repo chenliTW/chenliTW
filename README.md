@@ -1,13 +1,11 @@
 Last Update Time: 
-Thu Nov 24 19:17:37 UTC 2022
+Thu Nov 24 19:29:37 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Man is the only animal that blushes -- \
-| or needs to.                           |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _______________________________________
+/ You have an ability to sense and know \
+\ higher truth.                         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
