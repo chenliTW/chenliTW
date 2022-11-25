@@ -1,11 +1,11 @@
 Last Update Time: 
-Fri Nov 25 23:42:41 UTC 2022
+Fri Nov 25 23:54:28 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Don't worry so loud, your roommate \
-\ can't think.                       /
- ------------------------------------
+ _________________________________________
+/ You don't become a failure until you're \
+\ satisfied with being one.               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
