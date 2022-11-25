@@ -1,11 +1,11 @@
 Last Update Time: 
-Fri Nov 25 07:39:01 UTC 2022
+Fri Nov 25 07:50:59 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Beware of a tall blond man with one \
-\ black shoe.                         /
- -------------------------------------
+ _______________________________________
+/ You are fighting for survival in your \
+\ own sweet and gentle way.             /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
