@@ -1,20 +1,19 @@
 Last Update Time: 
-Fri Nov 25 05:29:45 UTC 2022
+Fri Nov 25 05:41:53 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: How many DEC repairman does it take \
-| to fix a flat? A: Five; four to hold   |
-| the car up and one to swap tires.      |
+/ Q: How does the Polish Constitution    \
+| differ from the American? A: Under the |
+| Polish Constitution citizens are       |
+| guaranteed freedom of                  |
 |                                        |
-| Q: How long does it take? A: It's      |
-| indeterminate.                         |
+| speech, but under the United States    |
+| constitution they are                  |
 |                                        |
-| It will depend upon how many flats     |
-| they've brought with them.             |
+| guaranteed freedom after speech.       |
 |                                        |
-| Q: What happens if you've got TWO      |
-\ flats? A: They replace your generator. /
+\ -- being told in Poland, 1987          /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
