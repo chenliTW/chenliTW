@@ -1,17 +1,10 @@
 Last Update Time: 
-Sun Nov 27 11:39:23 UTC 2022
+Sun Nov 27 11:51:08 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ In India, "cold weather" is merely a    \
-| conventional phrase and has come into   |
-| use through the necessity of having     |
-| some way to distinguish between weather |
-| which will melt a brass door-knob and   |
-| weather which will only make it mushy.  |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ____________________
+< You'll be sorry... >
+ --------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
