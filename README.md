@@ -1,12 +1,11 @@
 Last Update Time: 
-Sun Nov 27 09:53:14 UTC 2022
+Sun Nov 27 10:14:11 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Q: Why did the astrophysicist order \
-| three hamburgers? A: Because he was |
-\ hungry.                             /
- -------------------------------------
+ ___________________________________
+/ Don't look back, the lemmings are \
+\ gaining on you.                   /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
