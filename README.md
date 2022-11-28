@@ -1,22 +1,10 @@
 Last Update Time: 
-Mon Nov 28 15:45:25 UTC 2022
+Mon Nov 28 15:57:16 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/  "You have heard me speak of Professor  \
-| Moriarty?"                              |
-|                                         |
-| "The famous scientific criminal, as     |
-| famous among crooks as --"              |
-|                                         |
-| "My blushes, Watson," Holmes murmured,  |
-| in a deprecating voice.                 |
-|                                         |
-| "I was about to say 'as he is unknown   |
-| to the public.'"                        |
-|                                         |
-\ -- A. Conan Doyle, "The Valley of Fear" /
- -----------------------------------------
+ _______________________________________
+< Your domestic life may be harmonious. >
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
