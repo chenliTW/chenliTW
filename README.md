@@ -1,11 +1,10 @@
 Last Update Time: 
-Mon Nov 28 11:28:41 UTC 2022
+Mon Nov 28 11:40:39 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Artistic ventures highlighted. Rob a \
-\ museum.                              /
- --------------------------------------
+ ________________________________
+< You will get what you deserve. >
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
