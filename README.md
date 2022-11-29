@@ -1,11 +1,10 @@
 Last Update Time: 
-Tue Nov 29 20:42:17 UTC 2022
+Tue Nov 29 20:54:16 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _____________________________________
-/ You learn to write as if to someone \
-| else because NEXT YEAR YOU WILL BE  |
-\ "SOMEONE ELSE."                     /
+/ You have the capacity to learn from \
+\ mistakes. You'll learn a lot today. /
  -------------------------------------
         \   ^__^
          \  (oo)\_______
