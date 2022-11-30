@@ -1,11 +1,10 @@
 Last Update Time: 
-Wed Nov 30 23:32:42 UTC 2022
+Wed Nov 30 23:44:32 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: What do you say to a New Yorker with \
-| a job? A: Big Mac, fries and a Coke,    |
-\ please!                                 /
+/ Your reasoning powers are good, and you \
+\ are a fairly good planner.              /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
