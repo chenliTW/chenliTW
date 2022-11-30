@@ -1,11 +1,14 @@
 Last Update Time: 
-Wed Nov 30 05:10:32 UTC 2022
+Wed Nov 30 05:28:12 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Abandon the search for Truth; settle \
-\ for a good fantasy.                  /
- --------------------------------------
+ ________________________________________
+/ He jests at scars who never felt a     \
+| wound.                                 |
+|                                        |
+| -- Shakespeare, "Romeo and Juliet, II. |
+\ 2"                                     /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
