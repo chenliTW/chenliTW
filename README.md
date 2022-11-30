@@ -1,12 +1,12 @@
 Last Update Time: 
-Wed Nov 30 04:38:11 UTC 2022
+Wed Nov 30 04:51:21 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You need no longer worry about the   \
-| future. This time tomorrow you'll be |
-\ dead.                                /
- --------------------------------------
+ _____________________________________
+/ You learn to write as if to someone \
+| else because NEXT YEAR YOU WILL BE  |
+\ "SOMEONE ELSE."                     /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
