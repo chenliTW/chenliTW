@@ -1,24 +1,20 @@
 Last Update Time: 
-Wed Nov 30 17:48:44 UTC 2022
+Wed Nov 30 18:06:38 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many IBM types does it take to   \
-| change a light bulb? A: Fifteen. One to |
-| do it, and fourteen to write document   |
-| number                                  |
+/ Q: How many existentialists does it     \
+| take to screw in a light bulb? A: Two.  |
+| One to screw it in and one to observe   |
+| how the light bulb                      |
 |                                         |
-| GC7500439-0001, Multitasking            |
-| Incandescent Source System Facility,    |
+| itself symbolizes a single incandescent |
+| beacon of subjective                    |
 |                                         |
-| of which 10% of the pages state only    |
-| "This page intentionally                |
+| reality in a netherworld of endless     |
+| absurdity reaching out toward a         |
 |                                         |
-| left blank", and 20% of the definitions |
-| are of the form "A:.....                |
-|                                         |
-| consists of sequences of non-blank      |
-\ characters separated by blanks".        /
+\ maudlin cosmos of nothingness.          /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
