@@ -1,23 +1,18 @@
 Last Update Time: 
-Thu Dec  1 19:23:49 UTC 2022
+Thu Dec  1 19:36:49 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The bone-chilling scream split the warm \
-| summer night in two, the first half     |
-| being before the scream when it was     |
-| fairly balmy and calm and pleasant, the |
-| second half still balmy and quite       |
-| pleasant for those who hadn't heard the |
-| scream at all, but not calm or balmy or |
-| even very nice for those who did hear   |
-| the scream, discounting the little      |
-| period of time during the actual scream |
-| itself when your ears might have been   |
-| hearing it but your brain wasn't        |
-| reacting yet to let you know.           |
+/ The countdown had stalled at 'T' minus  \
+| 69 seconds when Desiree, the first      |
+| female ape to go up in space, winked at |
+| me slyly and pouted her thick, rubbery  |
+| lips unmistakably -- the first of many  |
+| such advances during what would prove   |
+| to be the longest, and most memorable,  |
+| space voyage of my career.              |
 |                                         |
-| -- Winning sentence, 1986 Bulwer-Lytton |
+| -- Winning sentence, 1985 Bulwer-Lytton |
 \ bad fiction contest.                    /
  -----------------------------------------
         \   ^__^
