@@ -1,12 +1,11 @@
 Last Update Time: 
-Thu Dec  1 23:31:41 UTC 2022
+Thu Dec  1 23:43:35 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What's the difference between a duck \
-| and an elephant? A: You can't get down  |
-\ off an elephant.                        /
- -----------------------------------------
+ ______________________________________
+/ You have an unusual equipment for    \
+\ success. Be sure to use it properly. /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
