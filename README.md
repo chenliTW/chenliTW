@@ -1,10 +1,11 @@
 Last Update Time: 
-Thu Dec  1 06:07:58 UTC 2022
+Thu Dec  1 06:34:33 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-< You will be divorced within a year. >
- -------------------------------------
+ ________________________________________
+/ You will obey or molten silver will be \
+\ poured into your ears.                 /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
