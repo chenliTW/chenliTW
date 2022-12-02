@@ -1,14 +1,11 @@
 Last Update Time: 
-Thu Dec  1 23:55:27 UTC 2022
+Fri Dec  2 01:34:34 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why should you always serve a       \
-| Southern Carolina football man         |
-|                                        |
-| soup in a plate? A: 'Cause if you give |
-\ him a bowl, he'll throw it away.       /
- ----------------------------------------
+ _________________________________________
+/ You are deeply attached to your friends \
+\ and acquaintances.                      /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
