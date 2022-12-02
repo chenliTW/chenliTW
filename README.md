@@ -1,13 +1,13 @@
 Last Update Time: 
-Fri Dec  2 15:39:49 UTC 2022
+Fri Dec  2 15:51:43 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________
-/ All generalizations are false, \
-| including this one.            |
-|                                |
-\ -- Mark Twain                  /
- --------------------------------
+ ________________________________________
+/ Rebellion lay in his way, and he found \
+| it.                                    |
+|                                        |
+\ -- William Shakespeare, "Henry IV"     /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
