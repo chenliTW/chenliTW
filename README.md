@@ -1,14 +1,12 @@
 Last Update Time: 
-Fri Dec  2 23:36:02 UTC 2022
+Fri Dec  2 23:47:58 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Soap and education are not as sudden as \
-| a massacre, but they are more deadly in |
-| the long run.                           |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ _______________________________________
+/ Q: What's the difference between USL  \
+| and the Titanic? A: The Titanic had a |
+\ band.                                 /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
