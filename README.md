@@ -1,11 +1,17 @@
 Last Update Time: 
-Sat Dec  3 16:58:55 UTC 2022
+Sat Dec  3 17:18:27 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You are only young once, but you can \
-\ stay immature indefinitely.          /
- --------------------------------------
+ _________________________________________
+/ Whenever the literary German dives into \
+| a sentence, that is the last you are    |
+| going to see of him until he emerges on |
+| the other side of his Atlantic with his |
+| verb in his mouth.                      |
+|                                         |
+| -- Mark Twain "A Connecticut Yankee in  |
+\ King Arthur's Court"                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
