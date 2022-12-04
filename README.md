@@ -1,12 +1,18 @@
 Last Update Time: 
-Sun Dec  4 20:22:19 UTC 2022
+Sun Dec  4 20:34:44 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ FORTUNE PROVIDES QUESTIONS FOR THE     \
-| GREAT ANSWERS: #15 A: The Royal        |
-| Canadian Mounted Police. Q: What was   |
-\ the greatest achievement in taxidermy? /
+/ We know all about the habits of the    \
+| ant, we know all about the habits of   |
+| the bee, but we know nothing at all    |
+| about the habits of the oyster. It     |
+| seems almost certain that we have been |
+| choosing the wrong time for studying   |
+| the oyster.                            |
+|                                        |
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
