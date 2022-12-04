@@ -1,12 +1,11 @@
 Last Update Time: 
-Sun Dec  4 07:29:51 UTC 2022
+Sun Dec  4 07:41:40 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Q: Why did the astrophysicist order \
-| three hamburgers? A: Because he was |
-\ hungry.                             /
- -------------------------------------
+ _________________________________________
+/ You would if you could but you can't so \
+\ you won't.                              /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
