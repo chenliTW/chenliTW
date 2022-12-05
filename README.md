@@ -1,17 +1,13 @@
 Last Update Time: 
-Mon Dec  5 10:17:15 UTC 2022
+Mon Dec  5 10:34:26 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: What did Tarzan say when he saw the  \
-| elephants coming over the hill? A: "The |
-| elephants are coming over the hill."    |
+/ Fame is a vapor; popularity an          \
+| accident; the only earthly certainty is |
+| oblivion.                               |
 |                                         |
-| Q: What did he say when saw them coming |
-| over the hill wearing                   |
-|                                         |
-| sunglasses? A: Nothing, for he didn't   |
-\ recognize them.                         /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
