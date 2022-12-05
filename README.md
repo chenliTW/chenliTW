@@ -1,12 +1,11 @@
 Last Update Time: 
-Mon Dec  5 05:27:18 UTC 2022
+Mon Dec  5 05:38:49 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: What do you have when you have a   \
-| lawyer buried up to his neck in sand? |
-\ A: Not enough sand.                   /
- ---------------------------------------
+ _________________________________________
+/ Best of all is never to have been born. \
+\ Second best is to die soon.             /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
