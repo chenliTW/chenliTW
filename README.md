@@ -1,11 +1,13 @@
 Last Update Time: 
-Wed Dec  7 08:28:10 UTC 2022
+Wed Dec  7 08:43:31 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You will be given a post of trust and \
-\ responsibility.                       /
- ---------------------------------------
+ _________________________________________
+/ Q: "What is the burning question on the \
+| mind of every dyslexic                  |
+|                                         |
+\ existentialist?" A: "Is there a dog?"   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
