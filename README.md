@@ -1,12 +1,13 @@
 Last Update Time: 
-Fri Dec  9 08:32:55 UTC 2022
+Fri Dec  9 08:45:12 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Extreme fear can neither fight nor fly. \
+/ Soap and education are not as sudden as \
+| a massacre, but they are more deadly in |
+| the long run.                           |
 |                                         |
-| -- William Shakespeare, "The Rape of    |
-\ Lucrece"                                /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
