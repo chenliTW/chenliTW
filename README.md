@@ -1,14 +1,11 @@
 Last Update Time: 
-Sat Dec 10 14:07:27 UTC 2022
+Sat Dec 10 14:24:29 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You never have to change anything you \
-| got up in the middle of the night to  |
-| write.                                |
-|                                       |
-\ -- Saul Bellow                        /
- ---------------------------------------
+ ____________________________________
+/ Look afar and see the end from the \
+\ beginning.                         /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
