@@ -1,13 +1,12 @@
 Last Update Time: 
-Sat Dec 10 10:53:58 UTC 2022
+Sat Dec 10 11:11:54 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ The very ink with which all history is \
-| written is merely fluid prejudice.     |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ ____________________________________
+/ Q: Why did the germ cross the      \
+| microscope? A: To get to the other |
+\ slide.                             /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
