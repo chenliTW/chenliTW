@@ -1,14 +1,17 @@
 Last Update Time: 
-Sun Dec 11 20:50:09 UTC 2022
+Sun Dec 11 21:06:01 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ ROMEO: Courage, man; the hurt cannot be \
-| much. MERCUTIO: No, 'tis not so deep as |
-| a well, nor so wide                     |
+/ Q: What's the difference between the    \
+| 1950's and the 1980's? A: In the 80's,  |
+| a man walks into a drugstore and states |
+| loudly, "I'd                            |
 |                                         |
-| as a church-door; but 'tis enough,      |
-\ 'twill serve.                           /
+| like some condoms," and then, leaning   |
+| over the counter, whispers,             |
+|                                         |
+\ "and some cigarettes."                  /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
