@@ -1,10 +1,11 @@
 Last Update Time: 
-Sun Dec 11 05:25:08 UTC 2022
+Sun Dec 11 05:37:04 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________
-< Don't get to bragging. >
- ------------------------
+ ______________________________________
+/ You have an unusual equipment for    \
+\ success. Be sure to use it properly. /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
