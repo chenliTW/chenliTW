@@ -1,10 +1,11 @@
 Last Update Time: 
-Sun Dec 11 06:30:35 UTC 2022
+Sun Dec 11 06:44:09 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________
-< Just to have it is enough. >
- ----------------------------
+ ______________________________________
+/ You could live a better life, if you \
+\ had a better mind and a better body. /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
