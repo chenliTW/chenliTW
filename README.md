@@ -1,21 +1,20 @@
 Last Update Time: 
-Mon Dec 12 07:35:00 UTC 2022
+Mon Dec 12 07:47:05 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How many existentialists does it     \
-| take to screw in a light bulb? A: Two.  |
-| One to screw it in and one to observe   |
-| how the light bulb                      |
-|                                         |
-| itself symbolizes a single incandescent |
-| beacon of subjective                    |
-|                                         |
-| reality in a netherworld of endless     |
-| absurdity reaching out toward a         |
-|                                         |
-\ maudlin cosmos of nothingness.          /
- -----------------------------------------
+ ________________________________________
+/ For there are moments when one can     \
+| neither think nor feel. And if one can |
+| neither think nor feel, she thought,   |
+| where is one?                          |
+|                                        |
+| -- Virginia Woolf, "To the Lighthouse" |
+|                                        |
+| [Quoted in "VMS Internals and Data     |
+| Structures", V4.4, when                |
+|                                        |
+\ referring to powerfail recovery.]      /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
