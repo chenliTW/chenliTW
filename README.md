@@ -1,10 +1,11 @@
 Last Update Time: 
-Tue Dec 13 21:07:50 UTC 2022
+Tue Dec 13 21:24:28 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-< You will contract a rare disease. >
- -----------------------------------
+ ______________________________________
+/ Abandon the search for Truth; settle \
+\ for a good fantasy.                  /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
