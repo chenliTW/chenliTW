@@ -1,15 +1,15 @@
 Last Update Time: 
-Tue Dec 13 02:37:52 UTC 2022
+Tue Dec 13 03:12:43 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How many Zen masters does it take to \
-| screw in a light bulb? A: None. The     |
-| Universe spins the bulb, and the Zen    |
-| master stays out                        |
-|                                         |
-\ of the way.                             /
- -----------------------------------------
+ ________________________________________
+/ The man who sets out to carry a cat by \
+| its tail learns something that will    |
+| always be useful and which never will  |
+| grow dim or doubtful.                  |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
