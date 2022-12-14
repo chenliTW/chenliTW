@@ -1,10 +1,13 @@
 Last Update Time: 
-Wed Dec 14 08:49:54 UTC 2022
+Wed Dec 14 09:07:23 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Ships are safe in harbor, but they were \
-\ never meant to stay there.              /
+/ Q: How does a hacker fix a function     \
+| which                                   |
+|                                         |
+| doesn't work for all of the elements in |
+\ its domain? A: He changes the domain.   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
