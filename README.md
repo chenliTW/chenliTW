@@ -1,19 +1,15 @@
 Last Update Time: 
-Tue Dec 13 23:50:27 UTC 2022
+Wed Dec 14 00:42:45 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The countdown had stalled at 'T' minus  \
-| 69 seconds when Desiree, the first      |
-| female ape to go up in space, winked at |
-| me slyly and pouted her thick, rubbery  |
-| lips unmistakably -- the first of many  |
-| such advances during what would prove   |
-| to be the longest, and most memorable,  |
-| space voyage of my career.              |
+/ When I reflect upon the number of       \
+| disagreeable people who I know who have |
+| gone to a better world, I am moved to   |
+| lead a different life.                  |
 |                                         |
-| -- Winning sentence, 1985 Bulwer-Lytton |
-\ bad fiction contest.                    /
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
