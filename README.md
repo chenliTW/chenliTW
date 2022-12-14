@@ -1,12 +1,13 @@
 Last Update Time: 
-Wed Dec 14 16:38:35 UTC 2022
+Wed Dec 14 16:54:39 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _______________________________________
-/ As flies to wanton boys are we to the \
-| gods; they kill us for their sport.   |
+/ Whenever you find that you are on the \
+| side of the majority, it is time to   |
+| reform.                               |
 |                                       |
-\ -- Shakespeare, "King Lear"           /
+\ -- Mark Twain                         /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
