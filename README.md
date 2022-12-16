@@ -1,13 +1,12 @@
 Last Update Time: 
-Fri Dec 16 00:50:27 UTC 2022
+Fri Dec 16 02:03:25 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ I think we are in Rats' Alley where the \
-| dead men lost their bones.              |
-|                                         |
-\ -- T.S. Eliot                           /
- -----------------------------------------
+ _______________________________
+/ Don't worry. Life's too long. \
+|                               |
+\ -- Vincent Sardi, Jr.         /
+ -------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
