@@ -1,13 +1,10 @@
 Last Update Time: 
-Fri Dec 16 04:56:12 UTC 2022
+Fri Dec 16 05:17:26 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Writing is turning one's worst moments \
-| into money.                            |
-|                                        |
-\ -- J.P. Donleavy                       /
- ----------------------------------------
+ ________________________________
+< It's all in the mind, ya know. >
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
