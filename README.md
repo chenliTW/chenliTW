@@ -1,11 +1,12 @@
 Last Update Time: 
-Fri Dec 16 10:55:37 UTC 2022
+Fri Dec 16 11:14:39 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Your boss climbed the corporate ladder, \
-\ wrong by wrong.                         /
- -----------------------------------------
+ ______________________________________
+/ Good night to spend with family, but \
+| avoid arguments with your mate's new |
+\ lover.                               /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
