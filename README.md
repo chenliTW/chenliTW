@@ -1,13 +1,14 @@
 Last Update Time: 
-Sun Dec 18 12:44:40 UTC 2022
+Sun Dec 18 13:03:22 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Today's weirdness is tomorrow's reason \
-| why.                                   |
-|                                        |
-\ -- Hunter S. Thompson                  /
- ----------------------------------------
+ _______________________________________
+/ There are more things in heaven and   \
+| earth, Horatio, than are dreamt of in |
+| your philosophy.                      |
+|                                       |
+\ -- Wm. Shakespeare, "Hamlet"          /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
