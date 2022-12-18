@@ -1,12 +1,11 @@
 Last Update Time: 
-Sun Dec 18 19:59:46 UTC 2022
+Sun Dec 18 20:21:20 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You're definitely on their list. The \
-| question to ask next is what list it |
-\ is.                                  /
- --------------------------------------
+ ___________________________________
+/ You will not be elected to public \
+\ office this year.                 /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
