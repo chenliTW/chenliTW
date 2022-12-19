@@ -1,10 +1,14 @@
 Last Update Time: 
-Mon Dec 19 02:25:34 UTC 2022
+Mon Dec 19 02:47:57 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-< A day for firm decisions!!!!! Or is it? >
- -----------------------------------------
+ ________________________________________
+/ Q: Why haven't you graduated yet? A:   \
+| Well, Dad, I could have finished years |
+| ago, but I wanted                      |
+|                                        |
+\ my dissertation to rhyme.              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
