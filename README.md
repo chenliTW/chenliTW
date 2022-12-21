@@ -1,10 +1,11 @@
 Last Update Time: 
-Wed Dec 21 11:01:35 UTC 2022
+Wed Dec 21 11:18:49 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: What's buried in Grant's tomb? A: A \
-\ corpse.                                /
+/ If you learn one useless thing every   \
+| day, in a single year you'll learn 365 |
+\ useless things.                        /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
