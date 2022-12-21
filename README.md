@@ -1,20 +1,12 @@
 Last Update Time: 
-Wed Dec 21 04:56:19 UTC 2022
+Wed Dec 21 05:17:10 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many existentialists does it     \
-| take to screw in a light bulb? A: Two.  |
-| One to screw it in and one to observe   |
-| how the light bulb                      |
+/ The first thing we do, let's kill all   \
+| the lawyers.                            |
 |                                         |
-| itself symbolizes a single incandescent |
-| beacon of subjective                    |
-|                                         |
-| reality in a netherworld of endless     |
-| absurdity reaching out toward a         |
-|                                         |
-\ maudlin cosmos of nothingness.          /
+\ -- Wm. Shakespeare, "Henry VI", Part IV /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
