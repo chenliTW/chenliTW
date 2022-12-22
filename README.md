@@ -1,11 +1,12 @@
 Last Update Time: 
-Thu Dec 22 23:46:21 UTC 2022
+Thu Dec 22 23:58:12 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ An avocado-tone refrigerator would look \
-\ good on your resume.                    /
- -----------------------------------------
+ ______________________________________
+/ You'll never see all the places, or  \
+| read all the books, but fortunately, |
+\ they're not all recommended.         /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
