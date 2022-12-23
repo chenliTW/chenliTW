@@ -1,14 +1,15 @@
 Last Update Time: 
-Fri Dec 23 18:58:51 UTC 2022
+Fri Dec 23 19:16:18 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Why is it that we rejoice at a birth   \
-| and grieve at a funeral? It is because |
-| we are not the person involved.        |
+/ Q: How many lawyers does it take to    \
+| change a light bulb? A: You won't find |
+| a lawyer who can change a light bulb.  |
+| Now, if                                |
 |                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
+| you're looking for a lawyer to screw a |
+\ light bulb...                          /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
