@@ -1,14 +1,13 @@
 Last Update Time: 
-Sat Dec 24 10:46:43 UTC 2022
+Sat Dec 24 10:58:38 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ A classic is something that everyone   \
-| wants to have read and nobody wants to |
-| read.                                  |
+/ He jests at scars who never felt a     \
+| wound.                                 |
 |                                        |
-| -- Mark Twain, "The Disappearance of   |
-\ Literature"                            /
+| -- Shakespeare, "Romeo and Juliet, II. |
+\ 2"                                     /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
