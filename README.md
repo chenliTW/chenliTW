@@ -1,49 +1,40 @@
 Last Update Time: 
-Sat Dec 24 23:31:38 UTC 2022
+Sat Dec 24 23:43:21 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Well, anyway, I was reading this James  \
-| Bond book, and right away I realized    |
-| that like most books, it had too many   |
-| words. The plot was the same one that   |
-| all James Bond books have: An evil      |
-| person tries to blow up the world, but  |
-| James Bond kills him and his henchmen   |
-| and makes love to several attractive    |
-| women. There, that's it: 24 words. But  |
-| the guy who wrote the book took         |
-| *thousands* of words to say it.         |
+/  "...The name of the song is called     \
+| 'Haddocks' Eyes'!"                      |
 |                                         |
-| Or consider "The Brothers Karamazov",   |
-| by the famous Russian alcoholic Fyodor  |
-| Dostoyevsky. It's about these two       |
-| brothers who kill their father. Or      |
-| maybe only one of them kills the        |
-| father. It's impossible to tell because |
-| what they mostly do is talk for nearly  |
-| a thousand pages. If all Russians talk  |
-| as much as the Karamazovs did, I don't  |
-| see how they found time to become a     |
-| major world power.                      |
+| "Oh, that's the name of the song, is    |
+| it?" Alice said, trying to feel         |
+| interested.                             |
 |                                         |
-| I'm told that Dostoyevsky wrote "The    |
-| Brothers Karamazov" to raise the        |
-| question of whether there is a God. So  |
-| why didn't he just come right out and   |
-| say: "Is there a God? It sure beats the |
-| heck out of me."                        |
+| "No, you don't understand," the Knight  |
+| said, looking a little vexed. "That's   |
+| what the name is called. The name       |
+| really is, 'The Aged Aged Man.'"        |
 |                                         |
-| Other famous works could easily have    |
-| been summarized in a few words:         |
+| "Then I ought to have said "That's what |
+| the song is called'?" Alice corrected   |
+| herself.                                |
 |                                         |
-| * "Moby Dick" -- Don't mess around with |
-| large whales because they symbolize     |
+| "No, you oughtn't: that's quite another |
+| thing! The song is called 'Ways and     |
+| Means': but that's only what it is      |
+| called you know!"                       |
 |                                         |
-| nature and will kill you. * "A Tale of  |
-| Two Cities" -- French people are crazy. |
+| "Well, what is the song then?" said     |
+| Alice, who was by this time completely  |
+| bewildered.                             |
 |                                         |
-\ -- Dave Barry                           /
+| "I was coming to that," the Knight      |
+| said. "The song really is "A-sitting on |
+| a Gate": and the tune's my own          |
+| invention."                             |
+|                                         |
+| -- Lewis Carroll, "Through the Looking  |
+\ Glass"                                  /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
