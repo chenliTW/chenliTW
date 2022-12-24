@@ -1,22 +1,13 @@
 Last Update Time: 
-Sat Dec 24 04:31:50 UTC 2022
+Sat Dec 24 04:43:49 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ There is no character, howsoever good   \
-| and fine, but it can be destroyed by    |
-| ridicule, howsoever poor and witless.   |
-| Observe the ass, for instance: his      |
-| character is about perfect, he is the   |
-| choicest spirit among all the humbler   |
-| animals, yet see what ridicule has      |
-| brought him to. Instead of feeling      |
-| complimented when we are called an ass, |
-| we are left in doubt.                   |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
- -----------------------------------------
+ ________________________________________
+/ Never laugh at live dragons.           \
+|                                        |
+| -- Bilbo Baggins [J.R.R. Tolkien, "The |
+\ Hobbit"]                               /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
