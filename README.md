@@ -1,12 +1,11 @@
 Last Update Time: 
-Sun Dec 25 02:53:06 UTC 2022
+Sun Dec 25 03:13:22 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What do you get when you cross the   \
-| Godfather with an attorney? A: An offer |
-\ you can't understand.                   /
- -----------------------------------------
+ ____________________________________
+/ After your lover has gone you will \
+\ still have PEANUT BUTTER!          /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
