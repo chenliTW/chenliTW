@@ -1,16 +1,13 @@
 Last Update Time: 
-Sun Dec 25 17:26:30 UTC 2022
+Sun Dec 25 17:38:12 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Q: What do you call a blind        \
-| pre-historic animal? A:            |
-| Diyathinkhesaurus.                 |
-|                                    |
-| Q: What do you call a blind        |
-| pre-historic animal with a dog? A: |
-\ Diyathinkhesaurus Rex.             /
- ------------------------------------
+ ________________________________________
+/ Q: What looks like a cat, flies like a \
+| bat, brays like a donkey, and          |
+|                                        |
+\ plays like a monkey? A: Nothing.       /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
