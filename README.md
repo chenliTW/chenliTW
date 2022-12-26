@@ -1,14 +1,12 @@
 Last Update Time: 
-Mon Dec 26 21:29:25 UTC 2022
+Mon Dec 26 21:41:15 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why is Christmas just like a day at \
-| the office? A: You do all of the work  |
-| and the fat guy in the suit            |
-|                                        |
-\ gets all the credit.                   /
- ----------------------------------------
+ ______________________________________
+/ Your motives for doing whatever good \
+| deed you may have in mind will be    |
+\ misinterpreted by somebody.          /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
