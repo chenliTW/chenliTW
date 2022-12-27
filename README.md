@@ -1,15 +1,13 @@
 Last Update Time: 
-Tue Dec 27 04:57:09 UTC 2022
+Tue Dec 27 05:18:37 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ He draweth out the thread of his       \
-| verbosity finer than the staple of his |
-| argument.                              |
-|                                        |
-| -- William Shakespeare, "Love's        |
-\ Labour's Lost"                         /
- ----------------------------------------
+ _________________________________________
+/ I have never let my schooling interfere \
+| with my education.                      |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
