@@ -1,20 +1,13 @@
 Last Update Time: 
-Tue Dec 27 23:20:20 UTC 2022
+Tue Dec 27 23:32:44 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ For there are moments when one can     \
-| neither think nor feel. And if one can |
-| neither think nor feel, she thought,   |
-| where is one?                          |
-|                                        |
-| -- Virginia Woolf, "To the Lighthouse" |
-|                                        |
-| [Quoted in "VMS Internals and Data     |
-| Structures", V4.4, when                |
-|                                        |
-\ referring to powerfail recovery.]      /
- ----------------------------------------
+ _______________________________________
+/ Q: How many IBM CPU's does it take to \
+| do a logical right shift? A: 33. 1 to |
+| hold the bits and 32 to push the      |
+\ register.                             /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
