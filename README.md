@@ -1,17 +1,16 @@
 Last Update Time: 
-Tue Dec 27 17:30:20 UTC 2022
+Tue Dec 27 17:42:22 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ I got a hint of things to come when I   \
-| overheard my boss lamenting, 'The books |
-| are done and we still don't have an     |
-| author! I must sign someone today!      |
+/ In India, "cold weather" is merely a    \
+| conventional phrase and has come into   |
+| use through the necessity of having     |
+| some way to distinguish between weather |
+| which will melt a brass door-knob and   |
+| weather which will only make it mushy.  |
 |                                         |
-| -- Tamim Ansary, "Edutopia Magazine,    |
-| Issue 2, November 2004"                 |
-|                                         |
-\ on the topic of school textbooks        /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
