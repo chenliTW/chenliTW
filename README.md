@@ -1,12 +1,14 @@
 Last Update Time: 
-Wed Dec 28 14:26:39 UTC 2022
+Wed Dec 28 14:38:51 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ This was the most unkindest cut of all. \
-|                                         |
-\ -- William Shakespeare, "Julius Caesar" /
- -----------------------------------------
+ ________________________________________
+/ Hain't we got all the fools in town on \
+| our side? And hain't that a big enough |
+| majority in any town?                  |
+|                                        |
+\ -- Mark Twain, "Huckleberry Finn"      /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
