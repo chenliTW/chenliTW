@@ -1,11 +1,15 @@
 Last Update Time: 
-Wed Dec 28 12:49:52 UTC 2022
+Wed Dec 28 13:11:45 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What do you call a blind, deaf-mute, \
-\ quadraplegic Virginian? A: Trustworthy. /
- -----------------------------------------
+ _____________________________________
+/ Q: What do you call 15 blondes in a \
+| circle? A: A dope ring.             |
+|                                     |
+| Q: Why do blondes put their hair in |
+| ponytails? A: To cover up the valve |
+\ stem.                               /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
