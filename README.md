@@ -1,12 +1,23 @@
 Last Update Time: 
-Thu Dec 29 20:21:43 UTC 2022
+Thu Dec 29 20:34:34 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Q: Why did the germ cross the      \
-| microscope? A: To get to the other |
-\ slide.                             /
- ------------------------------------
+ _______________________________________
+/ Delay not, Caesar. Read it instantly. \
+|                                       |
+| -- Shakespeare, "Julius Caesar" 3,1   |
+|                                       |
+| Here is a letter, read it at your     |
+| leisure.                              |
+|                                       |
+| -- Shakespeare, "Merchant of Venice"  |
+| 5,1                                   |
+|                                       |
+| [Quoted in "VMS Internals and Data    |
+| Structures", V4.4, when               |
+|                                       |
+\ referring to I/O system services.]    /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
