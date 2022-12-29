@@ -1,13 +1,12 @@
 Last Update Time: 
-Thu Dec 29 04:46:34 UTC 2022
+Thu Dec 29 04:58:25 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Hain't we got all the fools in town on \
-| our side? And hain't that a big enough |
-| majority in any town?                  |
-|                                        |
-\ -- Mark Twain, "Huckleberry Finn"      /
+/ Q: How many Harvard MBA's does it take \
+| to screw in a light bulb? A: Just one. |
+| He grasps it firmly and the universe   |
+\ revolves around him.                   /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
