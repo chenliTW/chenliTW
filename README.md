@@ -1,11 +1,13 @@
 Last Update Time: 
-Thu Dec 29 03:14:02 UTC 2022
+Thu Dec 29 03:29:23 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You will live a long, healthy, happy \
-\ life and make bags of money.         /
- --------------------------------------
+ _________________________________________
+/ By trying we can easily learn to endure \
+| adversity. Another man's, I mean.       |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
