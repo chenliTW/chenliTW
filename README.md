@@ -1,14 +1,11 @@
 Last Update Time: 
-Fri Dec 30 03:59:47 UTC 2022
+Fri Dec 30 04:26:07 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ "Elves and Dragons!" I says to him.   \
-| "Cabbages and potatoes are better for |
-| you and me."                          |
-|                                       |
-\ -- J. R. R. Tolkien                   /
- ---------------------------------------
+ ______________________________________
+/ You teach best what you most need to \
+\ learn.                               /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
