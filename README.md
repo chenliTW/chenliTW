@@ -1,12 +1,14 @@
 Last Update Time: 
-Sat Dec 31 17:52:17 UTC 2022
+Sat Dec 31 18:13:18 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The abuse of greatness is when it       \
-| disjoins remorse from power.            |
+/ Q: Why is it that the more accuracy you \
+| demand from an interpolation            |
 |                                         |
-\ -- William Shakespeare, "Julius Caesar" /
+| function, the more expensive it becomes |
+| to compute? A: That's the Law of Spline |
+\ Demand.                                 /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
