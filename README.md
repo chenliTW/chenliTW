@@ -1,14 +1,14 @@
 Last Update Time: 
-Sat Dec 31 05:29:49 UTC 2022
+Sat Dec 31 05:42:06 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many Zen masters does it take to \
-| screw in a light bulb? A: None. The     |
-| Universe spins the bulb, and the Zen    |
-| master stays out                        |
+/ Q: Why is it that the more accuracy you \
+| demand from an interpolation            |
 |                                         |
-\ of the way.                             /
+| function, the more expensive it becomes |
+| to compute? A: That's the Law of Spline |
+\ Demand.                                 /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
