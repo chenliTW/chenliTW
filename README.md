@@ -1,17 +1,20 @@
 Last Update Time: 
-Sat Dec 31 19:34:31 UTC 2022
+Sat Dec 31 19:46:24 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: Why don't Scotsmen ever have coffee \
-| the way they like it? A: Well, they    |
-| like it with two lumps of sugar. If    |
-| they drink                             |
+/ The true Southern watermelon is a boon \
+| apart, and not to be mentioned with    |
+| commoner things. It is chief of the    |
+| world's luxuries, king by the grace of |
+| God over all the fruits of the earth.  |
+| When one has tasted it, he knows what  |
+| the angels eat. It was not a Southern  |
+| watermelon that Eve took; we know it   |
+| because she repented.                  |
 |                                        |
-| it at home, they only take one, and if |
-| they drink it while                    |
-|                                        |
-\ visiting, they always take three.      /
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
