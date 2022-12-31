@@ -1,21 +1,14 @@
 Last Update Time: 
-Sat Dec 31 20:19:54 UTC 2022
+Sat Dec 31 20:31:52 UTC 2022
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Even the clearest and most perfect      \
-| circumstantial evidence is likely to be |
-| at fault, after all, and therefore      |
-| ought to be received with great         |
-| caution. Take the case of any pencil,   |
-| sharpened by any woman; if you have     |
-| witnesses, you will find she did it     |
-| with a knife; but if you take simply    |
-| the aspect of the pencil, you will say  |
-| that she did it with her teeth.         |
+/ The only way to keep your health is to  \
+| eat what you don't want, drink what you |
+| don't like, and do what you'd rather    |
+| not.                                    |
 |                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
