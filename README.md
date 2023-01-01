@@ -1,12 +1,13 @@
 Last Update Time: 
-Sun Jan  1 19:09:32 UTC 2023
+Sun Jan  1 19:21:17 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ What no spouse of a writer can ever    \
-| understand is that a writer is working |
-\ when he's staring out the window.      /
- ----------------------------------------
+ ______________________________________
+/ Things past redress and now with me  \
+| past care.                           |
+|                                      |
+\ -- William Shakespeare, "Richard II" /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
