@@ -1,15 +1,11 @@
 Last Update Time: 
-Sun Jan  1 07:22:04 UTC 2023
+Sun Jan  1 07:34:06 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ This is the first age that's paid much \
-| attention to the future, which is a    |
-| little ironic since we may not have    |
-| one.                                   |
-|                                        |
-\ -- Arthur Clarke                       /
- ----------------------------------------
+ _______________________________________
+/ You never hesitate to tackle the most \
+\ difficult problems.                   /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
