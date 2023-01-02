@@ -1,13 +1,12 @@
 Last Update Time: 
-Mon Jan  2 03:53:00 UTC 2023
+Mon Jan  2 04:15:54 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ They spell it "da Vinci" and pronounce  \
-| it "da Vinchy". Foreigners always spell |
-| better than they pronounce.             |
+/ Q: "What is the burning question on the \
+| mind of every dyslexic                  |
 |                                         |
-\ -- Mark Twain                           /
+\ existentialist?" A: "Is there a dog?"   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
