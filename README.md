@@ -1,14 +1,12 @@
 Last Update Time: 
-Mon Jan  2 01:42:40 UTC 2023
+Mon Jan  2 02:31:25 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Knucklehead: "Knock, knock" Pee Wee:    \
-| "Who's there?" Knucklehead: "Little ol' |
-| lady." Pee Wee: "Liddle ol' lady who?"  |
-| Knucklehead: "I didn't know you could   |
-\ yodel"                                  /
- -----------------------------------------
+ ______________________________________
+/ Q: How can you tell when a Burroughs \
+| salesman is lying? A: When his lips  |
+\ move.                                /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
