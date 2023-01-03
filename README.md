@@ -1,13 +1,12 @@
 Last Update Time: 
-Tue Jan  3 02:13:46 UTC 2023
+Tue Jan  3 02:44:46 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Must I hold a candle to my shames?    \
-|                                       |
-| -- William Shakespeare, "The Merchant |
-\ of Venice"                            /
- ---------------------------------------
+ _______________________________
+/ Don't worry. Life's too long. \
+|                               |
+\ -- Vincent Sardi, Jr.         /
+ -------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
