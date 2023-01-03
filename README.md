@@ -1,10 +1,11 @@
 Last Update Time: 
-Mon Jan  2 23:52:07 UTC 2023
+Tue Jan  3 00:57:10 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________
-< You should go home. >
- ---------------------
+ ______________________________________
+/ Abandon the search for Truth; settle \
+\ for a good fantasy.                  /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
