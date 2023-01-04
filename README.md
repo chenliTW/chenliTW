@@ -1,11 +1,13 @@
 Last Update Time: 
-Wed Jan  4 13:27:26 UTC 2023
+Wed Jan  4 13:39:33 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ You recoil from the crude; you tend \
-\ naturally toward the exquisite.     /
- -------------------------------------
+ _______________________________________
+/ Q: How many IBM CPU's does it take to \
+| do a logical right shift? A: 33. 1 to |
+| hold the bits and 32 to push the      |
+\ register.                             /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
