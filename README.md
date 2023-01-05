@@ -1,21 +1,11 @@
 Last Update Time: 
-Thu Jan  5 22:49:26 UTC 2023
+Thu Jan  5 23:07:18 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How many existentialists does it     \
-| take to screw in a light bulb? A: Two.  |
-| One to screw it in and one to observe   |
-| how the light bulb                      |
-|                                         |
-| itself symbolizes a single incandescent |
-| beacon of subjective                    |
-|                                         |
-| reality in a netherworld of endless     |
-| absurdity reaching out toward a         |
-|                                         |
-\ maudlin cosmos of nothingness.          /
- -----------------------------------------
+ __________________________________
+/ Break into jail and claim police \
+\ brutality.                       /
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
