@@ -1,10 +1,11 @@
 Last Update Time: 
-Fri Jan  6 17:55:24 UTC 2023
+Fri Jan  6 18:21:52 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-< Q: Are we not men? A: We are Vaxen. >
- -------------------------------------
+ _________________________________________
+/ You will be imprisoned for contributing \
+\ your time and skill to a bank robbery.  /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
