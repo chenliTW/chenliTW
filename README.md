@@ -1,15 +1,13 @@
 Last Update Time: 
-Fri Jan  6 09:39:26 UTC 2023
+Fri Jan  6 09:51:29 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: Why is it that the more accuracy you \
-| demand from an interpolation            |
-|                                         |
-| function, the more expensive it becomes |
-| to compute? A: That's the Law of Spline |
-\ Demand.                                 /
- -----------------------------------------
+ ____________________________________
+/ Familiarity breeds contempt -- and \
+| children.                          |
+|                                    |
+\ -- Mark Twain                      /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
