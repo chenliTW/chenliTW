@@ -1,15 +1,14 @@
 Last Update Time: 
-Fri Jan  6 09:27:39 UTC 2023
+Fri Jan  6 09:39:26 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ When I reflect upon the number of       \
-| disagreeable people who I know who have |
-| gone to a better world, I am moved to   |
-| lead a different life.                  |
+/ Q: Why is it that the more accuracy you \
+| demand from an interpolation            |
 |                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
+| function, the more expensive it becomes |
+| to compute? A: That's the Law of Spline |
+\ Demand.                                 /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
