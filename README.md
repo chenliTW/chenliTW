@@ -1,13 +1,15 @@
 Last Update Time: 
-Sat Jan  7 08:14:37 UTC 2023
+Sat Jan  7 08:31:38 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Tempt not a desperate man.         \
-|                                    |
-| -- William Shakespeare, "Romeo and |
-\ Juliet"                            /
- ------------------------------------
+ _____________________________________
+/ Q: What do you call 15 blondes in a \
+| circle? A: A dope ring.             |
+|                                     |
+| Q: Why do blondes put their hair in |
+| ponytails? A: To cover up the valve |
+\ stem.                               /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
