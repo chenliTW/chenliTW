@@ -1,12 +1,15 @@
 Last Update Time: 
-Sun Jan  8 17:23:43 UTC 2023
+Sun Jan  8 17:36:06 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ For courage mounteth with occasion. \
-|                                     |
-\ -- William Shakespeare, "King John" /
- -------------------------------------
+ _________________________________________
+/ Q: Why is it that the more accuracy you \
+| demand from an interpolation            |
+|                                         |
+| function, the more expensive it becomes |
+| to compute? A: That's the Law of Spline |
+\ Demand.                                 /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
