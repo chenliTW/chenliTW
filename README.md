@@ -1,10 +1,11 @@
 Last Update Time: 
-Tue Jan 10 14:38:59 UTC 2023
+Tue Jan 10 14:50:48 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ______________________________________
-/ You will hear good news from one you \
-\ thought unfriendly to you.           /
+/ Q: How can you tell when a Burroughs \
+| salesman is lying? A: When his lips  |
+\ move.                                /
  --------------------------------------
         \   ^__^
          \  (oo)\_______
