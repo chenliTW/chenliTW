@@ -1,15 +1,12 @@
 Last Update Time: 
-Tue Jan 10 09:56:46 UTC 2023
+Tue Jan 10 10:22:39 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ It is often the case that the man who  \
-| can't tell a lie thinks he is the best |
-| judge of one.                          |
-|                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
- ----------------------------------------
+ ______________________________________
+/ You plan things that you do not even \
+| attempt because of your extreme      |
+\ caution.                             /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
