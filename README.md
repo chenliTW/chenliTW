@@ -1,11 +1,12 @@
 Last Update Time: 
-Tue Jan 10 23:39:10 UTC 2023
+Tue Jan 10 23:51:03 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ You will gain money by an illegal \
-\ action.                           /
- -----------------------------------
+ _________________________________________
+/ You will stop at nothing to reach your  \
+| objective, but only because your brakes |
+\ are defective.                          /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
