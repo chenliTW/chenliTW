@@ -1,13 +1,11 @@
 Last Update Time: 
-Wed Jan 11 05:55:20 UTC 2023
+Wed Jan 11 06:22:23 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Something's rotten in the state of \
-| Denmark.                           |
-|                                    |
-\ -- Shakespeare                     /
- ------------------------------------
+ __________________________________
+/ You are capable of planning your \
+\ future.                          /
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
