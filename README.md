@@ -1,14 +1,18 @@
 Last Update Time: 
-Wed Jan 11 10:10:37 UTC 2023
+Wed Jan 11 10:34:19 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Few things are harder to put up with  \
-| than the annoyance of a good example. |
-|                                       |
-| -- "Mark Twain, Pudd'nhead Wilson's   |
-\ Calendar"                             /
- ---------------------------------------
+ ________________________________
+/ To be or not to be.            \
+|                                |
+| -- Shakespeare To do is to be. |
+|                                |
+| -- Nietzsche To be is to do.   |
+|                                |
+| -- Sartre Do be do be do.      |
+|                                |
+\ -- Sinatra                     /
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
