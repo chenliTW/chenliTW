@@ -1,15 +1,15 @@
 Last Update Time: 
-Thu Jan 12 10:57:09 UTC 2023
+Thu Jan 12 11:22:43 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ A banker is a fellow who lends you his \
-| umbrella when the sun is shining and   |
-| wants it back the minute it begins to  |
-| rain.                                  |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _____________________________________
+/ It were not best that we should all \
+| think alike; it is difference of    |
+| opinion that makes horse-races.     |
+|                                     |
+| -- Mark Twain, "Pudd'nhead Wilson's |
+\ Calendar"                           /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
