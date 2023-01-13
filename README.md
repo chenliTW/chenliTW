@@ -1,12 +1,12 @@
 Last Update Time: 
-Fri Jan 13 21:47:49 UTC 2023
+Fri Jan 13 21:59:42 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: What's the difference between Bell  \
-| Labs and the Boy Scouts of America? A: |
-\ The Boy Scouts have adult supervision. /
- ----------------------------------------
+ ______________________________________
+/ Having nothing, nothing can he lose. \
+|                                      |
+\ -- William Shakespeare, "Henry VI"   /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
