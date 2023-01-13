@@ -1,11 +1,11 @@
 Last Update Time: 
-Fri Jan 13 18:13:02 UTC 2023
+Fri Jan 13 18:32:08 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You have a deep interest in all that is \
-\ artistic.                               /
- -----------------------------------------
+ ______________________________________
+/ Abandon the search for Truth; settle \
+\ for a good fantasy.                  /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
