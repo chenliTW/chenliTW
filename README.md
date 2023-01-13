@@ -1,25 +1,25 @@
 Last Update Time: 
-Fri Jan 13 04:57:53 UTC 2023
+Fri Jan 13 05:20:05 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many Californians does it take   \
-| to screw in a light bulb? A: Five. One  |
-| to screw in the light bulb and four to  |
-| share the                               |
+/ No live organism can continue for long  \
+| to exist sanely under conditions of     |
+| absolute reality; even larks and        |
+| katydids are supposed, by some, to      |
+| dream. Hill House, not sane, stood by   |
+| itself against its hills, holding       |
+| darkness within; it had stood so for    |
+| eighty years and might stand for eighty |
+| more. Within, walls continued upright,  |
+| bricks met neatly, floors were firm,    |
+| and doors were sensibly shut; silence   |
+| lay steadily against the wood and stone |
+| of Hill House, and whatever walked      |
+| there, walked alone.                    |
 |                                         |
-| experience. (Actually, Californians     |
-| don't screw in                          |
-|                                         |
-| light bulbs, they screw in hot tubs.)   |
-|                                         |
-| Q: How many Oregonians does it take to  |
-| screw in a light bulb? A: Three. One to |
-| screw in the light bulb and two to fend |
-| off all                                 |
-|                                         |
-| those Californians trying to share the  |
-\ experience.                             /
+| -- Shirley Jackson, "The Haunting of    |
+\ Hill House"                             /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
