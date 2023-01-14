@@ -1,15 +1,17 @@
 Last Update Time: 
-Sat Jan 14 09:47:40 UTC 2023
+Sat Jan 14 09:59:36 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How many Zen masters does it take to \
-| screw in a light bulb? A: None. The     |
-| Universe spins the bulb, and the Zen    |
-| master stays out                        |
-|                                         |
-\ of the way.                             /
- -----------------------------------------
+ ________________________________________
+/ I've touch'd the highest point of all  \
+| my greatness; And from that full       |
+| meridian of my glory I haste now to my |
+| setting. I shall fall, Like a bright   |
+| exhalation in the evening And no man   |
+| see me more.                           |
+|                                        |
+\ -- Shakespeare                         /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
