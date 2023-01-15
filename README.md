@@ -1,16 +1,10 @@
 Last Update Time: 
-Sun Jan 15 21:52:15 UTC 2023
+Sun Jan 15 22:11:04 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ In India, "cold weather" is merely a    \
-| conventional phrase and has come into   |
-| use through the necessity of having     |
-| some way to distinguish between weather |
-| which will melt a brass door-knob and   |
-| weather which will only make it mushy.  |
-|                                         |
-\ -- Mark Twain                           /
+/ Q: What is the difference between Texas \
+\ and yogurt? A: Yogurt has culture.      /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
