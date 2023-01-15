@@ -1,13 +1,12 @@
 Last Update Time: 
-Sun Jan 15 03:23:04 UTC 2023
+Sun Jan 15 03:35:25 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/  A man was reading The Canterbury Tales \
-| one Saturday morning, when his wife     |
-| asked "What have you got there?"        |
-\ Replied he, "Just my cup and Chaucer."  /
- -----------------------------------------
+ ________________________________________
+/ Your analyst has you mixed up with     \
+| another patient. Don't believe a thing |
+\ he tells you.                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
