@@ -1,14 +1,13 @@
 Last Update Time: 
-Mon Jan 16 03:51:05 UTC 2023
+Mon Jan 16 04:12:13 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ A hundred years from now it is very     \
-| likely that [of Twain's works] "The     |
-| Jumping Frog" alone will be remembered. |
+/ They spell it "da Vinci" and pronounce  \
+| it "da Vinchy". Foreigners always spell |
+| better than they pronounce.             |
 |                                         |
-| -- Harry Thurston Peck (Editor of "The  |
-\ Bookman"), January 1901.                /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
