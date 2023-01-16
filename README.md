@@ -1,12 +1,12 @@
 Last Update Time: 
-Mon Jan 16 05:54:40 UTC 2023
+Mon Jan 16 06:21:25 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why did the lone ranger kill Tonto? \
-| A: He found out what "kimosabe" really |
-\ means.                                 /
- ----------------------------------------
+ ______________________________________
+/ Q: How many Martians does it take to \
+| screw in a light bulb? A: One and a  |
+\ half.                                /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
