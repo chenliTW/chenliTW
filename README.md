@@ -1,12 +1,14 @@
 Last Update Time: 
-Mon Jan 16 15:53:27 UTC 2023
+Mon Jan 16 16:19:05 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How many lawyers does it take to    \
-| change a light bulb? A: One. Only it's |
-\ his light bulb when he's done.         /
- ----------------------------------------
+ _______________________________________
+/ Grief can take care of itself; but to \
+| get the full value of a joy you must  |
+| have somebody to divide it with.      |
+|                                       |
+\ -- Mark Twain                         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
