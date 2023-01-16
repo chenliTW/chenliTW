@@ -1,12 +1,12 @@
 Last Update Time: 
-Mon Jan 16 08:42:58 UTC 2023
+Mon Jan 16 08:54:57 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You will lose your present job and have \
-| to become a door to door mayonnaise     |
-\ salesman.                               /
- -----------------------------------------
+ _______________________________________
+/ You'll wish that you had done some of \
+| the hard things when they were easier |
+\ to do.                                /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
