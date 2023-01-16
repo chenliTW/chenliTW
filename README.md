@@ -1,14 +1,15 @@
 Last Update Time: 
-Mon Jan 16 18:55:56 UTC 2023
+Mon Jan 16 19:14:53 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ The lunatic, the lover, and the poet, \
-| Are of imagination all compact...     |
-|                                       |
-| -- Wm. Shakespeare, "A Midsummer      |
-\ Night's Dream"                        /
- ---------------------------------------
+ ________________________________________
+/ There is always one thing to remember: \
+| writers are always selling somebody    |
+| out.                                   |
+|                                        |
+| -- Joan Didion, "Slouching Towards     |
+\ Bethlehem"                             /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
