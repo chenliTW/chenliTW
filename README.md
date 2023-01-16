@@ -1,12 +1,12 @@
 Last Update Time: 
-Mon Jan 16 21:35:34 UTC 2023
+Mon Jan 16 21:47:27 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Q: Why did the astrophysicist order \
-| three hamburgers? A: Because he was |
-\ hungry.                             /
- -------------------------------------
+ _______________________________________
+/ Q: What's the difference between USL  \
+| and the Titanic? A: The Titanic had a |
+\ band.                                 /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
