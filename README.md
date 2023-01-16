@@ -1,12 +1,12 @@
 Last Update Time: 
-Mon Jan 16 06:21:25 UTC 2023
+Mon Jan 16 06:39:01 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: How many Martians does it take to \
-| screw in a light bulb? A: One and a  |
-\ half.                                /
- --------------------------------------
+ ________________________________________
+/ Q: How many lawyers does it take to    \
+| change a light bulb? A: One. Only it's |
+\ his light bulb when he's done.         /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
