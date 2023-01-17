@@ -1,15 +1,11 @@
 Last Update Time: 
-Tue Jan 17 06:30:22 UTC 2023
+Tue Jan 17 06:43:50 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many Oregonians does it take to  \
-| screw in a light bulb? A: Three. One to |
-| screw in the light bulb and two to fend |
-| off all those                           |
-|                                         |
-| Californians trying to share the        |
-\ experience.                             /
+/ You will lose your present job and have \
+| to become a door to door mayonnaise     |
+\ salesman.                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
