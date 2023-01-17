@@ -1,12 +1,11 @@
 Last Update Time: 
-Tue Jan 17 16:39:42 UTC 2023
+Tue Jan 17 16:52:07 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: What do you have when you have a   \
-| lawyer buried up to his neck in sand? |
-\ A: Not enough sand.                   /
- ---------------------------------------
+ ___________________________________
+/ Life is to you a dashing and bold \
+\ adventure.                        /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
