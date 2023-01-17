@@ -1,12 +1,11 @@
 Last Update Time: 
-Tue Jan 17 13:51:13 UTC 2023
+Tue Jan 17 14:08:59 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Q: Why did the germ cross the      \
-| microscope? A: To get to the other |
-\ slide.                             /
- ------------------------------------
+ ________________________________________
+/ Alimony and bribes will engage a large \
+\ share of your wealth.                  /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
