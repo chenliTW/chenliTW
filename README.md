@@ -1,14 +1,11 @@
 Last Update Time: 
-Wed Jan 18 13:52:40 UTC 2023
+Wed Jan 18 14:11:40 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Don't go around saying the world owes \
-| you a living. The world owes you      |
-| nothing. It was here first.           |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ ______________________________________
+/ Hope that the day after you die is a \
+\ nice day.                            /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
