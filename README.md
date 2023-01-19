@@ -1,13 +1,10 @@
 Last Update Time: 
-Thu Jan 19 16:19:07 UTC 2023
+Thu Jan 19 16:42:35 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ "Not Hercules could have knock'd out \
-| his brains, for he had none."        |
-|                                      |
-\ -- Shakespeare                       /
- --------------------------------------
+ _____________________________________
+< Q: Are we not men? A: We are Vaxen. >
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
