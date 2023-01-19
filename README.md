@@ -1,11 +1,12 @@
 Last Update Time: 
-Thu Jan 19 06:35:26 UTC 2023
+Thu Jan 19 06:47:01 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How was Thomas J. Watson buried? A: \
-\ 9 edge down.                           /
- ----------------------------------------
+ _____________________________________
+/ Q: What is printed on the bottom of \
+| beer bottles in Minnesota? A: Open  |
+\ other end.                          /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
