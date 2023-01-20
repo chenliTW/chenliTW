@@ -1,14 +1,18 @@
 Last Update Time: 
-Fri Jan 20 15:29:33 UTC 2023
+Fri Jan 20 15:41:38 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Its name is Public Opinion. It is held \
-| in reverence. It settles everything.   |
-| Some think it is the voice of God.     |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _________________________________________
+/ Q: What did Tarzan say when he saw the  \
+| elephants coming over the hill? A: "The |
+| elephants are coming over the hill."    |
+|                                         |
+| Q: What did he say when saw them coming |
+| over the hill wearing                   |
+|                                         |
+| sunglasses? A: Nothing, for he didn't   |
+\ recognize them.                         /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
