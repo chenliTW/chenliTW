@@ -1,12 +1,12 @@
 Last Update Time: 
-Fri Jan 20 17:53:37 UTC 2023
+Fri Jan 20 18:18:05 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ This was the most unkindest cut of all. \
-|                                         |
-\ -- William Shakespeare, "Julius Caesar" /
- -----------------------------------------
+ _____________________________________
+/ Q: How do you stop an elephant from \
+| charging? A: Take away his credit   |
+\ cards.                              /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
