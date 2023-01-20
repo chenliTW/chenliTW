@@ -1,19 +1,12 @@
 Last Update Time: 
-Fri Jan 20 04:56:59 UTC 2023
+Fri Jan 20 05:19:15 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ At once it struck me what quality went \
-| to form a man of achievement,          |
-| especially in literature, and which    |
-| Shakespeare possessed so enormously -- |
-| I mean negative capability, that is,   |
-| when a man is capable of being in      |
-| uncertainties, mysteries, doubts,      |
-| without any irritable reaching after   |
-| fact and reason.                       |
+/ Rebellion lay in his way, and he found \
+| it.                                    |
 |                                        |
-\ -- John Keats                          /
+\ -- William Shakespeare, "Henry IV"     /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
