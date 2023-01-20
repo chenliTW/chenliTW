@@ -1,17 +1,15 @@
 Last Update Time: 
-Fri Jan 20 09:53:13 UTC 2023
+Fri Jan 20 10:14:53 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ I got a hint of things to come when I   \
-| overheard my boss lamenting, 'The books |
-| are done and we still don't have an     |
-| author! I must sign someone today!      |
+/ Q: How many bureaucrats does it take to \
+| screw in a light bulb? A: Two. One to   |
+| assure everyone that everything         |
+| possible is being                       |
 |                                         |
-| -- Tamim Ansary, "Edutopia Magazine,    |
-| Issue 2, November 2004"                 |
-|                                         |
-\ on the topic of school textbooks        /
+| done while the other screws the bulb    |
+\ into the water faucet.                  /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
