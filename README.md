@@ -1,17 +1,14 @@
 Last Update Time: 
-Fri Jan 20 12:59:24 UTC 2023
+Fri Jan 20 13:27:54 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many surrealists does it take to \
-| change a light bulb? A: Two, one to     |
-| hold the giraffe, and the other to fill |
-| the bathtub                             |
+/ Q: Know what the difference between     \
+| your latest project                     |
 |                                         |
-| with brightly colored machine tools.    |
-|                                         |
-| [Surrealist jokes just aren't my cup of |
-\ fur. Ed.]                               /
+| and putting wings on an elephant is? A: |
+| Who knows? The elephant *might* fly,    |
+\ heh, heh...                             /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
