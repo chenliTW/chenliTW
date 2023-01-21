@@ -1,13 +1,15 @@
 Last Update Time: 
-Sat Jan 21 17:02:20 UTC 2023
+Sat Jan 21 17:20:37 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: "What is the burning question on the \
-| mind of every dyslexic                  |
-|                                         |
-\ existentialist?" A: "Is there a dog?"   /
- -----------------------------------------
+ _______________________________________
+/ Perilous to all of us are the devices \
+| of an art deeper than we ourselves    |
+| possess.                              |
+|                                       |
+| -- Gandalf the Grey [J.R.R. Tolkien,  |
+\ "Lord of the Rings"]                  /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
