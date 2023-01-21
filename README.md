@@ -1,12 +1,13 @@
 Last Update Time: 
-Sat Jan 21 19:51:37 UTC 2023
+Sat Jan 21 20:09:56 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How many lawyers does it take to    \
-| change a light bulb? A: One. Only it's |
-\ his light bulb when he's done.         /
- ----------------------------------------
+ _________________________________________
+/ It is so very hard to be an             \
+| on-your-own-take-care-of-yourself-becau |
+| se-there-is-no-one-else-to-do-it-for-yo |
+\ u grown-up.                             /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
