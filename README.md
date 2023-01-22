@@ -1,14 +1,10 @@
 Last Update Time: 
-Sun Jan 22 04:15:00 UTC 2023
+Sun Jan 22 04:33:44 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ The mind is its own place, and in   \
-| itself Can make a Heav'n of Hell, a |
-| Hell of Heav'n.                     |
-|                                     |
-\ -- John Milton                      /
- -------------------------------------
+ _______________________________________
+< You will inherit millions of dollars. >
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
