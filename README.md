@@ -1,12 +1,13 @@
 Last Update Time: 
-Sun Jan 22 13:59:56 UTC 2023
+Sun Jan 22 14:19:02 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What do you say to a New Yorker with \
-| a job? A: Big Mac, fries and a Coke,    |
-\ please!                                 /
- -----------------------------------------
+ ____________________________________
+/ Lord, what fools these mortals be! \
+|                                    |
+| -- William Shakespeare, "A         |
+\ Midsummer-Night's Dream"           /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
