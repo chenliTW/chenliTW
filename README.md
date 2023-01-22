@@ -1,14 +1,11 @@
 Last Update Time: 
-Sun Jan 22 09:53:21 UTC 2023
+Sun Jan 22 10:13:20 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ "... an experienced, industrious, \
-| ambitious, and often quite often  |
-| picturesque liar."                |
-|                                   |
-\ -- Mark Twain                     /
- -----------------------------------
+ _________________________________________
+/ Q: What's tan and black and looks great \
+\ on a lawyer? A: A doberman.             /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
