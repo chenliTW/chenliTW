@@ -1,11 +1,10 @@
 Last Update Time: 
-Mon Jan 23 21:53:45 UTC 2023
+Mon Jan 23 22:13:32 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You will be recognized and honored as a \
-\ community leader.                       /
- -----------------------------------------
+ _______________________________
+< Keep it short for pithy sake. >
+ -------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
