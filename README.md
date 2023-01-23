@@ -1,17 +1,13 @@
 Last Update Time: 
-Mon Jan 23 06:36:18 UTC 2023
+Mon Jan 23 06:48:17 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ In India, "cold weather" is merely a    \
-| conventional phrase and has come into   |
-| use through the necessity of having     |
-| some way to distinguish between weather |
-| which will melt a brass door-knob and   |
-| weather which will only make it mushy.  |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ____________________________________
+/ Familiarity breeds contempt -- and \
+| children.                          |
+|                                    |
+\ -- Mark Twain                      /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
