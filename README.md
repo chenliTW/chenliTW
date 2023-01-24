@@ -1,10 +1,20 @@
 Last Update Time: 
-Tue Jan 24 04:25:37 UTC 2023
+Tue Jan 24 04:40:50 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ It may or may not be worthwhile, but it \
-\ still has to be done.                   /
+/ A morgue is a morgue is a morgue. They  \
+| can paint the walls with aggressively   |
+| cheerful primary colors and splashy     |
+| bold graphics, but it's still a holding |
+| place for the dead until they can be    |
+| parted out to organ banks. Not that I   |
+| would have cared normally but my        |
+| viewpoint was skewed. The relentless    |
+| pleasance of the room I sat in seemed   |
+| only grotesque.                         |
+|                                         |
+\ -- Pat Cadigan, "Mindplayers"           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
