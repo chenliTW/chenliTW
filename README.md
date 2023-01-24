@@ -1,14 +1,13 @@
 Last Update Time: 
-Tue Jan 24 03:22:15 UTC 2023
+Tue Jan 24 03:34:49 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: Why do people who live near Niagara \
-| Falls have flat foreheads? A: Because  |
-| every morning they wake up thinking    |
-| "What *is* that noise?                 |
+/ Q: What do you call a WASP who doesn't \
+| work for his father, isn't a           |
 |                                        |
-\ Oh, right, *of course*!                /
+| lawyer, and believes in social causes? |
+\ A: A failure.                          /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
