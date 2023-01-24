@@ -1,14 +1,14 @@
 Last Update Time: 
-Tue Jan 24 07:38:48 UTC 2023
+Tue Jan 24 07:50:38 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ If one cannot enjoy reading a book over \
-| and over again, there is no use in      |
-| reading it at all.                      |
-|                                         |
-\ -- Oscar Wilde                          /
- -----------------------------------------
+ _______________________________________
+/ The lunatic, the lover, and the poet, \
+| Are of imagination all compact...     |
+|                                       |
+| -- Wm. Shakespeare, "A Midsummer      |
+\ Night's Dream"                        /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
