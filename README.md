@@ -1,11 +1,11 @@
 Last Update Time: 
-Tue Jan 24 18:11:21 UTC 2023
+Tue Jan 24 18:31:17 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Try to have as good a life as you can \
-\ under the circumstances.              /
- ---------------------------------------
+ __________________________________
+/ You are capable of planning your \
+\ future.                          /
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
