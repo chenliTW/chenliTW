@@ -1,14 +1,11 @@
 Last Update Time: 
-Tue Jan 24 16:16:54 UTC 2023
+Tue Jan 24 16:41:23 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ The devil can cite Scripture for his  \
-| purpose.                              |
-|                                       |
-| -- William Shakespeare, "The Merchant |
-\ of Venice"                            /
- ---------------------------------------
+ ____________________________________
+/ Is that really YOU that is reading \
+\ this?                              /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
