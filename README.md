@@ -1,13 +1,11 @@
 Last Update Time: 
-Wed Jan 25 17:38:13 UTC 2023
+Wed Jan 25 17:50:16 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Its name is Public Opinion. It is held \
-| in reverence. It settles everything.   |
-| Some think it is the voice of God.     |
-|                                        |
-\ -- Mark Twain                          /
+/ What no spouse of a writer can ever    \
+| understand is that a writer is working |
+\ when he's staring out the window.      /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
