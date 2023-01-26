@@ -1,14 +1,12 @@
 Last Update Time: 
-Wed Jan 25 23:52:06 UTC 2023
+Thu Jan 26 00:57:45 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________
-/ Civilization is the limitless \
-| multiplication of unnecessary |
-| necessities.                  |
-|                               |
-\ -- Mark Twain                 /
- -------------------------------
+ ________________________________________
+/ Your best consolation is the hope that \
+| the things you failed to get weren't   |
+\ really worth having.                   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
