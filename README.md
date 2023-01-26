@@ -1,14 +1,11 @@
 Last Update Time: 
-Thu Jan 26 10:52:50 UTC 2023
+Thu Jan 26 11:10:14 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ It is a wise father that knows his own \
-| child.                                 |
-|                                        |
-| -- William Shakespeare, "The Merchant  |
-\ of Venice"                             /
- ----------------------------------------
+ _______________________________________
+/ You will reach the highest possible   \
+\ point in your business or profession. /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
