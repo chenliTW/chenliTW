@@ -1,11 +1,11 @@
 Last Update Time: 
-Sat Jan 28 07:47:37 UTC 2023
+Sat Jan 28 07:59:22 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Never be led astray onto the path of \
-\ virtue.                              /
- --------------------------------------
+ _________________________________________
+/ You will be reincarnated as a toad; and \
+\ you will be much happier.               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
