@@ -1,14 +1,12 @@
 Last Update Time: 
-Sat Jan 28 04:39:57 UTC 2023
+Sat Jan 28 04:51:52 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why do the police always travel in  \
-| threes? A: One to do the reading, one  |
-| to do the writing, and the other keeps |
-|                                        |
-\ an eye on the two intellectuals.       /
- ----------------------------------------
+ ____________________________________
+/ You may be gone tomorrow, but that \
+| doesn't mean that you weren't here |
+\ today.                             /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
