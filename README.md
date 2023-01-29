@@ -1,13 +1,14 @@
 Last Update Time: 
-Sat Jan 28 23:56:54 UTC 2023
+Sun Jan 29 01:49:56 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ The first thing we do, let's kill all   \
-| the lawyers.                            |
-|                                         |
-\ -- Wm. Shakespeare, "Henry VI", Part IV /
- -----------------------------------------
+ _______________________________________
+/ I must have a prodigious quantity of  \
+| mind; it takes me as much as a week   |
+| sometimes to make it up.              |
+|                                       |
+\ -- Mark Twain, "The Innocents Abroad" /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
