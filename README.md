@@ -1,12 +1,11 @@
 Last Update Time: 
-Sun Jan 29 19:57:25 UTC 2023
+Sun Jan 29 20:20:05 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You'll wish that you had done some of \
-| the hard things when they were easier |
-\ to do.                                /
- ---------------------------------------
+ ________________________________________
+/ Think twice before speaking, but don't \
+\ say "think think click click".         /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
