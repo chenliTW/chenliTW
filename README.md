@@ -1,12 +1,16 @@
 Last Update Time: 
-Mon Jan 30 09:30:59 UTC 2023
+Mon Jan 30 09:42:49 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/  A man was reading The Canterbury Tales \
-| one Saturday morning, when his wife     |
-| asked "What have you got there?"        |
-\ Replied he, "Just my cup and Chaucer."  /
+/ Swerve me? The path to my fixed purpose \
+| is laid with iron rails, whereon my     |
+| soul is grooved to run. Over unsounded  |
+| gorges, through the rifled hearts of    |
+| mountains, under torrents' beds,        |
+| unerringly I rush!                      |
+|                                         |
+\ -- Captain Ahab, "Moby Dick"            /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
