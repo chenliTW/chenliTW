@@ -1,15 +1,14 @@
 Last Update Time: 
-Mon Jan 30 10:18:28 UTC 2023
+Mon Jan 30 10:34:27 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ The man who sets out to carry a cat by \
-| its tail learns something that will    |
-| always be useful and which never will  |
-| grow dim or doubtful.                  |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ ______________________________________
+/ In the first place, God made idiots; \
+| this was for practice; then he made  |
+| school boards.                       |
+|                                      |
+\ -- Mark Twain                        /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
