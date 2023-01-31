@@ -1,12 +1,10 @@
 Last Update Time: 
-Tue Jan 31 22:23:15 UTC 2023
+Tue Jan 31 22:35:23 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ You learn to write as if to someone \
-| else because NEXT YEAR YOU WILL BE  |
-\ "SOMEONE ELSE."                     /
- -------------------------------------
+ ____________________________________
+< Don't read everything you believe. >
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
