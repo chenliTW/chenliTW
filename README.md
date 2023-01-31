@@ -1,14 +1,10 @@
 Last Update Time: 
-Tue Jan 31 16:43:09 UTC 2023
+Tue Jan 31 16:55:16 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Tell the truth or trump--but get the \
-| trick.                               |
-|                                      |
-| -- Mark Twain, "Pudd'nhead Wilson's  |
-\ Calendar"                            /
- --------------------------------------
+ ________________________________________
+< You have taken yourself too seriously. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
