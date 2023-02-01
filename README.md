@@ -1,20 +1,21 @@
 Last Update Time: 
-Wed Feb  1 19:46:04 UTC 2023
+Wed Feb  1 19:57:48 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The lovely woman-child Kaa was          \
-| mercilessly chained to the cruel post   |
-| of the warrior-chief Beast, with his    |
-| barbarian tribe now stacking wood at    |
-| her nubile feet, when the strong clear  |
-| voice of the poetic and heroic          |
-| Handsomas roared, 'Flick your Bic,      |
-| crisp that chick, and you'll feel my    |
-| steel through your last meal!'          |
+/ For the fashion of Minas Tirith was     \
+| such that it was built on seven levels, |
+| each delved into a hill, and about each |
+| was set a wall, and in each wall was a  |
+| gate.                                   |
 |                                         |
-| -- Winning sentence, 1984 Bulwer-Lytton |
-\ bad fiction contest.                    /
+| -- J.R.R. Tolkien, "The Return of the   |
+| King"                                   |
+|                                         |
+| [Quoted in "VMS Internals and Data      |
+| Structures", V4.4, when                 |
+|                                         |
+\ referring to system overview.]          /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
