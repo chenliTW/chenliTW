@@ -1,14 +1,19 @@
 Last Update Time: 
-Thu Feb  2 05:40:04 UTC 2023
+Thu Feb  2 05:51:57 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ It is by the fortune of God that, in   \
-| this country, we have three benefits:  |
-| freedom of speech, freedom of thought, |
-| and the wisdom never to use either.    |
+/ At once it struck me what quality went \
+| to form a man of achievement,          |
+| especially in literature, and which    |
+| Shakespeare possessed so enormously -- |
+| I mean negative capability, that is,   |
+| when a man is capable of being in      |
+| uncertainties, mysteries, doubts,      |
+| without any irritable reaching after   |
+| fact and reason.                       |
 |                                        |
-\ -- Mark Twain                          /
+\ -- John Keats                          /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
