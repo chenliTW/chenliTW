@@ -1,12 +1,13 @@
 Last Update Time: 
-Thu Feb  2 22:57:53 UTC 2023
+Thu Feb  2 23:21:46 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What's the difference between an     \
-| Irish wedding and an Irish wake? A: One |
-\ less drunk.                             /
- -----------------------------------------
+ _______________________________________
+/ Kindness is a language which the deaf \
+| can hear and the blind can read.      |
+|                                       |
+\ -- Mark Twain                         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
