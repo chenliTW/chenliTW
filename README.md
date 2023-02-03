@@ -1,11 +1,14 @@
 Last Update Time: 
-Fri Feb  3 22:34:17 UTC 2023
+Fri Feb  3 22:46:02 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You will be held hostage by a radical \
-\ group.                                /
- ---------------------------------------
+ ________________________________________
+/ What good is an obscenity trial except \
+| to popularize literature?              |
+|                                        |
+| -- Nero Wolfe, "The League of          |
+\ Frightened Men"                        /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
