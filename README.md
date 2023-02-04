@@ -1,17 +1,11 @@
 Last Update Time: 
-Sat Feb  4 19:15:35 UTC 2023
+Sat Feb  4 19:27:21 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: Why don't Scotsmen ever have coffee \
-| the way they like it? A: Well, they    |
-| like it with two lumps of sugar. If    |
-| they drink                             |
-|                                        |
-| it at home, they only take one, and if |
-| they drink it while                    |
-|                                        |
-\ visiting, they always take three.      /
+/ Your analyst has you mixed up with     \
+| another patient. Don't believe a thing |
+\ he tells you.                          /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
