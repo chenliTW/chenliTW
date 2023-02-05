@@ -1,18 +1,15 @@
 Last Update Time: 
-Sun Feb  5 22:55:07 UTC 2023
+Sun Feb  5 23:17:25 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ "I wonder", he said to himself, "what's \
-| in a book while it's closed. Oh, I know |
-| it's full of letters printed on paper,  |
-| but all the same, something must be     |
-| happening, because as soon as I open    |
-| it, there's a whole story with people I |
-| don't know yet and all kinds of         |
-| adventures and battles."                |
+/ Q: How many Oregonians does it take to  \
+| screw in a light bulb? A: Three. One to |
+| screw in the light bulb and two to fend |
+| off all those                           |
 |                                         |
-\ -- Bastian B. Bux                       /
+| Californians trying to share the        |
+\ experience.                             /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
