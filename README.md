@@ -1,14 +1,11 @@
 Last Update Time: 
-Sun Feb  5 12:59:45 UTC 2023
+Sun Feb  5 13:24:25 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: What do you call a WASP who doesn't \
-| work for his father, isn't a           |
-|                                        |
-| lawyer, and believes in social causes? |
-\ A: A failure.                          /
- ----------------------------------------
+ ____________________________________
+/ You will pioneer the first Martian \
+\ colony.                            /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
