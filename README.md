@@ -1,11 +1,13 @@
 Last Update Time: 
-Sun Feb  5 11:45:07 UTC 2023
+Sun Feb  5 11:56:58 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Do what comes naturally. Seethe and \
-\ fume and throw a tantrum.           /
- -------------------------------------
+ ______________________________________
+/ If two people love each other, there \
+| can be no happy end to it.           |
+|                                      |
+\ -- Ernest Hemingway                  /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
