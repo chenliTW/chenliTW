@@ -1,12 +1,11 @@
 Last Update Time: 
-Mon Feb  6 21:54:42 UTC 2023
+Mon Feb  6 22:15:43 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Q: What do you call a half-dozen    \
-| Indians with Asian flu? A: Six sick |
-\ Sikhs (sic).                        /
- -------------------------------------
+ _________________________________________
+/ Your reasoning powers are good, and you \
+\ are a fairly good planner.              /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
