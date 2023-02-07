@@ -1,15 +1,10 @@
 Last Update Time: 
-Tue Feb  7 19:33:09 UTC 2023
+Tue Feb  7 19:44:57 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- __________________________________
-/ Knock, knock!                    \
-|                                  |
-| Who's there? Sam and Janet.      |
-|                                  |
-| Sam and Janet who? Sam and Janet |
-\ Evening...                       /
- ----------------------------------
+ ________________________________________
+< Your ignorance cramps my conversation. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
