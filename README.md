@@ -1,14 +1,12 @@
 Last Update Time: 
-Wed Feb  8 18:58:35 UTC 2023
+Wed Feb  8 19:17:40 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ In a museum in Havana, there are two    \
-| skulls of Christopher Columbus, "one    |
-| when he was a boy and one when he was a |
-| man."                                   |
-|                                         |
-\ -- Mark Twain                           /
+/ It is so very hard to be an             \
+| on-your-own-take-care-of-yourself-becau |
+| se-there-is-no-one-else-to-do-it-for-yo |
+\ u grown-up.                             /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
