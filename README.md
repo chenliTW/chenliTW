@@ -1,16 +1,22 @@
 Last Update Time: 
-Wed Feb  8 14:21:52 UTC 2023
+Wed Feb  8 14:35:12 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ All say, "How hard it is that we have  \
-| to die"--a strange complaint to come   |
-| from the mouths of people who have had |
-| to live.                               |
-|                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
- ----------------------------------------
+ _________________________________________
+/ I reverently believe that the maker who \
+| made us all makes everything in New     |
+| England, but the weather. I don't know  |
+| who makes that, but I think it must be  |
+| raw apprentices in the weather-clerks   |
+| factory who experiment and learn how,   |
+| in New England, for board and clothes,  |
+| and then are promoted to make weather   |
+| for countries that require a good       |
+| article, and will take their custom     |
+| elsewhere if they don't get it.         |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
