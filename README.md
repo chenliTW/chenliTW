@@ -1,14 +1,10 @@
 Last Update Time: 
-Thu Feb  9 02:20:32 UTC 2023
+Thu Feb  9 02:58:58 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ They spell it "da Vinci" and pronounce  \
-| it "da Vinchy". Foreigners always spell |
-| better than they pronounce.             |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ _______________________________
+< Keep it short for pithy sake. >
+ -------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
