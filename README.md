@@ -1,11 +1,10 @@
 Last Update Time: 
-Fri Feb 10 20:29:44 UTC 2023
+Fri Feb 10 20:41:36 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You get along very well with everyone \
-\ except animals and people.            /
- ---------------------------------------
+ ________________________
+< Don't get to bragging. >
+ ------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
