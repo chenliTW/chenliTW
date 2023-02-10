@@ -1,21 +1,15 @@
 Last Update Time: 
-Fri Feb 10 08:36:31 UTC 2023
+Fri Feb 10 08:48:33 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Many enraged psychiatrists are inciting \
-| a weary butcher. The butcher is weary   |
-| and tired because he has cut meat and   |
-| steak and lamb for hours and weeks. He  |
-| does not desire to chant about anything |
-| with raving psychiatrists, but he sings |
-| about his gingivectomist, he dreams     |
-| about a single cosmologist, he thinks   |
-| about his dog. The dog is named         |
-| Herbert.                                |
+/ Q: How many bureaucrats does it take to \
+| screw in a light bulb? A: Two. One to   |
+| assure everyone that everything         |
+| possible is being                       |
 |                                         |
-| -- Racter, "The Policeman's Beard is    |
-\ Half-Constructed"                       /
+| done while the other screws the bulb    |
+\ into the water faucet.                  /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
