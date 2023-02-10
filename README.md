@@ -1,11 +1,11 @@
 Last Update Time: 
-Fri Feb 10 09:35:50 UTC 2023
+Fri Feb 10 09:47:19 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ You will be called upon to help a \
-\ friend in trouble.                /
- -----------------------------------
+ _______________________________________
+/ You will be given a post of trust and \
+\ responsibility.                       /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
