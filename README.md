@@ -1,21 +1,15 @@
 Last Update Time: 
-Fri Feb 10 22:51:59 UTC 2023
+Fri Feb 10 23:11:14 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ In the plot, people came to the land;   \
-| the land loved them; they worked and    |
-| struggled and had lots of children.     |
-| There was a Frenchman who talked funny  |
-| and a greenhorn from England who was a  |
-| fancy-pants but when it came to the     |
-| crunch he was all courage. Those novels |
-| would make you retch.                   |
+/ Q: How many Oregonians does it take to  \
+| screw in a light bulb? A: Three. One to |
+| screw in the light bulb and two to fend |
+| off all those                           |
 |                                         |
-| -- Canadian novelist Robertson Davies,  |
-| on the generic Canadian                 |
-|                                         |
-\ novel.                                  /
+| Californians trying to share the        |
+\ experience.                             /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
