@@ -1,12 +1,14 @@
 Last Update Time: 
-Sat Feb 11 17:29:53 UTC 2023
+Sat Feb 11 17:41:39 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What do little WASPs want to be when \
-| they grow up? A: The very best person   |
-\ they can possibly be.                   /
- -----------------------------------------
+ _______________________________________
+/ Q: What do you call the money you pay \
+| to the government when                |
+|                                       |
+| you ride into the country on the back |
+\ of an elephant? A: A howdah duty.     /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
