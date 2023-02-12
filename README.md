@@ -1,13 +1,11 @@
 Last Update Time: 
-Sun Feb 12 01:14:11 UTC 2023
+Sun Feb 12 02:33:15 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ The human race has one really effective \
-| weapon, and that is laughter.           |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ _______________________________________
+/ You seek to shield those you love and \
+\ you like the role of the provider.    /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
