@@ -1,12 +1,13 @@
 Last Update Time: 
-Sun Feb 12 19:16:40 UTC 2023
+Sun Feb 12 19:28:40 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You are scrupulously honest, frank, and \
-| straightforward. Therefore you have few |
-\ friends.                                /
- -----------------------------------------
+ ________________________________________
+/ Q: How many college football players   \
+| does it take to screw in a light bulb? |
+| A: Only one, but he gets three credits |
+\ for it.                                /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
