@@ -1,11 +1,10 @@
 Last Update Time: 
-Sun Feb 12 06:47:59 UTC 2023
+Sun Feb 12 06:59:31 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Do nothing unless you must, and when \
-\ you must act -- hesitate.            /
- --------------------------------------
+ _____________________________
+< Do not overtax your powers. >
+ -----------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
