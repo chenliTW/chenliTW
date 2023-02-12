@@ -1,11 +1,10 @@
 Last Update Time: 
-Sun Feb 12 04:56:45 UTC 2023
+Sun Feb 12 05:18:51 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You definitely intend to start living \
-\ sometime soon.                        /
- ---------------------------------------
+ ____________________________________
+< Don't read everything you believe. >
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
