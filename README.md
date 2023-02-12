@@ -1,13 +1,11 @@
 Last Update Time: 
-Sun Feb 12 14:27:01 UTC 2023
+Sun Feb 12 14:38:56 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How many Harvard MBA's does it take \
-| to screw in a light bulb? A: Just one. |
-| He grasps it firmly and the universe   |
-\ revolves around him.                   /
- ----------------------------------------
+ _________________________________
+/ Tonight's the night: Sleep in a \
+\ eucalyptus tree.                /
+ ---------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
