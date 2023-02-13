@@ -1,15 +1,10 @@
 Last Update Time: 
-Mon Feb 13 22:53:40 UTC 2023
+Mon Feb 13 23:15:19 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How many Zen masters does it take to \
-| screw in a light bulb? A: None. The     |
-| Universe spins the bulb, and the Zen    |
-| master stays out                        |
-|                                         |
-\ of the way.                             /
- -----------------------------------------
+ _______________________________________
+< You will be run over by a beer truck. >
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
