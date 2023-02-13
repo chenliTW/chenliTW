@@ -1,16 +1,14 @@
 Last Update Time: 
-Mon Feb 13 09:34:53 UTC 2023
+Mon Feb 13 09:46:44 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ In India, "cold weather" is merely a    \
-| conventional phrase and has come into   |
-| use through the necessity of having     |
-| some way to distinguish between weather |
-| which will melt a brass door-knob and   |
-| weather which will only make it mushy.  |
+/ Let us endeavor so to live that when we \
+| come to die even the undertaker will be |
+| sorry.                                  |
 |                                         |
-\ -- Mark Twain                           /
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
