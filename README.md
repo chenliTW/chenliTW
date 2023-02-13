@@ -1,11 +1,11 @@
 Last Update Time: 
-Mon Feb 13 21:40:13 UTC 2023
+Mon Feb 13 21:52:10 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: Why don't lawyers go to the beach? \
-\ A: The cats keep trying to bury them. /
- ---------------------------------------
+ _________________________________________
+/ You two ought to be more careful--your  \
+\ love could drag on for years and years. /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
