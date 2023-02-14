@@ -1,11 +1,11 @@
 Last Update Time: 
-Tue Feb 14 18:55:16 UTC 2023
+Tue Feb 14 19:14:20 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ That secret you've been guarding, \
-\ isn't.                            /
- -----------------------------------
+ _________________________________________
+/ You worry too much about your job. Stop \
+\ it. You are not paid enough to worry.   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
