@@ -1,36 +1,11 @@
 Last Update Time: 
-Wed Feb 15 16:51:43 UTC 2023
+Wed Feb 15 17:10:09 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ A Tale of Two Cities LITE(tm)         \
-|                                       |
-| -- by Charles Dickens                 |
-|                                       |
-| A man in love with a girl who loves   |
-| another man who looks just            |
-|                                       |
-| like him has his head chopped off in  |
-| France because of a mean              |
-|                                       |
-| lady who knits.                       |
-|                                       |
-| Crime and Punishment LITE(tm)         |
-|                                       |
-| -- by Fyodor Dostoevski               |
-|                                       |
-| A man sends a nasty letter to a       |
-| pawnbroker, but later                 |
-|                                       |
-| feels guilty and apologizes.          |
-|                                       |
-| The Odyssey LITE(tm)                  |
-|                                       |
-| -- by Homer                           |
-|                                       |
-| After working late, a valiant warrior |
-\ gets lost on his way home.            /
- ---------------------------------------
+ _________________________________________
+/ You have a strong desire for a home and \
+\ your family interests come first.       /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
