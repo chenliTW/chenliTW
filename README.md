@@ -1,14 +1,13 @@
 Last Update Time: 
-Wed Feb 15 15:34:00 UTC 2023
+Wed Feb 15 15:45:18 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ I must have a prodigious quantity of  \
-| mind; it takes me as much as a week   |
-| sometimes to make it up.              |
-|                                       |
-\ -- Mark Twain, "The Innocents Abroad" /
- ---------------------------------------
+ _________________________________________
+/ By trying we can easily learn to endure \
+| adversity. Another man's, I mean.       |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
