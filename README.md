@@ -1,18 +1,16 @@
 Last Update Time: 
-Thu Feb 16 22:04:46 UTC 2023
+Thu Feb 16 22:25:53 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Steady movement is more important than \
-| speed, much of the time. So long as    |
-| there is a regular progression of      |
-| stimuli to get your mental hooks into, |
-| there is room for lateral movement.    |
-| Once this begins, its rate is a matter |
-| of discretion.                         |
-|                                        |
-\ -- Corwin, Prince of Amber             /
- ----------------------------------------
+ _________________________________________
+/ Q: How many bureaucrats does it take to \
+| screw in a light bulb? A: Two. One to   |
+| assure everyone that everything         |
+| possible is being                       |
+|                                         |
+| done while the other screws the bulb    |
+\ into the water faucet.                  /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
