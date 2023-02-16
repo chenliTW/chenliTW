@@ -1,18 +1,20 @@
 Last Update Time: 
-Thu Feb 16 18:55:54 UTC 2023
+Thu Feb 16 19:14:43 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ The only people for me are the mad ones \
-| -- the ones who are mad to live, mad to |
-| talk, mad to be saved, desirous of      |
-| everything at the same time, the ones   |
-| who never yawn or say a commonplace     |
-| thing, but burn, burn, burn like        |
-| fabulous yellow Roman candles.          |
-|                                         |
-\ -- Jack Kerouac, "On the Road"          /
- -----------------------------------------
+ ________________________________________
+/ At once it struck me what quality went \
+| to form a man of achievement,          |
+| especially in literature, and which    |
+| Shakespeare possessed so enormously -- |
+| I mean negative capability, that is,   |
+| when a man is capable of being in      |
+| uncertainties, mysteries, doubts,      |
+| without any irritable reaching after   |
+| fact and reason.                       |
+|                                        |
+\ -- John Keats                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
