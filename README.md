@@ -1,14 +1,11 @@
 Last Update Time: 
-Fri Feb 17 23:27:38 UTC 2023
+Fri Feb 17 23:39:22 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Hain't we got all the fools in town on \
-| our side? And hain't that a big enough |
-| majority in any town?                  |
-|                                        |
-\ -- Mark Twain, "Huckleberry Finn"      /
- ----------------------------------------
+ _________________________________________
+/ Q: What is the difference between Texas \
+\ and yogurt? A: Yogurt has culture.      /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
