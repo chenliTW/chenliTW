@@ -1,12 +1,11 @@
 Last Update Time: 
-Fri Feb 17 16:20:06 UTC 2023
+Fri Feb 17 16:43:08 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ______________________________________
-/ If two people love each other, there \
-| can be no happy end to it.           |
-|                                      |
-\ -- Ernest Hemingway                  /
+/ Your reasoning is excellent -- it's  \
+| only your basic assumptions that are |
+\ wrong.                               /
  --------------------------------------
         \   ^__^
          \  (oo)\_______
