@@ -1,14 +1,12 @@
 Last Update Time: 
-Fri Feb 17 02:26:38 UTC 2023
+Fri Feb 17 03:04:21 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ What good is an obscenity trial except \
-| to popularize literature?              |
-|                                        |
-| -- Nero Wolfe, "The League of          |
-\ Frightened Men"                        /
- ----------------------------------------
+ _________________________________________
+/ Q: What's the difference between an     \
+| Irish wedding and an Irish wake? A: One |
+\ less drunk.                             /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
