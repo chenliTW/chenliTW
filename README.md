@@ -1,25 +1,13 @@
 Last Update Time: 
-Fri Feb 17 04:51:33 UTC 2023
+Fri Feb 17 05:10:05 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ In the space of one hundred and         \
-| seventy-six years the Mississippi has   |
-| shortened itself two hundred and        |
-| forty-two miles. Therefore ... in the   |
-| Old Silurian Period the Mississippi     |
-| River was upward of one million three   |
-| hundred thousand miles long ... seven   |
-| hundred and forty-two years from now    |
-| the Mississippi will be only a mile and |
-| three-quarters long. ... There is       |
-| something fascinating about science.    |
-| One gets such wholesome returns of      |
-| conjecture out of such a trifling       |
-| investment of fact.                     |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ______________________________________
+/ Q: How many Marxists does it take to \
+| screw in a light bulb? A: None: The  |
+| light bulb contains the seeds of its |
+\ own revolution.                      /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
