@@ -1,14 +1,14 @@
 Last Update Time: 
-Sat Feb 18 08:14:08 UTC 2023
+Sat Feb 18 08:33:12 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why do the police always travel in  \
-| threes? A: One to do the reading, one  |
-| to do the writing, and the other keeps |
-|                                        |
-\ an eye on the two intellectuals.       /
- ----------------------------------------
+ _____________________________________
+/ The mind is its own place, and in   \
+| itself Can make a Heav'n of Hell, a |
+| Hell of Heav'n.                     |
+|                                     |
+\ -- John Milton                      /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
