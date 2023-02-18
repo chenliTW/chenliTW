@@ -1,14 +1,15 @@
 Last Update Time: 
-Sat Feb 18 18:24:59 UTC 2023
+Sat Feb 18 18:39:40 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Work consists of whatever a body is   \
-| obliged to do. Play consists of       |
-| whatever a body is not obliged to do. |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ ________________________________________
+/ He draweth out the thread of his       \
+| verbosity finer than the staple of his |
+| argument.                              |
+|                                        |
+| -- William Shakespeare, "Love's        |
+\ Labour's Lost"                         /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
