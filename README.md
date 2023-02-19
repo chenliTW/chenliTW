@@ -1,18 +1,11 @@
 Last Update Time: 
-Sun Feb 19 10:55:09 UTC 2023
+Sun Feb 19 11:13:55 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How many surrealists does it take to \
-| change a light bulb? A: Two, one to     |
-| hold the giraffe, and the other to fill |
-| the bathtub                             |
-|                                         |
-| with brightly colored machine tools.    |
-|                                         |
-| [Surrealist jokes just aren't my cup of |
-\ fur. Ed.]                               /
- -----------------------------------------
+ ________________________________________
+/ You are sick, twisted and perverted. I \
+\ like that in a person.                 /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
