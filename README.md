@@ -1,11 +1,11 @@
 Last Update Time: 
-Sun Feb 19 15:38:31 UTC 2023
+Sun Feb 19 15:50:25 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Don't plan any hasty moves. You'll be \
-\ evicted soon anyway.                  /
- ---------------------------------------
+ _________________________________________
+/ You attempt things that you do not even \
+\ plan because of your extreme stupidity. /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
