@@ -1,14 +1,10 @@
 Last Update Time: 
-Sun Feb 19 11:25:39 UTC 2023
+Sun Feb 19 11:37:38 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ If more of us valued food and cheer and \
-| song above hoarded gold, it would be a  |
-| merrier world.                          |
-|                                         |
-\ -- J.R.R. Tolkien                       /
- -----------------------------------------
+ ________________________
+< Don't get to bragging. >
+ ------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
