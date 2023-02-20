@@ -1,11 +1,11 @@
 Last Update Time: 
-Mon Feb 20 17:49:43 UTC 2023
+Mon Feb 20 18:08:51 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You definitely intend to start living \
-\ sometime soon.                        /
- ---------------------------------------
+ ________________________________________
+/ Q: Why do WASPs play golf ? A: So they \
+\ can dress like pimps.                  /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
