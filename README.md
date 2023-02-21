@@ -1,15 +1,11 @@
 Last Update Time: 
-Tue Feb 21 07:55:23 UTC 2023
+Tue Feb 21 08:24:08 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ My only love sprung from my only hate! \
-| Too early seen unknown, and known too  |
-| late!                                  |
-|                                        |
-| -- William Shakespeare, "Romeo and     |
-\ Juliet"                                /
- ----------------------------------------
+ _____________________________________
+/ Your true value depends entirely on \
+\ what you are compared with.         /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
