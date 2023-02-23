@@ -1,12 +1,14 @@
 Last Update Time: 
-Thu Feb 23 16:58:54 UTC 2023
+Thu Feb 23 17:21:58 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why do firemen wear red suspenders? \
-| A: To conform with departmental        |
-\ regulations concerning uniform dress.  /
- ----------------------------------------
+ _________________________________________
+/ Q: How do you catch a unique rabbit? A: \
+| Unique up on it!                        |
+|                                         |
+| Q: How do you catch a tame rabbit? A:   |
+\ The tame way!                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
