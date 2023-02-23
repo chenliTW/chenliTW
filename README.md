@@ -1,16 +1,13 @@
 Last Update Time: 
-Thu Feb 23 09:42:25 UTC 2023
+Thu Feb 23 09:54:26 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Swerve me? The path to my fixed purpose \
-| is laid with iron rails, whereon my     |
-| soul is grooved to run. Over unsounded  |
-| gorges, through the rifled hearts of    |
-| mountains, under torrents' beds,        |
-| unerringly I rush!                      |
+/ The fashion wears out more apparel than \
+| the man.                                |
 |                                         |
-\ -- Captain Ahab, "Moby Dick"            /
+| -- William Shakespeare, "Much Ado About |
+\ Nothing"                                /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
