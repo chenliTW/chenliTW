@@ -1,11 +1,12 @@
 Last Update Time: 
-Thu Feb 23 20:42:21 UTC 2023
+Thu Feb 23 20:54:13 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________
-/ It was all so different before \
-\ everything changed.            /
- --------------------------------
+ _________________________________________
+/ FORTUNE PROVIDES QUESTIONS FOR THE      \
+| GREAT ANSWERS: #19 A: To be or not to   |
+\ be. Q: What is the square root of 4b^2? /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
