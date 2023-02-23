@@ -1,13 +1,12 @@
 Last Update Time: 
-Thu Feb 23 03:43:49 UTC 2023
+Thu Feb 23 03:55:50 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ The smallest worm will turn being  \
-| trodden on.                        |
-|                                    |
-\ -- William Shakespeare, "Henry VI" /
- ------------------------------------
+ ___________________________
+/ Too much is just enough.  \
+|                           |
+\ -- Mark Twain, on whiskey /
+ ---------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
