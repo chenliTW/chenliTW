@@ -1,14 +1,9 @@
 Last Update Time: 
-Sat Feb 25 09:16:44 UTC 2023
+Sat Feb 25 09:28:26 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: Why do people who live near Niagara \
-| Falls have flat foreheads? A: Because  |
-| every morning they wake up thinking    |
-| "What *is* that noise?                 |
-|                                        |
-\ Oh, right, *of course*!                /
+< Your ignorance cramps my conversation. >
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
