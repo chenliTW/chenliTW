@@ -1,15 +1,11 @@
 Last Update Time: 
-Sat Feb 25 20:53:06 UTC 2023
+Sat Feb 25 21:11:37 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ The difference between the right word \
-| and the almost right word is the      |
-| difference between lightning and the  |
-| lightning bug.                        |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ _________________________________________
+/ An exotic journey in downtown Newark is \
+\ in your future.                         /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
