@@ -1,11 +1,16 @@
 Last Update Time: 
-Sun Feb 26 07:55:29 UTC 2023
+Sun Feb 26 08:22:47 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Conscience doth make cowards of us all. \
+/ Swerve me? The path to my fixed purpose \
+| is laid with iron rails, whereon my     |
+| soul is grooved to run. Over unsounded  |
+| gorges, through the rifled hearts of    |
+| mountains, under torrents' beds,        |
+| unerringly I rush!                      |
 |                                         |
-\ -- Shakespeare                          /
+\ -- Captain Ahab, "Moby Dick"            /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
