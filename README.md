@@ -1,11 +1,11 @@
 Last Update Time: 
-Sun Feb 26 08:50:22 UTC 2023
+Sun Feb 26 09:08:02 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You're working under a slight handicap. \
-\ You happen to be human.                 /
- -----------------------------------------
+ ________________________________________
+/ You will obey or molten silver will be \
+\ poured into your ears.                 /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
