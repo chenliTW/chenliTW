@@ -1,15 +1,10 @@
 Last Update Time: 
-Mon Feb 27 09:22:44 UTC 2023
+Mon Feb 27 09:36:27 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why did the chicken cross the road? \
-| A: To see his friend Gregory peck.     |
-|                                        |
-| Q: Why did the chicken cross the       |
-| playground? A: To get to the other     |
-\ slide.                                 /
- ----------------------------------------
+ _____________________________
+< You will never know hunger. >
+ -----------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
