@@ -1,14 +1,11 @@
 Last Update Time: 
-Mon Feb 27 14:43:59 UTC 2023
+Mon Feb 27 14:55:46 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Knucklehead: "Knock, knock" Pee Wee:    \
-| "Who's there?" Knucklehead: "Little ol' |
-| lady." Pee Wee: "Liddle ol' lady who?"  |
-| Knucklehead: "I didn't know you could   |
-\ yodel"                                  /
- -----------------------------------------
+ ______________________________________
+/ You'd like to do it instantaneously, \
+\ but that's too slow.                 /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
