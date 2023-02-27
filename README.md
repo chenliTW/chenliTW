@@ -1,11 +1,13 @@
 Last Update Time: 
-Mon Feb 27 11:50:33 UTC 2023
+Mon Feb 27 12:18:05 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Chicken Little only has to be right \
-\ once.                               /
- -------------------------------------
+ _________________________________________
+/ The abuse of greatness is when it       \
+| disjoins remorse from power.            |
+|                                         |
+\ -- William Shakespeare, "Julius Caesar" /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
