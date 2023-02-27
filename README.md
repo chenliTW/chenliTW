@@ -1,12 +1,10 @@
 Last Update Time: 
-Mon Feb 27 07:36:46 UTC 2023
+Mon Feb 27 07:48:24 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why do mountain climbers rope       \
-| themselves together? A: To prevent the |
-\ sensible ones from going home.         /
- ----------------------------------------
+ ________________________________
+< You will be run over by a bus. >
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
