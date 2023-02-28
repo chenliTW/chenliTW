@@ -1,19 +1,25 @@
 Last Update Time: 
-Tue Feb 28 10:54:22 UTC 2023
+Tue Feb 28 11:13:44 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Stop! There was first a game of         \
-| blindman's buff. Of course there was.   |
-| And I no more believe Topper was really |
-| blind than I believe he had eyes in his |
-| boots. My opinion is, that it was a     |
-| done thing between him and Scrooge's    |
-| nephew; and that the Ghost of Christmas |
-| Present knew it. The way he went after  |
-| that plump sister in the lace tucker,   |
-| was an outrage on the credulity of      |
-\ human nature.                           /
+/ No live organism can continue for long  \
+| to exist sanely under conditions of     |
+| absolute reality; even larks and        |
+| katydids are supposed, by some, to      |
+| dream. Hill House, not sane, stood by   |
+| itself against its hills, holding       |
+| darkness within; it had stood so for    |
+| eighty years and might stand for eighty |
+| more. Within, walls continued upright,  |
+| bricks met neatly, floors were firm,    |
+| and doors were sensibly shut; silence   |
+| lay steadily against the wood and stone |
+| of Hill House, and whatever walked      |
+| there, walked alone.                    |
+|                                         |
+| -- Shirley Jackson, "The Haunting of    |
+\ Hill House"                             /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
