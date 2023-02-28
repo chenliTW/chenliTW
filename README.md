@@ -1,11 +1,12 @@
 Last Update Time: 
-Tue Feb 28 13:24:57 UTC 2023
+Tue Feb 28 13:40:46 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ You prefer the company of the opposite \
-\ sex, but are well liked by your own.   /
- ----------------------------------------
+ _______________________________________
+/ You should emulate your heros, but    \
+| don't carry it too far. Especially if |
+\ they are dead.                        /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
