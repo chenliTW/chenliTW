@@ -1,11 +1,13 @@
 Last Update Time: 
-Thu Mar  2 14:52:19 UTC 2023
+Thu Mar  2 15:13:11 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You get along very well with everyone \
-\ except animals and people.            /
- ---------------------------------------
+ ________________________________________
+/ Writing is turning one's worst moments \
+| into money.                            |
+|                                        |
+\ -- J.P. Donleavy                       /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
