@@ -1,14 +1,19 @@
 Last Update Time: 
-Fri Mar  3 16:57:33 UTC 2023
+Fri Mar  3 17:20:13 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many Bell Labs Vice Presidents   \
-| does it take to change a light bulb? A: |
-| That's proprietary information. Answer  |
-| available from AT&T on payment          |
-|                                         |
-\ of license fee (binary only).           /
+/ Stop! There was first a game of         \
+| blindman's buff. Of course there was.   |
+| And I no more believe Topper was really |
+| blind than I believe he had eyes in his |
+| boots. My opinion is, that it was a     |
+| done thing between him and Scrooge's    |
+| nephew; and that the Ghost of Christmas |
+| Present knew it. The way he went after  |
+| that plump sister in the lace tucker,   |
+| was an outrage on the credulity of      |
+\ human nature.                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
