@@ -1,11 +1,12 @@
 Last Update Time: 
-Sat Mar  4 09:50:20 UTC 2023
+Sat Mar  4 10:08:03 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Tonight you will pay the wages of sin; \
-\ Don't forget to leave a tip.           /
- ----------------------------------------
+ ______________________________________
+/ Q: How can you tell when a Burroughs \
+| salesman is lying? A: When his lips  |
+\ move.                                /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
