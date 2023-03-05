@@ -1,15 +1,13 @@
 Last Update Time: 
-Sun Mar  5 18:29:12 UTC 2023
+Sun Mar  5 18:42:25 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ If you pick up a starving dog and make \
-| him prosperous, he will not bite you.  |
-| This is the principal difference       |
-| between a dog and a man.               |
+/ Q: Why does Washington have the most   \
+| lawyers per capita and                 |
 |                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
+| New Jersey the most toxic waste dumps? |
+\ A: God gave New Jersey first choice.   /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
