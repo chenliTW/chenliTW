@@ -1,11 +1,14 @@
 Last Update Time: 
-Mon Mar  6 05:30:04 UTC 2023
+Mon Mar  6 05:41:32 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You are a bundle of energy, always on \
-\ the go.                               /
- ---------------------------------------
+ ________________________________________
+/ Q: Why do the police always travel in  \
+| threes? A: One to do the reading, one  |
+| to do the writing, and the other keeps |
+|                                        |
+\ an eye on the two intellectuals.       /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
