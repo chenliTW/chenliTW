@@ -1,10 +1,10 @@
 Last Update Time: 
-Mon Mar  6 07:09:21 UTC 2023
+Mon Mar  6 07:25:12 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-< Q: Are we not men? A: We are Vaxen. >
- -------------------------------------
+ ________________________________________
+< You have taken yourself too seriously. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
