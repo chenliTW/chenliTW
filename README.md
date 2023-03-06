@@ -1,14 +1,12 @@
 Last Update Time: 
-Mon Mar  6 05:41:32 UTC 2023
+Mon Mar  6 05:53:27 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why do the police always travel in  \
-| threes? A: One to do the reading, one  |
-| to do the writing, and the other keeps |
-|                                        |
-\ an eye on the two intellectuals.       /
- ----------------------------------------
+ ______________________________________
+/ Q: How many Martians does it take to \
+| screw in a light bulb? A: One and a  |
+\ half.                                /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
