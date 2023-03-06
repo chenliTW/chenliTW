@@ -1,15 +1,10 @@
 Last Update Time: 
-Mon Mar  6 14:42:01 UTC 2023
+Mon Mar  6 14:54:08 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How many psychiatrists does it take  \
-| to change a light bulb? A: Only one,    |
-| but it takes a long time, and the light |
-| bulb has                                |
-|                                         |
-\ to really want to change.               /
- -----------------------------------------
+ ________________________________________
+< Avoid gunfire in the bathroom tonight. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
