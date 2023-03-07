@@ -1,23 +1,12 @@
 Last Update Time: 
-Tue Mar  7 09:36:16 UTC 2023
+Tue Mar  7 09:47:50 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Delay not, Caesar. Read it instantly. \
-|                                       |
-| -- Shakespeare, "Julius Caesar" 3,1   |
-|                                       |
-| Here is a letter, read it at your     |
-| leisure.                              |
-|                                       |
-| -- Shakespeare, "Merchant of Venice"  |
-| 5,1                                   |
-|                                       |
-| [Quoted in "VMS Internals and Data    |
-| Structures", V4.4, when               |
-|                                       |
-\ referring to I/O system services.]    /
- ---------------------------------------
+ _________________________________________
+/ Conscience doth make cowards of us all. \
+|                                         |
+\ -- Shakespeare                          /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
