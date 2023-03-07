@@ -1,18 +1,12 @@
 Last Update Time: 
-Tue Mar  7 19:54:19 UTC 2023
+Tue Mar  7 20:17:49 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Persons attempting to find a motive in  \
-| this narrative will be prosecuted;      |
-| persons attempting to find a moral in   |
-| it will be banished; persons attempting |
-| to find a plot in it will be shot. By   |
-| Order of the Author                     |
-|                                         |
-| -- Mark Twain, "The Adventures of       |
-\ Huckleberry Finn"                       /
- -----------------------------------------
+ ______________________________________
+/ You plan things that you do not even \
+| attempt because of your extreme      |
+\ caution.                             /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
