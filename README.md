@@ -1,12 +1,12 @@
 Last Update Time: 
-Tue Mar  7 11:50:49 UTC 2023
+Tue Mar  7 12:18:08 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ This life is yours. Some of it was \
-| given to you; the rest, you made   |
-\ yourself.                          /
- ------------------------------------
+ ______________________________________
+/ You need no longer worry about the   \
+| future. This time tomorrow you'll be |
+\ dead.                                /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
