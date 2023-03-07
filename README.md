@@ -1,13 +1,22 @@
 Last Update Time: 
-Tue Mar  7 06:38:21 UTC 2023
+Tue Mar  7 06:49:49 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: What do monsters eat? A: Things.   \
-|                                       |
-| Q: What do monsters drink? A: Coke.   |
-\ (Because Things go better with Coke.) /
- ---------------------------------------
+ _________________________________________
+/ Even the clearest and most perfect      \
+| circumstantial evidence is likely to be |
+| at fault, after all, and therefore      |
+| ought to be received with great         |
+| caution. Take the case of any pencil,   |
+| sharpened by any woman; if you have     |
+| witnesses, you will find she did it     |
+| with a knife; but if you take simply    |
+| the aspect of the pencil, you will say  |
+| that she did it with her teeth.         |
+|                                         |
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
