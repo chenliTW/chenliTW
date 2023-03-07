@@ -1,13 +1,21 @@
 Last Update Time: 
-Tue Mar  7 22:31:35 UTC 2023
+Tue Mar  7 22:43:17 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ There is a great discovery still to be \
-| made in Literature: that of paying     |
-| literary men by the quantity they do   |
-\ NOT write.                             /
- ----------------------------------------
+ _________________________________________
+/ A morgue is a morgue is a morgue. They  \
+| can paint the walls with aggressively   |
+| cheerful primary colors and splashy     |
+| bold graphics, but it's still a holding |
+| place for the dead until they can be    |
+| parted out to organ banks. Not that I   |
+| would have cared normally but my        |
+| viewpoint was skewed. The relentless    |
+| pleasance of the room I sat in seemed   |
+| only grotesque.                         |
+|                                         |
+\ -- Pat Cadigan, "Mindplayers"           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
