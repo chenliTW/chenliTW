@@ -1,16 +1,14 @@
 Last Update Time: 
-Tue Mar  7 08:56:51 UTC 2023
+Tue Mar  7 09:22:42 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Whenever the literary German dives into \
-| a sentence, that is the last you are    |
-| going to see of him until he emerges on |
-| the other side of his Atlantic with his |
-| verb in his mouth.                      |
+/ Q: How many mathematicians does it take \
+| to screw in a light bulb? A: One. He    |
+| gives it to six Californians, thereby   |
+| reducing the problem                    |
 |                                         |
-| -- Mark Twain "A Connecticut Yankee in  |
-\ King Arthur's Court"                    /
+\ to the earlier joke.                    /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
