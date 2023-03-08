@@ -1,15 +1,11 @@
 Last Update Time: 
-Wed Mar  8 08:50:33 UTC 2023
+Wed Mar  8 09:09:17 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ This is the first age that's paid much \
-| attention to the future, which is a    |
-| little ironic since we may not have    |
-| one.                                   |
-|                                        |
-\ -- Arthur Clarke                       /
- ----------------------------------------
+ _________________________________________
+/ You will always get the greatest        \
+\ recognition for the job you least like. /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
