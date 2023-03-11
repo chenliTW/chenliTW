@@ -1,10 +1,11 @@
 Last Update Time: 
-Sat Mar 11 19:22:40 UTC 2023
+Sat Mar 11 19:34:39 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- __________________________________
-< You will pass away very quickly. >
- ----------------------------------
+ _________________________________________
+/ Learn to pause -- or nothing worthwhile \
+\ can catch up to you.                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
