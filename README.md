@@ -1,12 +1,11 @@
 Last Update Time: 
-Sun Mar 12 19:27:57 UTC 2023
+Sun Mar 12 19:39:43 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What do you say to a New Yorker with \
-| a job? A: Big Mac, fries and a Coke,    |
-\ please!                                 /
- -----------------------------------------
+ ______________________________________
+/ You could live a better life, if you \
+\ had a better mind and a better body. /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
