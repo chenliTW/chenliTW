@@ -1,10 +1,11 @@
 Last Update Time: 
-Sun Mar 12 18:47:16 UTC 2023
+Sun Mar 12 18:59:09 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-< Q: How do you keep a moron in suspense? >
- -----------------------------------------
+ ________________________________________
+/ Everything that you know is wrong, but \
+\ you can be straightened out.           /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
