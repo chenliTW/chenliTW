@@ -1,11 +1,10 @@
 Last Update Time: 
-Mon Mar 13 19:28:53 UTC 2023
+Mon Mar 13 19:40:49 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Someone whom you reject today, will \
-\ reject you tomorrow.                /
- -------------------------------------
+ ______________________________________
+< You're at the end of the road again. >
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
