@@ -1,11 +1,11 @@
 Last Update Time: 
-Tue Mar 14 11:26:30 UTC 2023
+Tue Mar 14 11:38:59 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Truth will out this morning. (Which may \
-\ really mess things up.)                 /
- -----------------------------------------
+ ______________________________________
+/ Q: Why did Menachem Begin invade     \
+\ Lebanon? A: To impress Jodie Foster. /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
