@@ -1,12 +1,11 @@
 Last Update Time: 
-Tue Mar 14 04:33:36 UTC 2023
+Tue Mar 14 04:45:38 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You had some happiness once, but your \
-| parents moved away, and you had to    |
-\ leave it behind.                      /
- ---------------------------------------
+ _____________________________________
+/ You're a card which will have to be \
+\ dealt with.                         /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
