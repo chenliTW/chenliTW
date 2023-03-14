@@ -1,11 +1,15 @@
 Last Update Time: 
-Tue Mar 14 14:36:38 UTC 2023
+Tue Mar 14 14:48:23 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: What's hard going in and soft and \
-\ sticky coming out? A: Chewing gum.   /
- --------------------------------------
+ _________________________________________
+/ In a museum in Havana, there are two    \
+| skulls of Christopher Columbus, "one    |
+| when he was a boy and one when he was a |
+| man."                                   |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
