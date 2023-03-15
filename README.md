@@ -1,14 +1,11 @@
 Last Update Time: 
-Wed Mar 15 04:53:10 UTC 2023
+Wed Mar 15 05:12:39 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ When angry, count four; when very   \
-| angry, swear.                       |
-|                                     |
-| -- Mark Twain, "Pudd'nhead Wilson's |
-\ Calendar"                           /
- -------------------------------------
+ __________________________________
+/ Break into jail and claim police \
+\ brutality.                       /
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
