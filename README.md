@@ -1,12 +1,14 @@
 Last Update Time: 
-Thu Mar 16 22:53:44 UTC 2023
+Thu Mar 16 23:14:30 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ A light wife doth make a heavy husband. \
+/ Q: How many mathematicians does it take \
+| to screw in a light bulb? A: One. He    |
+| gives it to six Californians, thereby   |
+| reducing the problem                    |
 |                                         |
-| -- Wm. Shakespeare, "The Merchant of    |
-\ Venice"                                 /
+\ to the earlier joke.                    /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
