@@ -1,14 +1,13 @@
 Last Update Time: 
-Thu Mar 16 07:32:20 UTC 2023
+Thu Mar 16 07:45:31 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ FORTUNE PROVIDES QUESTIONS FOR THE      \
-| GREAT ANSWERS: #5 A: The Halls of       |
-| Montezuma and the Shores of Tripoli. Q: |
-| Name two families whose kids won't join |
-\ the Marines.                            /
- -----------------------------------------
+ ______________________________________
+/ "Not Hercules could have knock'd out \
+| his brains, for he had none."        |
+|                                      |
+\ -- Shakespeare                       /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
