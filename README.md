@@ -1,14 +1,13 @@
 Last Update Time: 
-Fri Mar 17 20:07:23 UTC 2023
+Fri Mar 17 20:26:14 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Anyone who has had a bull by the tail \
-| knows five or six more things than    |
-| someone who hasn't.                   |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ _________________________________________
+/ It is so very hard to be an             \
+| on-your-own-take-care-of-yourself-becau |
+| se-there-is-no-one-else-to-do-it-for-yo |
+\ u grown-up.                             /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
