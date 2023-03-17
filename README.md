@@ -1,13 +1,20 @@
 Last Update Time: 
-Fri Mar 17 07:28:30 UTC 2023
+Fri Mar 17 07:40:25 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ If one cannot enjoy reading a book over \
-| and over again, there is no use in      |
-| reading it at all.                      |
+/ Q: How many existentialists does it     \
+| take to screw in a light bulb? A: Two.  |
+| One to screw it in and one to observe   |
+| how the light bulb                      |
 |                                         |
-\ -- Oscar Wilde                          /
+| itself symbolizes a single incandescent |
+| beacon of subjective                    |
+|                                         |
+| reality in a netherworld of endless     |
+| absurdity reaching out toward a         |
+|                                         |
+\ maudlin cosmos of nothingness.          /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
