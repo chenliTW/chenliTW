@@ -1,12 +1,11 @@
 Last Update Time: 
-Fri Mar 17 10:49:37 UTC 2023
+Fri Mar 17 11:05:48 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________
-/ Too much is just enough.  \
-|                           |
-\ -- Mark Twain, on whiskey /
- ---------------------------
+ _________________________________________
+/ You will be imprisoned for contributing \
+\ your time and skill to a bank robbery.  /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
