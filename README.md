@@ -1,13 +1,12 @@
 Last Update Time: 
-Sat Mar 18 20:27:36 UTC 2023
+Sat Mar 18 20:39:34 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ He jests at scars who never felt a     \
-| wound.                                 |
-|                                        |
-| -- Shakespeare, "Romeo and Juliet, II. |
-\ 2"                                     /
+/ Q: How many college football players   \
+| does it take to screw in a light bulb? |
+| A: Only one, but he gets three credits |
+\ for it.                                /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
