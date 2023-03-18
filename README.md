@@ -1,12 +1,11 @@
 Last Update Time: 
-Sat Mar 18 11:21:09 UTC 2023
+Sat Mar 18 11:33:14 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: How can you tell when a Burroughs \
-| salesman is lying? A: When his lips  |
-\ move.                                /
- --------------------------------------
+ _________________________________________
+/ You will be reincarnated as a toad; and \
+\ you will be much happier.               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
