@@ -1,16 +1,17 @@
 Last Update Time: 
-Sun Mar 19 05:09:56 UTC 2023
+Sun Mar 19 05:26:02 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Whoever has lived long enough to find   \
-| out what life is, knows how deep a debt |
-| of gratitude we owe to Adam, the first  |
-| great benefactor of our race. He        |
-| brought death into the world.           |
+/ I got a hint of things to come when I   \
+| overheard my boss lamenting, 'The books |
+| are done and we still don't have an     |
+| author! I must sign someone today!      |
 |                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
+| -- Tamim Ansary, "Edutopia Magazine,    |
+| Issue 2, November 2004"                 |
+|                                         |
+\ on the topic of school textbooks        /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
