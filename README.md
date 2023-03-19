@@ -1,17 +1,16 @@
 Last Update Time: 
-Sun Mar 19 04:51:57 UTC 2023
+Sun Mar 19 05:09:56 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many surrealists does it take to \
-| change a light bulb? A: Two, one to     |
-| hold the giraffe, and the other to fill |
-| the bathtub                             |
+/ Whoever has lived long enough to find   \
+| out what life is, knows how deep a debt |
+| of gratitude we owe to Adam, the first  |
+| great benefactor of our race. He        |
+| brought death into the world.           |
 |                                         |
-| with brightly colored machine tools.    |
-|                                         |
-| [Surrealist jokes just aren't my cup of |
-\ fur. Ed.]                               /
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
