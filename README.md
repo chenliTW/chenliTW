@@ -1,21 +1,14 @@
 Last Update Time: 
-Mon Mar 20 07:56:31 UTC 2023
+Mon Mar 20 08:27:26 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/  "You have heard me speak of Professor  \
-| Moriarty?"                              |
+/ Habit is habit, and not to be flung out \
+| of the window by any man, but coaxed    |
+| down-stairs a step at a time.           |
 |                                         |
-| "The famous scientific criminal, as     |
-| famous among crooks as --"              |
-|                                         |
-| "My blushes, Watson," Holmes murmured,  |
-| in a deprecating voice.                 |
-|                                         |
-| "I was about to say 'as he is unknown   |
-| to the public.'"                        |
-|                                         |
-\ -- A. Conan Doyle, "The Valley of Fear" /
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar                                /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
