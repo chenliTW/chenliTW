@@ -1,13 +1,14 @@
 Last Update Time: 
-Tue Mar 21 19:14:37 UTC 2023
+Tue Mar 21 19:26:25 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Always do right. This will gratify some \
-| people and astonish the rest.           |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ______________________________________
+/ The human race is a race of cowards; \
+| and I am not only marching in that   |
+| procession but carrying a banner.    |
+|                                      |
+\ -- Mark Twain                        /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
