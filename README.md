@@ -1,11 +1,10 @@
 Last Update Time: 
-Tue Mar 21 16:33:56 UTC 2023
+Tue Mar 21 16:45:47 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Tuesday is the Wednesday of the rest of \
-\ your life.                              /
- -----------------------------------------
+ ____________________________________
+< Don't read everything you believe. >
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
