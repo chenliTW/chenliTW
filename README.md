@@ -1,14 +1,28 @@
 Last Update Time: 
-Tue Mar 21 13:27:21 UTC 2023
+Tue Mar 21 13:39:17 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ I must have a prodigious quantity of  \
-| mind; it takes me as much as a week   |
-| sometimes to make it up.              |
-|                                       |
-\ -- Mark Twain, "The Innocents Abroad" /
- ---------------------------------------
+ ________________________________________
+/ Q: How many elephants can you fit in a \
+| VW Bug? A: Four. Two in the front, two |
+| in the back.                           |
+|                                        |
+| Q: How can you tell if an elephant is  |
+| in your refrigerator? A: There's a     |
+| footprint in the mayo.                 |
+|                                        |
+| Q: How can you tell if two elephants   |
+| are in your refrigerator? A: There's   |
+| two footprints in the mayo.            |
+|                                        |
+| Q: How can you tell if three elephants |
+| are in your refrigerator? A: The door  |
+| won't shut.                            |
+|                                        |
+| Q: How can you tell if four elephants  |
+| are in your refrigerator? A: There's a |
+\ VW Bug in your driveway.               /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
