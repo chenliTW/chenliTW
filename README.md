@@ -1,22 +1,11 @@
 Last Update Time: 
-Tue Mar 21 20:48:22 UTC 2023
+Tue Mar 21 21:00:50 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ For the fashion of Minas Tirith was     \
-| such that it was built on seven levels, |
-| each delved into a hill, and about each |
-| was set a wall, and in each wall was a  |
-| gate.                                   |
-|                                         |
-| -- J.R.R. Tolkien, "The Return of the   |
-| King"                                   |
-|                                         |
-| [Quoted in "VMS Internals and Data      |
-| Structures", V4.4, when                 |
-|                                         |
-\ referring to system overview.]          /
- -----------------------------------------
+ ________________________________________
+/ You have a will that can be influenced \
+\ by all with whom you come in contact.  /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
