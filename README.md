@@ -1,20 +1,12 @@
 Last Update Time: 
-Tue Mar 21 06:40:15 UTC 2023
+Tue Mar 21 06:52:28 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ A morgue is a morgue is a morgue. They  \
-| can paint the walls with aggressively   |
-| cheerful primary colors and splashy     |
-| bold graphics, but it's still a holding |
-| place for the dead until they can be    |
-| parted out to organ banks. Not that I   |
-| would have cared normally but my        |
-| viewpoint was skewed. The relentless    |
-| pleasance of the room I sat in seemed   |
-| only grotesque.                         |
-|                                         |
-\ -- Pat Cadigan, "Mindplayers"           /
+/  A man was reading The Canterbury Tales \
+| one Saturday morning, when his wife     |
+| asked "What have you got there?"        |
+\ Replied he, "Just my cup and Chaucer."  /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
