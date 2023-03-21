@@ -1,12 +1,13 @@
 Last Update Time: 
-Tue Mar 21 08:25:43 UTC 2023
+Tue Mar 21 08:39:56 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why do mountain climbers rope       \
-| themselves together? A: To prevent the |
-\ sensible ones from going home.         /
- ----------------------------------------
+ _________________________________________
+/ If you laid all of our laws end to end, \
+| there would be no end.                  |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
