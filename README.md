@@ -1,13 +1,11 @@
 Last Update Time: 
-Wed Mar 22 16:41:19 UTC 2023
+Wed Mar 22 16:53:07 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Hell is empty and all the devils are \
-| here.                                |
-|                                      |
-\ -- Wm. Shakespeare, "The Tempest"    /
- --------------------------------------
+ _________________________________________
+/ You worry too much about your job. Stop \
+\ it. You are not paid enough to worry.   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
