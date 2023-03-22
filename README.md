@@ -1,12 +1,18 @@
 Last Update Time: 
-Wed Mar 22 07:57:44 UTC 2023
+Wed Mar 22 08:24:19 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why do mountain climbers rope       \
-| themselves together? A: To prevent the |
-\ sensible ones from going home.         /
- ----------------------------------------
+ _________________________________________
+/ Behold, the fool saith, "Put not all    \
+| thine eggs in the one basket"--which is |
+| but a manner of saying, "Scatter your   |
+| money and your attention;" but the wise |
+| man saith, "Put all your eggs in the    |
+| one basket and--WATCH THAT BASKET."     |
+|                                         |
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
