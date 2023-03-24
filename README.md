@@ -1,13 +1,10 @@
 Last Update Time: 
-Thu Mar 23 23:48:23 UTC 2023
+Fri Mar 24 00:00:06 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: Why haven't you graduated yet? A:   \
-| Well, Dad, I could have finished years |
-| ago, but I wanted                      |
-|                                        |
-\ my dissertation to rhyme.              /
+/ Everything that you know is wrong, but \
+\ you can be straightened out.           /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
