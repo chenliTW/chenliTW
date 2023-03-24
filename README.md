@@ -1,46 +1,21 @@
 Last Update Time: 
-Fri Mar 24 09:21:36 UTC 2023
+Fri Mar 24 09:34:04 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ "Speak, thou vast and venerable head,"  \
-| muttered Ahab, "which, though           |
-| ungarnished with a beard, yet here and  |
-| there lookest hoary with mosses; speak, |
-| mighty head, and tell us the secret     |
-| thing that is in thee. Of all divers,   |
-| thou has dived the deepest. That head   |
-| upon which the upper sun now gleams has |
-| moved amid the world's foundations.     |
-| Where unrecorded names and navies rust, |
-| and untold hopes and anchors rot; where |
-| in her murderous hold this frigate      |
-| earth is ballasted with bones of        |
-| millions of the drowned; there, in that |
-| awful water-land, there was thy most    |
-| familiar home. Thou hast been where     |
-| bell or diver never went; has slept by  |
-| many a sailer's side, where sleepless   |
-| mothers would give their lives to lay   |
-| them down. Thou saw'st the locked       |
-| lovers when leaping from their flaming  |
-| ship; heart to heart they sank beneath  |
-| the exulting wave; true to each other,  |
-| when heaven seemed false to them. Thou  |
-| saw'st the murdered mate when tossed by |
-| pirates from the midnight deck; for     |
-| hours he fell into the deeper midnight  |
-| of the insatiate maw; and his murderers |
-| still sailed on unharmed -- while swift |
-| lightnings shivered the neighboring     |
-| ship that would have borne a righteous  |
-| husband to outstretched, longing arms.  |
-| O head! thou has seen enough to split   |
-| the planets and make an infidel of      |
-| Abraham, and not one syllable is        |
-| thine!"                                 |
+/ Awash with unfocused desire, Everett    \
+| twisted the lobe of his one remaining   |
+| ear and felt the presence of somebody   |
+| else behind him, which caused terror to |
+| push through his nervous system like a  |
+| flash flood roaring down the mid-fork   |
+| of the Feather River before the         |
+| completion of the Oroville Dam in 1959. |
 |                                         |
-\ -- H. Melville, "Moby Dick"             /
+| -- Grand Panjandrum's Special Award,    |
+| 1984 Bulwer-Lytton                      |
+|                                         |
+\ bad fiction contest.                    /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
