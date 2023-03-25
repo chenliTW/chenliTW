@@ -1,22 +1,14 @@
 Last Update Time: 
-Sat Mar 25 12:32:47 UTC 2023
+Sat Mar 25 12:55:29 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Many enraged psychiatrists are inciting \
-| a weary butcher. The butcher is weary   |
-| and tired because he has cut meat and   |
-| steak and lamb for hours and weeks. He  |
-| does not desire to chant about anything |
-| with raving psychiatrists, but he sings |
-| about his gingivectomist, he dreams     |
-| about a single cosmologist, he thinks   |
-| about his dog. The dog is named         |
-| Herbert.                                |
-|                                         |
-| -- Racter, "The Policeman's Beard is    |
-\ Half-Constructed"                       /
- -----------------------------------------
+ _______________________________________
+/ You never have to change anything you \
+| got up in the middle of the night to  |
+| write.                                |
+|                                       |
+\ -- Saul Bellow                        /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
