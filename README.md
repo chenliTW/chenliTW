@@ -1,14 +1,13 @@
 Last Update Time: 
-Sat Mar 25 21:52:51 UTC 2023
+Sat Mar 25 22:11:08 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________
-/ Civilization is the limitless \
-| multiplication of unnecessary |
-| necessities.                  |
-|                               |
-\ -- Mark Twain                 /
- -------------------------------
+ ________________________________
+/ All generalizations are false, \
+| including this one.            |
+|                                |
+\ -- Mark Twain                  /
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
