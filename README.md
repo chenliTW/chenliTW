@@ -1,13 +1,12 @@
 Last Update Time: 
-Sun Mar 26 09:41:52 UTC 2023
+Sun Mar 26 09:53:43 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: Why is Christmas just like a day at \
-| the office? A: You do all of the work  |
-| and the fat guy in the suit            |
+/ Q: What do you call the scratches that \
+| you get when a female                  |
 |                                        |
-\ gets all the credit.                   /
+\ sheep bites you? A: Ewe nicks.         /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
