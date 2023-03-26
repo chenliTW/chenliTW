@@ -1,11 +1,11 @@
 Last Update Time: 
-Sun Mar 26 04:30:55 UTC 2023
+Sun Mar 26 04:42:53 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Try to value useful qualities in one \
-\ who loves you.                       /
- --------------------------------------
+ ________________________________________
+/ You prefer the company of the opposite \
+\ sex, but are well liked by your own.   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
