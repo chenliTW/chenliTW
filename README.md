@@ -1,19 +1,14 @@
 Last Update Time: 
-Mon Mar 27 18:37:29 UTC 2023
+Mon Mar 27 18:49:29 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ October.                                \
+/ Q: Why is it that the more accuracy you \
+| demand from an interpolation            |
 |                                         |
-| This is one of the peculiarly dangerous |
-| months to speculate in stocks in.       |
-|                                         |
-| The others are July, January,           |
-| September, April, November, May, March, |
-| June, December, August, and February.   |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
+| function, the more expensive it becomes |
+| to compute? A: That's the Law of Spline |
+\ Demand.                                 /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
