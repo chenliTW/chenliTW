@@ -1,24 +1,21 @@
 Last Update Time: 
-Mon Mar 27 22:22:05 UTC 2023
+Mon Mar 27 22:34:11 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many IBM types does it take to   \
-| change a light bulb? A: Fifteen. One to |
-| do it, and fourteen to write document   |
-| number                                  |
+/ There are three infallible ways of      \
+| pleasing an author, and the three form  |
+| a rising scale of compliment: 1, to     |
+| tell him you have read one of his       |
+| books; 2, to tell him you have read all |
+| of his books; 3, to ask him to let you  |
+| read the manuscript of his forthcoming  |
+| book. No. 1 admits you to his respect;  |
+| No. 2 admits you to his admiration; No. |
+| 3 carries you clear into his heart.     |
 |                                         |
-| GC7500439-0001, Multitasking            |
-| Incandescent Source System Facility,    |
-|                                         |
-| of which 10% of the pages state only    |
-| "This page intentionally                |
-|                                         |
-| left blank", and 20% of the definitions |
-| are of the form "A:.....                |
-|                                         |
-| consists of sequences of non-blank      |
-\ characters separated by blanks".        /
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
