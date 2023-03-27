@@ -1,14 +1,15 @@
 Last Update Time: 
-Mon Mar 27 11:40:53 UTC 2023
+Mon Mar 27 11:52:30 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Don't go around saying the world owes \
-| you a living. The world owes you      |
-| nothing. It was here first.           |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ _________________________________________
+/ There is no hunting like the hunting of \
+| man, and those who have hunted armed    |
+| men long enough and liked it, never     |
+| care for anything else thereafter.      |
+|                                         |
+\ -- Ernest Hemingway                     /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
