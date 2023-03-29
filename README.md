@@ -1,11 +1,16 @@
 Last Update Time: 
-Wed Mar 29 22:46:20 UTC 2023
+Wed Mar 29 22:58:06 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You will be held hostage by a radical \
-\ group.                                /
- ---------------------------------------
+ _________________________________________
+/ Q: How many Oregonians does it take to  \
+| screw in a light bulb? A: Three. One to |
+| screw in the light bulb and two to fend |
+| off all those                           |
+|                                         |
+| Californians trying to share the        |
+\ experience.                             /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
