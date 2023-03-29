@@ -1,12 +1,15 @@
 Last Update Time: 
-Wed Mar 29 07:54:02 UTC 2023
+Wed Mar 29 08:19:27 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Small things make base men proud.  \
-|                                    |
-\ -- William Shakespeare, "Henry VI" /
- ------------------------------------
+ _________________________________________
+/ Q: Why is it that the more accuracy you \
+| demand from an interpolation            |
+|                                         |
+| function, the more expensive it becomes |
+| to compute? A: That's the Law of Spline |
+\ Demand.                                 /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
