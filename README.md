@@ -1,12 +1,13 @@
 Last Update Time: 
-Fri Mar 31 15:22:02 UTC 2023
+Fri Mar 31 15:34:02 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You'll feel devilish tonight. Toss      \
-| dynamite caps under a flamenco dancer's |
-\ heel.                                   /
- -----------------------------------------
+ _______________________________
+/ The surest protection against \
+| temptation is cowardice.      |
+|                               |
+\ -- Mark Twain                 /
+ -------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
