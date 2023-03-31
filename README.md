@@ -1,13 +1,11 @@
 Last Update Time: 
-Fri Mar 31 06:42:59 UTC 2023
+Fri Mar 31 06:54:43 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ The first thing we do, let's kill all   \
-| the lawyers.                            |
-|                                         |
-\ -- Wm. Shakespeare, "Henry VI", Part IV /
- -----------------------------------------
+ ____________________________________
+/ Q: Do you know what the death rate \
+\ around here is? A: One per person. /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
