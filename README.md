@@ -1,13 +1,14 @@
 Last Update Time: 
-Fri Mar 31 10:28:49 UTC 2023
+Fri Mar 31 10:40:38 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: How many Marxists does it take to \
-| screw in a light bulb? A: None: The  |
-| light bulb contains the seeds of its |
-\ own revolution.                      /
- --------------------------------------
+ _________________________________________
+/ Knucklehead: "Knock, knock" Pee Wee:    \
+| "Who's there?" Knucklehead: "Little ol' |
+| lady." Pee Wee: "Liddle ol' lady who?"  |
+| Knucklehead: "I didn't know you could   |
+\ yodel"                                  /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
