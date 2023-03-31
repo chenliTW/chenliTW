@@ -1,12 +1,14 @@
 Last Update Time: 
-Fri Mar 31 23:43:10 UTC 2023
+Fri Mar 31 23:55:15 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What's the difference between a duck \
-| and an elephant? A: You can't get down  |
-\ off an elephant.                        /
- -----------------------------------------
+ ________________________________________
+/ Q: How do you play religious roulette? \
+| A: You stand around in a circle and    |
+| blaspheme and see who gets             |
+|                                        |
+\ struck by lightning first.             /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
