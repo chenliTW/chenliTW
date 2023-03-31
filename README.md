@@ -1,13 +1,12 @@
 Last Update Time: 
-Fri Mar 31 03:49:42 UTC 2023
+Fri Mar 31 04:08:08 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: What do monsters eat? A: Things.   \
-|                                       |
-| Q: What do monsters drink? A: Coke.   |
-\ (Because Things go better with Coke.) /
- ---------------------------------------
+ _________________________________________
+/ Q: What's the difference between a duck \
+| and an elephant? A: You can't get down  |
+\ off an elephant.                        /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
