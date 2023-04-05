@@ -1,25 +1,12 @@
 Last Update Time: 
-Wed Apr  5 14:43:22 UTC 2023
+Wed Apr  5 14:55:24 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How many IBM types does it take to   \
-| change a light bulb? A: Fifteen. One to |
-| do it, and fourteen to write document   |
-| number                                  |
-|                                         |
-| GC7500439-0001, Multitasking            |
-| Incandescent Source System Facility,    |
-|                                         |
-| of which 10% of the pages state only    |
-| "This page intentionally                |
-|                                         |
-| left blank", and 20% of the definitions |
-| are of the form "A:.....                |
-|                                         |
-| consists of sequences of non-blank      |
-\ characters separated by blanks".        /
- -----------------------------------------
+ ________________________________________
+/ Q: How many lawyers does it take to    \
+| change a light bulb? A: One. Only it's |
+\ his light bulb when he's done.         /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
