@@ -1,12 +1,17 @@
 Last Update Time: 
-Wed Apr  5 14:55:24 UTC 2023
+Wed Apr  5 15:19:33 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How many lawyers does it take to    \
-| change a light bulb? A: One. Only it's |
-\ his light bulb when he's done.         /
- ----------------------------------------
+ _________________________________________
+/ Whenever the literary German dives into \
+| a sentence, that is the last you are    |
+| going to see of him until he emerges on |
+| the other side of his Atlantic with his |
+| verb in his mouth.                      |
+|                                         |
+| -- Mark Twain "A Connecticut Yankee in  |
+\ King Arthur's Court"                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
