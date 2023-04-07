@@ -1,14 +1,18 @@
 Last Update Time: 
-Fri Apr  7 09:48:18 UTC 2023
+Fri Apr  7 09:59:59 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many mathematicians does it take \
-| to screw in a light bulb? A: One. He    |
-| gives it to six Californians, thereby   |
-| reducing the problem                    |
+/ We should be careful to get out of an   \
+| experience only the wisdom that is in   |
+| it - and stay there, lest we be like    |
+| the cat that sits down on a hot         |
+| stove-lid. She will never sit down on a |
+| hot stove-lid again - and that is well; |
+| but also she will never sit down on a   |
+| cold one any more.                      |
 |                                         |
-\ to the earlier joke.                    /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
