@@ -1,13 +1,14 @@
 Last Update Time: 
-Fri Apr  7 07:15:46 UTC 2023
+Fri Apr  7 07:27:49 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Lay on, MacDuff, and curs'd be him who \
-| first cries, "Hold, enough!".          |
-|                                        |
-\ -- Shakespeare                         /
- ----------------------------------------
+ ______________________________________
+/ In the first place, God made idiots; \
+| this was for practice; then he made  |
+| school boards.                       |
+|                                      |
+\ -- Mark Twain                        /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
