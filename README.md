@@ -1,15 +1,14 @@
 Last Update Time: 
-Fri Apr  7 02:06:01 UTC 2023
+Fri Apr  7 02:34:41 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Q: What do you call 15 blondes in a \
-| circle? A: A dope ring.             |
-|                                     |
-| Q: Why do blondes put their hair in |
-| ponytails? A: To cover up the valve |
-\ stem.                               /
- -------------------------------------
+ ___________________________________
+/ After all, all he did was string  \
+| together a lot of old, well-known |
+| quotations.                       |
+|                                   |
+\ -- H. L. Mencken, on Shakespeare  /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
