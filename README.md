@@ -1,14 +1,11 @@
 Last Update Time: 
-Fri Apr  7 21:29:02 UTC 2023
+Fri Apr  7 21:40:44 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ If one cannot enjoy reading a book over \
-| and over again, there is no use in      |
-| reading it at all.                      |
-|                                         |
-\ -- Oscar Wilde                          /
- -----------------------------------------
+ _____________________________________
+/ Your goose is cooked. (Your current \
+\ chick is burned up too!)            /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
