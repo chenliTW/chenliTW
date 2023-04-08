@@ -1,16 +1,10 @@
 Last Update Time: 
-Sat Apr  8 04:13:01 UTC 2023
+Sat Apr  8 04:29:26 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ I've touch'd the highest point of all  \
-| my greatness; And from that full       |
-| meridian of my glory I haste now to my |
-| setting. I shall fall, Like a bright   |
-| exhalation in the evening And no man   |
-| see me more.                           |
-|                                        |
-\ -- Shakespeare                         /
+/ Q: What's buried in Grant's tomb? A: A \
+\ corpse.                                /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
