@@ -1,16 +1,10 @@
 Last Update Time: 
-Sat Apr  8 19:53:29 UTC 2023
+Sat Apr  8 20:12:37 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________
-/ AWAKE! FEAR! FIRE! FOES! AWAKE! \
-|                                 |
-| FEAR! FIRE! FOES!               |
-|                                 |
-| AWAKE! AWAKE!                   |
-|                                 |
-\ -- J. R. R. Tolkien             /
- ---------------------------------
+ ___________________________
+< You have no real enemies. >
+ ---------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
