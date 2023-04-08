@@ -1,14 +1,10 @@
 Last Update Time: 
-Sat Apr  8 03:40:29 UTC 2023
+Sat Apr  8 03:52:22 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Sometimes I wonder if I'm in my right \
-| mind. Then it passes off and I'm as   |
-| intelligent as ever.                  |
-|                                       |
-\ -- Samuel Beckett, "Endgame"          /
- ---------------------------------------
+ ________________________________
+< You will get what you deserve. >
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
