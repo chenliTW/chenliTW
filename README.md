@@ -1,38 +1,15 @@
 Last Update Time: 
-Sat Apr  8 15:53:23 UTC 2023
+Sat Apr  8 16:15:35 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ A Tale of Two Cities LITE(tm)           \
+/ Q: Where's the Lone Ranger take his     \
+| garbage? A: To the dump, to the dump,   |
+| to the dump dump dump!                  |
 |                                         |
-| -- by Charles Dickens                   |
-|                                         |
-| A lawyer who looks like a French        |
-| Nobleman is executed in his place.      |
-|                                         |
-| The Metamorphosis LITE(tm)              |
-|                                         |
-| -- by Franz Kafka                       |
-|                                         |
-| A man turns into a bug and his family   |
-| gets annoyed.                           |
-|                                         |
-| Lord of the Rings LITE(tm)              |
-|                                         |
-| -- by J. R. R. Tolkien                  |
-|                                         |
-| Some guys take a long vacation to throw |
-| a ring into a volcano.                  |
-|                                         |
-| Hamlet LITE(tm)                         |
-|                                         |
-| -- by Wm. Shakespeare                   |
-|                                         |
-| A college student on vacation with      |
-| family problems, a screwy               |
-|                                         |
-| girl-friend and a mother who won't act  |
-\ her age.                                /
+| Q: What's the Pink Panther say when he  |
+| steps on an ant hill? A: Dead ant, dead |
+\ ant, dead ant dead ant dead ant...      /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
