@@ -1,12 +1,13 @@
 Last Update Time: 
-Sun Apr  9 05:17:54 UTC 2023
+Sun Apr  9 05:29:49 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ It's lucky you're going so slowly, \
-| because you're going in the wrong  |
-\ direction.                         /
- ------------------------------------
+ _________________________________________
+/ It is so very hard to be an             \
+| on-your-own-take-care-of-yourself-becau |
+| se-there-is-no-one-else-to-do-it-for-yo |
+\ u grown-up.                             /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
