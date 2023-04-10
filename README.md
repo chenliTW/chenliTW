@@ -1,17 +1,14 @@
 Last Update Time: 
-Sun Apr  9 23:53:42 UTC 2023
+Mon Apr 10 01:05:51 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ It is right that he too should have his \
-| little chronicle, his memories, his     |
-| reason, and be able to recognize the    |
-| good in the bad, the bad in the worst,  |
-| and so grow gently old all down the     |
-| unchanging days and die one day like    |
-| any other day, only shorter.            |
+/ ROMEO: Courage, man; the hurt cannot be \
+| much. MERCUTIO: No, 'tis not so deep as |
+| a well, nor so wide                     |
 |                                         |
-\ -- Samuel Beckett, "Malone Dies"        /
+| as a church-door; but 'tis enough,      |
+\ 'twill serve.                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
