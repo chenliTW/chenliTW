@@ -1,11 +1,11 @@
 Last Update Time: 
-Tue Apr 11 11:39:19 UTC 2023
+Tue Apr 11 11:51:04 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ It may or may not be worthwhile, but it \
-\ still has to be done.                   /
- -----------------------------------------
+ ______________________________________
+/ Abandon the search for Truth; settle \
+\ for a good fantasy.                  /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
