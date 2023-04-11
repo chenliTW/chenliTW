@@ -1,19 +1,18 @@
 Last Update Time: 
-Tue Apr 11 21:53:21 UTC 2023
+Tue Apr 11 22:11:40 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ We know all about the habits of the    \
-| ant, we know all about the habits of   |
-| the bee, but we know nothing at all    |
-| about the habits of the oyster. It     |
-| seems almost certain that we have been |
-| choosing the wrong time for studying   |
-| the oyster.                            |
-|                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
- ----------------------------------------
+ _________________________________________
+/ I got a hint of things to come when I   \
+| overheard my boss lamenting, 'The books |
+| are done and we still don't have an     |
+| author! I must sign someone today!      |
+|                                         |
+| -- Tamim Ansary, "Edutopia Magazine,    |
+| Issue 2, November 2004"                 |
+|                                         |
+\ on the topic of school textbooks        /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
