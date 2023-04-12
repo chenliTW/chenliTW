@@ -1,14 +1,25 @@
 Last Update Time: 
-Wed Apr 12 20:32:07 UTC 2023
+Wed Apr 12 20:43:50 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many psychiatrists does it take  \
-| to change a light bulb? A: Only one,    |
-| but it takes a long time, and the light |
-| bulb has                                |
+/ Q: How many Californians does it take   \
+| to screw in a light bulb? A: Five. One  |
+| to screw in the light bulb and four to  |
+| share the                               |
 |                                         |
-\ to really want to change.               /
+| experience. (Actually, Californians     |
+| don't screw in                          |
+|                                         |
+| light bulbs, they screw in hot tubs.)   |
+|                                         |
+| Q: How many Oregonians does it take to  |
+| screw in a light bulb? A: Three. One to |
+| screw in the light bulb and two to fend |
+| off all                                 |
+|                                         |
+| those Californians trying to share the  |
+\ experience.                             /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
