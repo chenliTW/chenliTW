@@ -1,20 +1,25 @@
 Last Update Time: 
-Wed Apr 12 07:09:44 UTC 2023
+Wed Apr 12 07:22:19 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ At once it struck me what quality went \
-| to form a man of achievement,          |
-| especially in literature, and which    |
-| Shakespeare possessed so enormously -- |
-| I mean negative capability, that is,   |
-| when a man is capable of being in      |
-| uncertainties, mysteries, doubts,      |
-| without any irritable reaching after   |
-| fact and reason.                       |
-|                                        |
-\ -- John Keats                          /
- ----------------------------------------
+ _________________________________________
+/ Delores breezed along the surface of    \
+| her life like a flat stone forever      |
+| skipping along smooth water, rippling   |
+| reality sporadically but oblivious to   |
+| it consistently, until she finally lost |
+| momentum, sank, and due to an overdose  |
+| of flouride as a child which caused her |
+| to suffer from chronic apathy, doomed   |
+| herself to lie forever on the floor of  |
+| her life as useless as an appendix and  |
+| as lonely as a five-hundred pound       |
+| barbell in a steroid-free fitness       |
+| center.                                 |
+|                                         |
+| -- Winning sentence, 1990 Bulwer-Lytton |
+\ bad fiction contest.                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
