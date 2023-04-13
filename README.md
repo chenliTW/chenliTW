@@ -1,18 +1,15 @@
 Last Update Time: 
-Thu Apr 13 17:36:09 UTC 2023
+Thu Apr 13 17:48:19 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________
-/ To be or not to be.            \
-|                                |
-| -- Shakespeare To do is to be. |
-|                                |
-| -- Nietzsche To be is to do.   |
-|                                |
-| -- Sartre Do be do be do.      |
-|                                |
-\ -- Sinatra                     /
- --------------------------------
+ _________________________________________
+/ Q: Why is it that the more accuracy you \
+| demand from an interpolation            |
+|                                         |
+| function, the more expensive it becomes |
+| to compute? A: That's the Law of Spline |
+\ Demand.                                 /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
