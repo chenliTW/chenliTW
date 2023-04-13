@@ -1,15 +1,15 @@
 Last Update Time: 
-Thu Apr 13 17:48:19 UTC 2023
+Thu Apr 13 18:00:07 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: Why is it that the more accuracy you \
-| demand from an interpolation            |
-|                                         |
-| function, the more expensive it becomes |
-| to compute? A: That's the Law of Spline |
-\ Demand.                                 /
- -----------------------------------------
+ ________________________________________
+/ It is by the fortune of God that, in   \
+| this country, we have three benefits:  |
+| freedom of speech, freedom of thought, |
+| and the wisdom never to use either.    |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
