@@ -1,11 +1,11 @@
 Last Update Time: 
-Sat Apr 15 14:41:15 UTC 2023
+Sat Apr 15 14:53:05 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- __________________________________
-/ You will win success in whatever \
-\ calling you adopt.               /
- ----------------------------------
+ _________________________________________
+/ If your life was a horse, you'd have to \
+\ shoot it.                               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
