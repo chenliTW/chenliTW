@@ -1,14 +1,12 @@
 Last Update Time: 
-Sat Apr 15 10:26:48 UTC 2023
+Sat Apr 15 10:38:43 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why should you always serve a       \
-| Southern Carolina football man         |
-|                                        |
-| soup in a plate? A: 'Cause if you give |
-\ him a bowl, he'll throw it away.       /
- ----------------------------------------
+ ______________________________________
+/ Good day to deal with people in high \
+| places; particularly lonely          |
+\ stewardesses.                        /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
