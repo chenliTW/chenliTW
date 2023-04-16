@@ -1,13 +1,13 @@
 Last Update Time: 
-Sun Apr 16 14:31:57 UTC 2023
+Sun Apr 16 14:43:47 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ As flies to wanton boys are we to the \
-| gods; they kill us for their sport.   |
-|                                       |
-\ -- Shakespeare, "King Lear"           /
- ---------------------------------------
+ _____________________________________
+/ A kind of Batman of contemporary    \
+| letters.                            |
+|                                     |
+\ -- Philip Larkin on Anthony Burgess /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
