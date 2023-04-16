@@ -1,13 +1,13 @@
 Last Update Time: 
-Sun Apr 16 20:10:50 UTC 2023
+Sun Apr 16 20:24:16 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Reader, suppose you were an idiot. And \
-| suppose you were a member of Congress. |
-| But I repeat myself.                   |
+/ He jests at scars who never felt a     \
+| wound.                                 |
 |                                        |
-\ -- Mark Twain                          /
+| -- Shakespeare, "Romeo and Juliet, II. |
+\ 2"                                     /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
