@@ -1,23 +1,21 @@
 Last Update Time: 
-Sun Apr 16 04:55:14 UTC 2023
+Sun Apr 16 05:14:16 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Delay not, Caesar. Read it instantly. \
-|                                       |
-| -- Shakespeare, "Julius Caesar" 3,1   |
-|                                       |
-| Here is a letter, read it at your     |
-| leisure.                              |
-|                                       |
-| -- Shakespeare, "Merchant of Venice"  |
-| 5,1                                   |
-|                                       |
-| [Quoted in "VMS Internals and Data    |
-| Structures", V4.4, when               |
-|                                       |
-\ referring to I/O system services.]    /
- ---------------------------------------
+ _________________________________________
+/ Q: How many existentialists does it     \
+| take to screw in a light bulb? A: Two.  |
+| One to screw it in and one to observe   |
+| how the light bulb                      |
+|                                         |
+| itself symbolizes a single incandescent |
+| beacon of subjective                    |
+|                                         |
+| reality in a netherworld of endless     |
+| absurdity reaching out toward a         |
+|                                         |
+\ maudlin cosmos of nothingness.          /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
