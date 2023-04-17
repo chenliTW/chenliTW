@@ -1,11 +1,24 @@
 Last Update Time: 
-Mon Apr 17 18:53:25 UTC 2023
+Mon Apr 17 19:08:58 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You have a strong appeal for members of \
-\ the opposite sex.                       /
- -----------------------------------------
+ ________________________________________
+/ Q: How many hardware engineers does it \
+| take to change a light bulb? A: None.  |
+| We'll fix it in software.              |
+|                                        |
+| Q: How many system programmers does it |
+| take to change a light bulb? A: None.  |
+| The application can work around it.    |
+|                                        |
+| Q: How many software engineers does it |
+| take to change a light bulb? A: None.  |
+| We'll document it in the manual.       |
+|                                        |
+| Q: How many tech writers does it take  |
+| to change a light bulb? A: None. The   |
+\ user can figure it out.                /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
