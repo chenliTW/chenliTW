@@ -1,11 +1,13 @@
 Last Update Time: 
-Mon Apr 17 04:55:50 UTC 2023
+Mon Apr 17 05:16:34 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ____________________________________
-/ You tread upon my patience.        \
-|                                    |
-\ -- William Shakespeare, "Henry IV" /
+/ FORTUNE PROVIDES QUESTIONS FOR THE \
+| GREAT ANSWERS: #13 A: Doc, Happy,  |
+| Bashful, Dopey, Sneezy, Sleepy, &  |
+| Grumpy Q: Who were the Democratic  |
+\ presidential candidates?           /
  ------------------------------------
         \   ^__^
          \  (oo)\_______
