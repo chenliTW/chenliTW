@@ -1,12 +1,17 @@
 Last Update Time: 
-Mon Apr 17 22:48:42 UTC 2023
+Mon Apr 17 23:00:15 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Extreme fear can neither fight nor fly. \
+/ It is right that he too should have his \
+| little chronicle, his memories, his     |
+| reason, and be able to recognize the    |
+| good in the bad, the bad in the worst,  |
+| and so grow gently old all down the     |
+| unchanging days and die one day like    |
+| any other day, only shorter.            |
 |                                         |
-| -- William Shakespeare, "The Rape of    |
-\ Lucrece"                                /
+\ -- Samuel Beckett, "Malone Dies"        /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
