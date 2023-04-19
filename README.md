@@ -1,11 +1,11 @@
 Last Update Time: 
-Wed Apr 19 22:38:09 UTC 2023
+Wed Apr 19 22:49:54 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Everything that you know is wrong, but \
-\ you can be straightened out.           /
- ----------------------------------------
+ ___________________________________
+/ You will gain money by an illegal \
+\ action.                           /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
