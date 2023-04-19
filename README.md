@@ -1,19 +1,18 @@
 Last Update Time: 
-Wed Apr 19 13:39:04 UTC 2023
+Wed Apr 19 13:51:05 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The countdown had stalled at 'T' minus  \
-| 69 seconds when Desiree, the first      |
-| female ape to go up in space, winked at |
-| me slyly and pouted her thick, rubbery  |
-| lips unmistakably -- the first of many  |
-| such advances during what would prove   |
-| to be the longest, and most memorable,  |
-| space voyage of my career.              |
+/ We should be careful to get out of an   \
+| experience only the wisdom that is in   |
+| it - and stay there, lest we be like    |
+| the cat that sits down on a hot         |
+| stove-lid. She will never sit down on a |
+| hot stove-lid again - and that is well; |
+| but also she will never sit down on a   |
+| cold one any more.                      |
 |                                         |
-| -- Winning sentence, 1985 Bulwer-Lytton |
-\ bad fiction contest.                    /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
