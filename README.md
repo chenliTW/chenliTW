@@ -1,13 +1,10 @@
 Last Update Time: 
-Fri Apr 21 22:58:35 UTC 2023
+Fri Apr 21 23:18:31 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ If you tell the truth you don't have to \
-| remember anything.                      |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ __________________________________
+< You will pass away very quickly. >
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
