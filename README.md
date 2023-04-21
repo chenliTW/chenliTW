@@ -1,18 +1,10 @@
 Last Update Time: 
-Fri Apr 21 06:35:43 UTC 2023
+Fri Apr 21 06:47:08 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________
-/ To be or not to be.            \
-|                                |
-| -- Shakespeare To do is to be. |
-|                                |
-| -- Nietzsche To be is to do.   |
-|                                |
-| -- Sartre Do be do be do.      |
-|                                |
-\ -- Sinatra                     /
- --------------------------------
+ ________________________________________
+< You will forget that you ever knew me. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
