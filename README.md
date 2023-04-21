@@ -1,13 +1,13 @@
 Last Update Time: 
-Fri Apr 21 11:20:25 UTC 2023
+Fri Apr 21 11:32:45 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ No group of professionals meets except \
-| to conspire against the public at      |
-| large.                                 |
+/ Q: Why does Washington have the most   \
+| lawyers per capita and                 |
 |                                        |
-\ -- Mark Twain                          /
+| New Jersey the most toxic waste dumps? |
+\ A: God gave New Jersey first choice.   /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
