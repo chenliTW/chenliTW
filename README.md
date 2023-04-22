@@ -1,17 +1,11 @@
 Last Update Time: 
-Sat Apr 22 21:52:30 UTC 2023
+Sat Apr 22 22:09:59 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Behold, the fool saith, "Put not all    \
-| thine eggs in the one basket"--which is |
-| but a manner of saying, "Scatter your   |
-| money and your attention;" but the wise |
-| man saith, "Put all your eggs in the    |
-| one basket and--WATCH THAT BASKET."     |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
+/ You will pay for your sins. If you have \
+| already paid, please disregard this     |
+\ message.                                /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
