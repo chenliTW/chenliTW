@@ -1,34 +1,17 @@
 Last Update Time: 
-Sun Apr 23 08:29:51 UTC 2023
+Sun Apr 23 08:41:48 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The Least Successful Collector          \
+/ Persons attempting to find a motive in  \
+| this narrative will be prosecuted;      |
+| persons attempting to find a moral in   |
+| it will be banished; persons attempting |
+| to find a plot in it will be shot. By   |
+| Order of the Author                     |
 |                                         |
-| Betsy Baker played a central role in    |
-| the history of collecting. She was      |
-| employed as a servant in the house of   |
-| John Warburton (1682-1759) who had      |
-| amassed a fine collection of 58 first   |
-| edition plays, including most of the    |
-| works of Shakespeare.                   |
-|                                         |
-| One day Warburton returned home to find |
-| 55 of them charred beyond legibility.   |
-| Betsy had either burned them or used    |
-| them as pie bottoms. The remaining      |
-| three folios are now in the British     |
-| Museum.                                 |
-|                                         |
-| The only comparable literary figure was |
-| the maid who in 1835 burned the         |
-| manuscript of the first volume of       |
-| Thomas Carlyle's "The Hisory of the     |
-| French Revolution", thinking it was     |
-| wastepaper.                             |
-|                                         |
-| -- Stephen Pile, "The Book of Heroic    |
-\ Failures"                               /
+| -- Mark Twain, "The Adventures of       |
+\ Huckleberry Finn"                       /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
