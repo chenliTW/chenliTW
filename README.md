@@ -1,14 +1,12 @@
 Last Update Time: 
-Sun Apr 23 11:50:03 UTC 2023
+Sun Apr 23 12:12:08 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: What do you call the money you pay \
-| to the government when                |
-|                                       |
-| you ride into the country on the back |
-\ of an elephant? A: A howdah duty.     /
- ---------------------------------------
+ _____________________
+/ Big book, big bore. \
+|                     |
+\ -- Callimachus      /
+ ---------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
