@@ -1,17 +1,16 @@
 Last Update Time: 
-Sun Apr 23 08:41:48 UTC 2023
+Sun Apr 23 08:53:36 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Persons attempting to find a motive in  \
-| this narrative will be prosecuted;      |
-| persons attempting to find a moral in   |
-| it will be banished; persons attempting |
-| to find a plot in it will be shot. By   |
-| Order of the Author                     |
+/ Swerve me? The path to my fixed purpose \
+| is laid with iron rails, whereon my     |
+| soul is grooved to run. Over unsounded  |
+| gorges, through the rifled hearts of    |
+| mountains, under torrents' beds,        |
+| unerringly I rush!                      |
 |                                         |
-| -- Mark Twain, "The Adventures of       |
-\ Huckleberry Finn"                       /
+\ -- Captain Ahab, "Moby Dick"            /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
