@@ -1,13 +1,14 @@
 Last Update Time: 
-Tue Apr 25 07:47:03 UTC 2023
+Tue Apr 25 07:58:26 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: "What is the burning question on the \
-| mind of every dyslexic                  |
-|                                         |
-\ existentialist?" A: "Is there a dog?"   /
- -----------------------------------------
+ ____________________________________
+/ They have been at a great feast of \
+| languages, and stolen the scraps.  |
+|                                    |
+| -- William Shakespeare, "Love's    |
+\ Labour's Lost"                     /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
