@@ -1,15 +1,12 @@
 Last Update Time: 
-Tue Apr 25 15:01:49 UTC 2023
+Tue Apr 25 15:22:24 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why do people who live near Niagara \
-| Falls have flat foreheads? A: Because  |
-| every morning they wake up thinking    |
-| "What *is* that noise?                 |
-|                                        |
-\ Oh, right, *of course*!                /
- ----------------------------------------
+ ______________________________________
+/ Q: What do agnostic, insomniac       \
+| dyslexics do at night? A: Stay awake |
+\ and wonder if there's a dog.         /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
