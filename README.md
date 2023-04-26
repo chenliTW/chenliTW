@@ -1,12 +1,20 @@
 Last Update Time: 
-Wed Apr 26 06:26:08 UTC 2023
+Wed Apr 26 06:39:38 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ It's lucky you're going so slowly, \
-| because you're going in the wrong  |
-\ direction.                         /
- ------------------------------------
+ _________________________________________
+/ Stop! There was first a game of         \
+| blindman's buff. Of course there was.   |
+| And I no more believe Topper was really |
+| blind than I believe he had eyes in his |
+| boots. My opinion is, that it was a     |
+| done thing between him and Scrooge's    |
+| nephew; and that the Ghost of Christmas |
+| Present knew it. The way he went after  |
+| that plump sister in the lace tucker,   |
+| was an outrage on the credulity of      |
+\ human nature.                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
