@@ -1,17 +1,19 @@
 Last Update Time: 
-Thu Apr 27 06:38:53 UTC 2023
+Thu Apr 27 06:50:59 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: Why don't Scotsmen ever have coffee \
-| the way they like it? A: Well, they    |
-| like it with two lumps of sugar. If    |
-| they drink                             |
+/ At once it struck me what quality went \
+| to form a man of achievement,          |
+| especially in literature, and which    |
+| Shakespeare possessed so enormously -- |
+| I mean negative capability, that is,   |
+| when a man is capable of being in      |
+| uncertainties, mysteries, doubts,      |
+| without any irritable reaching after   |
+| fact and reason.                       |
 |                                        |
-| it at home, they only take one, and if |
-| they drink it while                    |
-|                                        |
-\ visiting, they always take three.      /
+\ -- John Keats                          /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
