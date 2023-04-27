@@ -1,13 +1,11 @@
 Last Update Time: 
-Thu Apr 27 20:48:10 UTC 2023
+Thu Apr 27 21:00:04 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ An honest tale speeds best being   \
-| plainly told.                      |
-|                                    |
-\ -- William Shakespeare, "Henry VI" /
- ------------------------------------
+ _______________________________________
+/ Q: How do you save a drowning lawyer? \
+\ A: Throw him a rock.                  /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
