@@ -1,13 +1,16 @@
 Last Update Time: 
-Thu Apr 27 10:16:28 UTC 2023
+Thu Apr 27 10:31:09 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: Why do ducks have big flat feet? A:  \
-| To stamp out forest fires.              |
+/ Q: How do you shoot a blue elephant? A: \
+| With a blue-elephant gun.               |
 |                                         |
-| Q: Why do elephants have big flat feet? |
-\ A: To stamp out flaming ducks.          /
+| Q: How do you shoot a pink elephant? A: |
+| Twist its trunk until it turns blue,    |
+| then shoot it with                      |
+|                                         |
+\ a blue-elephant gun.                    /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
