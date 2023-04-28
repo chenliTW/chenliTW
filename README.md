@@ -1,14 +1,16 @@
 Last Update Time: 
-Fri Apr 28 15:26:51 UTC 2023
+Fri Apr 28 15:38:31 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Kiss me, Kate, we will be married o'   \
-| Sunday.                                |
-|                                        |
-| -- William Shakespeare, "The Taming of |
-\ the Shrew"                             /
- ----------------------------------------
+ _________________________________________
+/ "I understand this is your first dead   \
+| client," Sabian was saying. The         |
+| absurdity of the statement made me want |
+| to laugh but they don't call me Deadpan |
+| Allie and lie.                          |
+|                                         |
+\ -- Pat Cadigan, "Mindplayers"           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
