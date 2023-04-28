@@ -1,12 +1,15 @@
 Last Update Time: 
-Fri Apr 28 08:52:36 UTC 2023
+Fri Apr 28 09:11:25 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You will stop at nothing to reach your  \
-| objective, but only because your brakes |
-\ are defective.                          /
- -----------------------------------------
+ ________________________________________
+/ There is always one thing to remember: \
+| writers are always selling somebody    |
+| out.                                   |
+|                                        |
+| -- Joan Didion, "Slouching Towards     |
+\ Bethlehem"                             /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
