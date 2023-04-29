@@ -1,16 +1,14 @@
 Last Update Time: 
-Sat Apr 29 15:00:23 UTC 2023
+Sat Apr 29 15:18:50 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How do you shoot a blue elephant? A: \
-| With a blue-elephant gun.               |
+/ The only way to keep your health is to  \
+| eat what you don't want, drink what you |
+| don't like, and do what you'd rather    |
+| not.                                    |
 |                                         |
-| Q: How do you shoot a pink elephant? A: |
-| Twist its trunk until it turns blue,    |
-| then shoot it with                      |
-|                                         |
-\ a blue-elephant gun.                    /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
