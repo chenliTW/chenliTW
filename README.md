@@ -1,15 +1,12 @@
 Last Update Time: 
-Sun Apr 30 14:13:55 UTC 2023
+Sun Apr 30 14:26:05 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ ROMEO: Courage, man; the hurt cannot be \
-| much. MERCUTIO: No, 'tis not so deep as |
-| a well, nor so wide                     |
-|                                         |
-| as a church-door; but 'tis enough,      |
-\ 'twill serve.                           /
- -----------------------------------------
+ ________________________________________
+/ For a light heart lives long.          \
+|                                        |
+\ -- Shakespeare, "Love's Labour's Lost" /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
