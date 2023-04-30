@@ -1,11 +1,18 @@
 Last Update Time: 
-Sun Apr 30 19:44:18 UTC 2023
+Sun Apr 30 19:56:01 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You will give someone a piece of your \
-\ mind, which you can ill afford.       /
- ---------------------------------------
+ ________________________________________
+/ Q: Why don't Scotsmen ever have coffee \
+| the way they like it? A: Well, they    |
+| like it with two lumps of sugar. If    |
+| they drink                             |
+|                                        |
+| it at home, they only take one, and if |
+| they drink it while                    |
+|                                        |
+\ visiting, they always take three.      /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
