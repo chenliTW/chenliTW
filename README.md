@@ -1,13 +1,17 @@
 Last Update Time: 
-Mon May  1 11:32:05 UTC 2023
+Mon May  1 11:43:58 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: Why do the police always travel in  \
-| threes? A: One to do the reading, one  |
-| to do the writing, and the other keeps |
+/ Steady movement is more important than \
+| speed, much of the time. So long as    |
+| there is a regular progression of      |
+| stimuli to get your mental hooks into, |
+| there is room for lateral movement.    |
+| Once this begins, its rate is a matter |
+| of discretion.                         |
 |                                        |
-\ an eye on the two intellectuals.       /
+\ -- Corwin, Prince of Amber             /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
