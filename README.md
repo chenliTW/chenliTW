@@ -1,12 +1,10 @@
 Last Update Time: 
-Mon May  1 14:38:28 UTC 2023
+Mon May  1 14:50:24 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: What's the difference between Bell  \
-| Labs and the Boy Scouts of America? A: |
-\ The Boy Scouts have adult supervision. /
- ----------------------------------------
+ _____________________________________
+< Q: Are we not men? A: We are Vaxen. >
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
