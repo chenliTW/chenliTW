@@ -1,14 +1,13 @@
 Last Update Time: 
-Mon May  1 15:23:53 UTC 2023
+Mon May  1 15:35:45 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ They have been at a great feast of \
-| languages, and stolen the scraps.  |
-|                                    |
-| -- William Shakespeare, "Love's    |
-\ Labour's Lost"                     /
- ------------------------------------
+ ________________________________________
+/ Q: What do you call the scratches that \
+| you get when a female                  |
+|                                        |
+\ sheep bites you? A: Ewe nicks.         /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
