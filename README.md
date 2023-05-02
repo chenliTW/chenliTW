@@ -1,12 +1,16 @@
 Last Update Time: 
-Tue May  2 20:25:43 UTC 2023
+Tue May  2 20:37:59 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What's the difference between a Mac  \
-| and an Etch-a-Sketch? A: You don't have |
-\ to shake the Mac to clear the screen.   /
- -----------------------------------------
+ _______________________________________
+/ Training is everything. The peach was \
+| once a bitter almond; cauliflower is  |
+| nothing but cabbage with a college    |
+| education.                            |
+|                                       |
+| -- Mark Twain, "Pudd'nhead Wilson's   |
+\ Calendar"                             /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
