@@ -1,21 +1,23 @@
 Last Update Time: 
-Tue May  2 17:49:01 UTC 2023
+Tue May  2 18:06:30 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ For the fashion of Minas Tirith was     \
-| such that it was built on seven levels, |
-| each delved into a hill, and about each |
-| was set a wall, and in each wall was a  |
-| gate.                                   |
+/ Q: How many journalists does it take to \
+| screw in a light bulb? A: Three. One to |
+| report it as an inspired government     |
+| program to bring                        |
 |                                         |
-| -- J.R.R. Tolkien, "The Return of the   |
-| King"                                   |
+| light to the people, one to report it   |
+| as a diabolical government plot         |
 |                                         |
-| [Quoted in "VMS Internals and Data      |
-| Structures", V4.4, when                 |
+| to deprive the poor of darkness, and    |
+| one to win a Pulitzer prize for         |
 |                                         |
-\ referring to system overview.]          /
+| reporting that Electric Company hired a |
+| light bulb-assassin to break            |
+|                                         |
+\ the bulb in the first place.            /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
