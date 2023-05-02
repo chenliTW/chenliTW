@@ -1,20 +1,14 @@
 Last Update Time: 
-Tue May  2 04:45:04 UTC 2023
+Tue May  2 04:56:53 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ October.                                \
-|                                         |
-| This is one of the peculiarly dangerous |
-| months to speculate in stocks in.       |
-|                                         |
-| The others are July, January,           |
-| September, April, November, May, March, |
-| June, December, August, and February.   |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
- -----------------------------------------
+ ________________________________________
+/ You may my glories and my state        \
+| dispose, But not my griefs; still am I |
+| king of those.                         |
+|                                        |
+\ -- William Shakespeare, "Richard II"   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
