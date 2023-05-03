@@ -1,16 +1,14 @@
 Last Update Time: 
-Wed May  3 09:54:03 UTC 2023
+Wed May  3 10:14:30 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ In India, "cold weather" is merely a    \
-| conventional phrase and has come into   |
-| use through the necessity of having     |
-| some way to distinguish between weather |
-| which will melt a brass door-knob and   |
-| weather which will only make it mushy.  |
+/ ROMEO: Courage, man; the hurt cannot be \
+| much. MERCUTIO: No, 'tis not so deep as |
+| a well, nor so wide                     |
 |                                         |
-\ -- Mark Twain                           /
+| as a church-door; but 'tis enough,      |
+\ 'twill serve.                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
