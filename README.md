@@ -1,11 +1,11 @@
 Last Update Time: 
-Wed May  3 20:38:02 UTC 2023
+Wed May  3 20:49:53 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: Why did Menachem Begin invade     \
-\ Lebanon? A: To impress Jodie Foster. /
- --------------------------------------
+ _________________________________________
+/ Q: What lies on the bottom of the ocean \
+\ and twitches? A: A nervous wreck.       /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
