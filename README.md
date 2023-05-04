@@ -1,12 +1,18 @@
 Last Update Time: 
-Thu May  4 13:27:58 UTC 2023
+Thu May  4 13:39:47 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: How did you get into artificial   \
-| intelligence? A: Seemed logical -- I |
-\ didn't have any real intelligence.   /
- --------------------------------------
+ ________________________________________
+/ When I was younger, I could remember   \
+| anything, whether it had happened or   |
+| not; but my faculties are decaying now |
+| and soon I shall be so I cannot        |
+| remember any but the things that never |
+| happened. It is sad to go to pieces    |
+| like this but we all have to do it.    |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
