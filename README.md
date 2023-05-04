@@ -1,12 +1,15 @@
 Last Update Time: 
-Thu May  4 05:49:23 UTC 2023
+Thu May  4 06:08:32 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Q: What is printed on the bottom of \
-| beer bottles in Minnesota? A: Open  |
-\ other end.                          /
- -------------------------------------
+ _______________________________________
+/ Q: Minnesotans ask, "Why aren't there \
+| more pharmacists from Alabama?" A:    |
+| Easy. It's because they can't figure  |
+| out how to get the little             |
+|                                       |
+\ bottles into the typewriter.          /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
