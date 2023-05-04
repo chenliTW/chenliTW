@@ -1,13 +1,12 @@
 Last Update Time: 
-Thu May  4 04:28:01 UTC 2023
+Thu May  4 04:39:49 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: What do you call the scratches that \
-| you get when a female                  |
-|                                        |
-\ sheep bites you? A: Ewe nicks.         /
- ----------------------------------------
+ _________________________________________
+/ FORTUNE PROVIDES QUESTIONS FOR THE      \
+| GREAT ANSWERS: #19 A: To be or not to   |
+\ be. Q: What is the square root of 4b^2? /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
