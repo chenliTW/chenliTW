@@ -1,11 +1,11 @@
 Last Update Time: 
-Fri May  5 17:37:49 UTC 2023
+Fri May  5 17:49:42 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You will receive a legacy which will \
-\ place you above want.                /
- --------------------------------------
+ ________________________________________
+/ You have a will that can be influenced \
+\ by all with whom you come in contact.  /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
