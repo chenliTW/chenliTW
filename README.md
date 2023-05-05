@@ -1,14 +1,12 @@
 Last Update Time: 
-Fri May  5 21:53:16 UTC 2023
+Fri May  5 22:11:33 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ There is no hunting like the hunting of \
-| man, and those who have hunted armed    |
-| men long enough and liked it, never     |
-| care for anything else thereafter.      |
+/ Extreme fear can neither fight nor fly. \
 |                                         |
-\ -- Ernest Hemingway                     /
+| -- William Shakespeare, "The Rape of    |
+\ Lucrece"                                /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
