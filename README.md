@@ -1,13 +1,11 @@
 Last Update Time: 
-Sat May  6 18:17:18 UTC 2023
+Sat May  6 18:29:41 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ The abuse of greatness is when it       \
-| disjoins remorse from power.            |
-|                                         |
-\ -- William Shakespeare, "Julius Caesar" /
- -----------------------------------------
+ ________________________________________
+/ Love is in the offing. Be affectionate \
+\ to one who adores you.                 /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
