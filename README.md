@@ -1,11 +1,15 @@
 Last Update Time: 
-Sat May  6 10:51:09 UTC 2023
+Sat May  6 11:07:18 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ Don't look back, the lemmings are \
-\ gaining on you.                   /
- -----------------------------------
+ ________________________________________
+/ A classic is something that everyone   \
+| wants to have read and nobody wants to |
+| read.                                  |
+|                                        |
+| -- Mark Twain, "The Disappearance of   |
+\ Literature"                            /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
