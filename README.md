@@ -1,14 +1,14 @@
 Last Update Time: 
-Sat May  6 12:27:36 UTC 2023
+Sat May  6 12:50:03 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ He jests at scars who never felt a     \
-| wound.                                 |
-|                                        |
-| -- Shakespeare, "Romeo and Juliet, II. |
-\ 2"                                     /
- ----------------------------------------
+ _______________________________________
+/ I must have a prodigious quantity of  \
+| mind; it takes me as much as a week   |
+| sometimes to make it up.              |
+|                                       |
+\ -- Mark Twain, "The Innocents Abroad" /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
