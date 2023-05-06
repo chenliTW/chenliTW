@@ -1,12 +1,11 @@
 Last Update Time: 
-Sat May  6 20:52:12 UTC 2023
+Sat May  6 21:09:22 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________
-/ Don't worry. Life's too long. \
-|                               |
-\ -- Vincent Sardi, Jr.         /
- -------------------------------
+ _________________________________________
+/ Learn to pause -- or nothing worthwhile \
+\ can catch up to you.                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
