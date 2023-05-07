@@ -1,12 +1,11 @@
 Last Update Time: 
-Sun May  7 16:48:40 UTC 2023
+Sun May  7 17:00:48 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: Why did the programmer call his    \
-| mother long distance? A: Because that |
-\ was her name.                         /
- ---------------------------------------
+ ________________________________________
+/ Q: Why do WASPs play golf ? A: So they \
+\ can dress like pimps.                  /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
