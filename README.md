@@ -1,18 +1,14 @@
 Last Update Time: 
-Sun May  7 07:24:32 UTC 2023
+Sun May  7 07:36:19 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ It is right that he too should have his \
-| little chronicle, his memories, his     |
-| reason, and be able to recognize the    |
-| good in the bad, the bad in the worst,  |
-| and so grow gently old all down the     |
-| unchanging days and die one day like    |
-| any other day, only shorter.            |
-|                                         |
-\ -- Samuel Beckett, "Malone Dies"        /
- -----------------------------------------
+ _______________________________________
+/ "Elves and Dragons!" I says to him.   \
+| "Cabbages and potatoes are better for |
+| you and me."                          |
+|                                       |
+\ -- J. R. R. Tolkien                   /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
