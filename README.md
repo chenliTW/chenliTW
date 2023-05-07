@@ -1,12 +1,11 @@
 Last Update Time: 
-Sun May  7 14:40:07 UTC 2023
+Sun May  7 14:51:43 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- __________________________________
-/ Be cheerful while you are alive. \
-|                                  |
-\ -- Phathotep, 24th Century B.C.  /
- ----------------------------------
+ _____________________________________
+/ Your goose is cooked. (Your current \
+\ chick is burned up too!)            /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
