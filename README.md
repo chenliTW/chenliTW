@@ -1,13 +1,12 @@
 Last Update Time: 
-Mon May  8 22:52:30 UTC 2023
+Mon May  8 23:12:17 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Man is the only animal that blushes -- \
-| or needs to.                           |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ ________________________________
+/ When in doubt, tell the truth. \
+|                                |
+\ -- Mark Twain                  /
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
