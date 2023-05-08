@@ -1,10 +1,11 @@
 Last Update Time: 
-Mon May  8 06:18:29 UTC 2023
+Mon May  8 06:32:00 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________
-< Blow it out your ear. >
- -----------------------
+ ______________________________________
+/ Q: What's hard going in and soft and \
+\ sticky coming out? A: Chewing gum.   /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
