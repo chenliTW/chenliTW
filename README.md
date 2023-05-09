@@ -1,14 +1,27 @@
 Last Update Time: 
-Tue May  9 05:17:23 UTC 2023
+Tue May  9 05:28:52 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: Why did the chicken cross the road? \
-| A: To see his friend Gregory peck.     |
+/ Q: How many elephants can you fit in a \
+| VW Bug? A: Four. Two in the front, two |
+| in the back.                           |
 |                                        |
-| Q: Why did the chicken cross the       |
-| playground? A: To get to the other     |
-\ slide.                                 /
+| Q: How can you tell if an elephant is  |
+| in your refrigerator? A: There's a     |
+| footprint in the mayo.                 |
+|                                        |
+| Q: How can you tell if two elephants   |
+| are in your refrigerator? A: There's   |
+| two footprints in the mayo.            |
+|                                        |
+| Q: How can you tell if three elephants |
+| are in your refrigerator? A: The door  |
+| won't shut.                            |
+|                                        |
+| Q: How can you tell if four elephants  |
+| are in your refrigerator? A: There's a |
+\ VW Bug in your driveway.               /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
