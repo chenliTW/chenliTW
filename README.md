@@ -1,14 +1,12 @@
 Last Update Time: 
-Tue May  9 14:19:05 UTC 2023
+Tue May  9 14:31:08 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: Why is it that the more accuracy you \
-| demand from an interpolation            |
+/ Patch griefs with proverbs.             \
 |                                         |
-| function, the more expensive it becomes |
-| to compute? A: That's the Law of Spline |
-\ Demand.                                 /
+| -- William Shakespeare, "Much Ado About |
+\ Nothing"                                /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
