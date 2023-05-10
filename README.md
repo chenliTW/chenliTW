@@ -1,23 +1,22 @@
 Last Update Time: 
-Wed May 10 11:51:25 UTC 2023
+Wed May 10 12:17:43 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ So she went into the garden to cut a    \
-| cabbage leaf to make an apple pie; and  |
-| at the same time a great she-bear,      |
-| coming up the street pops its head into |
-| the shop. "What! no soap?" So he died,  |
-| and she very imprudently married the    |
-| barber; and there were present the      |
-| Picninnies, and the Grand Panjandrum    |
-| himself, with the little round button   |
-| at top, and they all fell to playing    |
-| the game of catch as catch can, till    |
-| the gunpowder ran out at the heels of   |
-| their boots.                            |
+/ Mind! I don't mean to say that I know,  \
+| of my own knowledge, what there is      |
+| particularly dead about a door-nail. I  |
+| might have been inclined, myself, to    |
+| regard a coffin-nail as the deadest     |
+| piece of ironmongery in the trade. But  |
+| the wisdom of our ancestors is in the   |
+| simile; and my unhallowed hands shall   |
+| not disturb it, or the Country's done   |
+| for. You will therefore permit me to    |
+| repeat, emphatically, that Marley was   |
+| as dead as a door-nail.                 |
 |                                         |
-\ -- Samuel Foote                         /
+\ -- Charles Dickens, "A Christmas Carol" /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
