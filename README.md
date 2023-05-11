@@ -1,12 +1,11 @@
 Last Update Time: 
-Thu May 11 06:37:14 UTC 2023
+Thu May 11 06:48:38 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Your reasoning is excellent -- it's  \
-| only your basic assumptions that are |
-\ wrong.                               /
- --------------------------------------
+ _______________________________________
+/ If you sow your wild oats, hope for a \
+\ crop failure.                         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
