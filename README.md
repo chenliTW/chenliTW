@@ -1,11 +1,11 @@
 Last Update Time: 
-Fri May 12 07:17:11 UTC 2023
+Fri May 12 07:29:00 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ You will become rich and famous unless \
-\ you don't.                             /
- ----------------------------------------
+ _______________________________________
+/ Your society will be sought by people \
+\ of taste and refinement.              /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
