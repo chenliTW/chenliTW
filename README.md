@@ -1,13 +1,19 @@
 Last Update Time: 
-Sat May 13 05:25:51 UTC 2023
+Sat May 13 05:37:45 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ You may my glories and my state        \
-| dispose, But not my griefs; still am I |
-| king of those.                         |
+/ For there are moments when one can     \
+| neither think nor feel. And if one can |
+| neither think nor feel, she thought,   |
+| where is one?                          |
 |                                        |
-\ -- William Shakespeare, "Richard II"   /
+| -- Virginia Woolf, "To the Lighthouse" |
+|                                        |
+| [Quoted in "VMS Internals and Data     |
+| Structures", V4.4, when                |
+|                                        |
+\ referring to powerfail recovery.]      /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
