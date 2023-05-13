@@ -1,15 +1,14 @@
 Last Update Time: 
-Sat May 13 19:43:23 UTC 2023
+Sat May 13 19:55:18 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Q: What do you call 15 blondes in a \
-| circle? A: A dope ring.             |
-|                                     |
-| Q: Why do blondes put their hair in |
-| ponytails? A: To cover up the valve |
-\ stem.                               /
- -------------------------------------
+ ________________________________________
+/ When you are about to die, a wombat is \
+| better than no company at all.         |
+|                                        |
+| -- Roger Zelazny, "Doorways in the     |
+\ Sand"                                  /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
