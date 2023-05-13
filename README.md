@@ -1,11 +1,11 @@
 Last Update Time: 
-Sat May 13 17:30:02 UTC 2023
+Sat May 13 17:41:36 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You will be given a post of trust and \
-\ responsibility.                       /
- ---------------------------------------
+ ________________________________________
+/ You will inherit some money or a small \
+\ piece of land.                         /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
