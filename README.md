@@ -1,16 +1,17 @@
 Last Update Time: 
-Sun May 14 18:39:03 UTC 2023
+Sun May 14 18:51:17 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The holy passion of Friendship is of so \
-| sweet and steady and loyal and enduring |
-| a nature that it will last through a    |
-| whole lifetime, if not asked to lend    |
-| money.                                  |
+/ The only people for me are the mad ones \
+| -- the ones who are mad to live, mad to |
+| talk, mad to be saved, desirous of      |
+| everything at the same time, the ones   |
+| who never yawn or say a commonplace     |
+| thing, but burn, burn, burn like        |
+| fabulous yellow Roman candles.          |
 |                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
+\ -- Jack Kerouac, "On the Road"          /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
