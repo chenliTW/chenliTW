@@ -1,13 +1,14 @@
 Last Update Time: 
-Sun May 14 05:37:29 UTC 2023
+Sun May 14 05:49:25 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________
-/ All generalizations are false, \
-| including this one.            |
-|                                |
-\ -- Mark Twain                  /
- --------------------------------
+ ________________________________________
+/ Q: Why does Washington have the most   \
+| lawyers per capita and                 |
+|                                        |
+| New Jersey the most toxic waste dumps? |
+\ A: God gave New Jersey first choice.   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
