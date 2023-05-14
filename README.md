@@ -1,15 +1,11 @@
 Last Update Time: 
-Sun May 14 17:41:11 UTC 2023
+Sun May 14 17:52:47 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: Minnesotans ask, "Why aren't there \
-| more pharmacists from Alabama?" A:    |
-| Easy. It's because they can't figure  |
-| out how to get the little             |
-|                                       |
-\ bottles into the typewriter.          /
- ---------------------------------------
+ _________________________________________
+/ Your depth of comprehension may tend to \
+\ make you lax in worldly ways.           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
