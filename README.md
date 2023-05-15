@@ -1,11 +1,11 @@
 Last Update Time: 
-Mon May 15 22:49:34 UTC 2023
+Mon May 15 23:05:53 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ Q: What is green and lives in the \
-\ ocean? A: Moby Pickle.            /
- -----------------------------------
+ ________________________________________
+/ You will obey or molten silver will be \
+\ poured into your ears.                 /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
