@@ -1,10 +1,12 @@
 Last Update Time: 
-Mon May 15 12:49:18 UTC 2023
+Mon May 15 13:09:18 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ You prefer the company of the opposite \
-\ sex, but are well liked by your own.   /
+/ Q: How many Harvard MBA's does it take \
+| to screw in a light bulb? A: Just one. |
+| He grasps it firmly and the universe   |
+\ revolves around him.                   /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
