@@ -1,24 +1,11 @@
 Last Update Time: 
-Mon May 15 20:47:38 UTC 2023
+Mon May 15 20:59:13 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How many journalists does it take to \
-| screw in a light bulb? A: Three. One to |
-| report it as an inspired government     |
-| program to bring                        |
-|                                         |
-| light to the people, one to report it   |
-| as a diabolical government plot         |
-|                                         |
-| to deprive the poor of darkness, and    |
-| one to win a Pulitzer prize for         |
-|                                         |
-| reporting that Electric Company hired a |
-| light bulb-assassin to break            |
-|                                         |
-\ the bulb in the first place.            /
- -----------------------------------------
+ _____________________________________
+/ Q: What is purple and conquered the \
+\ world? A: Alexander the Grape.      /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
