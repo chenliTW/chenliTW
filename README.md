@@ -1,11 +1,14 @@
 Last Update Time: 
-Wed May 17 12:58:18 UTC 2023
+Wed May 17 13:22:07 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Your true value depends entirely on \
-\ what you are compared with.         /
- -------------------------------------
+ ________________________________________
+/ Q: Why should you always serve a       \
+| Southern Carolina football man         |
+|                                        |
+| soup in a plate? A: 'Cause if you give |
+\ him a bowl, he'll throw it away.       /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
