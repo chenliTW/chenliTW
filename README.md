@@ -1,13 +1,14 @@
 Last Update Time: 
-Thu May 18 16:56:10 UTC 2023
+Thu May 18 17:15:04 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: What do monsters eat? A: Things.   \
-|                                       |
-| Q: What do monsters drink? A: Coke.   |
-\ (Because Things go better with Coke.) /
- ---------------------------------------
+ ________________________________________
+/ Q: Why is Christmas just like a day at \
+| the office? A: You do all of the work  |
+| and the fat guy in the suit            |
+|                                        |
+\ gets all the credit.                   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
