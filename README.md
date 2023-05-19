@@ -1,13 +1,15 @@
 Last Update Time: 
-Fri May 19 18:46:53 UTC 2023
+Fri May 19 18:58:51 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ FORTUNE PROVIDES QUESTIONS FOR THE      \
-| GREAT ANSWERS: #31 A: Chicken Teriyaki. |
-| Q: What is the name of the world's      |
-\ oldest kamikaze pilot?                  /
- -----------------------------------------
+ ________________________________________
+/ It is often the case that the man who  \
+| can't tell a lie thinks he is the best |
+| judge of one.                          |
+|                                        |
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
