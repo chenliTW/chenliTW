@@ -1,15 +1,12 @@
 Last Update Time: 
-Fri May 19 20:23:12 UTC 2023
+Fri May 19 20:35:16 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ I don't know half of you half as well  \
-| as I should like; and I like less than |
-| half of you half as well as you        |
-| deserve.                               |
-|                                        |
-\ -- J. R. R. Tolkien                    /
- ----------------------------------------
+ ____________________________________
+/ You're currently going through a   \
+| difficult transition period called |
+\ "Life."                            /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
