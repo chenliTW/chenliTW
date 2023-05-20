@@ -1,12 +1,10 @@
 Last Update Time: 
-Sat May 20 23:18:58 UTC 2023
+Sat May 20 23:31:08 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Conscience doth make cowards of us all. \
-|                                         |
-\ -- Shakespeare                          /
- -----------------------------------------
+ ________________________________________
+< You have taken yourself too seriously. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
