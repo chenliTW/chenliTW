@@ -1,12 +1,10 @@
 Last Update Time: 
-Sat May 20 11:04:10 UTC 2023
+Sat May 20 11:16:56 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: How many college football players   \
-| does it take to screw in a light bulb? |
-| A: Only one, but he gets three credits |
-\ for it.                                /
+/ Q: Why was Stonehenge abandoned? A: It \
+\ wasn't IBM compatible.                 /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
