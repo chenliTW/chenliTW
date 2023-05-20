@@ -1,14 +1,10 @@
 Last Update Time: 
-Sat May 20 15:33:21 UTC 2023
+Sat May 20 15:45:04 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Don't go around saying the world owes \
-| you a living. The world owes you      |
-| nothing. It was here first.           |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ ________________________________
+< You will get what you deserve. >
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
