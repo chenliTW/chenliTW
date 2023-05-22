@@ -1,15 +1,11 @@
 Last Update Time: 
-Mon May 22 04:46:41 UTC 2023
+Mon May 22 04:58:23 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How many Bell Labs Vice Presidents   \
-| does it take to change a light bulb? A: |
-| That's proprietary information. Answer  |
-| available from AT&T on payment          |
-|                                         |
-\ of license fee (binary only).           /
- -----------------------------------------
+ ______________________________________
+/ You have an ambitious nature and may \
+\ make a name for yourself.            /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
