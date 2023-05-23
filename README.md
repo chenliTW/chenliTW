@@ -1,14 +1,11 @@
 Last Update Time: 
-Tue May 23 06:53:31 UTC 2023
+Tue May 23 07:11:41 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why should you always serve a       \
-| Southern Carolina football man         |
-|                                        |
-| soup in a plate? A: 'Cause if you give |
-\ him a bowl, he'll throw it away.       /
- ----------------------------------------
+ ______________________________________
+/ Your own qualities will help prevent \
+\ your advancement in the world.       /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
