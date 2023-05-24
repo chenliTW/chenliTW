@@ -1,11 +1,15 @@
 Last Update Time: 
-Wed May 24 07:34:31 UTC 2023
+Wed May 24 07:46:28 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ Time to be aggressive. Go after a \
-\ tattooed Virgo.                   /
- -----------------------------------
+ ________________________________________
+/ There is always one thing to remember: \
+| writers are always selling somebody    |
+| out.                                   |
+|                                        |
+| -- Joan Didion, "Slouching Towards     |
+\ Bethlehem"                             /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
