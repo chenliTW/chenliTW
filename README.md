@@ -1,11 +1,11 @@
 Last Update Time: 
-Wed May 24 06:29:12 UTC 2023
+Wed May 24 06:40:53 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- __________________________________
-/ You will overcome the attacks of \
-\ jealous associates.              /
- ----------------------------------
+ _________________________________________
+/ Your boss climbed the corporate ladder, \
+\ wrong by wrong.                         /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
