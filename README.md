@@ -1,15 +1,13 @@
 Last Update Time: 
-Thu May 25 00:54:50 UTC 2023
+Thu May 25 02:05:46 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ My only love sprung from my only hate! \
-| Too early seen unknown, and known too  |
-| late!                                  |
-|                                        |
-| -- William Shakespeare, "Romeo and     |
-\ Juliet"                                /
- ----------------------------------------
+ _________________________________________
+/ Q: What do you get when you cross a     \
+| mobster with an international standard? |
+| A: You get someone who makes you an     |
+\ offer that you can't understand!        /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
