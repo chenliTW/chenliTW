@@ -1,10 +1,11 @@
 Last Update Time: 
-Fri May 26 07:34:42 UTC 2023
+Fri May 26 07:46:40 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Your object is to save the world, while \
-\ still leading a pleasant life.          /
+/ You will lose your present job and have \
+| to become a door to door mayonnaise     |
+\ salesman.                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
