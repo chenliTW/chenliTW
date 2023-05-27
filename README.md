@@ -1,13 +1,13 @@
 Last Update Time: 
-Sat May 27 13:32:17 UTC 2023
+Sat May 27 13:44:20 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ This night methinks is but the daylight \
-| sick.                                   |
+/ They spell it "da Vinci" and pronounce  \
+| it "da Vinchy". Foreigners always spell |
+| better than they pronounce.             |
 |                                         |
-| -- William Shakespeare, "The Merchant   |
-\ of Venice"                              /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
