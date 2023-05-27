@@ -1,14 +1,14 @@
 Last Update Time: 
-Sat May 27 21:13:08 UTC 2023
+Sat May 27 21:25:10 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: What do you call a WASP who doesn't \
-| work for his father, isn't a           |
-|                                        |
-| lawyer, and believes in social causes? |
-\ A: A failure.                          /
- ----------------------------------------
+ _______________________________________
+/ Noise proves nothing. Often a hen who \
+| has merely laid an egg cackles as if  |
+| she laid an asteroid.                 |
+|                                       |
+\ -- Mark Twain                         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
