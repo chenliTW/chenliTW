@@ -1,13 +1,11 @@
 Last Update Time: 
-Sat May 27 11:29:13 UTC 2023
+Sat May 27 11:41:13 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ A kind of Batman of contemporary    \
-| letters.                            |
-|                                     |
-\ -- Philip Larkin on Anthony Burgess /
- -------------------------------------
+ ________________________________________
+/ Celebrate Hannibal Day this year. Take \
+\ an elephant to lunch.                  /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
