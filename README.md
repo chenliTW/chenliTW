@@ -1,10 +1,10 @@
 Last Update Time: 
-Sun May 28 23:19:16 UTC 2023
+Sun May 28 23:31:28 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _______________________________________
-/ You get along very well with everyone \
-\ except animals and people.            /
+/ You will be held hostage by a radical \
+\ group.                                /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
