@@ -1,12 +1,11 @@
 Last Update Time: 
-Sun May 28 06:34:44 UTC 2023
+Sun May 28 06:46:47 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: How can you tell when a Burroughs \
-| salesman is lying? A: When his lips  |
-\ move.                                /
- --------------------------------------
+ _________________________________________
+/ Don't look now, but there is a          \
+\ multi-legged creature on your shoulder. /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
