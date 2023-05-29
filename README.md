@@ -1,11 +1,10 @@
 Last Update Time: 
-Mon May 29 23:33:13 UTC 2023
+Mon May 29 23:44:57 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You will be given a post of trust and \
-\ responsibility.                       /
- ---------------------------------------
+ ____________________________
+< You will soon forget this. >
+ ----------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
