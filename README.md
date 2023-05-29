@@ -1,11 +1,10 @@
 Last Update Time: 
-Mon May 29 15:23:00 UTC 2023
+Mon May 29 15:35:04 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ You single-handedly fought your way \
-\ into this hopeless mess.            /
- -------------------------------------
+ ________________________
+< Be different: conform. >
+ ------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
