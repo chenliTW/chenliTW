@@ -1,13 +1,12 @@
 Last Update Time: 
-Tue May 30 13:25:27 UTC 2023
+Tue May 30 13:37:24 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Every why hath a wherefore.          \
-|                                      |
-| -- William Shakespeare, "A Comedy of |
-\ Errors"                              /
- --------------------------------------
+ _____________________________________
+/ Q: Why did the astrophysicist order \
+| three hamburgers? A: Because he was |
+\ hungry.                             /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
