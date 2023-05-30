@@ -1,11 +1,10 @@
 Last Update Time: 
-Tue May 30 14:46:42 UTC 2023
+Tue May 30 14:58:31 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What is the difference between Texas \
-\ and yogurt? A: Yogurt has culture.      /
- -----------------------------------------
+ ________________________________________
+< You will be misunderstood by everyone. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
