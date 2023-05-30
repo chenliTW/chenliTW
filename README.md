@@ -1,15 +1,12 @@
 Last Update Time: 
-Tue May 30 21:52:19 UTC 2023
+Tue May 30 22:10:20 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How many Bell Labs Vice Presidents   \
-| does it take to change a light bulb? A: |
-| That's proprietary information. Answer  |
-| available from AT&T on payment          |
-|                                         |
-\ of license fee (binary only).           /
- -----------------------------------------
+ ________________________________________
+/ Q: Why do firemen wear red suspenders? \
+| A: To conform with departmental        |
+\ regulations concerning uniform dress.  /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
