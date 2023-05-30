@@ -1,12 +1,14 @@
 Last Update Time: 
-Tue May 30 14:04:32 UTC 2023
+Tue May 30 14:22:58 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ How apt the poor are to be proud.       \
-|                                         |
-\ -- William Shakespeare, "Twelfth-Night" /
- -----------------------------------------
+ _____________________________________
+/ As to the Adjective: when in doubt, \
+| strike it out.                      |
+|                                     |
+| -- Mark Twain, "Pudd'nhead Wilson's |
+\ Calendar"                           /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
