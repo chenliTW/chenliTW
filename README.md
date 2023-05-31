@@ -1,14 +1,16 @@
 Last Update Time: 
-Wed May 31 18:38:55 UTC 2023
+Wed May 31 18:51:01 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why does Washington have the most   \
-| lawyers per capita and                 |
-|                                        |
-| New Jersey the most toxic waste dumps? |
-\ A: God gave New Jersey first choice.   /
- ----------------------------------------
+ _________________________________________
+/ Q: How many bureaucrats does it take to \
+| screw in a light bulb? A: Two. One to   |
+| assure everyone that everything         |
+| possible is being                       |
+|                                         |
+| done while the other screws the bulb    |
+\ into the water faucet.                  /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
