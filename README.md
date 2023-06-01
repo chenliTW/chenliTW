@@ -1,10 +1,11 @@
 Last Update Time: 
-Wed May 31 23:58:33 UTC 2023
+Thu Jun  1 02:18:28 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-< You are magnetic in your bearing. >
- -----------------------------------
+ ________________________________________
+/ You will obey or molten silver will be \
+\ poured into your ears.                 /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
