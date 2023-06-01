@@ -1,12 +1,11 @@
 Last Update Time: 
-Thu Jun  1 13:53:17 UTC 2023
+Thu Jun  1 14:11:30 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ You tread upon my patience.        \
-|                                    |
-\ -- William Shakespeare, "Henry IV" /
- ------------------------------------
+ _________________________________________
+/ Learn to pause -- or nothing worthwhile \
+\ can catch up to you.                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
