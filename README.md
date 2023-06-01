@@ -1,15 +1,15 @@
 Last Update Time: 
-Thu Jun  1 15:59:37 UTC 2023
+Thu Jun  1 16:28:46 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Your manuscript is both good and       \
-| original, but the part that is good is |
-| not original and the part that is      |
-| original is not good.                  |
-|                                        |
-\ -- Samuel Johnson                      /
- ----------------------------------------
+ _________________________________________
+/ ROMEO: Courage, man; the hurt cannot be \
+| much. MERCUTIO: No, 'tis not so deep as |
+| a well, nor so wide                     |
+|                                         |
+| as a church-door; but 'tis enough,      |
+\ 'twill serve.                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
