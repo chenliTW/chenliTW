@@ -1,13 +1,10 @@
 Last Update Time: 
-Thu Jun  1 22:54:43 UTC 2023
+Thu Jun  1 23:15:11 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Things past redress and now with me  \
-| past care.                           |
-|                                      |
-\ -- William Shakespeare, "Richard II" /
- --------------------------------------
+ _______________________
+< Blow it out your ear. >
+ -----------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
