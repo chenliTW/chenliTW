@@ -1,14 +1,11 @@
 Last Update Time: 
-Thu Jun  1 10:19:02 UTC 2023
+Thu Jun  1 10:34:16 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ The fashion wears out more apparel than \
-| the man.                                |
-|                                         |
-| -- William Shakespeare, "Much Ado About |
-\ Nothing"                                /
- -----------------------------------------
+ ______________________________________
+/ Your own qualities will help prevent \
+\ your advancement in the world.       /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
