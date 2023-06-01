@@ -1,10 +1,11 @@
 Last Update Time: 
-Thu Jun  1 18:40:27 UTC 2023
+Thu Jun  1 18:52:20 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________
-< You are always busy. >
- ----------------------
+ _____________________________________
+/ Someone whom you reject today, will \
+\ reject you tomorrow.                /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
