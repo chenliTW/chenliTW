@@ -1,11 +1,14 @@
 Last Update Time: 
-Fri Jun  2 11:21:47 UTC 2023
+Fri Jun  2 11:33:37 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You will visit the Dung Pits of Glive \
-\ soon.                                 /
- ---------------------------------------
+ _____________________________________
+/ As to the Adjective: when in doubt, \
+| strike it out.                      |
+|                                     |
+| -- Mark Twain, "Pudd'nhead Wilson's |
+\ Calendar"                           /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
