@@ -1,12 +1,10 @@
 Last Update Time: 
-Sat Jun  3 10:19:27 UTC 2023
+Sat Jun  3 10:31:43 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ What I tell you three times is true. \
-|                                      |
-\ -- Lewis Carroll                     /
- --------------------------------------
+ ___________________________________
+< You will triumph over your enemy. >
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
