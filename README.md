@@ -1,23 +1,15 @@
 Last Update Time: 
-Sat Jun  3 17:32:01 UTC 2023
+Sat Jun  3 17:43:45 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many journalists does it take to \
-| screw in a light bulb? A: Three. One to |
-| report it as an inspired government     |
-| program to bring                        |
+/ Q: Where's the Lone Ranger take his     \
+| garbage? A: To the dump, to the dump,   |
+| to the dump dump dump!                  |
 |                                         |
-| light to the people, one to report it   |
-| as a diabolical government plot         |
-|                                         |
-| to deprive the poor of darkness, and    |
-| one to win a Pulitzer prize for         |
-|                                         |
-| reporting that Electric Company hired a |
-| light bulb-assassin to break            |
-|                                         |
-\ the bulb in the first place.            /
+| Q: What's the Pink Panther say when he  |
+| steps on an ant hill? A: Dead ant, dead |
+\ ant, dead ant dead ant dead ant...      /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
