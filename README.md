@@ -1,15 +1,15 @@
 Last Update Time: 
-Sun Jun  4 11:27:19 UTC 2023
+Sun Jun  4 11:39:15 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ The man who sets out to carry a cat by \
-| its tail learns something that will    |
-| always be useful and which never will  |
-| grow dim or doubtful.                  |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _______________________________________
+/ So so is good, very good, very        \
+| excellent good: and yet it is not; it |
+| is but so so.                         |
+|                                       |
+| -- William Shakespeare, "As You Like  |
+\ It"                                   /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
