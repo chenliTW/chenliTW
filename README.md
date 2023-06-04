@@ -1,12 +1,11 @@
 Last Update Time: 
-Sun Jun  4 04:40:00 UTC 2023
+Sun Jun  4 04:52:13 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________
-/ question = ( to ) ? be : ! be; \
-|                                |
-\ -- Wm. Shakespeare             /
- --------------------------------
+ ______________________________________
+/ You will be the last person to buy a \
+\ Chrysler.                            /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
