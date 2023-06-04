@@ -1,11 +1,11 @@
 Last Update Time: 
-Sun Jun  4 18:40:00 UTC 2023
+Sun Jun  4 18:52:05 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Don't look now, but the man in the moon \
-\ is laughing at you.                     /
- -----------------------------------------
+ ______________________________________
+/ Your own qualities will help prevent \
+\ your advancement in the world.       /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
