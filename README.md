@@ -1,12 +1,12 @@
 Last Update Time: 
-Mon Jun  5 04:52:51 UTC 2023
+Mon Jun  5 05:11:31 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Q: What is printed on the bottom of \
-| beer bottles in Minnesota? A: Open  |
-\ other end.                          /
- -------------------------------------
+ _______________________________________
+/ You'll wish that you had done some of \
+| the hard things when they were easier |
+\ to do.                                /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
