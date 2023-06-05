@@ -1,12 +1,15 @@
 Last Update Time: 
-Mon Jun  5 13:50:50 UTC 2023
+Mon Jun  5 14:07:46 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _______________________________________
-/ Q: How many IBM CPU's does it take to \
-| do a logical right shift? A: 33. 1 to |
-| hold the bits and 32 to push the      |
-\ register.                             /
+/ For years a secret shame destroyed my \
+| peace-- I'd not read Eliot, Auden or  |
+| MacNiece. But now I think a thought   |
+| that brings me hope: Neither had      |
+| Chaucer, Shakespeare, Milton, Pope.   |
+|                                       |
+\ -- Justin Richardson.                 /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
