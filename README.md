@@ -1,14 +1,15 @@
 Last Update Time: 
-Mon Jun  5 02:53:29 UTC 2023
+Mon Jun  5 03:15:16 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Q: What does a WASP Mom make for   \
-| dinner? A: A crisp salad, a hearty |
-| soup, a lovely entree, followed by |
-|                                    |
-\ a delicious dessert.               /
- ------------------------------------
+ ______________________________________
+/ F.S. Fitzgerald to Hemingway:        \
+|                                      |
+| "Ernest, the rich are different from |
+| us." Hemingway:                      |
+|                                      |
+\ "Yes. They have more money."         /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
