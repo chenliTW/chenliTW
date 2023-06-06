@@ -1,12 +1,13 @@
 Last Update Time: 
-Tue Jun  6 06:56:15 UTC 2023
+Tue Jun  6 07:16:07 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ There's small choice in rotten apples. \
+/ Q: Why haven't you graduated yet? A:   \
+| Well, Dad, I could have finished years |
+| ago, but I wanted                      |
 |                                        |
-| -- William Shakespeare, "The Taming of |
-\ the Shrew"                             /
+\ my dissertation to rhyme.              /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
