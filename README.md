@@ -1,13 +1,11 @@
 Last Update Time: 
-Tue Jun  6 08:40:33 UTC 2023
+Tue Jun  6 08:52:50 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ By trying we can easily learn to endure \
-| adversity. Another man's, I mean.       |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ __________________________________
+/ You will win success in whatever \
+\ calling you adopt.               /
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
