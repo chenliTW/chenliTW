@@ -1,16 +1,15 @@
 Last Update Time: 
-Tue Jun  6 10:57:32 UTC 2023
+Tue Jun  6 11:14:55 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Training is everything. The peach was \
-| once a bitter almond; cauliflower is  |
-| nothing but cabbage with a college    |
-| education.                            |
-|                                       |
-| -- Mark Twain, "Pudd'nhead Wilson's   |
-\ Calendar"                             /
- ---------------------------------------
+ ________________________________________
+/ Q: Why do people who live near Niagara \
+| Falls have flat foreheads? A: Because  |
+| every morning they wake up thinking    |
+| "What *is* that noise?                 |
+|                                        |
+\ Oh, right, *of course*!                /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
