@@ -1,16 +1,22 @@
 Last Update Time: 
-Wed Jun  7 15:42:00 UTC 2023
+Wed Jun  7 15:53:37 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ If you pick up a starving dog and make \
-| him prosperous, he will not bite you.  |
-| This is the principal difference       |
-| between a dog and a man.               |
-|                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
- ----------------------------------------
+ _________________________________________
+/  "You have heard me speak of Professor  \
+| Moriarty?"                              |
+|                                         |
+| "The famous scientific criminal, as     |
+| famous among crooks as --"              |
+|                                         |
+| "My blushes, Watson," Holmes murmured,  |
+| in a deprecating voice.                 |
+|                                         |
+| "I was about to say 'as he is unknown   |
+| to the public.'"                        |
+|                                         |
+\ -- A. Conan Doyle, "The Valley of Fear" /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
