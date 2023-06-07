@@ -1,18 +1,20 @@
 Last Update Time: 
-Wed Jun  7 01:58:43 UTC 2023
+Wed Jun  7 02:56:34 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Persons attempting to find a motive in  \
-| this narrative will be prosecuted;      |
-| persons attempting to find a moral in   |
-| it will be banished; persons attempting |
-| to find a plot in it will be shot. By   |
-| Order of the Author                     |
-|                                         |
-| -- Mark Twain, "The Adventures of       |
-\ Huckleberry Finn"                       /
- -----------------------------------------
+ ________________________________________
+/ At once it struck me what quality went \
+| to form a man of achievement,          |
+| especially in literature, and which    |
+| Shakespeare possessed so enormously -- |
+| I mean negative capability, that is,   |
+| when a man is capable of being in      |
+| uncertainties, mysteries, doubts,      |
+| without any irritable reaching after   |
+| fact and reason.                       |
+|                                        |
+\ -- John Keats                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
