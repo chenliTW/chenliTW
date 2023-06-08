@@ -1,11 +1,23 @@
 Last Update Time: 
-Thu Jun  8 07:11:38 UTC 2023
+Thu Jun  8 07:23:30 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ Q: What is green and lives in the \
-\ ocean? A: Moby Pickle.            /
- -----------------------------------
+ _________________________________________
+/ Mind! I don't mean to say that I know,  \
+| of my own knowledge, what there is      |
+| particularly dead about a door-nail. I  |
+| might have been inclined, myself, to    |
+| regard a coffin-nail as the deadest     |
+| piece of ironmongery in the trade. But  |
+| the wisdom of our ancestors is in the   |
+| simile; and my unhallowed hands shall   |
+| not disturb it, or the Country's done   |
+| for. You will therefore permit me to    |
+| repeat, emphatically, that Marley was   |
+| as dead as a door-nail.                 |
+|                                         |
+\ -- Charles Dickens, "A Christmas Carol" /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
