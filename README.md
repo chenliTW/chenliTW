@@ -1,14 +1,15 @@
 Last Update Time: 
-Sat Jun 10 20:41:37 UTC 2023
+Sat Jun 10 20:53:32 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What do you call a principal female  \
-| opera singer whose high C               |
-|                                         |
-| is lower than those of other principal  |
-\ female opera singers? A: A deep C diva. /
- -----------------------------------------
+ ________________________________________
+/ Q: Why do people who live near Niagara \
+| Falls have flat foreheads? A: Because  |
+| every morning they wake up thinking    |
+| "What *is* that noise?                 |
+|                                        |
+\ Oh, right, *of course*!                /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
