@@ -1,12 +1,12 @@
 Last Update Time: 
-Sat Jun 10 05:26:23 UTC 2023
+Sat Jun 10 05:38:14 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You had some happiness once, but your \
-| parents moved away, and you had to    |
-\ leave it behind.                      /
- ---------------------------------------
+ ________________________________________
+/ Q: What's the difference between Bell  \
+| Labs and the Boy Scouts of America? A: |
+\ The Boy Scouts have adult supervision. /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
