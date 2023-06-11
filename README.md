@@ -1,25 +1,21 @@
 Last Update Time: 
-Sun Jun 11 17:53:46 UTC 2023
+Sun Jun 11 18:15:29 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ The bone-chilling scream split the warm \
-| summer night in two, the first half     |
-| being before the scream when it was     |
-| fairly balmy and calm and pleasant, the |
-| second half still balmy and quite       |
-| pleasant for those who hadn't heard the |
-| scream at all, but not calm or balmy or |
-| even very nice for those who did hear   |
-| the scream, discounting the little      |
-| period of time during the actual scream |
-| itself when your ears might have been   |
-| hearing it but your brain wasn't        |
-| reacting yet to let you know.           |
-|                                         |
-| -- Winning sentence, 1986 Bulwer-Lytton |
-\ bad fiction contest.                    /
- -----------------------------------------
+ ________________________________________
+/ Q: How many DEC repairman does it take \
+| to fix a flat? A: Five; four to hold   |
+| the car up and one to swap tires.      |
+|                                        |
+| Q: How long does it take? A: It's      |
+| indeterminate.                         |
+|                                        |
+| It will depend upon how many flats     |
+| they've brought with them.             |
+|                                        |
+| Q: What happens if you've got TWO      |
+\ flats? A: They replace your generator. /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
