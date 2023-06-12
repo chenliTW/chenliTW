@@ -1,17 +1,14 @@
 Last Update Time: 
-Mon Jun 12 16:49:44 UTC 2023
+Mon Jun 12 17:04:09 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ I've touch'd the highest point of all  \
-| my greatness; And from that full       |
-| meridian of my glory I haste now to my |
-| setting. I shall fall, Like a bright   |
-| exhalation in the evening And no man   |
-| see me more.                           |
-|                                        |
-\ -- Shakespeare                         /
- ----------------------------------------
+ _______________________________________
+/ Sometimes I wonder if I'm in my right \
+| mind. Then it passes off and I'm as   |
+| intelligent as ever.                  |
+|                                       |
+\ -- Samuel Beckett, "Endgame"          /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
