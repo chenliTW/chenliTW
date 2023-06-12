@@ -1,11 +1,11 @@
 Last Update Time: 
-Mon Jun 12 15:44:05 UTC 2023
+Mon Jun 12 15:55:53 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- __________________________________
-/ Break into jail and claim police \
-\ brutality.                       /
- ----------------------------------
+ _________________________________________
+/ You're working under a slight handicap. \
+\ You happen to be human.                 /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
