@@ -1,20 +1,22 @@
 Last Update Time: 
-Mon Jun 12 19:38:48 UTC 2023
+Mon Jun 12 19:50:44 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ A morgue is a morgue is a morgue. They  \
-| can paint the walls with aggressively   |
-| cheerful primary colors and splashy     |
-| bold graphics, but it's still a holding |
-| place for the dead until they can be    |
-| parted out to organ banks. Not that I   |
-| would have cared normally but my        |
-| viewpoint was skewed. The relentless    |
-| pleasance of the room I sat in seemed   |
-| only grotesque.                         |
+/ Mind! I don't mean to say that I know,  \
+| of my own knowledge, what there is      |
+| particularly dead about a door-nail. I  |
+| might have been inclined, myself, to    |
+| regard a coffin-nail as the deadest     |
+| piece of ironmongery in the trade. But  |
+| the wisdom of our ancestors is in the   |
+| simile; and my unhallowed hands shall   |
+| not disturb it, or the Country's done   |
+| for. You will therefore permit me to    |
+| repeat, emphatically, that Marley was   |
+| as dead as a door-nail.                 |
 |                                         |
-\ -- Pat Cadigan, "Mindplayers"           /
+\ -- Charles Dickens, "A Christmas Carol" /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
