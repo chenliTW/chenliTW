@@ -1,11 +1,17 @@
 Last Update Time: 
-Mon Jun 12 11:13:46 UTC 2023
+Mon Jun 12 11:25:41 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ You have a deep appreciation of the \
-\ arts and music.                     /
- -------------------------------------
+ _________________________________________
+/ Q: How do you shoot a blue elephant? A: \
+| With a blue-elephant gun.               |
+|                                         |
+| Q: How do you shoot a pink elephant? A: |
+| Twist its trunk until it turns blue,    |
+| then shoot it with                      |
+|                                         |
+\ a blue-elephant gun.                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
