@@ -1,11 +1,12 @@
 Last Update Time: 
-Mon Jun 12 09:53:34 UTC 2023
+Mon Jun 12 10:14:40 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: How do you save a drowning lawyer? \
-\ A: Throw him a rock.                  /
- ---------------------------------------
+ _____________________________________
+/ You learn to write as if to someone \
+| else because NEXT YEAR YOU WILL BE  |
+\ "SOMEONE ELSE."                     /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
