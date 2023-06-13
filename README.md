@@ -1,11 +1,10 @@
 Last Update Time: 
-Tue Jun 13 15:14:35 UTC 2023
+Tue Jun 13 15:26:28 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ______________________________________
-/ You'll never see all the places, or  \
-| read all the books, but fortunately, |
-\ they're not all recommended.         /
+/ You have an unusual equipment for    \
+\ success. Be sure to use it properly. /
  --------------------------------------
         \   ^__^
          \  (oo)\_______
