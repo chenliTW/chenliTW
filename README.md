@@ -1,13 +1,11 @@
 Last Update Time: 
-Wed Jun 14 21:59:44 UTC 2023
+Wed Jun 14 22:20:07 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ The first thing we do, let's kill all   \
-| the lawyers.                            |
-|                                         |
-\ -- Wm. Shakespeare, "Henry VI", Part IV /
- -----------------------------------------
+ ________________________________________
+/ Increased knowledge will help you now. \
+\ Have mate's phone bugged.              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
