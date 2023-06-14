@@ -1,11 +1,10 @@
 Last Update Time: 
-Wed Jun 14 06:42:09 UTC 2023
+Wed Jun 14 06:53:51 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ You are not dead yet. But watch for \
-\ further reports.                    /
- -------------------------------------
+ _______________________________________
+< Are you sure the back door is locked? >
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
