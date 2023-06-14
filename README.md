@@ -1,15 +1,14 @@
 Last Update Time: 
-Wed Jun 14 08:24:01 UTC 2023
+Wed Jun 14 08:36:00 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How many Bell Labs Vice Presidents   \
-| does it take to change a light bulb? A: |
-| That's proprietary information. Answer  |
-| available from AT&T on payment          |
-|                                         |
-\ of license fee (binary only).           /
- -----------------------------------------
+ ________________________________________
+/ Q: Why do the police always travel in  \
+| threes? A: One to do the reading, one  |
+| to do the writing, and the other keeps |
+|                                        |
+\ an eye on the two intellectuals.       /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
