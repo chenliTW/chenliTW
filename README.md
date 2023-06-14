@@ -1,17 +1,13 @@
 Last Update Time: 
-Wed Jun 14 14:18:06 UTC 2023
+Wed Jun 14 14:29:58 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _______________________________________
-/ The bay-trees in our country are all  \
-| wither'd And meteors fright the fixed |
-| stars of heaven; The pale-faced moon  |
-| looks bloody on the earth And         |
-| lean-look'd prophets whisper fearful  |
-| change. These signs forerun the death |
-| or fall of kings.                     |
+/ I must have a prodigious quantity of  \
+| mind; it takes me as much as a week   |
+| sometimes to make it up.              |
 |                                       |
-\ -- Wm. Shakespeare, "Richard II"      /
+\ -- Mark Twain, "The Innocents Abroad" /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
