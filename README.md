@@ -1,50 +1,85 @@
 Last Update Time: 
-Thu Jun 15 15:24:57 UTC 2023
+Thu Jun 15 15:37:06 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ We were young and our happiness dazzled \
-| us with its strength. But there was     |
-| also a terrible betrayal that lay       |
-| within me like a Merle Haggard song at  |
-| a French restaurant. [...]              |
+/ "Good afternoon, madam. How may I help  \
+| you?"                                   |
 |                                         |
-| I could not tell the girl about the     |
-| woman of the tollway, of her milk white |
-| BMW and her Jordache smile. There had   |
-| been a fight. I had punched her         |
-| boyfriend, who fought the mechanical    |
-| bulls. Everyone told him, "You ride the |
-| bull, senor. You do not fight it." But  |
-| he was lean and tough like a bad        |
-| rib-eye and he fought the bull. And     |
-| then he fought me. And when we finished |
-| there were no winners, just men doing   |
-| what men must do. [...]                 |
+| "Good afternoon. I'd like a FrintArms   |
+| HandCannon, please."                    |
 |                                         |
-| "Stop the car," the girl said.          |
+| "A--? Oh, now, that's an awfully big    |
+| gun for such a lovely lady. I mean, not |
+| everybody thinks ladies should carry    |
+| guns at all, though I say they have a   |
+| right to. But I think... I might...     |
+| Let's have a look down here. I might    |
+| have just the thing for you. Yes, here  |
+| we are! Look at that, isn't it neat?    |
+| Now that is a FrintArms product as      |
+| well, but it's what's called a laser -- |
+| a light-pistol some people call them.   |
+| Very small, as you see; fits easily     |
+| into a pocket or bag; won't spoil the   |
+| line of a jacket; and you won't feel    |
+| you're lugging half a tonne of iron     |
+| around with you. We do a range of       |
+| matching accessories, including -- if I |
+| may say so -- a rather saucy garter     |
+| holster. Wish I got to do the fitting   |
+| for that! Ha -- just my little joke.    |
+| And there's *even*... here we are --    |
+| this special presentation pack: gun,    |
+| charged battery, charging unit,         |
+| beautiful glider-hide shoulder holster  |
+| with adjustable fitting and contrast    |
+| stitching, and a discount on your next  |
+| battery. Full instructions, of course,  |
+| and a voucher for free lessons at your  |
+| local gun club or range. Or there's the |
+| *special* presentation pack; it has all |
+| the other one's got but with *two*      |
+| charged batteries and a night-sight,    |
+| too. Here, feel that -- don't worry,    |
+| it's a dummy battery -- isn't it neat?  |
+| Feel how light it is? Smooth, see? No   |
+| bits to stick out and catch on your     |
+| clothes, *and* beautifully balanced.    |
+| And of course the beauty of a laser is, |
+| there's no recoil. Because it's         |
+| shooting light, you see? Beautiful gun, |
+| beautiful gun; my wife has one. Really. |
+| That's not a line, she really has. Now, |
+| I can do you that one -- with a battery |
+| and a free charge -- for ninety-five;   |
+| or the presentation pack on a special   |
+| offer for one-nineteen; or this, the    |
+| special presentation pack, for          |
+| one-forty-nine."                        |
 |                                         |
-| There was a look of terrible sadness in |
-| her eyes. She knew about the woman of   |
-| the tollway. I knew not how. I started  |
-| to speak, but she raised an arm and     |
-| spoke with a quiet and peace I will     |
-| never forget.                           |
+| "I'll take the special."                |
 |                                         |
-| "I do not ask for whom's the tollway    |
-| belle," she said, "the tollway belle's  |
-| for thee."                              |
+| "Sound choice, madam, *sound* choice.   |
+| Now, do--?"                             |
 |                                         |
-| The next morning our youth was a        |
-| memory, and our happiness was a lie.    |
-| Life is like a bad margarita with good  |
-| tequila, I thought as I poured whiskey  |
-| onto my granola and faced a new day.    |
+| "And a HandCannon, with the eighty-mill |
+| silencer, five GP clips, three six-five |
+| AP/wire-fl'echettes clips, two           |
+| bipropellant HE clips, and a Special    |
+| Projectile Pack if you have one -- the  |
+| one with the embedding rounds, not the  |
+| signalers. I assume the night-sight on  |
+| this toy is compatible?"                |
 |                                         |
-| -- Peter Applebome, International       |
-| Imitation Hemingway                     |
+| "Aah... yes, And how does madam wish to |
+| pay?"                                   |
 |                                         |
-\ Competition                             /
+| She slapped her credit card on the      |
+| counter. "Eventually."                  |
+|                                         |
+| -- Iain M. Banks, "Against a Dark       |
+\ Background"                             /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
