@@ -1,13 +1,19 @@
 Last Update Time: 
-Thu Jun 15 05:42:56 UTC 2023
+Thu Jun 15 05:54:49 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: Why do the police always travel in  \
-| threes? A: One to do the reading, one  |
-| to do the writing, and the other keeps |
+/ For there are moments when one can     \
+| neither think nor feel. And if one can |
+| neither think nor feel, she thought,   |
+| where is one?                          |
 |                                        |
-\ an eye on the two intellectuals.       /
+| -- Virginia Woolf, "To the Lighthouse" |
+|                                        |
+| [Quoted in "VMS Internals and Data     |
+| Structures", V4.4, when                |
+|                                        |
+\ referring to powerfail recovery.]      /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
