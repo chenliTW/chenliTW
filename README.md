@@ -1,14 +1,13 @@
 Last Update Time: 
-Thu Jun 15 14:28:17 UTC 2023
+Thu Jun 15 14:40:09 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ After all, all he did was string  \
-| together a lot of old, well-known |
-| quotations.                       |
-|                                   |
-\ -- H. L. Mencken, on Shakespeare  /
- -----------------------------------
+ ______________________________________
+/ All things that are, are with more   \
+| spirit chased than enjoyed.          |
+|                                      |
+\ -- Shakespeare, "Merchant of Venice" /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
