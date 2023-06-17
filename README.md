@@ -1,15 +1,14 @@
 Last Update Time: 
-Sat Jun 17 14:42:32 UTC 2023
+Sat Jun 17 14:54:28 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ F.S. Fitzgerald to Hemingway:        \
-|                                      |
-| "Ernest, the rich are different from |
-| us." Hemingway:                      |
-|                                      |
-\ "Yes. They have more money."         /
- --------------------------------------
+ ________________________________________
+/ Q: Why is Christmas just like a day at \
+| the office? A: You do all of the work  |
+| and the fat guy in the suit            |
+|                                        |
+\ gets all the credit.                   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
