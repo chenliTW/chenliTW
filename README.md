@@ -1,12 +1,15 @@
 Last Update Time: 
-Sat Jun 17 11:08:36 UTC 2023
+Sat Jun 17 11:20:22 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: How can you tell when a Burroughs \
-| salesman is lying? A: When his lips  |
-\ move.                                /
- --------------------------------------
+ _________________________________________
+/ O, it is excellent To have a giant's    \
+| strength; but it is tyrannous To use it |
+| like a giant.                           |
+|                                         |
+| -- Shakespeare, "Measure for Measure",  |
+\ II, 2                                   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
