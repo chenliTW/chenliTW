@@ -1,17 +1,10 @@
 Last Update Time: 
-Sat Jun 17 12:52:44 UTC 2023
+Sat Jun 17 13:12:06 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How do you shoot a blue elephant? A: \
-| With a blue-elephant gun.               |
-|                                         |
-| Q: How do you shoot a pink elephant? A: |
-| Twist its trunk until it turns blue,    |
-| then shoot it with                      |
-|                                         |
-\ a blue-elephant gun.                    /
- -----------------------------------------
+ _____________________________________
+< Your step will soil many countries. >
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
