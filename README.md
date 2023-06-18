@@ -1,13 +1,11 @@
 Last Update Time: 
-Sun Jun 18 13:49:22 UTC 2023
+Sun Jun 18 14:04:02 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ I do desire we may be better strangers. \
-|                                         |
-| -- William Shakespeare, "As You Like    |
-\ It"                                     /
- -----------------------------------------
+ ______________________________________
+/ Your life would be very empty if you \
+\ had nothing to regret.               /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
