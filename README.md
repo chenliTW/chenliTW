@@ -1,13 +1,13 @@
 Last Update Time: 
-Tue Jun 20 06:23:50 UTC 2023
+Tue Jun 20 06:37:09 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ If one cannot enjoy reading a book over \
-| and over again, there is no use in      |
-| reading it at all.                      |
+/ Q: How does a hacker fix a function     \
+| which                                   |
 |                                         |
-\ -- Oscar Wilde                          /
+| doesn't work for all of the elements in |
+\ its domain? A: He changes the domain.   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
