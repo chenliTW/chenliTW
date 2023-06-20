@@ -1,14 +1,11 @@
 Last Update Time: 
-Tue Jun 20 15:39:36 UTC 2023
+Tue Jun 20 15:51:42 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Many a writer seems to think he is  \
-| never profound except when he can't |
-| understand his own meaning.         |
-|                                     |
-\ -- George D. Prentice               /
- -------------------------------------
+ _________________________________________
+/ Today is the tomorrow you worried about \
+\ yesterday.                              /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
