@@ -1,12 +1,14 @@
 Last Update Time: 
-Thu Jun 22 11:11:45 UTC 2023
+Thu Jun 22 11:23:57 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The abuse of greatness is when it       \
-| disjoins remorse from power.            |
+/ Let us endeavor so to live that when we \
+| come to die even the undertaker will be |
+| sorry.                                  |
 |                                         |
-\ -- William Shakespeare, "Julius Caesar" /
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
