@@ -1,15 +1,12 @@
 Last Update Time: 
-Thu Jun 22 18:15:33 UTC 2023
+Thu Jun 22 18:30:11 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ The man who sets out to carry a cat by \
-| its tail learns something that will    |
-| always be useful and which never will  |
-| grow dim or doubtful.                  |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _________________________________________
+/ You are wise, witty, and wonderful, but \
+| you spend too much time reading this    |
+\ sort of trash.                          /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
