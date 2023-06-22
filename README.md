@@ -1,14 +1,14 @@
 Last Update Time: 
-Thu Jun 22 05:26:42 UTC 2023
+Thu Jun 22 05:38:21 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ He draweth out the thread of his       \
-| verbosity finer than the staple of his |
-| argument.                              |
+/ A classic is something that everyone   \
+| wants to have read and nobody wants to |
+| read.                                  |
 |                                        |
-| -- William Shakespeare, "Love's        |
-\ Labour's Lost"                         /
+| -- Mark Twain, "The Disappearance of   |
+\ Literature"                            /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
