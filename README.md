@@ -1,11 +1,11 @@
 Last Update Time: 
-Fri Jun 23 19:18:20 UTC 2023
+Fri Jun 23 19:30:17 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Alimony and bribes will engage a large \
-\ share of your wealth.                  /
- ----------------------------------------
+ _______________________________________
+/ You seek to shield those you love and \
+\ you like the role of the provider.    /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
