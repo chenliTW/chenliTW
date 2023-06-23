@@ -1,21 +1,14 @@
 Last Update Time: 
-Fri Jun 23 07:42:42 UTC 2023
+Fri Jun 23 07:55:34 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Even the clearest and most perfect      \
-| circumstantial evidence is likely to be |
-| at fault, after all, and therefore      |
-| ought to be received with great         |
-| caution. Take the case of any pencil,   |
-| sharpened by any woman; if you have     |
-| witnesses, you will find she did it     |
-| with a knife; but if you take simply    |
-| the aspect of the pencil, you will say  |
-| that she did it with her teeth.         |
+/ Q: How many mathematicians does it take \
+| to screw in a light bulb? A: One. He    |
+| gives it to six Californians, thereby   |
+| reducing the problem                    |
 |                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
+\ to the earlier joke.                    /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
