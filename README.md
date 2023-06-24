@@ -1,14 +1,18 @@
 Last Update Time: 
-Sat Jun 24 03:18:18 UTC 2023
+Sat Jun 24 03:39:56 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What's the difference between a dead \
-| dog in the road and a dead              |
-|                                         |
-| lawyer in the road? A: There are skid   |
-\ marks in front of the dog.              /
- -----------------------------------------
+ ________________________________________
+/ When I was younger, I could remember   \
+| anything, whether it had happened or   |
+| not; but my faculties are decaying now |
+| and soon I shall be so I cannot        |
+| remember any but the things that never |
+| happened. It is sad to go to pieces    |
+| like this but we all have to do it.    |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
