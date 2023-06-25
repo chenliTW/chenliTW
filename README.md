@@ -1,15 +1,10 @@
 Last Update Time: 
-Sun Jun 25 20:33:41 UTC 2023
+Sun Jun 25 20:45:44 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ He draweth out the thread of his       \
-| verbosity finer than the staple of his |
-| argument.                              |
-|                                        |
-| -- William Shakespeare, "Love's        |
-\ Labour's Lost"                         /
- ----------------------------------------
+ ___________________________
+< You will wish you hadn't. >
+ ---------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
