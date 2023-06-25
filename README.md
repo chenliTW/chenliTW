@@ -1,15 +1,13 @@
 Last Update Time: 
-Sun Jun 25 16:59:12 UTC 2023
+Sun Jun 25 17:20:17 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ F.S. Fitzgerald to Hemingway:        \
-|                                      |
-| "Ernest, the rich are different from |
-| us." Hemingway:                      |
-|                                      |
-\ "Yes. They have more money."         /
- --------------------------------------
+ _______________________________________
+/ As flies to wanton boys are we to the \
+| gods; they kill us for their sport.   |
+|                                       |
+\ -- Shakespeare, "King Lear"           /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
