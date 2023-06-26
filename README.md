@@ -1,15 +1,12 @@
 Last Update Time: 
-Mon Jun 26 19:36:33 UTC 2023
+Mon Jun 26 19:48:31 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ A classic is something that everyone   \
-| wants to have read and nobody wants to |
-| read.                                  |
-|                                        |
-| -- Mark Twain, "The Disappearance of   |
-\ Literature"                            /
- ----------------------------------------
+ _________________________________________
+/ This was the most unkindest cut of all. \
+|                                         |
+\ -- William Shakespeare, "Julius Caesar" /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
