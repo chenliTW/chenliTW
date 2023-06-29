@@ -1,14 +1,17 @@
 Last Update Time: 
-Thu Jun 29 23:20:35 UTC 2023
+Thu Jun 29 23:32:53 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: Why is it that the more accuracy you \
-| demand from an interpolation            |
+/ The only people for me are the mad ones \
+| -- the ones who are mad to live, mad to |
+| talk, mad to be saved, desirous of      |
+| everything at the same time, the ones   |
+| who never yawn or say a commonplace     |
+| thing, but burn, burn, burn like        |
+| fabulous yellow Roman candles.          |
 |                                         |
-| function, the more expensive it becomes |
-| to compute? A: That's the Law of Spline |
-\ Demand.                                 /
+\ -- Jack Kerouac, "On the Road"          /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
