@@ -1,11 +1,11 @@
 Last Update Time: 
-Sun Jul  2 21:26:50 UTC 2023
+Sun Jul  2 21:38:41 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Go to a movie tonight. Darkness becomes \
-\ you.                                    /
- -----------------------------------------
+ ________________________________________
+/ You will obey or molten silver will be \
+\ poured into your ears.                 /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
