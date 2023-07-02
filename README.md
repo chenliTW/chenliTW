@@ -1,22 +1,10 @@
 Last Update Time: 
-Sun Jul  2 14:58:21 UTC 2023
+Sun Jul  2 15:19:45 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/  My dear People.                        \
-|                                         |
-| My dear Bagginses and Boffins, and my   |
-| dear Tooks and Brandybucks, and Grubbs, |
-| and Chubbs, and Burrowses, and          |
-| Hornblowers, and Bolgers, Bracegirdles, |
-| Goodbodies, Brockhouses and Proudfoots. |
-| Also my good Sackville Bagginses that I |
-| welcome back at last to Bag End. Today  |
-| is my one hundred and eleventh          |
-| birthday: I am eleventy-one today!"     |
-|                                         |
-\ -- J. R. R. Tolkien                     /
- -----------------------------------------
+ ________________________________
+< It's all in the mind, ya know. >
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
