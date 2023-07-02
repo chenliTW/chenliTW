@@ -1,15 +1,11 @@
 Last Update Time: 
-Sun Jul  2 11:59:48 UTC 2023
+Sun Jul  2 12:39:10 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How many psychiatrists does it take  \
-| to change a light bulb? A: Only one,    |
-| but it takes a long time, and the light |
-| bulb has                                |
-|                                         |
-\ to really want to change.               /
- -----------------------------------------
+ _____________________________________
+/ You recoil from the crude; you tend \
+\ naturally toward the exquisite.     /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
