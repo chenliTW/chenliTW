@@ -1,12 +1,11 @@
 Last Update Time: 
-Mon Jul  3 05:53:08 UTC 2023
+Mon Jul  3 06:18:26 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: What happens when four WASPs find \
-| themselves in the same room? A: A    |
-\ dinner party.                        /
- --------------------------------------
+ _________________________________________
+/ Best of all is never to have been born. \
+\ Second best is to die soon.             /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
