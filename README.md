@@ -1,23 +1,20 @@
 Last Update Time: 
-Thu Jul  6 07:12:31 UTC 2023
+Thu Jul  6 07:27:28 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many journalists does it take to \
-| screw in a light bulb? A: Three. One to |
-| report it as an inspired government     |
-| program to bring                        |
+/  The Priest's grey nimbus in a niche    \
+| where he dressed discreetly. I will not |
+| sleep here tonight. Home also I cannot  |
+| go.                                     |
 |                                         |
-| light to the people, one to report it   |
-| as a diabolical government plot         |
+| A voice, sweetened and sustained,       |
+| called to him from the sea. Turning the |
+| curve he waved his hand. A sleek brown  |
+| head, a seal's, far out on the water,   |
+| round. Usurper.                         |
 |                                         |
-| to deprive the poor of darkness, and    |
-| one to win a Pulitzer prize for         |
-|                                         |
-| reporting that Electric Company hired a |
-| light bulb-assassin to break            |
-|                                         |
-\ the bulb in the first place.            /
+\ -- James Joyce, "Ulysses"               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
