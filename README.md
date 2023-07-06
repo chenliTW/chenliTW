@@ -1,13 +1,12 @@
 Last Update Time: 
-Thu Jul  6 14:07:52 UTC 2023
+Thu Jul  6 14:29:49 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/  A man was reading The Canterbury Tales \
-| one Saturday morning, when his wife     |
-| asked "What have you got there?"        |
-\ Replied he, "Just my cup and Chaucer."  /
- -----------------------------------------
+ _______________________________________
+/ Troubled day for virgins over 16 who  \
+| are beautiful and wealthy and live in |
+\ eucalyptus trees.                     /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
