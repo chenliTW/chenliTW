@@ -1,10 +1,15 @@
 Last Update Time: 
-Thu Jul  6 23:43:56 UTC 2023
+Thu Jul  6 23:55:51 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-< You will be divorced within a year. >
- -------------------------------------
+ ________________________________________
+/ There is always one thing to remember: \
+| writers are always selling somebody    |
+| out.                                   |
+|                                        |
+| -- Joan Didion, "Slouching Towards     |
+\ Bethlehem"                             /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
