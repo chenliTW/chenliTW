@@ -1,12 +1,10 @@
 Last Update Time: 
-Thu Jul  6 23:31:48 UTC 2023
+Thu Jul  6 23:43:56 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: What's the difference between Bell  \
-| Labs and the Boy Scouts of America? A: |
-\ The Boy Scouts have adult supervision. /
- ----------------------------------------
+ _____________________________________
+< You will be divorced within a year. >
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
