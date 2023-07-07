@@ -1,12 +1,15 @@
 Last Update Time: 
-Fri Jul  7 18:44:22 UTC 2023
+Fri Jul  7 18:56:14 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why do firemen wear red suspenders? \
-| A: To conform with departmental        |
-\ regulations concerning uniform dress.  /
- ----------------------------------------
+ _________________________________________
+/ Q: Why is it that the more accuracy you \
+| demand from an interpolation            |
+|                                         |
+| function, the more expensive it becomes |
+| to compute? A: That's the Law of Spline |
+\ Demand.                                 /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
