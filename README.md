@@ -1,12 +1,10 @@
 Last Update Time: 
-Sat Jul  8 06:31:52 UTC 2023
+Sat Jul  8 06:43:37 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Give thought to your reputation.       \
-| Consider changing name and moving to a |
-\ new town.                              /
- ----------------------------------------
+ ____________________________
+< Beware the one behind you. >
+ ----------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
