@@ -1,17 +1,18 @@
 Last Update Time: 
-Sat Jul  8 22:41:59 UTC 2023
+Sat Jul  8 22:53:52 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The only people for me are the mad ones \
-| -- the ones who are mad to live, mad to |
-| talk, mad to be saved, desirous of      |
-| everything at the same time, the ones   |
-| who never yawn or say a commonplace     |
-| thing, but burn, burn, burn like        |
-| fabulous yellow Roman candles.          |
+/ We should be careful to get out of an   \
+| experience only the wisdom that is in   |
+| it - and stay there, lest we be like    |
+| the cat that sits down on a hot         |
+| stove-lid. She will never sit down on a |
+| hot stove-lid again - and that is well; |
+| but also she will never sit down on a   |
+| cold one any more.                      |
 |                                         |
-\ -- Jack Kerouac, "On the Road"          /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
