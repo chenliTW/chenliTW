@@ -1,13 +1,13 @@
 Last Update Time: 
-Sat Jul  8 14:37:32 UTC 2023
+Sat Jul  8 14:49:09 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ "You have been in Afghanistan, I       \
-| perceive."                             |
+/ Q: Why does Washington have the most   \
+| lawyers per capita and                 |
 |                                        |
-| -- Sir Arthur Conan Doyle, "A Study in |
-\ Scarlet"                               /
+| New Jersey the most toxic waste dumps? |
+\ A: God gave New Jersey first choice.   /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
