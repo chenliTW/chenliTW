@@ -1,13 +1,11 @@
 Last Update Time: 
-Sat Jul  8 01:58:14 UTC 2023
+Sat Jul  8 03:02:10 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What do you get when you cross a     \
-| mobster with an international standard? |
-| A: You get someone who makes you an     |
-\ offer that you can't understand!        /
- -----------------------------------------
+ _____________________________________
+/ Beware of a tall black man with one \
+\ blond shoe.                         /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
