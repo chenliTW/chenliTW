@@ -1,11 +1,13 @@
 Last Update Time: 
-Sun Jul  9 20:10:21 UTC 2023
+Sun Jul  9 20:25:57 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You will be given a post of trust and \
-\ responsibility.                       /
- ---------------------------------------
+ _________________________________________
+/ The first thing we do, let's kill all   \
+| the lawyers.                            |
+|                                         |
+\ -- Wm. Shakespeare, "Henry VI", Part IV /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
