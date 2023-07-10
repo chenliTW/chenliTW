@@ -1,16 +1,11 @@
 Last Update Time: 
-Mon Jul 10 17:40:58 UTC 2023
+Mon Jul 10 17:52:48 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Q: What do you call a blind        \
-| pre-historic animal? A:            |
-| Diyathinkhesaurus.                 |
-|                                    |
-| Q: What do you call a blind        |
-| pre-historic animal with a dog? A: |
-\ Diyathinkhesaurus Rex.             /
- ------------------------------------
+ _______________________________________
+/ Q: Why don't lawyers go to the beach? \
+\ A: The cats keep trying to bury them. /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
