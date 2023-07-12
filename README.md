@@ -1,14 +1,10 @@
 Last Update Time: 
-Wed Jul 12 22:27:51 UTC 2023
+Wed Jul 12 22:40:02 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Zounds! I was never so bethumped with   \
-| words since I first called my brother's |
-| father dad.                             |
-|                                         |
-\ -- William Shakespeare, "Kind John"     /
- -----------------------------------------
+ ________________________________
+< You will get what you deserve. >
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
