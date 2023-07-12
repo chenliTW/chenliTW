@@ -1,13 +1,10 @@
 Last Update Time: 
-Wed Jul 12 04:42:00 UTC 2023
+Wed Jul 12 04:54:01 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Let him choose out of my files, his \
-| projects to accomplish.             |
-|                                     |
-\ -- Shakespeare, "Coriolanus"        /
- -------------------------------------
+ __________________________________
+< You will pass away very quickly. >
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
