@@ -1,14 +1,11 @@
 Last Update Time: 
-Wed Jul 12 12:28:16 UTC 2023
+Wed Jul 12 13:02:39 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ They spell it "da Vinci" and pronounce  \
-| it "da Vinchy". Foreigners always spell |
-| better than they pronounce.             |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ________________________________________
+/ Q: Why did the tachyon cross the road? \
+\ A: Because it was on the other side.   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
