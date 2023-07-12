@@ -1,12 +1,10 @@
 Last Update Time: 
-Wed Jul 12 04:03:04 UTC 2023
+Wed Jul 12 04:27:49 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Every cloud engenders not a storm. \
-|                                    |
-\ -- William Shakespeare, "Henry VI" /
- ------------------------------------
+ ____________________
+< You'll be sorry... >
+ --------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
