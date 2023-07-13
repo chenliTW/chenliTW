@@ -1,11 +1,10 @@
 Last Update Time: 
-Thu Jul 13 20:28:33 UTC 2023
+Thu Jul 13 20:40:24 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: What do you call a boomerang that \
-\ doesn't come back? A: A stick.       /
- --------------------------------------
+ _________________
+< Stay the curse. >
+ -----------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
