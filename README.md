@@ -1,14 +1,13 @@
 Last Update Time: 
-Thu Jul 13 21:36:53 UTC 2023
+Thu Jul 13 21:48:36 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Few things are harder to put up with  \
-| than the annoyance of a good example. |
-|                                       |
-| -- "Mark Twain, Pudd'nhead Wilson's   |
-\ Calendar"                             /
- ---------------------------------------
+ ____________________________________
+/ Tempt not a desperate man.         \
+|                                    |
+| -- William Shakespeare, "Romeo and |
+\ Juliet"                            /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
