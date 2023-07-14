@@ -1,11 +1,15 @@
 Last Update Time: 
-Fri Jul 14 15:34:04 UTC 2023
+Fri Jul 14 15:47:21 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________
-/ Q: What is the sound of one cat \
-\ napping? A: Mu.                 /
- ---------------------------------
+ ________________________________________
+/ Consider well the proportions of       \
+| things. It is better to be a young     |
+| June-bug than an old bird of paradise. |
+|                                        |
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
