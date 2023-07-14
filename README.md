@@ -1,13 +1,12 @@
 Last Update Time: 
-Fri Jul 14 03:45:22 UTC 2023
+Fri Jul 14 03:57:14 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: What do monsters eat? A: Things.   \
-|                                       |
-| Q: What do monsters drink? A: Coke.   |
-\ (Because Things go better with Coke.) /
- ---------------------------------------
+ ____________________________________
+/ This life is yours. Some of it was \
+| given to you; the rest, you made   |
+\ yourself.                          /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
