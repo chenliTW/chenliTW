@@ -1,14 +1,14 @@
 Last Update Time: 
-Sat Jul 15 19:24:38 UTC 2023
+Sat Jul 15 19:36:30 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ He jests at scars who never felt a     \
-| wound.                                 |
-|                                        |
-| -- Shakespeare, "Romeo and Juliet, II. |
-\ 2"                                     /
- ----------------------------------------
+ ___________________________________
+/ After all, all he did was string  \
+| together a lot of old, well-known |
+| quotations.                       |
+|                                   |
+\ -- H. L. Mencken, on Shakespeare  /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
