@@ -1,14 +1,11 @@
 Last Update Time: 
-Sat Jul 15 11:49:56 UTC 2023
+Sat Jul 15 12:13:12 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ It is a wise father that knows his own \
-| child.                                 |
-|                                        |
-| -- William Shakespeare, "The Merchant  |
-\ of Venice"                             /
- ----------------------------------------
+ _____________________________________
+/ Do what comes naturally. Seethe and \
+\ fume and throw a tantrum.           /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
