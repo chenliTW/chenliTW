@@ -1,15 +1,18 @@
 Last Update Time: 
-Sat Jul 15 21:28:44 UTC 2023
+Sat Jul 15 21:40:39 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How many Zen masters does it take to \
-| screw in a light bulb? A: None. The     |
-| Universe spins the bulb, and the Zen    |
-| master stays out                        |
-|                                         |
-\ of the way.                             /
- -----------------------------------------
+ ________________________________________
+/ Steady movement is more important than \
+| speed, much of the time. So long as    |
+| there is a regular progression of      |
+| stimuli to get your mental hooks into, |
+| there is room for lateral movement.    |
+| Once this begins, its rate is a matter |
+| of discretion.                         |
+|                                        |
+\ -- Corwin, Prince of Amber             /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
