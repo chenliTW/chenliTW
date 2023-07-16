@@ -1,12 +1,13 @@
 Last Update Time: 
-Sun Jul 16 11:28:46 UTC 2023
+Sun Jul 16 11:40:33 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ I have never let my schooling interfere \
-| with my education.                      |
-|                                         |
-\ -- Mark Twain                           /
+/ FORTUNE PROVIDES QUESTIONS FOR THE      \
+| GREAT ANSWERS: #5 A: The Halls of       |
+| Montezuma and the Shores of Tripoli. Q: |
+| Name two families whose kids won't join |
+\ the Marines.                            /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
