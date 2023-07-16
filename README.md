@@ -1,13 +1,13 @@
 Last Update Time: 
-Sat Jul 15 23:49:39 UTC 2023
+Sun Jul 16 00:48:34 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ There is a great discovery still to be \
-| made in Literature: that of paying     |
-| literary men by the quantity they do   |
-\ NOT write.                             /
- ----------------------------------------
+ _______________________________________
+/ Q: How many IBM CPU's does it take to \
+| do a logical right shift? A: 33. 1 to |
+| hold the bits and 32 to push the      |
+\ register.                             /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
