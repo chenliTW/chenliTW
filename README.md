@@ -1,14 +1,11 @@
 Last Update Time: 
-Mon Jul 17 11:29:06 UTC 2023
+Mon Jul 17 11:41:05 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Kiss me, Kate, we will be married o'   \
-| Sunday.                                |
-|                                        |
-| -- William Shakespeare, "The Taming of |
-\ the Shrew"                             /
- ----------------------------------------
+ ______________________________________
+/ You could live a better life, if you \
+\ had a better mind and a better body. /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
