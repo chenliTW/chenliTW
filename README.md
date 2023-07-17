@@ -1,16 +1,14 @@
 Last Update Time: 
-Mon Jul 17 13:32:05 UTC 2023
+Mon Jul 17 13:44:02 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Q: What do you call a blind        \
-| pre-historic animal? A:            |
-| Diyathinkhesaurus.                 |
-|                                    |
-| Q: What do you call a blind        |
-| pre-historic animal with a dog? A: |
-\ Diyathinkhesaurus Rex.             /
- ------------------------------------
+ _________________________________________
+/ Knucklehead: "Knock, knock" Pee Wee:    \
+| "Who's there?" Knucklehead: "Little ol' |
+| lady." Pee Wee: "Liddle ol' lady who?"  |
+| Knucklehead: "I didn't know you could   |
+\ yodel"                                  /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
