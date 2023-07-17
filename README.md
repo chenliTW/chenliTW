@@ -1,11 +1,16 @@
 Last Update Time: 
-Mon Jul 17 13:04:07 UTC 2023
+Mon Jul 17 13:32:05 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You two ought to be more careful--your  \
-\ love could drag on for years and years. /
- -----------------------------------------
+ ____________________________________
+/ Q: What do you call a blind        \
+| pre-historic animal? A:            |
+| Diyathinkhesaurus.                 |
+|                                    |
+| Q: What do you call a blind        |
+| pre-historic animal with a dog? A: |
+\ Diyathinkhesaurus Rex.             /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
