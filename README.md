@@ -1,18 +1,12 @@
 Last Update Time: 
-Tue Jul 18 17:24:44 UTC 2023
+Tue Jul 18 17:36:37 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What did Tarzan say when he saw the  \
-| elephants coming over the hill? A: "The |
-| elephants are coming over the hill."    |
-|                                         |
-| Q: What did he say when saw them coming |
-| over the hill wearing                   |
-|                                         |
-| sunglasses? A: Nothing, for he didn't   |
-\ recognize them.                         /
- -----------------------------------------
+ ______________________________________
+/ Good night to spend with family, but \
+| avoid arguments with your mate's new |
+\ lover.                               /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
