@@ -1,10 +1,11 @@
 Last Update Time: 
-Thu Jul 20 10:55:21 UTC 2023
+Thu Jul 20 11:13:02 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ If your life was a horse, you'd have to \
-\ shoot it.                               /
+/ You will lose your present job and have \
+| to become a door to door mayonnaise     |
+\ salesman.                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
