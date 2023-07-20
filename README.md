@@ -1,12 +1,14 @@
 Last Update Time: 
-Thu Jul 20 04:38:10 UTC 2023
+Thu Jul 20 04:50:00 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why do mountain climbers rope       \
-| themselves together? A: To prevent the |
-\ sensible ones from going home.         /
- ----------------------------------------
+ ____________________________________
+/ The last thing one knows in        \
+| constructing a work is what to put |
+| first.                             |
+|                                    |
+\ -- Blaise Pascal                   /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
