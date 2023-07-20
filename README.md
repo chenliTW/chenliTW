@@ -1,13 +1,15 @@
 Last Update Time: 
-Thu Jul 20 01:02:38 UTC 2023
+Thu Jul 20 02:10:56 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ____________________________________
-/ They have been at a great feast of \
-| languages, and stolen the scraps.  |
+/ Q: What do you call a blind        \
+| pre-historic animal? A:            |
+| Diyathinkhesaurus.                 |
 |                                    |
-| -- William Shakespeare, "Love's    |
-\ Labour's Lost"                     /
+| Q: What do you call a blind        |
+| pre-historic animal with a dog? A: |
+\ Diyathinkhesaurus Rex.             /
  ------------------------------------
         \   ^__^
          \  (oo)\_______
