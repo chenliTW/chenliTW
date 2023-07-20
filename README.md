@@ -1,14 +1,13 @@
 Last Update Time: 
-Thu Jul 20 03:37:02 UTC 2023
+Thu Jul 20 03:48:54 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: What do you call a WASP who doesn't \
-| work for his father, isn't a           |
-|                                        |
-| lawyer, and believes in social causes? |
-\ A: A failure.                          /
- ----------------------------------------
+ _______________________________________
+/ Must I hold a candle to my shames?    \
+|                                       |
+| -- William Shakespeare, "The Merchant |
+\ of Venice"                            /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
