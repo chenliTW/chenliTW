@@ -1,11 +1,12 @@
 Last Update Time: 
-Sat Jul 22 18:25:43 UTC 2023
+Sat Jul 22 18:37:27 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ How apt the poor are to be proud.       \
+/ Q: "What is the burning question on the \
+| mind of every dyslexic                  |
 |                                         |
-\ -- William Shakespeare, "Twelfth-Night" /
+\ existentialist?" A: "Is there a dog?"   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
