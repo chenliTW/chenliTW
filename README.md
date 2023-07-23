@@ -1,17 +1,14 @@
 Last Update Time: 
-Sun Jul 23 06:40:47 UTC 2023
+Sun Jul 23 06:52:55 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The only people for me are the mad ones \
-| -- the ones who are mad to live, mad to |
-| talk, mad to be saved, desirous of      |
-| everything at the same time, the ones   |
-| who never yawn or say a commonplace     |
-| thing, but burn, burn, burn like        |
-| fabulous yellow Roman candles.          |
+/ O, it is excellent To have a giant's    \
+| strength; but it is tyrannous To use it |
+| like a giant.                           |
 |                                         |
-\ -- Jack Kerouac, "On the Road"          /
+| -- Shakespeare, "Measure for Measure",  |
+\ II, 2                                   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
