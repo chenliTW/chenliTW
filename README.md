@@ -1,17 +1,15 @@
 Last Update Time: 
-Sun Jul 23 13:21:51 UTC 2023
+Sun Jul 23 13:33:26 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Whenever the literary German dives into \
-| a sentence, that is the last you are    |
-| going to see of him until he emerges on |
-| the other side of his Atlantic with his |
-| verb in his mouth.                      |
-|                                         |
-| -- Mark Twain "A Connecticut Yankee in  |
-\ King Arthur's Court"                    /
- -----------------------------------------
+ ________________________________________
+/ It has long been an axiom of mine that \
+| the little things are infinitely the   |
+| most important.                        |
+|                                        |
+| -- Sir Arthur Conan Doyle, "A Case of  |
+\ Identity"                              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
