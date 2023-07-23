@@ -1,14 +1,11 @@
 Last Update Time: 
-Sun Jul 23 14:27:19 UTC 2023
+Sun Jul 23 14:39:07 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Have a place for everything and keep  \
-| the thing somewhere else; this is not |
-| advice, it is merely custom.          |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ ________________________________________
+/ Alimony and bribes will engage a large \
+\ share of your wealth.                  /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
