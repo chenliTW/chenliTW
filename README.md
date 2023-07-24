@@ -1,17 +1,11 @@
 Last Update Time: 
-Mon Jul 24 14:04:05 UTC 2023
+Mon Jul 24 14:24:45 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Persons attempting to find a motive in  \
-| this narrative will be prosecuted;      |
-| persons attempting to find a moral in   |
-| it will be banished; persons attempting |
-| to find a plot in it will be shot. By   |
-| Order of the Author                     |
-|                                         |
-| -- Mark Twain, "The Adventures of       |
-\ Huckleberry Finn"                       /
+/ You will stop at nothing to reach your  \
+| objective, but only because your brakes |
+\ are defective.                          /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
