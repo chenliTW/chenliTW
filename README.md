@@ -1,19 +1,12 @@
 Last Update Time: 
-Mon Jul 24 05:43:05 UTC 2023
+Mon Jul 24 05:54:48 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ For there are moments when one can     \
-| neither think nor feel. And if one can |
-| neither think nor feel, she thought,   |
-| where is one?                          |
+/ Writing is turning one's worst moments \
+| into money.                            |
 |                                        |
-| -- Virginia Woolf, "To the Lighthouse" |
-|                                        |
-| [Quoted in "VMS Internals and Data     |
-| Structures", V4.4, when                |
-|                                        |
-\ referring to powerfail recovery.]      /
+\ -- J.P. Donleavy                       /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
