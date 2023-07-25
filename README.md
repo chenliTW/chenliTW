@@ -1,15 +1,11 @@
 Last Update Time: 
-Tue Jul 25 09:12:41 UTC 2023
+Tue Jul 25 09:25:32 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ The man who sets out to carry a cat by \
-| its tail learns something that will    |
-| always be useful and which never will  |
-| grow dim or doubtful.                  |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _______________________________________
+/ You seek to shield those you love and \
+\ you like the role of the provider.    /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
