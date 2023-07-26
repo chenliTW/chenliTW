@@ -1,14 +1,12 @@
 Last Update Time: 
-Wed Jul 26 03:28:11 UTC 2023
+Wed Jul 26 03:39:58 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _______________________________________
-/ Perilous to all of us are the devices \
-| of an art deeper than we ourselves    |
-| possess.                              |
+/ Q: What do monsters eat? A: Things.   \
 |                                       |
-| -- Gandalf the Grey [J.R.R. Tolkien,  |
-\ "Lord of the Rings"]                  /
+| Q: What do monsters drink? A: Coke.   |
+\ (Because Things go better with Coke.) /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
