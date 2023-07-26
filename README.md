@@ -1,18 +1,13 @@
 Last Update Time: 
-Wed Jul 26 08:15:15 UTC 2023
+Wed Jul 26 08:29:28 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How many surrealists does it take to \
-| change a light bulb? A: Two, one to     |
-| hold the giraffe, and the other to fill |
-| the bathtub                             |
-|                                         |
-| with brightly colored machine tools.    |
-|                                         |
-| [Surrealist jokes just aren't my cup of |
-\ fur. Ed.]                               /
- -----------------------------------------
+ ________________________________________
+/ Rebellion lay in his way, and he found \
+| it.                                    |
+|                                        |
+\ -- William Shakespeare, "Henry IV"     /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
