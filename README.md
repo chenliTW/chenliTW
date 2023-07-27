@@ -1,12 +1,13 @@
 Last Update Time: 
-Thu Jul 27 21:56:08 UTC 2023
+Thu Jul 27 22:15:31 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ A light wife doth make a heavy husband. \
+/ Q: What's the difference between a dead \
+| dog in the road and a dead              |
 |                                         |
-| -- Wm. Shakespeare, "The Merchant of    |
-\ Venice"                                 /
+| lawyer in the road? A: There are skid   |
+\ marks in front of the dog.              /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
