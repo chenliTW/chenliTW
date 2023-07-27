@@ -1,12 +1,15 @@
 Last Update Time: 
-Thu Jul 27 03:16:29 UTC 2023
+Thu Jul 27 03:28:27 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: Why did the programmer call his    \
-| mother long distance? A: Because that |
-\ was her name.                         /
- ---------------------------------------
+ ________________________________________
+/ The man who sets out to carry a cat by \
+| its tail learns something that will    |
+| always be useful and which never will  |
+| grow dim or doubtful.                  |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
