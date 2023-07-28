@@ -1,22 +1,11 @@
 Last Update Time: 
-Fri Jul 28 20:35:09 UTC 2023
+Fri Jul 28 20:47:07 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ In the plot, people came to the land;   \
-| the land loved them; they worked and    |
-| struggled and had lots of children.     |
-| There was a Frenchman who talked funny  |
-| and a greenhorn from England who was a  |
-| fancy-pants but when it came to the     |
-| crunch he was all courage. Those novels |
-| would make you retch.                   |
-|                                         |
-| -- Canadian novelist Robertson Davies,  |
-| on the generic Canadian                 |
-|                                         |
-\ novel.                                  /
- -----------------------------------------
+ ________________________________________
+/ Q: What's buried in Grant's tomb? A: A \
+\ corpse.                                /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
