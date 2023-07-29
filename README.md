@@ -1,16 +1,13 @@
 Last Update Time: 
-Sat Jul 29 11:28:46 UTC 2023
+Sat Jul 29 11:40:47 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Training is everything. The peach was \
-| once a bitter almond; cauliflower is  |
-| nothing but cabbage with a college    |
-| education.                            |
-|                                       |
-| -- Mark Twain, "Pudd'nhead Wilson's   |
-\ Calendar"                             /
- ---------------------------------------
+ ______________________________________
+/ If two people love each other, there \
+| can be no happy end to it.           |
+|                                      |
+\ -- Ernest Hemingway                  /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
