@@ -1,53 +1,50 @@
 Last Update Time: 
-Sun Jul 30 14:00:30 UTC 2023
+Sun Jul 30 14:18:20 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The Least Perceptive Literary Critic    \
+/ We were young and our happiness dazzled \
+| us with its strength. But there was     |
+| also a terrible betrayal that lay       |
+| within me like a Merle Haggard song at  |
+| a French restaurant. [...]              |
 |                                         |
-| The most important critic in our field  |
-| of study is Lord Halifax. A most        |
-| individual judge of poetry, he once     |
-| invited Alexander Pope round to give a  |
-| public reading of his latest poem.      |
+| I could not tell the girl about the     |
+| woman of the tollway, of her milk white |
+| BMW and her Jordache smile. There had   |
+| been a fight. I had punched her         |
+| boyfriend, who fought the mechanical    |
+| bulls. Everyone told him, "You ride the |
+| bull, senor. You do not fight it." But  |
+| he was lean and tough like a bad        |
+| rib-eye and he fought the bull. And     |
+| then he fought me. And when we finished |
+| there were no winners, just men doing   |
+| what men must do. [...]                 |
 |                                         |
-| Pope, the leading poet of his day, was  |
-| greatly surprised when Lord Halifax     |
-| stopped him four or five times and      |
-| said, "I beg your pardon, Mr. Pope, but |
-| there is something in that passage that |
-| does not quite please me."              |
+| "Stop the car," the girl said.          |
 |                                         |
-| Pope was rendered speechless, as this   |
-| fine critic suggested sizeable and      |
-| unwise emendations to his latest        |
-| masterpiece. "Be so good as to mark the |
-| place and consider at your leisure. I'm |
-| sure you can give it a better turn."    |
+| There was a look of terrible sadness in |
+| her eyes. She knew about the woman of   |
+| the tollway. I knew not how. I started  |
+| to speak, but she raised an arm and     |
+| spoke with a quiet and peace I will     |
+| never forget.                           |
 |                                         |
-| After the reading, a good friend of     |
-| Lord Halifax, a certain Dr. Garth, took |
-| the stunned Pope to one side. "There is |
-| no need to touch the lines," he said.   |
-| "All you need do is leave them just as  |
-| they are, call on Lord Halifax two or   |
-| three months hence, thank him for his   |
-| kind observation on those passages, and |
-| then read them to him as altered. I     |
-| have known him much longer than you     |
-| have, and will be answerable for the    |
-| event."                                 |
+| "I do not ask for whom's the tollway    |
+| belle," she said, "the tollway belle's  |
+| for thee."                              |
 |                                         |
-| Pope took his advice, called on Lord    |
-| Halifax and read the poem exactly as it |
-| was before. His unique critical         |
-| faculties had lost none of their edge.  |
-| "Ay", he commented, "now they are       |
-| perfectly right. Nothing can be         |
-| better."                                |
+| The next morning our youth was a        |
+| memory, and our happiness was a lie.    |
+| Life is like a bad margarita with good  |
+| tequila, I thought as I poured whiskey  |
+| onto my granola and faced a new day.    |
 |                                         |
-| -- Stephen Pile, "The Book of Heroic    |
-\ Failures"                               /
+| -- Peter Applebome, International       |
+| Imitation Hemingway                     |
+|                                         |
+\ Competition                             /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
