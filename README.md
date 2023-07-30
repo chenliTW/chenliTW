@@ -1,10 +1,10 @@
 Last Update Time: 
-Sun Jul 30 11:34:03 UTC 2023
+Sun Jul 30 11:46:01 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Your reasoning powers are good, and you \
-\ are a fairly good planner.              /
+/ You worry too much about your job. Stop \
+\ it. You are not paid enough to worry.   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
