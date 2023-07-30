@@ -1,16 +1,12 @@
 Last Update Time: 
-Sun Jul 30 10:41:51 UTC 2023
+Sun Jul 30 10:53:53 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Training is everything. The peach was \
-| once a bitter almond; cauliflower is  |
-| nothing but cabbage with a college    |
-| education.                            |
-|                                       |
-| -- Mark Twain, "Pudd'nhead Wilson's   |
-\ Calendar"                             /
- ---------------------------------------
+ ______________________________________
+/ Q: How did you get into artificial   \
+| intelligence? A: Seemed logical -- I |
+\ didn't have any real intelligence.   /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
