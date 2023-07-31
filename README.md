@@ -1,11 +1,11 @@
 Last Update Time: 
-Mon Jul 31 13:01:46 UTC 2023
+Mon Jul 31 13:25:32 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You seek to shield those you love and \
-\ you like the role of the provider.    /
- ---------------------------------------
+ ________________________________________
+/ You prefer the company of the opposite \
+\ sex, but are well liked by your own.   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
