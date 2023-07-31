@@ -1,16 +1,12 @@
 Last Update Time: 
-Mon Jul 31 03:59:21 UTC 2023
+Mon Jul 31 04:22:41 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ For years a secret shame destroyed my \
-| peace-- I'd not read Eliot, Auden or  |
-| MacNiece. But now I think a thought   |
-| that brings me hope: Neither had      |
-| Chaucer, Shakespeare, Milton, Pope.   |
-|                                       |
-\ -- Justin Richardson.                 /
- ---------------------------------------
+ ______________________________________
+/ Your reasoning is excellent -- it's  \
+| only your basic assumptions that are |
+\ wrong.                               /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
