@@ -1,16 +1,12 @@
 Last Update Time: 
-Wed Aug  2 02:47:15 UTC 2023
+Wed Aug  2 02:59:17 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ All I know is what the words know, and  \
-| dead things, and that makes a handsome  |
-| little sum, with a beginning and a      |
-| middle and an end, as in the well-built |
-| phrase and the long sonata of the dead. |
-|                                         |
-\ -- Samuel Beckett                       /
- -----------------------------------------
+ ______________________________________
+/ Q: What happens when four WASPs find \
+| themselves in the same room? A: A    |
+\ dinner party.                        /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
