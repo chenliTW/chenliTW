@@ -1,13 +1,10 @@
 Last Update Time: 
-Thu Aug  3 19:56:36 UTC 2023
+Thu Aug  3 20:17:38 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ The very ink with which all history is \
-| written is merely fluid prejudice.     |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _________________
+< Stay the curse. >
+ -----------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
