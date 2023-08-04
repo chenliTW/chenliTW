@@ -1,14 +1,10 @@
 Last Update Time: 
-Fri Aug  4 15:23:21 UTC 2023
+Fri Aug  4 15:35:22 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ He jests at scars who never felt a     \
-| wound.                                 |
-|                                        |
-| -- Shakespeare, "Romeo and Juliet, II. |
-\ 2"                                     /
- ----------------------------------------
+ __________________________________
+< Someone is speaking well of you. >
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
