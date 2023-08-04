@@ -1,14 +1,13 @@
 Last Update Time: 
-Fri Aug  4 05:41:12 UTC 2023
+Fri Aug  4 05:53:08 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Zounds! I was never so bethumped with   \
-| words since I first called my brother's |
-| father dad.                             |
-|                                         |
-\ -- William Shakespeare, "Kind John"     /
- -----------------------------------------
+ ____________________________________
+/ Suspicion always haunts the guilty \
+| mind.                              |
+|                                    |
+\ -- Wm. Shakespeare                 /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
