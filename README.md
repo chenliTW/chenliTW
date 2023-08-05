@@ -1,14 +1,14 @@
 Last Update Time: 
-Sat Aug  5 06:45:47 UTC 2023
+Sat Aug  5 06:57:13 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why haven't you graduated yet? A:   \
-| Well, Dad, I could have finished years |
-| ago, but I wanted                      |
-|                                        |
-\ my dissertation to rhyme.              /
- ----------------------------------------
+ _______________________________________
+/ Few things are harder to put up with  \
+| than the annoyance of a good example. |
+|                                       |
+| -- "Mark Twain, Pudd'nhead Wilson's   |
+\ Calendar"                             /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
