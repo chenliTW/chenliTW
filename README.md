@@ -1,14 +1,17 @@
 Last Update Time: 
-Sat Aug  5 06:57:13 UTC 2023
+Sat Aug  5 07:14:47 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Few things are harder to put up with  \
-| than the annoyance of a good example. |
-|                                       |
-| -- "Mark Twain, Pudd'nhead Wilson's   |
-\ Calendar"                             /
- ---------------------------------------
+ _________________________________________
+/ Q: How do you shoot a blue elephant? A: \
+| With a blue-elephant gun.               |
+|                                         |
+| Q: How do you shoot a pink elephant? A: |
+| Twist its trunk until it turns blue,    |
+| then shoot it with                      |
+|                                         |
+\ a blue-elephant gun.                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
