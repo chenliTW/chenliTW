@@ -1,12 +1,13 @@
 Last Update Time: 
-Sun Aug  6 19:37:30 UTC 2023
+Sun Aug  6 19:49:30 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Clothes make the man. Naked people have \
-| little or no influence on society.      |
+/ Q: How does a hacker fix a function     \
+| which                                   |
 |                                         |
-\ -- Mark Twain                           /
+| doesn't work for all of the elements in |
+\ its domain? A: He changes the domain.   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
