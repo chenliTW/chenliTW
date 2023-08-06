@@ -1,12 +1,12 @@
 Last Update Time: 
-Sun Aug  6 13:17:25 UTC 2023
+Sun Aug  6 13:29:21 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________
-/ I'll burn my books.    \
-|                        |
-\ -- Christopher Marlowe /
- ------------------------
+ _________________________________________
+/ Q: What's the difference between a Mac  \
+| and an Etch-a-Sketch? A: You don't have |
+\ to shake the Mac to clear the screen.   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
