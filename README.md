@@ -1,24 +1,23 @@
 Last Update Time: 
-Mon Aug  7 01:49:49 UTC 2023
+Mon Aug  7 02:24:35 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How many hardware engineers does it \
-| take to change a light bulb? A: None.  |
-| We'll fix it in software.              |
-|                                        |
-| Q: How many system programmers does it |
-| take to change a light bulb? A: None.  |
-| The application can work around it.    |
-|                                        |
-| Q: How many software engineers does it |
-| take to change a light bulb? A: None.  |
-| We'll document it in the manual.       |
-|                                        |
-| Q: How many tech writers does it take  |
-| to change a light bulb? A: None. The   |
-\ user can figure it out.                /
- ----------------------------------------
+ _________________________________________
+/ Mind! I don't mean to say that I know,  \
+| of my own knowledge, what there is      |
+| particularly dead about a door-nail. I  |
+| might have been inclined, myself, to    |
+| regard a coffin-nail as the deadest     |
+| piece of ironmongery in the trade. But  |
+| the wisdom of our ancestors is in the   |
+| simile; and my unhallowed hands shall   |
+| not disturb it, or the Country's done   |
+| for. You will therefore permit me to    |
+| repeat, emphatically, that Marley was   |
+| as dead as a door-nail.                 |
+|                                         |
+\ -- Charles Dickens, "A Christmas Carol" /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
