@@ -1,12 +1,15 @@
 Last Update Time: 
-Wed Aug  9 03:35:28 UTC 2023
+Wed Aug  9 03:47:29 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________
-/ question = ( to ) ? be : ! be; \
-|                                |
-\ -- Wm. Shakespeare             /
- --------------------------------
+ _______________________________________
+/ The difference between the right word \
+| and the almost right word is the      |
+| difference between lightning and the  |
+| lightning bug.                        |
+|                                       |
+\ -- Mark Twain                         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
