@@ -1,12 +1,12 @@
 Last Update Time: 
-Wed Aug  9 03:23:16 UTC 2023
+Wed Aug  9 03:35:28 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: What's tiny and yellow and very,   \
-| very, dangerous? A: A canary with the |
-\ super-user password.                  /
- ---------------------------------------
+ ________________________________
+/ question = ( to ) ? be : ! be; \
+|                                |
+\ -- Wm. Shakespeare             /
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
