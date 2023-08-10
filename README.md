@@ -1,14 +1,12 @@
 Last Update Time: 
-Thu Aug 10 03:54:05 UTC 2023
+Thu Aug 10 04:16:43 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ "Elves and Dragons!" I says to him.   \
-| "Cabbages and potatoes are better for |
-| you and me."                          |
-|                                       |
-\ -- J. R. R. Tolkien                   /
- ---------------------------------------
+ ______________________________________
+/ You're definitely on their list. The \
+| question to ask next is what list it |
+\ is.                                  /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
