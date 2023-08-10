@@ -1,11 +1,15 @@
 Last Update Time: 
-Thu Aug 10 17:59:21 UTC 2023
+Thu Aug 10 18:23:24 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ Q: Who cuts the grass on Walton's \
-\ Mountain? A: Lawn Boy.            /
- -----------------------------------
+ _________________________________________
+/ Q: Why is it that the more accuracy you \
+| demand from an interpolation            |
+|                                         |
+| function, the more expensive it becomes |
+| to compute? A: That's the Law of Spline |
+\ Demand.                                 /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
