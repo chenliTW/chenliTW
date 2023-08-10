@@ -1,13 +1,12 @@
 Last Update Time: 
-Thu Aug 10 21:25:42 UTC 2023
+Thu Aug 10 21:37:35 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Reader, suppose you were an idiot. And \
-| suppose you were a member of Congress. |
-| But I repeat myself.                   |
+/ Writing is turning one's worst moments \
+| into money.                            |
 |                                        |
-\ -- Mark Twain                          /
+\ -- J.P. Donleavy                       /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
