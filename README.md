@@ -1,12 +1,11 @@
 Last Update Time: 
-Thu Aug 10 11:16:34 UTC 2023
+Thu Aug 10 11:28:40 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________
-/ question = ( to ) ? be : ! be; \
-|                                |
-\ -- Wm. Shakespeare             /
- --------------------------------
+ _______________________________________
+/ You have an ability to sense and know \
+\ higher truth.                         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
