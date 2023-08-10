@@ -1,18 +1,15 @@
 Last Update Time: 
-Thu Aug 10 22:45:20 UTC 2023
+Thu Aug 10 22:57:11 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________
-/ To be or not to be.            \
-|                                |
-| -- Shakespeare To do is to be. |
-|                                |
-| -- Nietzsche To be is to do.   |
-|                                |
-| -- Sartre Do be do be do.      |
-|                                |
-\ -- Sinatra                     /
- --------------------------------
+ _______________________________________
+/ Perilous to all of us are the devices \
+| of an art deeper than we ourselves    |
+| possess.                              |
+|                                       |
+| -- Gandalf the Grey [J.R.R. Tolkien,  |
+\ "Lord of the Rings"]                  /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
