@@ -1,11 +1,18 @@
 Last Update Time: 
-Fri Aug 11 07:40:10 UTC 2023
+Fri Aug 11 07:51:53 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Don't worry so loud, your roommate \
-\ can't think.                       /
- ------------------------------------
+ _________________________________________
+/ I got a hint of things to come when I   \
+| overheard my boss lamenting, 'The books |
+| are done and we still don't have an     |
+| author! I must sign someone today!      |
+|                                         |
+| -- Tamim Ansary, "Edutopia Magazine,    |
+| Issue 2, November 2004"                 |
+|                                         |
+\ on the topic of school textbooks        /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
