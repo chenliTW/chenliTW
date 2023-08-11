@@ -1,14 +1,11 @@
 Last Update Time: 
-Fri Aug 11 16:29:48 UTC 2023
+Fri Aug 11 16:41:38 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why is Christmas just like a day at \
-| the office? A: You do all of the work  |
-| and the fat guy in the suit            |
-|                                        |
-\ gets all the credit.                   /
- ----------------------------------------
+ ______________________________________
+/ You are only young once, but you can \
+\ stay immature indefinitely.          /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
