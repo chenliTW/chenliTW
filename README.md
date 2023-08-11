@@ -1,13 +1,11 @@
 Last Update Time: 
-Fri Aug 11 06:47:01 UTC 2023
+Fri Aug 11 06:58:44 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Let him choose out of my files, his \
-| projects to accomplish.             |
-|                                     |
-\ -- Shakespeare, "Coriolanus"        /
- -------------------------------------
+ _______________________________________
+/ Communicate! It can't make things any \
+\ worse.                                /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
