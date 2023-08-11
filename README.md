@@ -1,15 +1,12 @@
 Last Update Time: 
-Fri Aug 11 15:53:08 UTC 2023
+Fri Aug 11 16:13:27 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Habit is habit, and not to be flung out \
-| of the window by any man, but coaxed    |
-| down-stairs a step at a time.           |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar                                /
- -----------------------------------------
+ ________________________________________
+/ Q: Why did the lone ranger kill Tonto? \
+| A: He found out what "kimosabe" really |
+\ means.                                 /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
