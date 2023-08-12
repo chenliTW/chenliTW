@@ -1,14 +1,13 @@
 Last Update Time: 
-Sat Aug 12 17:58:09 UTC 2023
+Sat Aug 12 18:20:13 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why should you always serve a       \
-| Southern Carolina football man         |
-|                                        |
-| soup in a plate? A: 'Cause if you give |
-\ him a bowl, he'll throw it away.       /
- ----------------------------------------
+ ____________________________________
+/ Suspicion always haunts the guilty \
+| mind.                              |
+|                                    |
+\ -- Wm. Shakespeare                 /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
