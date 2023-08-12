@@ -1,12 +1,10 @@
 Last Update Time: 
-Sat Aug 12 15:31:52 UTC 2023
+Sat Aug 12 15:44:02 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: How did you get into artificial   \
-| intelligence? A: Seemed logical -- I |
-\ didn't have any real intelligence.   /
- --------------------------------------
+ ____________________
+< Beware of Bigfoot! >
+ --------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
