@@ -1,16 +1,22 @@
 Last Update Time: 
-Sun Aug 13 19:11:45 UTC 2023
+Sun Aug 13 19:23:15 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ For years a secret shame destroyed my \
-| peace-- I'd not read Eliot, Auden or  |
-| MacNiece. But now I think a thought   |
-| that brings me hope: Neither had      |
-| Chaucer, Shakespeare, Milton, Pope.   |
-|                                       |
-\ -- Justin Richardson.                 /
- ---------------------------------------
+ _________________________________________
+/ There are three infallible ways of      \
+| pleasing an author, and the three form  |
+| a rising scale of compliment: 1, to     |
+| tell him you have read one of his       |
+| books; 2, to tell him you have read all |
+| of his books; 3, to ask him to let you  |
+| read the manuscript of his forthcoming  |
+| book. No. 1 admits you to his respect;  |
+| No. 2 admits you to his admiration; No. |
+| 3 carries you clear into his heart.     |
+|                                         |
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
