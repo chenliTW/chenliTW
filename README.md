@@ -1,18 +1,16 @@
 Last Update Time: 
-Mon Aug 14 06:52:54 UTC 2023
+Mon Aug 14 07:10:53 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ The only people for me are the mad ones \
-| -- the ones who are mad to live, mad to |
-| talk, mad to be saved, desirous of      |
-| everything at the same time, the ones   |
-| who never yawn or say a commonplace     |
-| thing, but burn, burn, burn like        |
-| fabulous yellow Roman candles.          |
-|                                         |
-\ -- Jack Kerouac, "On the Road"          /
- -----------------------------------------
+ ________________________________________
+/ All say, "How hard it is that we have  \
+| to die"--a strange complaint to come   |
+| from the mouths of people who have had |
+| to live.                               |
+|                                        |
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
