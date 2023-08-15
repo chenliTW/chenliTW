@@ -1,12 +1,14 @@
 Last Update Time: 
-Tue Aug 15 17:59:35 UTC 2023
+Tue Aug 15 18:22:21 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Talkers are no good doers.         \
-|                                    |
-\ -- William Shakespeare, "Henry VI" /
- ------------------------------------
+ _______________________________________
+/ "Elves and Dragons!" I says to him.   \
+| "Cabbages and potatoes are better for |
+| you and me."                          |
+|                                       |
+\ -- J. R. R. Tolkien                   /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
