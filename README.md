@@ -1,10 +1,22 @@
 Last Update Time: 
-Wed Aug 16 04:15:35 UTC 2023
+Wed Aug 16 04:29:05 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _______________________________________
-/ You never hesitate to tackle the most \
-\ difficult problems.                   /
+/ Delay not, Caesar. Read it instantly. \
+|                                       |
+| -- Shakespeare, "Julius Caesar" 3,1   |
+|                                       |
+| Here is a letter, read it at your     |
+| leisure.                              |
+|                                       |
+| -- Shakespeare, "Merchant of Venice"  |
+| 5,1                                   |
+|                                       |
+| [Quoted in "VMS Internals and Data    |
+| Structures", V4.4, when               |
+|                                       |
+\ referring to I/O system services.]    /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
