@@ -1,11 +1,14 @@
 Last Update Time: 
-Wed Aug 16 16:49:55 UTC 2023
+Wed Aug 16 17:05:47 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why was Stonehenge abandoned? A: It \
-\ wasn't IBM compatible.                 /
- ----------------------------------------
+ _________________________________________
+/ Soap and education are not as sudden as \
+| a massacre, but they are more deadly in |
+| the long run.                           |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
