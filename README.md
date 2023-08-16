@@ -1,20 +1,24 @@
 Last Update Time: 
-Wed Aug 16 05:37:34 UTC 2023
+Wed Aug 16 05:49:19 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/  The Priest's grey nimbus in a niche    \
-| where he dressed discreetly. I will not |
-| sleep here tonight. Home also I cannot  |
-| go.                                     |
+/ The bone-chilling scream split the warm \
+| summer night in two, the first half     |
+| being before the scream when it was     |
+| fairly balmy and calm and pleasant, the |
+| second half still balmy and quite       |
+| pleasant for those who hadn't heard the |
+| scream at all, but not calm or balmy or |
+| even very nice for those who did hear   |
+| the scream, discounting the little      |
+| period of time during the actual scream |
+| itself when your ears might have been   |
+| hearing it but your brain wasn't        |
+| reacting yet to let you know.           |
 |                                         |
-| A voice, sweetened and sustained,       |
-| called to him from the sea. Turning the |
-| curve he waved his hand. A sleek brown  |
-| head, a seal's, far out on the water,   |
-| round. Usurper.                         |
-|                                         |
-\ -- James Joyce, "Ulysses"               /
+| -- Winning sentence, 1986 Bulwer-Lytton |
+\ bad fiction contest.                    /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
