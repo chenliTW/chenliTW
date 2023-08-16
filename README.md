@@ -1,14 +1,13 @@
 Last Update Time: 
-Wed Aug 16 16:23:59 UTC 2023
+Wed Aug 16 16:38:08 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ A classic is something that everyone   \
-| wants to have read and nobody wants to |
-| read.                                  |
+/ No group of professionals meets except \
+| to conspire against the public at      |
+| large.                                 |
 |                                        |
-| -- Mark Twain, "The Disappearance of   |
-\ Literature"                            /
+\ -- Mark Twain                          /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
