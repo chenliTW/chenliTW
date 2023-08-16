@@ -1,17 +1,11 @@
 Last Update Time: 
-Wed Aug 16 11:25:09 UTC 2023
+Wed Aug 16 11:36:55 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ In India, "cold weather" is merely a    \
-| conventional phrase and has come into   |
-| use through the necessity of having     |
-| some way to distinguish between weather |
-| which will melt a brass door-knob and   |
-| weather which will only make it mushy.  |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ _______________________________________
+/ You'll be called to a post requiring  \
+\ ability in handling groups of people. /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
