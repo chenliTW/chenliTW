@@ -1,13 +1,10 @@
 Last Update Time: 
-Wed Aug 16 16:38:08 UTC 2023
+Wed Aug 16 16:49:55 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ No group of professionals meets except \
-| to conspire against the public at      |
-| large.                                 |
-|                                        |
-\ -- Mark Twain                          /
+/ Q: Why was Stonehenge abandoned? A: It \
+\ wasn't IBM compatible.                 /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
