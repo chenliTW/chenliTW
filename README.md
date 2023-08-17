@@ -1,15 +1,11 @@
 Last Update Time: 
-Thu Aug 17 14:53:59 UTC 2023
+Thu Aug 17 15:12:27 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ So so is good, very good, very        \
-| excellent good: and yet it is not; it |
-| is but so so.                         |
-|                                       |
-| -- William Shakespeare, "As You Like  |
-\ It"                                   /
- ---------------------------------------
+ _____________________________________
+/ You're a card which will have to be \
+\ dealt with.                         /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
