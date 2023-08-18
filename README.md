@@ -1,12 +1,10 @@
 Last Update Time: 
-Fri Aug 18 22:24:07 UTC 2023
+Fri Aug 18 22:35:56 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________
-/ I'll burn my books.    \
-|                        |
-\ -- Christopher Marlowe /
- ------------------------
+ ___________________________________
+< You will contract a rare disease. >
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
