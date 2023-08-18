@@ -1,11 +1,15 @@
 Last Update Time: 
-Fri Aug 18 21:50:56 UTC 2023
+Fri Aug 18 22:07:16 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ You will obey or molten silver will be \
-\ poured into your ears.                 /
- ----------------------------------------
+ ______________________________________
+/ F.S. Fitzgerald to Hemingway:        \
+|                                      |
+| "Ernest, the rich are different from |
+| us." Hemingway:                      |
+|                                      |
+\ "Yes. They have more money."         /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
