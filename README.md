@@ -1,10 +1,9 @@
 Last Update Time: 
-Sun Aug 20 20:17:02 UTC 2023
+Sun Aug 20 20:28:43 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ You will be awarded a medal for        \
-\ disregarding safety in saving someone. /
+< You will be misunderstood by everyone. >
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
