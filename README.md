@@ -1,17 +1,17 @@
 Last Update Time: 
-Mon Aug 21 21:10:55 UTC 2023
+Mon Aug 21 21:22:39 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Behold, the fool saith, "Put not all    \
-| thine eggs in the one basket"--which is |
-| but a manner of saying, "Scatter your   |
-| money and your attention;" but the wise |
-| man saith, "Put all your eggs in the    |
-| one basket and--WATCH THAT BASKET."     |
+/ I got a hint of things to come when I   \
+| overheard my boss lamenting, 'The books |
+| are done and we still don't have an     |
+| author! I must sign someone today!      |
 |                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
+| -- Tamim Ansary, "Edutopia Magazine,    |
+| Issue 2, November 2004"                 |
+|                                         |
+\ on the topic of school textbooks        /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
