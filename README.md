@@ -1,20 +1,17 @@
 Last Update Time: 
-Mon Aug 21 20:53:53 UTC 2023
+Mon Aug 21 21:10:55 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/  The Priest's grey nimbus in a niche    \
-| where he dressed discreetly. I will not |
-| sleep here tonight. Home also I cannot  |
-| go.                                     |
+/ Behold, the fool saith, "Put not all    \
+| thine eggs in the one basket"--which is |
+| but a manner of saying, "Scatter your   |
+| money and your attention;" but the wise |
+| man saith, "Put all your eggs in the    |
+| one basket and--WATCH THAT BASKET."     |
 |                                         |
-| A voice, sweetened and sustained,       |
-| called to him from the sea. Turning the |
-| curve he waved his hand. A sleek brown  |
-| head, a seal's, far out on the water,   |
-| round. Usurper.                         |
-|                                         |
-\ -- James Joyce, "Ulysses"               /
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
