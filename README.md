@@ -1,20 +1,12 @@
 Last Update Time: 
-Mon Aug 21 04:55:55 UTC 2023
+Mon Aug 21 05:15:09 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How does the Polish Constitution    \
-| differ from the American? A: Under the |
-| Polish Constitution citizens are       |
-| guaranteed freedom of                  |
-|                                        |
-| speech, but under the United States    |
-| constitution they are                  |
-|                                        |
-| guaranteed freedom after speech.       |
-|                                        |
-\ -- being told in Poland, 1987          /
- ----------------------------------------
+ ____________________________________
+/ You tread upon my patience.        \
+|                                    |
+\ -- William Shakespeare, "Henry IV" /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
