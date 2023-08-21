@@ -1,21 +1,20 @@
 Last Update Time: 
-Mon Aug 21 04:44:13 UTC 2023
+Mon Aug 21 04:55:55 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How many existentialists does it     \
-| take to screw in a light bulb? A: Two.  |
-| One to screw it in and one to observe   |
-| how the light bulb                      |
-|                                         |
-| itself symbolizes a single incandescent |
-| beacon of subjective                    |
-|                                         |
-| reality in a netherworld of endless     |
-| absurdity reaching out toward a         |
-|                                         |
-\ maudlin cosmos of nothingness.          /
- -----------------------------------------
+ ________________________________________
+/ Q: How does the Polish Constitution    \
+| differ from the American? A: Under the |
+| Polish Constitution citizens are       |
+| guaranteed freedom of                  |
+|                                        |
+| speech, but under the United States    |
+| constitution they are                  |
+|                                        |
+| guaranteed freedom after speech.       |
+|                                        |
+\ -- being told in Poland, 1987          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
