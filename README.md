@@ -1,14 +1,20 @@
 Last Update Time: 
-Wed Aug 23 10:11:54 UTC 2023
+Wed Aug 23 10:28:03 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why do the police always travel in  \
-| threes? A: One to do the reading, one  |
-| to do the writing, and the other keeps |
-|                                        |
-\ an eye on the two intellectuals.       /
- ----------------------------------------
+ _________________________________________
+/ The notes blatted skyward as they rose  \
+| over the Canada geese, feathered rumps  |
+| mooning the day, webbed appendages      |
+| frantically pedaling unseen bicycles in |
+| their search for sustenance, driven by  |
+| cruel Nature's maxim, 'Ya wanna eat, ya |
+| gotta work,' and at last I knew         |
+| Pittsburgh.                             |
+|                                         |
+| -- Winning sentence, 1987 Bulwer-Lytton |
+\ bad fiction contest.                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
