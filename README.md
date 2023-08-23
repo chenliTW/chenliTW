@@ -1,12 +1,15 @@
 Last Update Time: 
-Wed Aug 23 03:59:51 UTC 2023
+Wed Aug 23 04:21:36 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: How many Martians does it take to \
-| screw in a light bulb? A: One and a  |
-\ half.                                /
- --------------------------------------
+ ________________________________________
+/ A classic is something that everyone   \
+| wants to have read and nobody wants to |
+| read.                                  |
+|                                        |
+| -- Mark Twain, "The Disappearance of   |
+\ Literature"                            /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
