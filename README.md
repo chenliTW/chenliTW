@@ -1,12 +1,12 @@
 Last Update Time: 
-Wed Aug 23 08:33:46 UTC 2023
+Wed Aug 23 08:45:30 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Better hope the life-inspector doesn't  \
-| come around while you have your life in |
-\ such a mess.                            /
- -----------------------------------------
+ ______________________________________
+/ Q: How can you tell when a Burroughs \
+| salesman is lying? A: When his lips  |
+\ move.                                /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
