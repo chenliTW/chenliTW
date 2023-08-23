@@ -1,13 +1,13 @@
 Last Update Time: 
-Wed Aug 23 19:14:42 UTC 2023
+Wed Aug 23 19:26:32 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: Why should you always serve a       \
-| Southern Carolina football man         |
+/ Q: Why haven't you graduated yet? A:   \
+| Well, Dad, I could have finished years |
+| ago, but I wanted                      |
 |                                        |
-| soup in a plate? A: 'Cause if you give |
-\ him a bowl, he'll throw it away.       /
+\ my dissertation to rhyme.              /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
