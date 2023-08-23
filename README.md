@@ -1,14 +1,13 @@
 Last Update Time: 
-Wed Aug 23 11:42:57 UTC 2023
+Wed Aug 23 11:54:40 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ The lunatic, the lover, and the poet, \
-| Are of imagination all compact...     |
-|                                       |
-| -- Wm. Shakespeare, "A Midsummer      |
-\ Night's Dream"                        /
- ---------------------------------------
+ ________________________________________
+/ There's small choice in rotten apples. \
+|                                        |
+| -- William Shakespeare, "The Taming of |
+\ the Shrew"                             /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
