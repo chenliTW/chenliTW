@@ -1,14 +1,11 @@
 Last Update Time: 
-Wed Aug 23 01:54:50 UTC 2023
+Wed Aug 23 02:18:30 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ It is a wise father that knows his own \
-| child.                                 |
-|                                        |
-| -- William Shakespeare, "The Merchant  |
-\ of Venice"                             /
- ----------------------------------------
+ ______________________________________
+/ You're not my type. For that matter, \
+\ you're not even my species!!!        /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
