@@ -1,14 +1,14 @@
 Last Update Time: 
-Thu Aug 24 15:11:55 UTC 2023
+Thu Aug 24 15:24:49 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Q: What does a WASP Mom make for   \
-| dinner? A: A crisp salad, a hearty |
-| soup, a lovely entree, followed by |
-|                                    |
-\ a delicious dessert.               /
- ------------------------------------
+ ________________________________________
+/ No group of professionals meets except \
+| to conspire against the public at      |
+| large.                                 |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
