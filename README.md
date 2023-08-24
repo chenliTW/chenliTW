@@ -1,10 +1,12 @@
 Last Update Time: 
-Thu Aug 24 13:46:19 UTC 2023
+Thu Aug 24 13:58:06 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________
-< Avoid reality at all costs. >
- -----------------------------
+ _______________________________________
+/ Q: What do you have when you have a   \
+| lawyer buried up to his neck in sand? |
+\ A: Not enough sand.                   /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
