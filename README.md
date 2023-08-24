@@ -1,12 +1,10 @@
 Last Update Time: 
-Thu Aug 24 13:34:48 UTC 2023
+Thu Aug 24 13:46:19 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________
-/ Big book, big bore. \
-|                     |
-\ -- Callimachus      /
- ---------------------
+ _____________________________
+< Avoid reality at all costs. >
+ -----------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
