@@ -1,15 +1,14 @@
 Last Update Time: 
-Thu Aug 24 19:25:43 UTC 2023
+Thu Aug 24 19:37:35 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ There is always one thing to remember: \
-| writers are always selling somebody    |
-| out.                                   |
-|                                        |
-| -- Joan Didion, "Slouching Towards     |
-\ Bethlehem"                             /
- ----------------------------------------
+ _________________________________________
+/ If one cannot enjoy reading a book over \
+| and over again, there is no use in      |
+| reading it at all.                      |
+|                                         |
+\ -- Oscar Wilde                          /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
