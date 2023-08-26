@@ -1,22 +1,11 @@
 Last Update Time: 
-Sat Aug 26 11:27:10 UTC 2023
+Sat Aug 26 11:38:57 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/  "You have heard me speak of Professor  \
-| Moriarty?"                              |
-|                                         |
-| "The famous scientific criminal, as     |
-| famous among crooks as --"              |
-|                                         |
-| "My blushes, Watson," Holmes murmured,  |
-| in a deprecating voice.                 |
-|                                         |
-| "I was about to say 'as he is unknown   |
-| to the public.'"                        |
-|                                         |
-\ -- A. Conan Doyle, "The Valley of Fear" /
- -----------------------------------------
+ ____________________________________
+/ Q: Do you know what the death rate \
+\ around here is? A: One per person. /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
