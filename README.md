@@ -1,11 +1,11 @@
 Last Update Time: 
-Sat Aug 26 14:21:46 UTC 2023
+Sat Aug 26 14:33:28 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You will give someone a piece of your \
-\ mind, which you can ill afford.       /
- ---------------------------------------
+ ______________________________________
+/ Abandon the search for Truth; settle \
+\ for a good fantasy.                  /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
