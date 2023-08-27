@@ -1,36 +1,22 @@
 Last Update Time: 
-Sun Aug 27 18:20:23 UTC 2023
+Sun Aug 27 18:32:27 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ A Tale of Two Cities LITE(tm)         \
-|                                       |
-| -- by Charles Dickens                 |
-|                                       |
-| A man in love with a girl who loves   |
-| another man who looks just            |
-|                                       |
-| like him has his head chopped off in  |
-| France because of a mean              |
-|                                       |
-| lady who knits.                       |
-|                                       |
-| Crime and Punishment LITE(tm)         |
-|                                       |
-| -- by Fyodor Dostoevski               |
-|                                       |
-| A man sends a nasty letter to a       |
-| pawnbroker, but later                 |
-|                                       |
-| feels guilty and apologizes.          |
-|                                       |
-| The Odyssey LITE(tm)                  |
-|                                       |
-| -- by Homer                           |
-|                                       |
-| After working late, a valiant warrior |
-\ gets lost on his way home.            /
- ---------------------------------------
+ _________________________________________
+/ In the plot, people came to the land;   \
+| the land loved them; they worked and    |
+| struggled and had lots of children.     |
+| There was a Frenchman who talked funny  |
+| and a greenhorn from England who was a  |
+| fancy-pants but when it came to the     |
+| crunch he was all courage. Those novels |
+| would make you retch.                   |
+|                                         |
+| -- Canadian novelist Robertson Davies,  |
+| on the generic Canadian                 |
+|                                         |
+\ novel.                                  /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
