@@ -1,13 +1,12 @@
 Last Update Time: 
-Sun Aug 27 02:22:58 UTC 2023
+Sun Aug 27 02:34:44 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ "Not Hercules could have knock'd out \
-| his brains, for he had none."        |
-|                                      |
-\ -- Shakespeare                       /
- --------------------------------------
+ _______________________________________
+/ Q: How many IBM 370's does it take to \
+| execute a job? A: Four, three to hold |
+\ it down, and one to rip its head off. /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
