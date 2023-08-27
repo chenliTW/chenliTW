@@ -1,13 +1,11 @@
 Last Update Time: 
-Sun Aug 27 06:33:46 UTC 2023
+Sun Aug 27 06:45:33 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Seeing that death, a necessary end,     \
-| Will come when it will come.            |
-|                                         |
-\ -- William Shakespeare, "Julius Caesar" /
- -----------------------------------------
+ ______________________________________
+/ Don't tell any big lies today. Small \
+\ ones can be just as effective.       /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
