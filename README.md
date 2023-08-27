@@ -1,11 +1,13 @@
 Last Update Time: 
-Sun Aug 27 03:17:42 UTC 2023
+Sun Aug 27 03:29:24 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Your lover will never wish to leave \
-\ you.                                /
- -------------------------------------
+ _______________________________________
+/ As flies to wanton boys are we to the \
+| gods; they kill us for their sport.   |
+|                                       |
+\ -- Shakespeare, "King Lear"           /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
