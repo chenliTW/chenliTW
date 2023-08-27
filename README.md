@@ -1,16 +1,10 @@
 Last Update Time: 
-Sun Aug 27 11:27:10 UTC 2023
+Sun Aug 27 11:38:54 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Training is everything. The peach was \
-| once a bitter almond; cauliflower is  |
-| nothing but cabbage with a college    |
-| education.                            |
-|                                       |
-| -- Mark Twain, "Pudd'nhead Wilson's   |
-\ Calendar"                             /
- ---------------------------------------
+ __________________________
+< Bridge ahead. Pay troll. >
+ --------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
