@@ -1,13 +1,10 @@
 Last Update Time: 
-Mon Aug 28 20:57:34 UTC 2023
+Mon Aug 28 21:14:57 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ When one burns one's bridges, what a \
-| very nice fire it makes.             |
-|                                      |
-\ -- Dylan Thomas                      /
- --------------------------------------
+ _____________________________________
+< Q: Are we not men? A: We are Vaxen. >
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
