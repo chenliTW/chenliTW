@@ -1,18 +1,11 @@
 Last Update Time: 
-Mon Aug 28 07:44:43 UTC 2023
+Mon Aug 28 07:56:25 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Persons attempting to find a motive in  \
-| this narrative will be prosecuted;      |
-| persons attempting to find a moral in   |
-| it will be banished; persons attempting |
-| to find a plot in it will be shot. By   |
-| Order of the Author                     |
-|                                         |
-| -- Mark Twain, "The Adventures of       |
-\ Huckleberry Finn"                       /
- -----------------------------------------
+ _____________________________________
+/ You will have a long and unpleasant \
+\ discussion with your supervisor.    /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
