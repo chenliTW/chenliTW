@@ -1,14 +1,15 @@
 Last Update Time: 
-Tue Aug 29 18:46:45 UTC 2023
+Tue Aug 29 18:58:23 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Noise proves nothing. Often a hen who \
-| has merely laid an egg cackles as if  |
-| she laid an asteroid.                 |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ ________________________________________
+/ A classic is something that everyone   \
+| wants to have read and nobody wants to |
+| read.                                  |
+|                                        |
+| -- Mark Twain, "The Disappearance of   |
+\ Literature"                            /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
