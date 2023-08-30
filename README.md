@@ -1,18 +1,29 @@
 Last Update Time: 
-Wed Aug 30 18:35:24 UTC 2023
+Wed Aug 30 18:47:26 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What's the difference between the    \
-| 1950's and the 1980's? A: In the 80's,  |
-| a man walks into a drugstore and states |
-| loudly, "I'd                            |
-|                                         |
-| like some condoms," and then, leaning   |
-| over the counter, whispers,             |
-|                                         |
-\ "and some cigarettes."                  /
- -----------------------------------------
+ _______________________________________
+/ Gone With The Wind LITE(tm)           \
+|                                       |
+| -- by Margaret Mitchell               |
+|                                       |
+| A woman only likes men she can't have |
+| and the South gets trashed.           |
+|                                       |
+| Gift of the Magi LITE(tm)             |
+|                                       |
+| -- by O. Henry                        |
+|                                       |
+| A husband and wife forget to register |
+| their gift preferences.               |
+|                                       |
+| The Old Man and the Sea LITE(tm)      |
+|                                       |
+| -- by Ernest Hemingway                |
+|                                       |
+| An old man goes fishing, but doesn't  |
+\ have much luck.                       /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
