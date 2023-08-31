@@ -1,17 +1,20 @@
 Last Update Time: 
-Thu Aug 31 21:24:50 UTC 2023
+Thu Aug 31 21:36:47 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Persons attempting to find a motive in  \
-| this narrative will be prosecuted;      |
-| persons attempting to find a moral in   |
-| it will be banished; persons attempting |
-| to find a plot in it will be shot. By   |
-| Order of the Author                     |
+/ Q: How many existentialists does it     \
+| take to screw in a light bulb? A: Two.  |
+| One to screw it in and one to observe   |
+| how the light bulb                      |
 |                                         |
-| -- Mark Twain, "The Adventures of       |
-\ Huckleberry Finn"                       /
+| itself symbolizes a single incandescent |
+| beacon of subjective                    |
+|                                         |
+| reality in a netherworld of endless     |
+| absurdity reaching out toward a         |
+|                                         |
+\ maudlin cosmos of nothingness.          /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
