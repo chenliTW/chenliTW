@@ -1,23 +1,25 @@
 Last Update Time: 
-Fri Sep  1 11:21:13 UTC 2023
+Fri Sep  1 11:32:56 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Sheriff Chameleotoptor sighed with an  \
-| air of weary sadness, and then turned  |
-| to Doppelgutt and said 'The Senator    |
-| must really have been on a bender this |
-| time -- he left a party in Cleveland,  |
-| Ohio, at 11:30 last night, and they    |
-| found his car this morning in the      |
-| smokestack of a British aircraft       |
-| carrier in the Formosa Straits.'       |
-|                                        |
-| -- Grand Panjandrum's Special Award,   |
-| 1985 Bulwer-Lytton                     |
-|                                        |
-\ bad fiction contest.                   /
- ----------------------------------------
+ _________________________________________
+/ Delores breezed along the surface of    \
+| her life like a flat stone forever      |
+| skipping along smooth water, rippling   |
+| reality sporadically but oblivious to   |
+| it consistently, until she finally lost |
+| momentum, sank, and due to an overdose  |
+| of flouride as a child which caused her |
+| to suffer from chronic apathy, doomed   |
+| herself to lie forever on the floor of  |
+| her life as useless as an appendix and  |
+| as lonely as a five-hundred pound       |
+| barbell in a steroid-free fitness       |
+| center.                                 |
+|                                         |
+| -- Winning sentence, 1990 Bulwer-Lytton |
+\ bad fiction contest.                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
