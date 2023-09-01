@@ -1,23 +1,23 @@
 Last Update Time: 
-Fri Sep  1 11:09:12 UTC 2023
+Fri Sep  1 11:21:13 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ "What's this? Trix? Aunt! Trix? You?    \
-| You're after the prize! What is it?" He |
-| picked up the box and studied the back. |
-| "A glow-in-the-dark squid! Have you got |
-| it out of there yet?" He tilted the     |
-| box, angling the little colored balls   |
-| of cereal so as to see the bottom, and  |
-| nearly spilling them onto the table     |
-| top. "Here it is!" He hauled out a      |
-| little cream-colored, glitter-sprinkled |
-| squid, three-inches long and made out   |
-| of rubbery plastic.                     |
-|                                         |
-\ -- James P. Blaylock, "The Last Coin"   /
- -----------------------------------------
+ ________________________________________
+/ Sheriff Chameleotoptor sighed with an  \
+| air of weary sadness, and then turned  |
+| to Doppelgutt and said 'The Senator    |
+| must really have been on a bender this |
+| time -- he left a party in Cleveland,  |
+| Ohio, at 11:30 last night, and they    |
+| found his car this morning in the      |
+| smokestack of a British aircraft       |
+| carrier in the Formosa Straits.'       |
+|                                        |
+| -- Grand Panjandrum's Special Award,   |
+| 1985 Bulwer-Lytton                     |
+|                                        |
+\ bad fiction contest.                   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
