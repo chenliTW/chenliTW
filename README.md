@@ -1,19 +1,19 @@
 Last Update Time: 
-Sat Sep  2 23:42:54 UTC 2023
+Sat Sep  2 23:54:47 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The countdown had stalled at 'T' minus  \
-| 69 seconds when Desiree, the first      |
-| female ape to go up in space, winked at |
-| me slyly and pouted her thick, rubbery  |
-| lips unmistakably -- the first of many  |
-| such advances during what would prove   |
-| to be the longest, and most memorable,  |
-| space voyage of my career.              |
-|                                         |
-| -- Winning sentence, 1985 Bulwer-Lytton |
-\ bad fiction contest.                    /
+/ Stop! There was first a game of         \
+| blindman's buff. Of course there was.   |
+| And I no more believe Topper was really |
+| blind than I believe he had eyes in his |
+| boots. My opinion is, that it was a     |
+| done thing between him and Scrooge's    |
+| nephew; and that the Ghost of Christmas |
+| Present knew it. The way he went after  |
+| that plump sister in the lace tucker,   |
+| was an outrage on the credulity of      |
+\ human nature.                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
