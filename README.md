@@ -1,14 +1,13 @@
 Last Update Time: 
-Sat Sep  2 17:22:23 UTC 2023
+Sat Sep  2 17:34:03 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many mathematicians does it take \
-| to screw in a light bulb? A: One. He    |
-| gives it to six Californians, thereby   |
-| reducing the problem                    |
+/ They spell it "da Vinci" and pronounce  \
+| it "da Vinchy". Foreigners always spell |
+| better than they pronounce.             |
 |                                         |
-\ to the earlier joke.                    /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
