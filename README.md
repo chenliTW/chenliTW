@@ -1,13 +1,12 @@
 Last Update Time: 
-Sun Sep  3 21:58:01 UTC 2023
+Sun Sep  3 22:17:05 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ The abuse of greatness is when it       \
-| disjoins remorse from power.            |
-|                                         |
-\ -- William Shakespeare, "Julius Caesar" /
- -----------------------------------------
+ ____________________________________
+/ It's lucky you're going so slowly, \
+| because you're going in the wrong  |
+\ direction.                         /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
