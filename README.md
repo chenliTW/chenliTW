@@ -1,11 +1,10 @@
 Last Update Time: 
-Mon Sep  4 21:42:06 UTC 2023
+Mon Sep  4 21:54:02 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: What's hard going in and soft and \
-\ sticky coming out? A: Chewing gum.   /
- --------------------------------------
+ ________________________________________
+< You have taken yourself too seriously. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
