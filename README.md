@@ -1,13 +1,18 @@
 Last Update Time: 
-Tue Sep  5 07:41:02 UTC 2023
+Tue Sep  5 07:52:39 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ The very ink with which all history is \
-| written is merely fluid prejudice.     |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _________________________________________
+/ Q: How many surrealists does it take to \
+| change a light bulb? A: Two, one to     |
+| hold the giraffe, and the other to fill |
+| the bathtub                             |
+|                                         |
+| with brightly colored machine tools.    |
+|                                         |
+| [Surrealist jokes just aren't my cup of |
+\ fur. Ed.]                               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
