@@ -1,12 +1,14 @@
 Last Update Time: 
-Wed Sep  6 09:53:42 UTC 2023
+Wed Sep  6 10:12:54 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ This life is yours. Some of it was \
-| given to you; the rest, you made   |
-\ yourself.                          /
- ------------------------------------
+ _________________________________________
+/ Q: What's the difference between a dead \
+| dog in the road and a dead              |
+|                                         |
+| lawyer in the road? A: There are skid   |
+\ marks in front of the dog.              /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
