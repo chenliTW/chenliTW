@@ -1,15 +1,12 @@
 Last Update Time: 
-Wed Sep  6 21:40:28 UTC 2023
+Wed Sep  6 21:52:01 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ The difference between the right word \
-| and the almost right word is the      |
-| difference between lightning and the  |
-| lightning bug.                        |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ _________________________________________
+/ Conscience doth make cowards of us all. \
+|                                         |
+\ -- Shakespeare                          /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
