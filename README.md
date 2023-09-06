@@ -1,15 +1,23 @@
 Last Update Time: 
-Wed Sep  6 13:45:24 UTC 2023
+Wed Sep  6 13:57:25 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ All I know is what the words know, and  \
-| dead things, and that makes a handsome  |
-| little sum, with a beginning and a      |
-| middle and an end, as in the well-built |
-| phrase and the long sonata of the dead. |
+/ Q: How many gradual (sorry, that's      \
+| supposed to be "graduate") students     |
 |                                         |
-\ -- Samuel Beckett                       /
+| does it take to screw in a light bulb?  |
+| A: "I'm afraid we don't know, but make  |
+| my stipend tax-free, give my            |
+|                                         |
+| advisor a $30,000 grant of the          |
+| taxpayer's money, and I'm sure he       |
+|                                         |
+| can tell me how to do the gruntwork for |
+| him so he can take the                  |
+|                                         |
+| credit for answering this incredibly    |
+\ vital question."                        /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
