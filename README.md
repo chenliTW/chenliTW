@@ -1,12 +1,14 @@
 Last Update Time: 
-Thu Sep  7 03:29:34 UTC 2023
+Thu Sep  7 03:41:28 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: What's the difference between Bell  \
-| Labs and the Boy Scouts of America? A: |
-\ The Boy Scouts have adult supervision. /
- ----------------------------------------
+ _________________________________________
+/ Fame is a vapor; popularity an          \
+| accident; the only earthly certainty is |
+| oblivion.                               |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
