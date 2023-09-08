@@ -1,14 +1,13 @@
 Last Update Time: 
-Fri Sep  8 01:18:20 UTC 2023
+Fri Sep  8 01:58:51 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Whenever you find that you are on the \
-| side of the majority, it is time to   |
-| reform.                               |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ _________________________________________
+/ The abuse of greatness is when it       \
+| disjoins remorse from power.            |
+|                                         |
+\ -- William Shakespeare, "Julius Caesar" /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
