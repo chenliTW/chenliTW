@@ -1,14 +1,14 @@
 Last Update Time: 
-Sat Sep  9 06:26:45 UTC 2023
+Sat Sep  9 06:38:24 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Many a writer seems to think he is  \
-| never profound except when he can't |
-| understand his own meaning.         |
-|                                     |
-\ -- George D. Prentice               /
- -------------------------------------
+ _______________________________
+/ Civilization is the limitless \
+| multiplication of unnecessary |
+| necessities.                  |
+|                               |
+\ -- Mark Twain                 /
+ -------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
