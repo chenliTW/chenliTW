@@ -1,14 +1,11 @@
 Last Update Time: 
-Sun Sep 10 12:44:38 UTC 2023
+Sun Sep 10 12:58:24 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ They have been at a great feast of \
-| languages, and stolen the scraps.  |
-|                                    |
-| -- William Shakespeare, "Love's    |
-\ Labour's Lost"                     /
- ------------------------------------
+ _____________________________________
+/ Someone whom you reject today, will \
+\ reject you tomorrow.                /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
