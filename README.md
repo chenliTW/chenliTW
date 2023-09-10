@@ -1,13 +1,13 @@
 Last Update Time: 
-Sun Sep 10 09:06:18 UTC 2023
+Sun Sep 10 09:19:30 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ He jests at scars who never felt a     \
-| wound.                                 |
+/ Q: Why does Washington have the most   \
+| lawyers per capita and                 |
 |                                        |
-| -- Shakespeare, "Romeo and Juliet, II. |
-\ 2"                                     /
+| New Jersey the most toxic waste dumps? |
+\ A: God gave New Jersey first choice.   /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
