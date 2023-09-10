@@ -1,11 +1,10 @@
 Last Update Time: 
-Sun Sep 10 22:40:17 UTC 2023
+Sun Sep 10 22:51:58 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Communicate! It can't make things any \
-\ worse.                                /
- ---------------------------------------
+ ____________________________________
+< Don't read everything you believe. >
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
