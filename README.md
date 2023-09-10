@@ -1,21 +1,17 @@
 Last Update Time: 
-Sun Sep 10 21:10:12 UTC 2023
+Sun Sep 10 21:22:05 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/  "You have heard me speak of Professor  \
-| Moriarty?"                              |
+/ Q: How many surrealists does it take to \
+| change a light bulb? A: Two, one to     |
+| hold the giraffe, and the other to fill |
+| the bathtub                             |
 |                                         |
-| "The famous scientific criminal, as     |
-| famous among crooks as --"              |
+| with brightly colored machine tools.    |
 |                                         |
-| "My blushes, Watson," Holmes murmured,  |
-| in a deprecating voice.                 |
-|                                         |
-| "I was about to say 'as he is unknown   |
-| to the public.'"                        |
-|                                         |
-\ -- A. Conan Doyle, "The Valley of Fear" /
+| [Surrealist jokes just aren't my cup of |
+\ fur. Ed.]                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
