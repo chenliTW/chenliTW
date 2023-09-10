@@ -1,10 +1,10 @@
 Last Update Time: 
-Sun Sep 10 08:38:10 UTC 2023
+Sun Sep 10 08:49:58 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- __________________________________
-< Make a wish, it might come true. >
- ----------------------------------
+ ____________________________________
+< Don't read everything you believe. >
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
