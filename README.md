@@ -1,13 +1,14 @@
 Last Update Time: 
-Wed Sep 13 14:42:04 UTC 2023
+Wed Sep 13 14:53:52 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Must I hold a candle to my shames?    \
-|                                       |
-| -- William Shakespeare, "The Merchant |
-\ of Venice"                            /
- ---------------------------------------
+ _________________________________________
+/ FORTUNE PROVIDES QUESTIONS FOR THE      \
+| GREAT ANSWERS: #5 A: The Halls of       |
+| Montezuma and the Shores of Tripoli. Q: |
+| Name two families whose kids won't join |
+\ the Marines.                            /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
