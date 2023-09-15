@@ -1,13 +1,13 @@
 Last Update Time: 
-Fri Sep 15 09:53:41 UTC 2023
+Fri Sep 15 10:13:46 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: What do monsters eat? A: Things.   \
-|                                       |
-| Q: What do monsters drink? A: Coke.   |
-\ (Because Things go better with Coke.) /
- ---------------------------------------
+ ________________________________________
+/ Q: How many Harvard MBA's does it take \
+| to screw in a light bulb? A: Just one. |
+| He grasps it firmly and the universe   |
+\ revolves around him.                   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
