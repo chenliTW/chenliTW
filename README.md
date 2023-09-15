@@ -1,18 +1,16 @@
 Last Update Time: 
-Fri Sep 15 05:53:37 UTC 2023
+Fri Sep 15 06:17:02 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________
-/ To be or not to be.            \
-|                                |
-| -- Shakespeare To do is to be. |
-|                                |
-| -- Nietzsche To be is to do.   |
-|                                |
-| -- Sartre Do be do be do.      |
-|                                |
-\ -- Sinatra                     /
- --------------------------------
+ _____________________________________
+/ Remark of Dr. Baldwin's concerning  \
+| upstarts: We don't care to eat      |
+| toadstools that think they are      |
+| truffles.                           |
+|                                     |
+| -- Mark Twain, "Pudd'nhead Wilson's |
+\ Calendar"                           /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
