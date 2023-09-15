@@ -1,24 +1,24 @@
 Last Update Time: 
-Fri Sep 15 17:59:30 UTC 2023
+Fri Sep 15 18:23:30 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Delores breezed along the surface of    \
-| her life like a flat stone forever      |
-| skipping along smooth water, rippling   |
-| reality sporadically but oblivious to   |
-| it consistently, until she finally lost |
-| momentum, sank, and due to an overdose  |
-| of flouride as a child which caused her |
-| to suffer from chronic apathy, doomed   |
-| herself to lie forever on the floor of  |
-| her life as useless as an appendix and  |
-| as lonely as a five-hundred pound       |
-| barbell in a steroid-free fitness       |
-| center.                                 |
+/ In the space of one hundred and         \
+| seventy-six years the Mississippi has   |
+| shortened itself two hundred and        |
+| forty-two miles. Therefore ... in the   |
+| Old Silurian Period the Mississippi     |
+| River was upward of one million three   |
+| hundred thousand miles long ... seven   |
+| hundred and forty-two years from now    |
+| the Mississippi will be only a mile and |
+| three-quarters long. ... There is       |
+| something fascinating about science.    |
+| One gets such wholesome returns of      |
+| conjecture out of such a trifling       |
+| investment of fact.                     |
 |                                         |
-| -- Winning sentence, 1990 Bulwer-Lytton |
-\ bad fiction contest.                    /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
