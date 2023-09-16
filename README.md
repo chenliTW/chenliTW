@@ -1,14 +1,23 @@
 Last Update Time: 
-Sat Sep 16 10:26:53 UTC 2023
+Sat Sep 16 10:38:33 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ A classic is something that everyone   \
-| wants to have read and nobody wants to |
-| read.                                  |
+/ Q: How many hardware engineers does it \
+| take to change a light bulb? A: None.  |
+| We'll fix it in software.              |
 |                                        |
-| -- Mark Twain, "The Disappearance of   |
-\ Literature"                            /
+| Q: How many system programmers does it |
+| take to change a light bulb? A: None.  |
+| The application can work around it.    |
+|                                        |
+| Q: How many software engineers does it |
+| take to change a light bulb? A: None.  |
+| We'll document it in the manual.       |
+|                                        |
+| Q: How many tech writers does it take  |
+| to change a light bulb? A: None. The   |
+\ user can figure it out.                /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
