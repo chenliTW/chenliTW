@@ -1,13 +1,11 @@
 Last Update Time: 
-Sun Sep 17 09:31:38 UTC 2023
+Sun Sep 17 09:43:41 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/  A man was reading The Canterbury Tales \
-| one Saturday morning, when his wife     |
-| asked "What have you got there?"        |
-\ Replied he, "Just my cup and Chaucer."  /
- -----------------------------------------
+ _______________________________________
+/ Many changes of mind and mood; do not \
+\ hesitate too long.                    /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
