@@ -1,12 +1,12 @@
 Last Update Time: 
-Tue Sep 19 09:09:38 UTC 2023
+Tue Sep 19 09:23:15 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ I think we are in Rats' Alley where the \
-| dead men lost their bones.              |
+/ The abuse of greatness is when it       \
+| disjoins remorse from power.            |
 |                                         |
-\ -- T.S. Eliot                           /
+\ -- William Shakespeare, "Julius Caesar" /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
