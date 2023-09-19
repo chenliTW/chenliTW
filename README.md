@@ -1,15 +1,17 @@
 Last Update Time: 
-Tue Sep 19 11:27:10 UTC 2023
+Tue Sep 19 11:38:54 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ There is always one thing to remember: \
-| writers are always selling somebody    |
-| out.                                   |
-|                                        |
-| -- Joan Didion, "Slouching Towards     |
-\ Bethlehem"                             /
- ----------------------------------------
+ _________________________________________
+/ In India, "cold weather" is merely a    \
+| conventional phrase and has come into   |
+| use through the necessity of having     |
+| some way to distinguish between weather |
+| which will melt a brass door-knob and   |
+| weather which will only make it mushy.  |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
