@@ -1,11 +1,12 @@
 Last Update Time: 
-Wed Sep 20 21:47:02 UTC 2023
+Wed Sep 20 21:58:51 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: What's the difference between an     \
-| Irish wedding and an Irish wake? A: One |
-\ less drunk.                             /
+/ Extreme fear can neither fight nor fly. \
+|                                         |
+| -- William Shakespeare, "The Rape of    |
+\ Lucrece"                                /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
