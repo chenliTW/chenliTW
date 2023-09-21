@@ -1,21 +1,14 @@
 Last Update Time: 
-Thu Sep 21 04:53:05 UTC 2023
+Thu Sep 21 05:11:29 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ A morgue is a morgue is a morgue. They  \
-| can paint the walls with aggressively   |
-| cheerful primary colors and splashy     |
-| bold graphics, but it's still a holding |
-| place for the dead until they can be    |
-| parted out to organ banks. Not that I   |
-| would have cared normally but my        |
-| viewpoint was skewed. The relentless    |
-| pleasance of the room I sat in seemed   |
-| only grotesque.                         |
-|                                         |
-\ -- Pat Cadigan, "Mindplayers"           /
- -----------------------------------------
+ ________________________________________
+/ Hain't we got all the fools in town on \
+| our side? And hain't that a big enough |
+| majority in any town?                  |
+|                                        |
+\ -- Mark Twain, "Huckleberry Finn"      /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
