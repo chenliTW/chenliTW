@@ -1,13 +1,10 @@
 Last Update Time: 
-Thu Sep 21 09:54:30 UTC 2023
+Thu Sep 21 10:15:33 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________
-/ The surest protection against \
-| temptation is cowardice.      |
-|                               |
-\ -- Mark Twain                 /
- -------------------------------
+ ____________________
+< Beware of Bigfoot! >
+ --------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
