@@ -1,13 +1,12 @@
 Last Update Time: 
-Fri Sep 22 11:46:46 UTC 2023
+Fri Sep 22 11:58:22 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ By trying we can easily learn to endure \
-| adversity. Another man's, I mean.       |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ _______________________________________
+/ You had some happiness once, but your \
+| parents moved away, and you had to    |
+\ leave it behind.                      /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
