@@ -1,14 +1,12 @@
 Last Update Time: 
-Sat Sep 23 17:58:37 UTC 2023
+Sat Sep 23 18:21:33 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ There is no hunting like the hunting of \
-| man, and those who have hunted armed    |
-| men long enough and liked it, never     |
-| care for anything else thereafter.      |
-|                                         |
-\ -- Ernest Hemingway                     /
+/ FORTUNE PROVIDES QUESTIONS FOR THE      \
+| GREAT ANSWERS: #21 A: Dr. Livingston I. |
+| Presume. Q: What's Dr. Presume's full   |
+\ name?                                   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
