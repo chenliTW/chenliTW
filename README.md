@@ -1,17 +1,15 @@
 Last Update Time: 
-Sat Sep 23 09:02:21 UTC 2023
+Sat Sep 23 09:17:42 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Gratitude and treachery are merely the  \
-| two extremities of the same procession. |
-| You have seen all of it that is worth   |
-| staying for when the band and the gaudy |
-| officials have gone by.                 |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
- -----------------------------------------
+ _____________________________________
+/ Writing is easy; all you do is sit  \
+| staring at the blank sheet of paper |
+| until drops of blood form on your   |
+| forehead.                           |
+|                                     |
+\ -- Gene Fowler                      /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
