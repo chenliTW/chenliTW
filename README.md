@@ -1,14 +1,14 @@
 Last Update Time: 
-Sat Sep 23 06:05:21 UTC 2023
+Sat Sep 23 06:25:09 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ The man who sets out to carry a cat by \
-| its tail learns something that will    |
-| always be useful and which never will  |
-| grow dim or doubtful.                  |
+/ It has long been an axiom of mine that \
+| the little things are infinitely the   |
+| most important.                        |
 |                                        |
-\ -- Mark Twain                          /
+| -- Sir Arthur Conan Doyle, "A Case of  |
+\ Identity"                              /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
