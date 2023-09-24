@@ -1,12 +1,14 @@
 Last Update Time: 
-Sun Sep 24 20:00:22 UTC 2023
+Sun Sep 24 20:18:17 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ You may be gone tomorrow, but that \
-| doesn't mean that you weren't here |
-\ today.                             /
- ------------------------------------
+ _______________________________________
+/ Q: What do you call the money you pay \
+| to the government when                |
+|                                       |
+| you ride into the country on the back |
+\ of an elephant? A: A howdah duty.     /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
