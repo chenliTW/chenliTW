@@ -1,11 +1,14 @@
 Last Update Time: 
-Sun Sep 24 23:44:48 UTC 2023
+Sun Sep 24 23:56:55 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Q: What is purple and conquered the \
-\ world? A: Alexander the Grape.      /
- -------------------------------------
+ ________________________________________
+/ Q: Why do the police always travel in  \
+| threes? A: One to do the reading, one  |
+| to do the writing, and the other keeps |
+|                                        |
+\ an eye on the two intellectuals.       /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
