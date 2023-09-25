@@ -1,13 +1,10 @@
 Last Update Time: 
-Mon Sep 25 19:55:45 UTC 2023
+Mon Sep 25 20:17:23 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ A horse! A horse! My kingdom for a \
-| horse!                             |
-|                                    |
-\ -- Wm. Shakespeare, "Richard III"  /
- ------------------------------------
+ ________________________________________
+< You will be misunderstood by everyone. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
