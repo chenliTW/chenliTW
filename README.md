@@ -1,12 +1,11 @@
 Last Update Time: 
-Mon Sep 25 04:45:44 UTC 2023
+Mon Sep 25 04:57:28 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What's the difference between an     \
-| Irish wedding and an Irish wake? A: One |
-\ less drunk.                             /
- -----------------------------------------
+ _____________________________________
+/ Your goose is cooked. (Your current \
+\ chick is burned up too!)            /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
