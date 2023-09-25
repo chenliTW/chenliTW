@@ -1,11 +1,13 @@
 Last Update Time: 
-Mon Sep 25 21:20:54 UTC 2023
+Mon Sep 25 21:33:05 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Q: What is the difference between a \
-\ duck? A: One leg is both the same.  /
- -------------------------------------
+ _______________________________________
+/ Q: What do monsters eat? A: Things.   \
+|                                       |
+| Q: What do monsters drink? A: Coke.   |
+\ (Because Things go better with Coke.) /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
