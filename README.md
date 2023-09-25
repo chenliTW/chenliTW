@@ -1,15 +1,14 @@
 Last Update Time: 
-Mon Sep 25 22:52:38 UTC 2023
+Mon Sep 25 23:10:35 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why did the chicken cross the road? \
-| A: To see his friend Gregory peck.     |
-|                                        |
-| Q: Why did the chicken cross the       |
-| playground? A: To get to the other     |
-\ slide.                                 /
- ----------------------------------------
+ _________________________________________
+/ Soap and education are not as sudden as \
+| a massacre, but they are more deadly in |
+| the long run.                           |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
