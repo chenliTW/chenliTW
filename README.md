@@ -1,13 +1,14 @@
 Last Update Time: 
-Mon Sep 25 11:06:42 UTC 2023
+Mon Sep 25 11:19:13 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Writing is turning one's worst moments \
-| into money.                            |
-|                                        |
-\ -- J.P. Donleavy                       /
- ----------------------------------------
+ _____________________________________
+/ Many a writer seems to think he is  \
+| never profound except when he can't |
+| understand his own meaning.         |
+|                                     |
+\ -- George D. Prentice               /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
