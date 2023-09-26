@@ -1,13 +1,10 @@
 Last Update Time: 
-Tue Sep 26 21:31:38 UTC 2023
+Tue Sep 26 21:43:35 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Writing is turning one's worst moments \
-| into money.                            |
-|                                        |
-\ -- J.P. Donleavy                       /
- ----------------------------------------
+ _______________________________
+< Many pages make a thick book. >
+ -------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
