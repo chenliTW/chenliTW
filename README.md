@@ -1,11 +1,15 @@
 Last Update Time: 
-Wed Sep 27 10:43:02 UTC 2023
+Wed Sep 27 10:54:41 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- __________________________________
-/ You are capable of planning your \
-\ future.                          /
- ----------------------------------
+ _________________________________________
+/ There is no hunting like the hunting of \
+| man, and those who have hunted armed    |
+| men long enough and liked it, never     |
+| care for anything else thereafter.      |
+|                                         |
+\ -- Ernest Hemingway                     /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
