@@ -1,11 +1,13 @@
 Last Update Time: 
-Wed Sep 27 19:10:13 UTC 2023
+Wed Sep 27 19:21:57 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ You are farsighted, a good planner, an \
-\ ardent lover, and a faithful friend.   /
- ----------------------------------------
+ _________________________________________
+/ The first thing we do, let's kill all   \
+| the lawyers.                            |
+|                                         |
+\ -- Wm. Shakespeare, "Henry VI", Part IV /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
