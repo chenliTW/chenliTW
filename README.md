@@ -1,12 +1,15 @@
 Last Update Time: 
-Thu Sep 28 04:33:44 UTC 2023
+Thu Sep 28 04:45:29 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ It's lucky you're going so slowly, \
-| because you're going in the wrong  |
-\ direction.                         /
- ------------------------------------
+ ______________________________________
+/ F.S. Fitzgerald to Hemingway:        \
+|                                      |
+| "Ernest, the rich are different from |
+| us." Hemingway:                      |
+|                                      |
+\ "Yes. They have more money."         /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
