@@ -1,12 +1,13 @@
 Last Update Time: 
-Thu Sep 28 08:07:19 UTC 2023
+Thu Sep 28 08:27:32 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Q: Why did the germ cross the      \
-| microscope? A: To get to the other |
-\ slide.                             /
- ------------------------------------
+ _____________________________________
+/ A kind of Batman of contemporary    \
+| letters.                            |
+|                                     |
+\ -- Philip Larkin on Anthony Burgess /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
