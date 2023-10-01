@@ -1,16 +1,14 @@
 Last Update Time: 
-Sun Oct  1 08:38:45 UTC 2023
+Sun Oct  1 08:50:35 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How many lawyers does it take to    \
-| change a light bulb? A: You won't find |
-| a lawyer who can change a light bulb.  |
-| Now, if                                |
-|                                        |
-| you're looking for a lawyer to screw a |
-\ light bulb...                          /
- ----------------------------------------
+ ___________________________________
+/ After all, all he did was string  \
+| together a lot of old, well-known |
+| quotations.                       |
+|                                   |
+\ -- H. L. Mencken, on Shakespeare  /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
