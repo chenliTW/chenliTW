@@ -1,27 +1,15 @@
 Last Update Time: 
-Wed Oct  4 13:41:07 UTC 2023
+Wed Oct  4 13:52:42 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: How many elephants can you fit in a \
-| VW Bug? A: Four. Two in the front, two |
-| in the back.                           |
+/ Q: How many lawyers does it take to    \
+| change a light bulb? A: You won't find |
+| a lawyer who can change a light bulb.  |
+| Now, if                                |
 |                                        |
-| Q: How can you tell if an elephant is  |
-| in your refrigerator? A: There's a     |
-| footprint in the mayo.                 |
-|                                        |
-| Q: How can you tell if two elephants   |
-| are in your refrigerator? A: There's   |
-| two footprints in the mayo.            |
-|                                        |
-| Q: How can you tell if three elephants |
-| are in your refrigerator? A: The door  |
-| won't shut.                            |
-|                                        |
-| Q: How can you tell if four elephants  |
-| are in your refrigerator? A: There's a |
-\ VW Bug in your driveway.               /
+| you're looking for a lawyer to screw a |
+\ light bulb...                          /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
