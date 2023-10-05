@@ -1,11 +1,14 @@
 Last Update Time: 
-Thu Oct  5 19:22:27 UTC 2023
+Thu Oct  5 19:34:26 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: Why don't lawyers go to the beach? \
-\ A: The cats keep trying to bury them. /
- ---------------------------------------
+ ________________________________________
+/ Q: Why does Washington have the most   \
+| lawyers per capita and                 |
+|                                        |
+| New Jersey the most toxic waste dumps? |
+\ A: God gave New Jersey first choice.   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
