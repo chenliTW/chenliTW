@@ -1,17 +1,18 @@
 Last Update Time: 
-Tue Oct 10 03:54:53 UTC 2023
+Tue Oct 10 04:17:48 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Fortune: You will be attacked next    \
-| Wednesday at 3:15 p.m. by six samurai |
-| sword wielding purple fish glued to   |
-| Harley-Davidson motorcycles.          |
-|                                       |
-| Oh, and have a nice day!              |
-|                                       |
-\ -- Bryce Nesbitt '84                  /
- ---------------------------------------
+ ________________________________________
+/ Steady movement is more important than \
+| speed, much of the time. So long as    |
+| there is a regular progression of      |
+| stimuli to get your mental hooks into, |
+| there is room for lateral movement.    |
+| Once this begins, its rate is a matter |
+| of discretion.                         |
+|                                        |
+\ -- Corwin, Prince of Amber             /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
