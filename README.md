@@ -1,22 +1,20 @@
 Last Update Time: 
-Tue Oct 10 04:42:11 UTC 2023
+Tue Oct 10 04:53:57 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ For the fashion of Minas Tirith was     \
-| such that it was built on seven levels, |
-| each delved into a hill, and about each |
-| was set a wall, and in each wall was a  |
-| gate.                                   |
-|                                         |
-| -- J.R.R. Tolkien, "The Return of the   |
-| King"                                   |
-|                                         |
-| [Quoted in "VMS Internals and Data      |
-| Structures", V4.4, when                 |
-|                                         |
-\ referring to system overview.]          /
- -----------------------------------------
+ ________________________________________
+/ At once it struck me what quality went \
+| to form a man of achievement,          |
+| especially in literature, and which    |
+| Shakespeare possessed so enormously -- |
+| I mean negative capability, that is,   |
+| when a man is capable of being in      |
+| uncertainties, mysteries, doubts,      |
+| without any irritable reaching after   |
+| fact and reason.                       |
+|                                        |
+\ -- John Keats                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
