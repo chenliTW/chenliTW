@@ -1,12 +1,10 @@
 Last Update Time: 
-Thu Oct 12 22:41:40 UTC 2023
+Thu Oct 12 22:53:24 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You plan things that you do not even \
-| attempt because of your extreme      |
-\ caution.                             /
- --------------------------------------
+ _________________________________________
+< Day of inquiry. You will be subpoenaed. >
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
