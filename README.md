@@ -1,14 +1,12 @@
 Last Update Time: 
-Sat Oct 14 09:43:08 UTC 2023
+Sat Oct 14 09:54:59 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ The naked truth of it is, I have no \
-| shirt.                              |
-|                                     |
-| -- William Shakespeare, "Love's     |
-\ Labour's Lost"                      /
- -------------------------------------
+ ________________________________________
+/ Q: What's the difference between Bell  \
+| Labs and the Boy Scouts of America? A: |
+\ The Boy Scouts have adult supervision. /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
