@@ -1,15 +1,12 @@
 Last Update Time: 
-Sat Oct 14 04:40:11 UTC 2023
+Sat Oct 14 04:52:06 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ He draweth out the thread of his       \
-| verbosity finer than the staple of his |
-| argument.                              |
-|                                        |
-| -- William Shakespeare, "Love's        |
-\ Labour's Lost"                         /
- ----------------------------------------
+ _________________________________________
+/ FORTUNE PROVIDES QUESTIONS FOR THE      \
+| GREAT ANSWERS: #19 A: To be or not to   |
+\ be. Q: What is the square root of 4b^2? /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
