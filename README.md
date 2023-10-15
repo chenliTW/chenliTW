@@ -1,14 +1,19 @@
 Last Update Time: 
-Sun Oct 15 09:32:24 UTC 2023
+Sun Oct 15 09:44:04 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Consider well the proportions of       \
-| things. It is better to be a young     |
-| June-bug than an old bird of paradise. |
+/ Q: How does the Polish Constitution    \
+| differ from the American? A: Under the |
+| Polish Constitution citizens are       |
+| guaranteed freedom of                  |
 |                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
+| speech, but under the United States    |
+| constitution they are                  |
+|                                        |
+| guaranteed freedom after speech.       |
+|                                        |
+\ -- being told in Poland, 1987          /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
