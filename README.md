@@ -1,15 +1,10 @@
 Last Update Time: 
-Sun Oct 15 11:08:28 UTC 2023
+Sun Oct 15 11:20:15 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Let us endeavor so to live that when we \
-| come to die even the undertaker will be |
-| sorry.                                  |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
- -----------------------------------------
+ _____________________________________
+< Q: Are we not men? A: We are Vaxen. >
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
