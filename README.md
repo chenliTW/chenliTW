@@ -1,11 +1,13 @@
 Last Update Time: 
-Sun Oct 15 11:43:50 UTC 2023
+Sun Oct 15 11:55:34 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- __________________________________
-/ Break into jail and claim police \
-\ brutality.                       /
- ----------------------------------
+ ________________________________________
+/ Writing is turning one's worst moments \
+| into money.                            |
+|                                        |
+\ -- J.P. Donleavy                       /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
