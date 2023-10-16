@@ -1,14 +1,13 @@
 Last Update Time: 
-Sun Oct 15 23:55:21 UTC 2023
+Mon Oct 16 01:11:08 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ O, it is excellent To have a giant's    \
-| strength; but it is tyrannous To use it |
-| like a giant.                           |
+/ Q: How does a hacker fix a function     \
+| which                                   |
 |                                         |
-| -- Shakespeare, "Measure for Measure",  |
-\ II, 2                                   /
+| doesn't work for all of the elements in |
+\ its domain? A: He changes the domain.   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
