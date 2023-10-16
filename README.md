@@ -1,11 +1,11 @@
 Last Update Time: 
-Mon Oct 16 05:43:07 UTC 2023
+Mon Oct 16 05:54:40 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Among the lucky, you are the chosen \
-\ one.                                /
- -------------------------------------
+ _________________________________________
+/ Your boss climbed the corporate ladder, \
+\ wrong by wrong.                         /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
