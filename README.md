@@ -1,16 +1,10 @@
 Last Update Time: 
-Tue Oct 17 20:43:43 UTC 2023
+Tue Oct 17 20:55:35 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________
-/ AWAKE! FEAR! FIRE! FOES! AWAKE! \
-|                                 |
-| FEAR! FIRE! FOES!               |
-|                                 |
-| AWAKE! AWAKE!                   |
-|                                 |
-\ -- J. R. R. Tolkien             /
- ---------------------------------
+ ____________________________
+< Beware the one behind you. >
+ ----------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
