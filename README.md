@@ -1,16 +1,14 @@
 Last Update Time: 
-Tue Oct 17 04:46:38 UTC 2023
+Tue Oct 17 04:58:21 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/  You will remember, Watson, how the     \
-| dreadful business of the Abernetty      |
-| family was first brought to my notice   |
-| by the depth which the parsley had sunk |
-| into the butter upon a hot day.         |
-|                                         |
-\ -- Sherlock Holmes                      /
- -----------------------------------------
+ _______________________________________
+/ Don't go around saying the world owes \
+| you a living. The world owes you      |
+| nothing. It was here first.           |
+|                                       |
+\ -- Mark Twain                         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
