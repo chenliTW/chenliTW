@@ -1,13 +1,13 @@
 Last Update Time: 
-Wed Oct 18 10:55:02 UTC 2023
+Wed Oct 18 11:12:37 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ He that breaks a thing to find out what \
-| it is has left the path of wisdom.      |
-|                                         |
-\ -- J.R.R. Tolkien                       /
- -----------------------------------------
+ ________________________________________
+/ Q: How many Harvard MBA's does it take \
+| to screw in a light bulb? A: Just one. |
+| He grasps it firmly and the universe   |
+\ revolves around him.                   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
