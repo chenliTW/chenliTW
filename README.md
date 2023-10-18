@@ -1,13 +1,14 @@
 Last Update Time: 
-Wed Oct 18 20:54:43 UTC 2023
+Wed Oct 18 21:12:47 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ He was part of my dream, of course -- \
-| but then I was part of his dream too. |
-|                                       |
-\ -- Lewis Carroll                      /
- ---------------------------------------
+ ________________________________________
+/ Q: Why should you always serve a       \
+| Southern Carolina football man         |
+|                                        |
+| soup in a plate? A: 'Cause if you give |
+\ him a bowl, he'll throw it away.       /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
