@@ -1,11 +1,13 @@
 Last Update Time: 
-Thu Oct 19 11:51:21 UTC 2023
+Thu Oct 19 12:17:52 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: What's buried in Grant's tomb? A: A \
-\ corpse.                                /
- ----------------------------------------
+ ____________________________________
+/ A horse! A horse! My kingdom for a \
+| horse!                             |
+|                                    |
+\ -- Wm. Shakespeare, "Richard III"  /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
