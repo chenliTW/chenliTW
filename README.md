@@ -1,11 +1,15 @@
 Last Update Time: 
-Thu Oct 19 14:52:13 UTC 2023
+Thu Oct 19 15:10:39 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: What's the difference between Bell  \
-| Labs and the Boy Scouts of America? A: |
-\ The Boy Scouts have adult supervision. /
+/ If you pick up a starving dog and make \
+| him prosperous, he will not bite you.  |
+| This is the principal difference       |
+| between a dog and a man.               |
+|                                        |
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
