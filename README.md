@@ -1,12 +1,11 @@
 Last Update Time: 
-Fri Oct 20 07:59:03 UTC 2023
+Fri Oct 20 08:23:35 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The abuse of greatness is when it       \
-| disjoins remorse from power.            |
-|                                         |
-\ -- William Shakespeare, "Julius Caesar" /
+/ Q: What do you say to a New Yorker with \
+| a job? A: Big Mac, fries and a Coke,    |
+\ please!                                 /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
