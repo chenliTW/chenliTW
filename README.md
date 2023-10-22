@@ -1,14 +1,20 @@
 Last Update Time: 
-Sun Oct 22 21:41:39 UTC 2023
+Sun Oct 22 21:53:30 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ This night methinks is but the daylight \
-| sick.                                   |
-|                                         |
-| -- William Shakespeare, "The Merchant   |
-\ of Venice"                              /
- -----------------------------------------
+ _______________________________________
+/ Q: Why is Poland just like the United \
+| States? A: In the United States you   |
+| can't buy anything for zlotys and in  |
+|                                       |
+| Poland you can't either, while in the |
+| U.S. you can get whatever             |
+|                                       |
+| you want for dollars, just as you can |
+| in Poland.                            |
+|                                       |
+\ -- being told in Poland, 1987         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
