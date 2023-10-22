@@ -1,17 +1,15 @@
 Last Update Time: 
-Sun Oct 22 23:05:55 UTC 2023
+Sun Oct 22 23:20:44 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The only people for me are the mad ones \
-| -- the ones who are mad to live, mad to |
-| talk, mad to be saved, desirous of      |
-| everything at the same time, the ones   |
-| who never yawn or say a commonplace     |
-| thing, but burn, burn, burn like        |
-| fabulous yellow Roman candles.          |
+/  You will remember, Watson, how the     \
+| dreadful business of the Abernetty      |
+| family was first brought to my notice   |
+| by the depth which the parsley had sunk |
+| into the butter upon a hot day.         |
 |                                         |
-\ -- Jack Kerouac, "On the Road"          /
+\ -- Sherlock Holmes                      /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
