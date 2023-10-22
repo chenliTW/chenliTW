@@ -1,13 +1,11 @@
 Last Update Time: 
-Sun Oct 22 06:27:15 UTC 2023
+Sun Oct 22 06:38:59 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Lay on, MacDuff, and curs'd be him who \
-| first cries, "Hold, enough!".          |
-|                                        |
-\ -- Shakespeare                         /
- ----------------------------------------
+ _______________________________________
+/ You seek to shield those you love and \
+\ you like the role of the provider.    /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
