@@ -1,24 +1,21 @@
 Last Update Time: 
-Sun Oct 22 14:13:49 UTC 2023
+Sun Oct 22 14:26:33 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many IBM types does it take to   \
-| change a light bulb? A: Fifteen. One to |
-| do it, and fourteen to write document   |
-| number                                  |
+/  My dear People.                        \
 |                                         |
-| GC7500439-0001, Multitasking            |
-| Incandescent Source System Facility,    |
+| My dear Bagginses and Boffins, and my   |
+| dear Tooks and Brandybucks, and Grubbs, |
+| and Chubbs, and Burrowses, and          |
+| Hornblowers, and Bolgers, Bracegirdles, |
+| Goodbodies, Brockhouses and Proudfoots. |
+| Also my good Sackville Bagginses that I |
+| welcome back at last to Bag End. Today  |
+| is my one hundred and eleventh          |
+| birthday: I am eleventy-one today!"     |
 |                                         |
-| of which 10% of the pages state only    |
-| "This page intentionally                |
-|                                         |
-| left blank", and 20% of the definitions |
-| are of the form "A:.....                |
-|                                         |
-| consists of sequences of non-blank      |
-\ characters separated by blanks".        /
+\ -- J. R. R. Tolkien                     /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
