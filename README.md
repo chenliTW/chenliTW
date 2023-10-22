@@ -1,14 +1,13 @@
 Last Update Time: 
-Sun Oct 22 06:09:43 UTC 2023
+Sun Oct 22 06:27:15 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ I was gratified to be able to answer \
-| promptly, and I did. I said I didn't |
-| know.                                |
-|                                      |
-\ -- Mark Twain                        /
- --------------------------------------
+ ________________________________________
+/ Lay on, MacDuff, and curs'd be him who \
+| first cries, "Hold, enough!".          |
+|                                        |
+\ -- Shakespeare                         /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
