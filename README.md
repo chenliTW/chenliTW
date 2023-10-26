@@ -1,15 +1,10 @@
 Last Update Time: 
-Thu Oct 26 19:36:19 UTC 2023
+Thu Oct 26 19:47:58 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ So so is good, very good, very        \
-| excellent good: and yet it is not; it |
-| is but so so.                         |
-|                                       |
-| -- William Shakespeare, "As You Like  |
-\ It"                                   /
- ---------------------------------------
+ ___________________________
+< You are as I am with You. >
+ ---------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
