@@ -1,23 +1,19 @@
 Last Update Time: 
-Sat Oct 28 02:59:29 UTC 2023
+Sat Oct 28 03:18:34 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many journalists does it take to \
-| screw in a light bulb? A: Three. One to |
-| report it as an inspired government     |
-| program to bring                        |
+/ The camel died quite suddenly on the    \
+| second day, and Selena fretted sullenly |
+| and, buffing her already impeccable     |
+| nails -- not for the first time since   |
+| the journey begain -- pondered snidely  |
+| if this would dissolve into a vignette  |
+| of minor inconveniences like all the    |
+| other holidays spent with Basil.        |
 |                                         |
-| light to the people, one to report it   |
-| as a diabolical government plot         |
-|                                         |
-| to deprive the poor of darkness, and    |
-| one to win a Pulitzer prize for         |
-|                                         |
-| reporting that Electric Company hired a |
-| light bulb-assassin to break            |
-|                                         |
-\ the bulb in the first place.            /
+| -- Winning sentence, 1983 Bulwer-Lytton |
+\ bad fiction contest.                    /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
