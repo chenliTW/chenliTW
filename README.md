@@ -1,15 +1,13 @@
 Last Update Time: 
-Sun Oct 29 18:39:07 UTC 2023
+Sun Oct 29 18:50:56 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ A classic is something that everyone   \
-| wants to have read and nobody wants to |
-| read.                                  |
-|                                        |
-| -- Mark Twain, "The Disappearance of   |
-\ Literature"                            /
- ----------------------------------------
+ _________________________________________
+/ Extreme fear can neither fight nor fly. \
+|                                         |
+| -- William Shakespeare, "The Rape of    |
+\ Lucrece"                                /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
