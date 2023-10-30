@@ -1,12 +1,11 @@
 Last Update Time: 
-Mon Oct 30 08:36:33 UTC 2023
+Mon Oct 30 08:48:12 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You'll wish that you had done some of \
-| the hard things when they were easier |
-\ to do.                                /
- ---------------------------------------
+ ______________________________________
+/ Abandon the search for Truth; settle \
+\ for a good fantasy.                  /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
