@@ -1,13 +1,14 @@
 Last Update Time: 
-Mon Oct 30 21:08:04 UTC 2023
+Mon Oct 30 21:19:45 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _____________________________________
-/ Nothing so needs reforming as other \
-| people's habits.                    |
+/ Writing is easy; all you do is sit  \
+| staring at the blank sheet of paper |
+| until drops of blood form on your   |
+| forehead.                           |
 |                                     |
-| -- Mark Twain, "Pudd'nhead Wilson's |
-\ Calendar"                           /
+\ -- Gene Fowler                      /
  -------------------------------------
         \   ^__^
          \  (oo)\_______
