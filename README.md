@@ -1,14 +1,14 @@
 Last Update Time: 
-Tue Oct 31 15:27:00 UTC 2023
+Tue Oct 31 15:38:32 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What's the difference between a dead \
-| dog in the road and a dead              |
-|                                         |
-| lawyer in the road? A: There are skid   |
-\ marks in front of the dog.              /
- -----------------------------------------
+ ________________________________________
+/ Q: How do you play religious roulette? \
+| A: You stand around in a circle and    |
+| blaspheme and see who gets             |
+|                                        |
+\ struck by lightning first.             /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
