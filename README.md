@@ -1,13 +1,12 @@
 Last Update Time: 
-Wed Nov  1 23:59:11 UTC 2023
+Thu Nov  2 01:19:08 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: How many IBM CPU's does it take to \
-| do a logical right shift? A: 33. 1 to |
-| hold the bits and 32 to push the      |
-\ register.                             /
- ---------------------------------------
+ ____________________________________
+/ Try to relax and enjoy the crisis. \
+|                                    |
+\ -- Ashleigh Brilliant              /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
