@@ -1,12 +1,14 @@
 Last Update Time: 
-Fri Nov  3 09:54:01 UTC 2023
+Fri Nov  3 10:14:36 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________
-/ question = ( to ) ? be : ! be; \
-|                                |
-\ -- Wm. Shakespeare             /
- --------------------------------
+ ________________________________________
+/ What good is an obscenity trial except \
+| to popularize literature?              |
+|                                        |
+| -- Nero Wolfe, "The League of          |
+\ Frightened Men"                        /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
