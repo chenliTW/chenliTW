@@ -1,12 +1,13 @@
 Last Update Time: 
-Fri Nov  3 04:22:52 UTC 2023
+Fri Nov  3 04:34:28 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What's the difference between a Mac  \
-| and an Etch-a-Sketch? A: You don't have |
-\ to shake the Mac to clear the screen.   /
- -----------------------------------------
+ _______________________________________
+/ Q: How many IBM CPU's does it take to \
+| do a logical right shift? A: 33. 1 to |
+| hold the bits and 32 to push the      |
+\ register.                             /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
