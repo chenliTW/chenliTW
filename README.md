@@ -1,12 +1,10 @@
 Last Update Time: 
-Sat Nov  4 16:57:13 UTC 2023
+Sat Nov  4 17:16:02 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/  A man was reading The Canterbury Tales \
-| one Saturday morning, when his wife     |
-| asked "What have you got there?"        |
-\ Replied he, "Just my cup and Chaucer."  /
+/ Q: What's yellow, and equivalent to the \
+\ Axiom of Choice? A: Zorn's Lemon.       /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
