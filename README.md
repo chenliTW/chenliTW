@@ -1,15 +1,13 @@
 Last Update Time: 
-Sat Nov  4 19:39:54 UTC 2023
+Sat Nov  4 19:51:45 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How many Zen masters does it take to \
-| screw in a light bulb? A: None. The     |
-| Universe spins the bulb, and the Zen    |
-| master stays out                        |
-|                                         |
-\ of the way.                             /
- -----------------------------------------
+ ________________________________________
+/ Q: How many Harvard MBA's does it take \
+| to screw in a light bulb? A: Just one. |
+| He grasps it firmly and the universe   |
+\ revolves around him.                   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
