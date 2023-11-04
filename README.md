@@ -1,16 +1,13 @@
 Last Update Time: 
-Sat Nov  4 20:57:54 UTC 2023
+Sat Nov  4 21:14:42 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How do you shoot a blue elephant? A: \
-| With a blue-elephant gun.               |
+/ They spell it "da Vinci" and pronounce  \
+| it "da Vinchy". Foreigners always spell |
+| better than they pronounce.             |
 |                                         |
-| Q: How do you shoot a pink elephant? A: |
-| Twist its trunk until it turns blue,    |
-| then shoot it with                      |
-|                                         |
-\ a blue-elephant gun.                    /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
