@@ -1,36 +1,47 @@
 Last Update Time: 
-Sat Nov  4 15:31:47 UTC 2023
+Sat Nov  4 15:43:28 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ You see, I consider that a man's brain  \
-| originally is like a little empty       |
-| attic, and you have to stock it with    |
-| such furniture as you choose. A fool    |
-| takes in all the lumber of every sort   |
-| he comes across, so that the knowledge  |
-| which might be useful to him gets       |
-| crowded out, or at best is jumbled up   |
-| with a lot of other things, so that he  |
-| has difficulty in laying his hands upon |
-| it. Now the skilful workman is very     |
-| careful indeed as to what he takes into |
-| his brain-attic. He will have nothing   |
-| but the tools which may help him in     |
-| doing his work, but of these he has a   |
-| large assortment, and all in the most   |
-| perfect order. It is a mistake to think |
-| that that little room has elastic walls |
-| and can distend to any extent. Depend   |
-| upon it there comes a time when for     |
-| every addition of knowledge you forget  |
-| something that you knew before. It is   |
-| of the highest importance, therefore,   |
-| not to have useless facts elbowing out  |
-| the useful ones.                        |
+/ Like an expensive sports car,           \
+| fine-tuned and well-built, Portia was   |
+| sleek, shapely, and gorgeous, her red   |
+| jumpsuit moulding her body, which was   |
+| as warm as seatcovers in July, her hair |
+| as dark as new tires, her eyes flashing |
+| like bright hubcaps, and her lips as    |
+| dewy as the beads of fresh rain on the  |
+| hood; she was a woman driven -- fueled  |
+| by a single accelerant -- and she       |
+| needed a man, a man who wouldn't shift  |
+| from his views, a man to steer her      |
+| along the right road: a man like Alf    |
+| Romeo.                                  |
 |                                         |
-| -- Sir Arthur Conan Doyle, "A Study in  |
-\ Scarlet"                                /
+| -- Rachel Sheeley, winner               |
+|                                         |
+| The hair ball blocking the drain of the |
+| shower reminded Laura she would never   |
+| see her little dog Pritzi again.        |
+|                                         |
+| -- Claudia Fields, runner-up            |
+|                                         |
+| It could have been an organically based |
+| disturbance of the brain -- perhaps a   |
+| tumor or a metabolic deficiency -- but  |
+| after a thorough neurological exam it   |
+| was determined that Byron was simply a  |
+| jerk.                                   |
+|                                         |
+| -- Jeff Jahnke, runner-up               |
+|                                         |
+| Winners in the 7th Annual Bulwer-Lytton |
+| Bad Writing Contest. The contest is     |
+| named after the author of the immortal  |
+| lines: "It was a dark and stormy        |
+| night." The object of the contest is to |
+| write the opening sentence of the worst |
+\ possible novel.                         /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
