@@ -1,16 +1,15 @@
 Last Update Time: 
-Sun Nov  5 19:08:08 UTC 2023
+Sun Nov  5 19:19:01 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Q: What do you call a blind        \
-| pre-historic animal? A:            |
-| Diyathinkhesaurus.                 |
-|                                    |
-| Q: What do you call a blind        |
-| pre-historic animal with a dog? A: |
-\ Diyathinkhesaurus Rex.             /
- ------------------------------------
+ _________________________________________
+/ There is no hunting like the hunting of \
+| man, and those who have hunted armed    |
+| men long enough and liked it, never     |
+| care for anything else thereafter.      |
+|                                         |
+\ -- Ernest Hemingway                     /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
