@@ -1,14 +1,14 @@
 Last Update Time: 
-Sun Nov  5 04:49:45 UTC 2023
+Sun Nov  5 05:06:33 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ If one cannot enjoy reading a book over \
-| and over again, there is no use in      |
-| reading it at all.                      |
-|                                         |
-\ -- Oscar Wilde                          /
- -----------------------------------------
+ ________________________________________
+/ He jests at scars who never felt a     \
+| wound.                                 |
+|                                        |
+| -- Shakespeare, "Romeo and Juliet, II. |
+\ 2"                                     /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
