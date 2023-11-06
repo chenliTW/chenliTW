@@ -1,13 +1,15 @@
 Last Update Time: 
-Mon Nov  6 16:53:27 UTC 2023
+Mon Nov  6 17:11:23 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: How many IBM CPU's does it take to \
-| do a logical right shift? A: 33. 1 to |
-| hold the bits and 32 to push the      |
-\ register.                             /
- ---------------------------------------
+ _____________________________________
+/ It were not best that we should all \
+| think alike; it is difference of    |
+| opinion that makes horse-races.     |
+|                                     |
+| -- Mark Twain, "Pudd'nhead Wilson's |
+\ Calendar"                           /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
