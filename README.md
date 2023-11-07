@@ -1,13 +1,16 @@
 Last Update Time: 
-Tue Nov  7 15:13:48 UTC 2023
+Tue Nov  7 15:26:23 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ FORTUNE PROVIDES QUESTIONS FOR THE      \
-| GREAT ANSWERS: #31 A: Chicken Teriyaki. |
-| Q: What is the name of the world's      |
-\ oldest kamikaze pilot?                  /
- -----------------------------------------
+ _______________________________________
+/ For years a secret shame destroyed my \
+| peace-- I'd not read Eliot, Auden or  |
+| MacNiece. But now I think a thought   |
+| that brings me hope: Neither had      |
+| Chaucer, Shakespeare, Milton, Pope.   |
+|                                       |
+\ -- Justin Richardson.                 /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
