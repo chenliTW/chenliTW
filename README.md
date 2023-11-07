@@ -1,13 +1,17 @@
 Last Update Time: 
-Tue Nov  7 00:01:05 UTC 2023
+Tue Nov  7 01:21:53 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: What do you call a WASP who doesn't \
-| work for his father, isn't a           |
+/ It is easy to find fault, if one has   \
+| that disposition. There was once a man |
+| who, not being able to find any other  |
+| fault with his coal, complained that   |
+| there were too many prehistoric toads  |
+| in it.                                 |
 |                                        |
-| lawyer, and believes in social causes? |
-\ A: A failure.                          /
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
