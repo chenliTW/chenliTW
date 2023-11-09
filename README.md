@@ -1,18 +1,11 @@
 Last Update Time: 
-Thu Nov  9 20:52:45 UTC 2023
+Thu Nov  9 21:10:07 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ It is easy to find fault, if one has   \
-| that disposition. There was once a man |
-| who, not being able to find any other  |
-| fault with his coal, complained that   |
-| there were too many prehistoric toads  |
-| in it.                                 |
-|                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
- ----------------------------------------
+ _______________________________________
+/ Your society will be sought by people \
+\ of taste and refinement.              /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
