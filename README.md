@@ -1,14 +1,15 @@
 Last Update Time: 
-Sat Nov 11 15:55:28 UTC 2023
+Sat Nov 11 16:17:09 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Many a writer seems to think he is  \
-| never profound except when he can't |
-| understand his own meaning.         |
-|                                     |
-\ -- George D. Prentice               /
- -------------------------------------
+ ______________________________________
+/ F.S. Fitzgerald to Hemingway:        \
+|                                      |
+| "Ernest, the rich are different from |
+| us." Hemingway:                      |
+|                                      |
+\ "Yes. They have more money."         /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
