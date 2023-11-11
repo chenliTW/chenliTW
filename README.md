@@ -1,20 +1,13 @@
 Last Update Time: 
-Sat Nov 11 21:49:52 UTC 2023
+Sat Nov 11 22:05:40 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Unless hours were cups of sack, and    \
-| minutes capons, and clocks the tongues |
-| of bawds, and dials the signs of       |
-| leaping houses, and the blessed sun    |
-| himself a fair, hot wench in           |
-| flame-colored taffeta, I see no reason |
-| why thou shouldst be so superfluous to |
-| demand the time of the day. I wasted   |
-| time and now doth time waste me.       |
-|                                        |
-\ -- William Shakespeare                 /
- ----------------------------------------
+ ____________________________________
+/ Lord, what fools these mortals be! \
+|                                    |
+| -- William Shakespeare, "A         |
+\ Midsummer-Night's Dream"           /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
