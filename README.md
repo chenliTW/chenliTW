@@ -1,13 +1,13 @@
 Last Update Time: 
-Sat Nov 11 05:52:17 UTC 2023
+Sat Nov 11 06:13:25 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ By trying we can easily learn to endure \
-| adversity. Another man's, I mean.       |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ _____________________________________
+/ Let him choose out of my files, his \
+| projects to accomplish.             |
+|                                     |
+\ -- Shakespeare, "Coriolanus"        /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
