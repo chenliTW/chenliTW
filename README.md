@@ -1,14 +1,12 @@
 Last Update Time: 
-Sun Nov 12 23:30:15 UTC 2023
+Sun Nov 12 23:42:08 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Its name is Public Opinion. It is held \
-| in reverence. It settles everything.   |
-| Some think it is the voice of God.     |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _______________________________________
+/ Q: What do you have when you have a   \
+| lawyer buried up to his neck in sand? |
+\ A: Not enough sand.                   /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
