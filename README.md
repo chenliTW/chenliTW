@@ -1,13 +1,19 @@
 Last Update Time: 
-Mon Nov 13 22:17:17 UTC 2023
+Mon Nov 13 22:29:45 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: Why should you always serve a       \
-| Southern Carolina football man         |
+/ At once it struck me what quality went \
+| to form a man of achievement,          |
+| especially in literature, and which    |
+| Shakespeare possessed so enormously -- |
+| I mean negative capability, that is,   |
+| when a man is capable of being in      |
+| uncertainties, mysteries, doubts,      |
+| without any irritable reaching after   |
+| fact and reason.                       |
 |                                        |
-| soup in a plate? A: 'Cause if you give |
-\ him a bowl, he'll throw it away.       /
+\ -- John Keats                          /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
