@@ -1,13 +1,12 @@
 Last Update Time: 
-Mon Nov 13 02:41:54 UTC 2023
+Mon Nov 13 02:53:46 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Seeing that death, a necessary end,     \
-| Will come when it will come.            |
-|                                         |
-\ -- William Shakespeare, "Julius Caesar" /
- -----------------------------------------
+ _______________________________________
+/ Q: What do you have when you have a   \
+| lawyer buried up to his neck in sand? |
+\ A: Not enough sand.                   /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
