@@ -1,11 +1,12 @@
 Last Update Time: 
-Mon Nov 13 19:54:45 UTC 2023
+Mon Nov 13 20:13:56 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ You attempt things that you do not even \
-\ plan because of your extreme stupidity. /
- -----------------------------------------
+ _______________________________________
+/ You had some happiness once, but your \
+| parents moved away, and you had to    |
+\ leave it behind.                      /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
