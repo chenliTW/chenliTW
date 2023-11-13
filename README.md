@@ -1,15 +1,11 @@
 Last Update Time: 
-Mon Nov 13 08:48:39 UTC 2023
+Mon Nov 13 09:00:48 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ So so is good, very good, very        \
-| excellent good: and yet it is not; it |
-| is but so so.                         |
-|                                       |
-| -- William Shakespeare, "As You Like  |
-\ It"                                   /
- ---------------------------------------
+ ________________________________________
+/ You own a dog, but you can only feed a \
+\ cat.                                   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
