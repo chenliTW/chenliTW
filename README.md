@@ -1,21 +1,19 @@
 Last Update Time: 
-Tue Nov 14 13:01:12 UTC 2023
+Tue Nov 14 13:24:11 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ In the plot, people came to the land;   \
-| the land loved them; they worked and    |
-| struggled and had lots of children.     |
-| There was a Frenchman who talked funny  |
-| and a greenhorn from England who was a  |
-| fancy-pants but when it came to the     |
-| crunch he was all courage. Those novels |
-| would make you retch.                   |
+/ The countdown had stalled at 'T' minus  \
+| 69 seconds when Desiree, the first      |
+| female ape to go up in space, winked at |
+| me slyly and pouted her thick, rubbery  |
+| lips unmistakably -- the first of many  |
+| such advances during what would prove   |
+| to be the longest, and most memorable,  |
+| space voyage of my career.              |
 |                                         |
-| -- Canadian novelist Robertson Davies,  |
-| on the generic Canadian                 |
-|                                         |
-\ novel.                                  /
+| -- Winning sentence, 1985 Bulwer-Lytton |
+\ bad fiction contest.                    /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
