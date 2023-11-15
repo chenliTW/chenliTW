@@ -1,11 +1,16 @@
 Last Update Time: 
-Wed Nov 15 03:23:10 UTC 2023
+Wed Nov 15 03:35:33 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ You will be married within a year, and \
-\ divorced within two.                   /
- ----------------------------------------
+ _________________________________________
+/ "I understand this is your first dead   \
+| client," Sabian was saying. The         |
+| absurdity of the statement made me want |
+| to laugh but they don't call me Deadpan |
+| Allie and lie.                          |
+|                                         |
+\ -- Pat Cadigan, "Mindplayers"           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
