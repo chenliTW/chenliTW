@@ -1,14 +1,11 @@
 Last Update Time: 
-Thu Nov 16 19:09:19 UTC 2023
+Thu Nov 16 19:21:06 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ You may my glories and my state        \
-| dispose, But not my griefs; still am I |
-| king of those.                         |
-|                                        |
-\ -- William Shakespeare, "Richard II"   /
- ----------------------------------------
+ _______________________________________
+/ You get along very well with everyone \
+\ except animals and people.            /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
