@@ -1,16 +1,11 @@
 Last Update Time: 
-Thu Nov 16 04:19:04 UTC 2023
+Thu Nov 16 04:33:34 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Whenever the literary German dives into \
-| a sentence, that is the last you are    |
-| going to see of him until he emerges on |
-| the other side of his Atlantic with his |
-| verb in his mouth.                      |
-|                                         |
-| -- Mark Twain "A Connecticut Yankee in  |
-\ King Arthur's Court"                    /
+/ Q: What do little WASPs want to be when \
+| they grow up? A: The very best person   |
+\ they can possibly be.                   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
