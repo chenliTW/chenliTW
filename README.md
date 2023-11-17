@@ -1,14 +1,14 @@
 Last Update Time: 
-Fri Nov 17 07:26:55 UTC 2023
+Fri Nov 17 07:38:41 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ A hundred years from now it is very     \
-| likely that [of Twain's works] "The     |
-| Jumping Frog" alone will be remembered. |
+/ The only way to keep your health is to  \
+| eat what you don't want, drink what you |
+| don't like, and do what you'd rather    |
+| not.                                    |
 |                                         |
-| -- Harry Thurston Peck (Editor of "The  |
-\ Bookman"), January 1901.                /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
