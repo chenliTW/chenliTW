@@ -1,14 +1,22 @@
 Last Update Time: 
-Fri Nov 17 23:47:30 UTC 2023
+Fri Nov 17 23:59:16 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why do the police always travel in  \
-| threes? A: One to do the reading, one  |
-| to do the writing, and the other keeps |
-|                                        |
-\ an eye on the two intellectuals.       /
- ----------------------------------------
+ _________________________________________
+/ Many enraged psychiatrists are inciting \
+| a weary butcher. The butcher is weary   |
+| and tired because he has cut meat and   |
+| steak and lamb for hours and weeks. He  |
+| does not desire to chant about anything |
+| with raving psychiatrists, but he sings |
+| about his gingivectomist, he dreams     |
+| about a single cosmologist, he thinks   |
+| about his dog. The dog is named         |
+| Herbert.                                |
+|                                         |
+| -- Racter, "The Policeman's Beard is    |
+\ Half-Constructed"                       /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
