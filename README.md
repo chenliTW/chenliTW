@@ -1,12 +1,14 @@
 Last Update Time: 
-Sun Nov 19 18:41:03 UTC 2023
+Sun Nov 19 18:52:46 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ "... all the modern inconveniences ..." \
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ _____________________________________
+/ As to the Adjective: when in doubt, \
+| strike it out.                      |
+|                                     |
+| -- Mark Twain, "Pudd'nhead Wilson's |
+\ Calendar"                           /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
