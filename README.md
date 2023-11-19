@@ -1,23 +1,13 @@
 Last Update Time: 
-Sun Nov 19 07:21:40 UTC 2023
+Sun Nov 19 07:33:32 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many gradual (sorry, that's      \
-| supposed to be "graduate") students     |
+/ If one cannot enjoy reading a book over \
+| and over again, there is no use in      |
+| reading it at all.                      |
 |                                         |
-| does it take to screw in a light bulb?  |
-| A: "I'm afraid we don't know, but make  |
-| my stipend tax-free, give my            |
-|                                         |
-| advisor a $30,000 grant of the          |
-| taxpayer's money, and I'm sure he       |
-|                                         |
-| can tell me how to do the gruntwork for |
-| him so he can take the                  |
-|                                         |
-| credit for answering this incredibly    |
-\ vital question."                        /
+\ -- Oscar Wilde                          /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
