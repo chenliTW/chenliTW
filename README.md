@@ -1,13 +1,10 @@
 Last Update Time: 
-Mon Nov 20 10:06:35 UTC 2023
+Mon Nov 20 10:30:11 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How many supply-siders does it take \
-| to change a light bulb? A: None. The   |
-| darkness will cause the light bulb to  |
-\ change by itself.                      /
- ----------------------------------------
+ ____________________
+< You'll be sorry... >
+ --------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
