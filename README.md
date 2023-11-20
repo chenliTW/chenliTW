@@ -1,11 +1,11 @@
 Last Update Time: 
-Mon Nov 20 19:18:08 UTC 2023
+Mon Nov 20 19:29:51 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ You recoil from the crude; you tend \
-\ naturally toward the exquisite.     /
- -------------------------------------
+ _________________________________________
+/ You would if you could but you can't so \
+\ you won't.                              /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
