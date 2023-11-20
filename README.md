@@ -1,12 +1,11 @@
 Last Update Time: 
-Mon Nov 20 22:43:24 UTC 2023
+Mon Nov 20 22:55:17 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ I think we are in Rats' Alley where the \
-| dead men lost their bones.              |
+/ The Public is merely a multiplied "me." \
 |                                         |
-\ -- T.S. Eliot                           /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
