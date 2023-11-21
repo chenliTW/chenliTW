@@ -1,14 +1,14 @@
 Last Update Time: 
-Tue Nov 21 14:22:24 UTC 2023
+Tue Nov 21 14:36:28 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why should you always serve a       \
-| Southern Carolina football man         |
-|                                        |
-| soup in a plate? A: 'Cause if you give |
-\ him a bowl, he'll throw it away.       /
- ----------------------------------------
+ _______________________________________
+/ Whenever you find that you are on the \
+| side of the majority, it is time to   |
+| reform.                               |
+|                                       |
+\ -- Mark Twain                         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
