@@ -1,13 +1,13 @@
 Last Update Time: 
-Tue Nov 21 12:59:38 UTC 2023
+Tue Nov 21 13:24:46 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: What do you call a principal female  \
-| opera singer whose high C               |
+/ Q: How do you catch a unique rabbit? A: \
+| Unique up on it!                        |
 |                                         |
-| is lower than those of other principal  |
-\ female opera singers? A: A deep C diva. /
+| Q: How do you catch a tame rabbit? A:   |
+\ The tame way!                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
