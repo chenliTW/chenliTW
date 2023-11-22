@@ -1,36 +1,16 @@
 Last Update Time: 
-Wed Nov 22 09:23:39 UTC 2023
+Wed Nov 22 09:36:02 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ A Tale of Two Cities LITE(tm)         \
-|                                       |
-| -- by Charles Dickens                 |
-|                                       |
-| A man in love with a girl who loves   |
-| another man who looks just            |
-|                                       |
-| like him has his head chopped off in  |
-| France because of a mean              |
-|                                       |
-| lady who knits.                       |
-|                                       |
-| Crime and Punishment LITE(tm)         |
-|                                       |
-| -- by Fyodor Dostoevski               |
-|                                       |
-| A man sends a nasty letter to a       |
-| pawnbroker, but later                 |
-|                                       |
-| feels guilty and apologizes.          |
-|                                       |
-| The Odyssey LITE(tm)                  |
-|                                       |
-| -- by Homer                           |
-|                                       |
-| After working late, a valiant warrior |
-\ gets lost on his way home.            /
- ---------------------------------------
+ ____________________________________
+/ Q: What do you call a blind        \
+| pre-historic animal? A:            |
+| Diyathinkhesaurus.                 |
+|                                    |
+| Q: What do you call a blind        |
+| pre-historic animal with a dog? A: |
+\ Diyathinkhesaurus Rex.             /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
