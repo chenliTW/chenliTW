@@ -1,12 +1,10 @@
 Last Update Time: 
-Thu Nov 23 18:10:02 UTC 2023
+Thu Nov 23 18:28:08 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/  A man was reading The Canterbury Tales \
-| one Saturday morning, when his wife     |
-| asked "What have you got there?"        |
-\ Replied he, "Just my cup and Chaucer."  /
+/ Your reasoning powers are good, and you \
+\ are a fairly good planner.              /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
