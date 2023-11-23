@@ -1,22 +1,16 @@
 Last Update Time: 
-Thu Nov 23 21:57:11 UTC 2023
+Thu Nov 23 22:18:18 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/  My dear People.                        \
-|                                         |
-| My dear Bagginses and Boffins, and my   |
-| dear Tooks and Brandybucks, and Grubbs, |
-| and Chubbs, and Burrowses, and          |
-| Hornblowers, and Bolgers, Bracegirdles, |
-| Goodbodies, Brockhouses and Proudfoots. |
-| Also my good Sackville Bagginses that I |
-| welcome back at last to Bag End. Today  |
-| is my one hundred and eleventh          |
-| birthday: I am eleventy-one today!"     |
-|                                         |
-\ -- J. R. R. Tolkien                     /
- -----------------------------------------
+ _______________________________________
+/ For years a secret shame destroyed my \
+| peace-- I'd not read Eliot, Auden or  |
+| MacNiece. But now I think a thought   |
+| that brings me hope: Neither had      |
+| Chaucer, Shakespeare, Milton, Pope.   |
+|                                       |
+\ -- Justin Richardson.                 /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
