@@ -1,13 +1,14 @@
 Last Update Time: 
-Thu Nov 23 02:42:39 UTC 2023
+Thu Nov 23 02:54:27 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ There is a great discovery still to be \
-| made in Literature: that of paying     |
-| literary men by the quantity they do   |
-\ NOT write.                             /
- ----------------------------------------
+ _________________________________________
+/ Q: How do you catch a unique rabbit? A: \
+| Unique up on it!                        |
+|                                         |
+| Q: How do you catch a tame rabbit? A:   |
+\ The tame way!                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
