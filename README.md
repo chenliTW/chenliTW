@@ -1,13 +1,14 @@
 Last Update Time: 
-Thu Nov 23 04:52:47 UTC 2023
+Thu Nov 23 05:11:26 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ I have never let my schooling interfere \
-| with my education.                      |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ _____________________________________
+/ The mind is its own place, and in   \
+| itself Can make a Heav'n of Hell, a |
+| Hell of Heav'n.                     |
+|                                     |
+\ -- John Milton                      /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
