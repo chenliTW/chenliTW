@@ -1,17 +1,10 @@
 Last Update Time: 
-Fri Nov 24 06:54:57 UTC 2023
+Fri Nov 24 07:14:16 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Gratitude and treachery are merely the  \
-| two extremities of the same procession. |
-| You have seen all of it that is worth   |
-| staying for when the band and the gaudy |
-| officials have gone by.                 |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
- -----------------------------------------
+ _______________________________________
+< Are you sure the back door is locked? >
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
