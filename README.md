@@ -1,16 +1,13 @@
 Last Update Time: 
-Fri Nov 24 13:50:40 UTC 2023
+Fri Nov 24 14:07:36 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ "I understand this is your first dead   \
-| client," Sabian was saying. The         |
-| absurdity of the statement made me want |
-| to laugh but they don't call me Deadpan |
-| Allie and lie.                          |
-|                                         |
-\ -- Pat Cadigan, "Mindplayers"           /
- -----------------------------------------
+ ________________________________________
+/ FORTUNE PROVIDES QUESTIONS FOR THE     \
+| GREAT ANSWERS: #15 A: The Royal        |
+| Canadian Mounted Police. Q: What was   |
+\ the greatest achievement in taxidermy? /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
