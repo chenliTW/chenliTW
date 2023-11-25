@@ -1,15 +1,16 @@
 Last Update Time: 
-Sat Nov 25 20:26:29 UTC 2023
+Sat Nov 25 20:38:17 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How many Bell Labs Vice Presidents   \
-| does it take to change a light bulb? A: |
-| That's proprietary information. Answer  |
-| available from AT&T on payment          |
-|                                         |
-\ of license fee (binary only).           /
- -----------------------------------------
+ _____________________________________
+/ Remark of Dr. Baldwin's concerning  \
+| upstarts: We don't care to eat      |
+| toadstools that think they are      |
+| truffles.                           |
+|                                     |
+| -- Mark Twain, "Pudd'nhead Wilson's |
+\ Calendar"                           /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
