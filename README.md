@@ -1,14 +1,18 @@
 Last Update Time: 
-Sat Nov 25 13:20:38 UTC 2023
+Sat Nov 25 13:32:23 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ In the Spring, I have counted 136       \
-| different kinds of weather inside of 24 |
-| hours.                                  |
-|                                         |
-\ -- Mark Twain, on New England weather   /
- -----------------------------------------
+ ________________________________________
+/ Steady movement is more important than \
+| speed, much of the time. So long as    |
+| there is a regular progression of      |
+| stimuli to get your mental hooks into, |
+| there is room for lateral movement.    |
+| Once this begins, its rate is a matter |
+| of discretion.                         |
+|                                        |
+\ -- Corwin, Prince of Amber             /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
