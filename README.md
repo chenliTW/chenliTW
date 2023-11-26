@@ -1,15 +1,12 @@
 Last Update Time: 
-Sun Nov 26 17:19:06 UTC 2023
+Sun Nov 26 17:30:57 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Q: What do you call 15 blondes in a \
-| circle? A: A dope ring.             |
-|                                     |
-| Q: Why do blondes put their hair in |
-| ponytails? A: To cover up the valve |
-\ stem.                               /
- -------------------------------------
+ ______________________________________
+/ Good night to spend with family, but \
+| avoid arguments with your mate's new |
+\ lover.                               /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
