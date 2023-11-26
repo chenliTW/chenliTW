@@ -1,13 +1,11 @@
 Last Update Time: 
-Sun Nov 26 21:59:29 UTC 2023
+Sun Nov 26 22:18:06 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Lord, what fools these mortals be! \
-|                                    |
-| -- William Shakespeare, "A         |
-\ Midsummer-Night's Dream"           /
- ------------------------------------
+ _________________________________________
+/ You have a strong desire for a home and \
+\ your family interests come first.       /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
