@@ -1,53 +1,21 @@
 Last Update Time: 
-Sun Nov 26 10:28:11 UTC 2023
+Sun Nov 26 10:40:10 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The Least Perceptive Literary Critic    \
+/  "You have heard me speak of Professor  \
+| Moriarty?"                              |
 |                                         |
-| The most important critic in our field  |
-| of study is Lord Halifax. A most        |
-| individual judge of poetry, he once     |
-| invited Alexander Pope round to give a  |
-| public reading of his latest poem.      |
+| "The famous scientific criminal, as     |
+| famous among crooks as --"              |
 |                                         |
-| Pope, the leading poet of his day, was  |
-| greatly surprised when Lord Halifax     |
-| stopped him four or five times and      |
-| said, "I beg your pardon, Mr. Pope, but |
-| there is something in that passage that |
-| does not quite please me."              |
+| "My blushes, Watson," Holmes murmured,  |
+| in a deprecating voice.                 |
 |                                         |
-| Pope was rendered speechless, as this   |
-| fine critic suggested sizeable and      |
-| unwise emendations to his latest        |
-| masterpiece. "Be so good as to mark the |
-| place and consider at your leisure. I'm |
-| sure you can give it a better turn."    |
+| "I was about to say 'as he is unknown   |
+| to the public.'"                        |
 |                                         |
-| After the reading, a good friend of     |
-| Lord Halifax, a certain Dr. Garth, took |
-| the stunned Pope to one side. "There is |
-| no need to touch the lines," he said.   |
-| "All you need do is leave them just as  |
-| they are, call on Lord Halifax two or   |
-| three months hence, thank him for his   |
-| kind observation on those passages, and |
-| then read them to him as altered. I     |
-| have known him much longer than you     |
-| have, and will be answerable for the    |
-| event."                                 |
-|                                         |
-| Pope took his advice, called on Lord    |
-| Halifax and read the poem exactly as it |
-| was before. His unique critical         |
-| faculties had lost none of their edge.  |
-| "Ay", he commented, "now they are       |
-| perfectly right. Nothing can be         |
-| better."                                |
-|                                         |
-| -- Stephen Pile, "The Book of Heroic    |
-\ Failures"                               /
+\ -- A. Conan Doyle, "The Valley of Fear" /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
