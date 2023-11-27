@@ -1,15 +1,13 @@
 Last Update Time: 
-Mon Nov 27 06:33:04 UTC 2023
+Mon Nov 27 06:44:55 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ This is the first age that's paid much \
-| attention to the future, which is a    |
-| little ironic since we may not have    |
-| one.                                   |
-|                                        |
-\ -- Arthur Clarke                       /
- ----------------------------------------
+ _________________________________________
+/ Seeing that death, a necessary end,     \
+| Will come when it will come.            |
+|                                         |
+\ -- William Shakespeare, "Julius Caesar" /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
