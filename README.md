@@ -1,14 +1,15 @@
 Last Update Time: 
-Mon Nov 27 20:33:13 UTC 2023
+Mon Nov 27 20:45:04 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Tell the truth or trump--but get the \
-| trick.                               |
-|                                      |
-| -- Mark Twain, "Pudd'nhead Wilson's  |
-\ Calendar"                            /
- --------------------------------------
+ ________________________________________
+/ It is often the case that the man who  \
+| can't tell a lie thinks he is the best |
+| judge of one.                          |
+|                                        |
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
