@@ -1,14 +1,18 @@
 Last Update Time: 
-Tue Nov 28 05:18:33 UTC 2023
+Tue Nov 28 05:30:39 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Many a writer seems to think he is  \
-| never profound except when he can't |
-| understand his own meaning.         |
-|                                     |
-\ -- George D. Prentice               /
- -------------------------------------
+ _________________________________________
+/ Q: How many surrealists does it take to \
+| change a light bulb? A: Two, one to     |
+| hold the giraffe, and the other to fill |
+| the bathtub                             |
+|                                         |
+| with brightly colored machine tools.    |
+|                                         |
+| [Surrealist jokes just aren't my cup of |
+\ fur. Ed.]                               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
