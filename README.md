@@ -1,20 +1,41 @@
 Last Update Time: 
-Wed Nov 29 06:31:29 UTC 2023
+Wed Nov 29 06:43:15 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many existentialists does it     \
-| take to screw in a light bulb? A: Two.  |
-| One to screw it in and one to observe   |
-| how the light bulb                      |
+/ The Bulwer-Lytton fiction contest is    \
+| held ever year at San Jose State Univ.  |
+| by Professor Scott Rice. It is held in  |
+| memory of Edward George Earle           |
+| Bulwer-Lytton (1803-1873), a rather     |
+| prolific and popular (in his time)      |
+| novelist. He is best known today for    |
+| having written "The Last Days of        |
+| Pompeii."                               |
 |                                         |
-| itself symbolizes a single incandescent |
-| beacon of subjective                    |
+| Whenever Snoopy starts typing his novel |
+| from the top of his doghouse, beginning |
+| "It was a dark and stormy night..." he  |
+| is borrowing from Lord Bulwer-Lytton.   |
+| This was the line that opened his       |
+| novel, "Paul Clifford," written in      |
+| 1830. The full line reveals why it is   |
+| so bad:                                 |
 |                                         |
-| reality in a netherworld of endless     |
-| absurdity reaching out toward a         |
+| It was a dark and stormy night; the     |
+| rain fell in torrents -- except         |
 |                                         |
-\ maudlin cosmos of nothingness.          /
+| at occasional intervals, when it was    |
+| checked by a violent gust of            |
+|                                         |
+| wind which swept up the streets (for it |
+| is in London that our scene             |
+|                                         |
+| lies), rattling along the housetops,    |
+| and fiercely agitating the scanty       |
+|                                         |
+| flame of the lamps that struggled       |
+\ against the darkness.                   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
