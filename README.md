@@ -1,11 +1,10 @@
 Last Update Time: 
-Wed Nov 29 21:27:44 UTC 2023
+Wed Nov 29 21:39:26 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You're not my type. For that matter, \
-\ you're not even my species!!!        /
- --------------------------------------
+ _________________________________________
+< If you can read this, you're too close. >
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
