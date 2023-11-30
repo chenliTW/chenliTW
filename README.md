@@ -1,13 +1,11 @@
 Last Update Time: 
-Thu Nov 30 06:44:42 UTC 2023
+Thu Nov 30 06:56:27 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ A horse! A horse! My kingdom for a \
-| horse!                             |
-|                                    |
-\ -- Wm. Shakespeare, "Richard III"  /
- ------------------------------------
+ ______________________________________
+/ Expect the worst, it's the least you \
+\ can do.                              /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
