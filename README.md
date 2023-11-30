@@ -1,13 +1,14 @@
 Last Update Time: 
-Thu Nov 30 12:57:25 UTC 2023
+Thu Nov 30 13:26:27 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/  A man was reading The Canterbury Tales \
-| one Saturday morning, when his wife     |
-| asked "What have you got there?"        |
-\ Replied he, "Just my cup and Chaucer."  /
- -----------------------------------------
+ _______________________________________
+/ The devil can cite Scripture for his  \
+| purpose.                              |
+|                                       |
+| -- William Shakespeare, "The Merchant |
+\ of Venice"                            /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
