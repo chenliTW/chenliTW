@@ -1,15 +1,13 @@
 Last Update Time: 
-Thu Nov 30 22:08:26 UTC 2023
+Thu Nov 30 22:27:14 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: How many lawyers does it take to    \
-| change a light bulb? A: You won't find |
-| a lawyer who can change a light bulb.  |
-| Now, if                                |
+/ "You have been in Afghanistan, I       \
+| perceive."                             |
 |                                        |
-| you're looking for a lawyer to screw a |
-\ light bulb...                          /
+| -- Sir Arthur Conan Doyle, "A Study in |
+\ Scarlet"                               /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
