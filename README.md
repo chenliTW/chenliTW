@@ -1,12 +1,13 @@
 Last Update Time: 
-Fri Dec  1 16:16:37 UTC 2023
+Fri Dec  1 16:35:05 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _______________________________________
-/ Q: What do monsters eat? A: Things.   \
+/ Sometimes I wonder if I'm in my right \
+| mind. Then it passes off and I'm as   |
+| intelligent as ever.                  |
 |                                       |
-| Q: What do monsters drink? A: Coke.   |
-\ (Because Things go better with Coke.) /
+\ -- Samuel Beckett, "Endgame"          /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
