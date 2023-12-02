@@ -1,15 +1,14 @@
 Last Update Time: 
-Sat Dec  2 20:27:18 UTC 2023
+Sat Dec  2 20:39:26 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: Why is it that the more accuracy you \
-| demand from an interpolation            |
-|                                         |
-| function, the more expensive it becomes |
-| to compute? A: That's the Law of Spline |
-\ Demand.                                 /
- -----------------------------------------
+ _______________________________________
+/ There are more things in heaven and   \
+| earth, Horatio, than are dreamt of in |
+| your philosophy.                      |
+|                                       |
+\ -- Wm. Shakespeare, "Hamlet"          /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
