@@ -1,11 +1,13 @@
 Last Update Time: 
-Sat Dec  2 23:46:25 UTC 2023
+Sat Dec  2 23:58:12 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What lies on the bottom of the ocean \
-\ and twitches? A: A nervous wreck.       /
- -----------------------------------------
+ _______________________________________
+/ Q: How many IBM CPU's does it take to \
+| do a logical right shift? A: 33. 1 to |
+| hold the bits and 32 to push the      |
+\ register.                             /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
