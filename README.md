@@ -1,14 +1,22 @@
 Last Update Time: 
-Mon Dec  4 18:54:54 UTC 2023
+Mon Dec  4 19:12:58 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ In the first place, God made idiots; \
-| this was for practice; then he made  |
-| school boards.                       |
-|                                      |
-\ -- Mark Twain                        /
- --------------------------------------
+ _________________________________________
+/  "You have heard me speak of Professor  \
+| Moriarty?"                              |
+|                                         |
+| "The famous scientific criminal, as     |
+| famous among crooks as --"              |
+|                                         |
+| "My blushes, Watson," Holmes murmured,  |
+| in a deprecating voice.                 |
+|                                         |
+| "I was about to say 'as he is unknown   |
+| to the public.'"                        |
+|                                         |
+\ -- A. Conan Doyle, "The Valley of Fear" /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
