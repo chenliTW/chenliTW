@@ -1,14 +1,12 @@
 Last Update Time: 
-Tue Dec  5 13:45:03 UTC 2023
+Tue Dec  5 13:56:46 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ As to the Adjective: when in doubt, \
-| strike it out.                      |
-|                                     |
-| -- Mark Twain, "Pudd'nhead Wilson's |
-\ Calendar"                           /
- -------------------------------------
+ ____________________________________
+/ Harp not on that string.           \
+|                                    |
+\ -- William Shakespeare, "Henry VI" /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
