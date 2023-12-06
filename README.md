@@ -1,20 +1,22 @@
 Last Update Time: 
-Wed Dec  6 09:47:48 UTC 2023
+Wed Dec  6 09:59:32 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Unless hours were cups of sack, and    \
-| minutes capons, and clocks the tongues |
-| of bawds, and dials the signs of       |
-| leaping houses, and the blessed sun    |
-| himself a fair, hot wench in           |
-| flame-colored taffeta, I see no reason |
-| why thou shouldst be so superfluous to |
-| demand the time of the day. I wasted   |
-| time and now doth time waste me.       |
-|                                        |
-\ -- William Shakespeare                 /
- ----------------------------------------
+ _________________________________________
+/ For the fashion of Minas Tirith was     \
+| such that it was built on seven levels, |
+| each delved into a hill, and about each |
+| was set a wall, and in each wall was a  |
+| gate.                                   |
+|                                         |
+| -- J.R.R. Tolkien, "The Return of the   |
+| King"                                   |
+|                                         |
+| [Quoted in "VMS Internals and Data      |
+| Structures", V4.4, when                 |
+|                                         |
+\ referring to system overview.]          /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
