@@ -1,15 +1,11 @@
 Last Update Time: 
-Thu Dec  7 07:49:47 UTC 2023
+Thu Dec  7 08:09:22 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Habit is habit, and not to be flung out \
-| of the window by any man, but coaxed    |
-| down-stairs a step at a time.           |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar                                /
- -----------------------------------------
+ _____________________________________
+/ Someone whom you reject today, will \
+\ reject you tomorrow.                /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
