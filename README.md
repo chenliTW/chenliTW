@@ -1,10 +1,12 @@
 Last Update Time: 
-Sat Dec  9 07:07:23 UTC 2023
+Sat Dec  9 07:20:03 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________
-< You will get what you deserve. >
- --------------------------------
+ ______________________________________
+/ Q: How can you tell when a Burroughs \
+| salesman is lying? A: When his lips  |
+\ move.                                /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
