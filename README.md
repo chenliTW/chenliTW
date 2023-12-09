@@ -1,13 +1,15 @@
 Last Update Time: 
-Sat Dec  9 09:36:28 UTC 2023
+Sat Dec  9 09:48:06 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Rebellion lay in his way, and he found \
-| it.                                    |
-|                                        |
-\ -- William Shakespeare, "Henry IV"     /
- ----------------------------------------
+ _________________________________________
+/ There is no hunting like the hunting of \
+| man, and those who have hunted armed    |
+| men long enough and liked it, never     |
+| care for anything else thereafter.      |
+|                                         |
+\ -- Ernest Hemingway                     /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
