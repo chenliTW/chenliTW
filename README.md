@@ -1,11 +1,10 @@
 Last Update Time: 
-Sun Dec 10 08:50:30 UTC 2023
+Sun Dec 10 09:07:28 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ If you learn one useless thing every   \
-| day, in a single year you'll learn 365 |
-\ useless things.                        /
+/ Think twice before speaking, but don't \
+\ say "think think click click".         /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
