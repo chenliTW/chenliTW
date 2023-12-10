@@ -1,13 +1,10 @@
 Last Update Time: 
-Sun Dec 10 23:45:57 UTC 2023
+Sun Dec 10 23:57:43 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ I have never let my schooling interfere \
-| with my education.                      |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ____________________________________
+< Don't read everything you believe. >
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
