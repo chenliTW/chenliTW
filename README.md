@@ -1,14 +1,12 @@
 Last Update Time: 
-Sun Dec 10 16:51:48 UTC 2023
+Sun Dec 10 17:08:32 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How does a hacker fix a function     \
-| which                                   |
-|                                         |
-| doesn't work for all of the elements in |
-\ its domain? A: He changes the domain.   /
- -----------------------------------------
+ __________________________________
+/ Be cheerful while you are alive. \
+|                                  |
+\ -- Phathotep, 24th Century B.C.  /
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
