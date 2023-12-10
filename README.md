@@ -1,12 +1,14 @@
 Last Update Time: 
-Sun Dec 10 21:27:52 UTC 2023
+Sun Dec 10 21:39:38 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ What no spouse of a writer can ever    \
-| understand is that a writer is working |
-\ when he's staring out the window.      /
- ----------------------------------------
+ _______________________________________
+/ You never have to change anything you \
+| got up in the middle of the night to  |
+| write.                                |
+|                                       |
+\ -- Saul Bellow                        /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
