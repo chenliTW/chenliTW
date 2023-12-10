@@ -1,14 +1,10 @@
 Last Update Time: 
-Sun Dec 10 12:33:24 UTC 2023
+Sun Dec 10 12:53:05 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How do you catch a unique rabbit? A: \
-| Unique up on it!                        |
-|                                         |
-| Q: How do you catch a tame rabbit? A:   |
-\ The tame way!                           /
- -----------------------------------------
+ ___________________________
+< Chicken Little was right. >
+ ---------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
