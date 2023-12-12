@@ -1,20 +1,11 @@
 Last Update Time: 
-Tue Dec 12 09:49:42 UTC 2023
+Tue Dec 12 10:06:18 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Unless hours were cups of sack, and    \
-| minutes capons, and clocks the tongues |
-| of bawds, and dials the signs of       |
-| leaping houses, and the blessed sun    |
-| himself a fair, hot wench in           |
-| flame-colored taffeta, I see no reason |
-| why thou shouldst be so superfluous to |
-| demand the time of the day. I wasted   |
-| time and now doth time waste me.       |
-|                                        |
-\ -- William Shakespeare                 /
- ----------------------------------------
+ _______________________________________
+/ You will reach the highest possible   \
+\ point in your business or profession. /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
