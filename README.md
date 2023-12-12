@@ -1,15 +1,13 @@
 Last Update Time: 
-Tue Dec 12 14:44:23 UTC 2023
+Tue Dec 12 14:56:12 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Why is it that we rejoice at a birth   \
-| and grieve at a funeral? It is because |
-| we are not the person involved.        |
-|                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
- ----------------------------------------
+ _________________________________________
+/ I think we are in Rats' Alley where the \
+| dead men lost their bones.              |
+|                                         |
+\ -- T.S. Eliot                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
