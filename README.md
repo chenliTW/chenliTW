@@ -1,15 +1,12 @@
 Last Update Time: 
-Fri Dec 15 05:10:04 UTC 2023
+Fri Dec 15 05:27:32 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Habit is habit, and not to be flung out \
-| of the window by any man, but coaxed    |
-| down-stairs a step at a time.           |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar                                /
- -----------------------------------------
+ _______________________________
+/ Don't worry. Life's too long. \
+|                               |
+\ -- Vincent Sardi, Jr.         /
+ -------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
