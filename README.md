@@ -1,12 +1,22 @@
 Last Update Time: 
-Sat Dec 16 23:44:43 UTC 2023
+Sat Dec 16 23:56:48 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: What do you get when you cross a     \
-| mobster with an international standard? |
-| A: You get someone who makes you an     |
-\ offer that you can't understand!        /
+/ "What's this? Trix? Aunt! Trix? You?    \
+| You're after the prize! What is it?" He |
+| picked up the box and studied the back. |
+| "A glow-in-the-dark squid! Have you got |
+| it out of there yet?" He tilted the     |
+| box, angling the little colored balls   |
+| of cereal so as to see the bottom, and  |
+| nearly spilling them onto the table     |
+| top. "Here it is!" He hauled out a      |
+| little cream-colored, glitter-sprinkled |
+| squid, three-inches long and made out   |
+| of rubbery plastic.                     |
+|                                         |
+\ -- James P. Blaylock, "The Last Coin"   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
