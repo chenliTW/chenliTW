@@ -1,15 +1,16 @@
 Last Update Time: 
-Tue Dec 19 05:40:14 UTC 2023
+Tue Dec 19 05:52:10 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How many mathematicians does it take \
-| to screw in a light bulb? A: One. He    |
-| gives it to six Californians, thereby   |
-| reducing the problem                    |
-|                                         |
-\ to the earlier joke.                    /
- -----------------------------------------
+ ________________________________________
+/ Q: How many lawyers does it take to    \
+| change a light bulb? A: You won't find |
+| a lawyer who can change a light bulb.  |
+| Now, if                                |
+|                                        |
+| you're looking for a lawyer to screw a |
+\ light bulb...                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
