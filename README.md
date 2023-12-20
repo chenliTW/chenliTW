@@ -1,23 +1,14 @@
 Last Update Time: 
-Wed Dec 20 10:59:19 UTC 2023
+Wed Dec 20 11:14:03 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Sheriff Chameleotoptor sighed with an  \
-| air of weary sadness, and then turned  |
-| to Doppelgutt and said 'The Senator    |
-| must really have been on a bender this |
-| time -- he left a party in Cleveland,  |
-| Ohio, at 11:30 last night, and they    |
-| found his car this morning in the      |
-| smokestack of a British aircraft       |
-| carrier in the Formosa Straits.'       |
-|                                        |
-| -- Grand Panjandrum's Special Award,   |
-| 1985 Bulwer-Lytton                     |
-|                                        |
-\ bad fiction contest.                   /
- ----------------------------------------
+ _________________________________________
+/ FORTUNE PROVIDES QUESTIONS FOR THE      \
+| GREAT ANSWERS: #5 A: The Halls of       |
+| Montezuma and the Shores of Tripoli. Q: |
+| Name two families whose kids won't join |
+\ the Marines.                            /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
