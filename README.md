@@ -1,15 +1,13 @@
 Last Update Time: 
-Wed Dec 20 16:31:22 UTC 2023
+Wed Dec 20 16:43:13 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _______________________________________
-/ For years a secret shame destroyed my \
-| peace-- I'd not read Eliot, Auden or  |
-| MacNiece. But now I think a thought   |
-| that brings me hope: Neither had      |
-| Chaucer, Shakespeare, Milton, Pope.   |
+/ Don't go around saying the world owes \
+| you a living. The world owes you      |
+| nothing. It was here first.           |
 |                                       |
-\ -- Justin Richardson.                 /
+\ -- Mark Twain                         /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
