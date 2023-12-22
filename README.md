@@ -1,15 +1,12 @@
 Last Update Time: 
-Fri Dec 22 21:18:30 UTC 2023
+Fri Dec 22 21:30:20 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Writing is easy; all you do is sit  \
-| staring at the blank sheet of paper |
-| until drops of blood form on your   |
-| forehead.                           |
-|                                     |
-\ -- Gene Fowler                      /
- -------------------------------------
+ _______________________________________
+/ You should emulate your heros, but    \
+| don't carry it too far. Especially if |
+\ they are dead.                        /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
