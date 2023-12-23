@@ -1,16 +1,21 @@
 Last Update Time: 
-Sat Dec 23 09:21:28 UTC 2023
+Sat Dec 23 09:33:36 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How do you shoot a blue elephant? A: \
-| With a blue-elephant gun.               |
+/  My dear People.                        \
 |                                         |
-| Q: How do you shoot a pink elephant? A: |
-| Twist its trunk until it turns blue,    |
-| then shoot it with                      |
+| My dear Bagginses and Boffins, and my   |
+| dear Tooks and Brandybucks, and Grubbs, |
+| and Chubbs, and Burrowses, and          |
+| Hornblowers, and Bolgers, Bracegirdles, |
+| Goodbodies, Brockhouses and Proudfoots. |
+| Also my good Sackville Bagginses that I |
+| welcome back at last to Bag End. Today  |
+| is my one hundred and eleventh          |
+| birthday: I am eleventy-one today!"     |
 |                                         |
-\ a blue-elephant gun.                    /
+\ -- J. R. R. Tolkien                     /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
