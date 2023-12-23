@@ -1,13 +1,13 @@
 Last Update Time: 
-Sat Dec 23 09:45:22 UTC 2023
+Sat Dec 23 09:57:05 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ A kind of Batman of contemporary    \
-| letters.                            |
-|                                     |
-\ -- Philip Larkin on Anthony Burgess /
- -------------------------------------
+ _________________________________________
+/ He that breaks a thing to find out what \
+| it is has left the path of wisdom.      |
+|                                         |
+\ -- J.R.R. Tolkien                       /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
