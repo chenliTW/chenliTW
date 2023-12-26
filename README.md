@@ -1,39 +1,21 @@
 Last Update Time: 
-Tue Dec 26 09:54:22 UTC 2023
+Tue Dec 26 10:14:34 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ A Tale of Two Cities LITE(tm)           \
-|                                         |
-| -- by Charles Dickens                   |
-|                                         |
-| A lawyer who looks like a French        |
-| Nobleman is executed in his place.      |
-|                                         |
-| The Metamorphosis LITE(tm)              |
-|                                         |
-| -- by Franz Kafka                       |
-|                                         |
-| A man turns into a bug and his family   |
-| gets annoyed.                           |
-|                                         |
-| Lord of the Rings LITE(tm)              |
-|                                         |
-| -- by J. R. R. Tolkien                  |
-|                                         |
-| Some guys take a long vacation to throw |
-| a ring into a volcano.                  |
-|                                         |
-| Hamlet LITE(tm)                         |
-|                                         |
-| -- by Wm. Shakespeare                   |
-|                                         |
-| A college student on vacation with      |
-| family problems, a screwy               |
-|                                         |
-| girl-friend and a mother who won't act  |
-\ her age.                                /
- -----------------------------------------
+ ________________________________________
+/ Q: How many DEC repairman does it take \
+| to fix a flat? A: Five; four to hold   |
+| the car up and one to swap tires.      |
+|                                        |
+| Q: How long does it take? A: It's      |
+| indeterminate.                         |
+|                                        |
+| It will depend upon how many flats     |
+| they've brought with them.             |
+|                                        |
+| Q: What happens if you've got TWO      |
+\ flats? A: They replace your generator. /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
