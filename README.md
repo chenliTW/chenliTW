@@ -1,19 +1,27 @@
 Last Update Time: 
-Thu Dec 28 14:13:49 UTC 2023
+Thu Dec 28 14:28:05 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: How does the Polish Constitution    \
-| differ from the American? A: Under the |
-| Polish Constitution citizens are       |
-| guaranteed freedom of                  |
+/ Q: How many elephants can you fit in a \
+| VW Bug? A: Four. Two in the front, two |
+| in the back.                           |
 |                                        |
-| speech, but under the United States    |
-| constitution they are                  |
+| Q: How can you tell if an elephant is  |
+| in your refrigerator? A: There's a     |
+| footprint in the mayo.                 |
 |                                        |
-| guaranteed freedom after speech.       |
+| Q: How can you tell if two elephants   |
+| are in your refrigerator? A: There's   |
+| two footprints in the mayo.            |
 |                                        |
-\ -- being told in Poland, 1987          /
+| Q: How can you tell if three elephants |
+| are in your refrigerator? A: The door  |
+| won't shut.                            |
+|                                        |
+| Q: How can you tell if four elephants  |
+| are in your refrigerator? A: There's a |
+\ VW Bug in your driveway.               /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
