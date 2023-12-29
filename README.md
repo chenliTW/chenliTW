@@ -1,14 +1,12 @@
 Last Update Time: 
-Fri Dec 29 18:41:18 UTC 2023
+Fri Dec 29 18:53:12 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ As to the Adjective: when in doubt, \
-| strike it out.                      |
-|                                     |
-| -- Mark Twain, "Pudd'nhead Wilson's |
-\ Calendar"                           /
- -------------------------------------
+ ____________________________________
+/ Small things make base men proud.  \
+|                                    |
+\ -- William Shakespeare, "Henry VI" /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
