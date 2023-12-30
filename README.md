@@ -1,14 +1,12 @@
 Last Update Time: 
-Sat Dec 30 16:37:59 UTC 2023
+Sat Dec 30 16:49:45 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ I must have a prodigious quantity of  \
-| mind; it takes me as much as a week   |
-| sometimes to make it up.              |
-|                                       |
-\ -- Mark Twain, "The Innocents Abroad" /
- ---------------------------------------
+ ______________________________________
+/ Q: How did you get into artificial   \
+| intelligence? A: Seemed logical -- I |
+\ didn't have any real intelligence.   /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
