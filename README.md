@@ -1,12 +1,10 @@
 Last Update Time: 
-Sun Dec 31 07:45:03 UTC 2023
+Sun Dec 31 07:56:46 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: How many Harvard MBA's does it take \
-| to screw in a light bulb? A: Just one. |
-| He grasps it firmly and the universe   |
-\ revolves around him.                   /
+/ You are sick, twisted and perverted. I \
+\ like that in a person.                 /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
