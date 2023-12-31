@@ -1,14 +1,14 @@
 Last Update Time: 
-Sun Dec 31 15:35:25 UTC 2023
+Sun Dec 31 15:47:24 UTC 2023
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: Why is it that the more accuracy you \
-| demand from an interpolation            |
+/ Q: How many psychiatrists does it take  \
+| to change a light bulb? A: Only one,    |
+| but it takes a long time, and the light |
+| bulb has                                |
 |                                         |
-| function, the more expensive it becomes |
-| to compute? A: That's the Law of Spline |
-\ Demand.                                 /
+\ to really want to change.               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
