@@ -1,14 +1,13 @@
 Last Update Time: 
-Mon Jan  1 21:57:07 UTC 2024
+Mon Jan  1 22:18:25 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ You may my glories and my state        \
-| dispose, But not my griefs; still am I |
-| king of those.                         |
-|                                        |
-\ -- William Shakespeare, "Richard II"   /
- ----------------------------------------
+ _________________________________________
+/ The first thing we do, let's kill all   \
+| the lawyers.                            |
+|                                         |
+\ -- Wm. Shakespeare, "Henry VI", Part IV /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
