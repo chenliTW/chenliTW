@@ -1,12 +1,15 @@
 Last Update Time: 
-Fri Jan  5 18:16:44 UTC 2024
+Fri Jan  5 18:30:36 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ What I tell you three times is true. \
-|                                      |
-\ -- Lewis Carroll                     /
- --------------------------------------
+ _________________________________________
+/ There is no hunting like the hunting of \
+| man, and those who have hunted armed    |
+| men long enough and liked it, never     |
+| care for anything else thereafter.      |
+|                                         |
+\ -- Ernest Hemingway                     /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
