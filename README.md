@@ -1,18 +1,13 @@
 Last Update Time: 
-Sat Jan  6 13:38:27 UTC 2024
+Sat Jan  6 13:50:16 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ The only people for me are the mad ones \
-| -- the ones who are mad to live, mad to |
-| talk, mad to be saved, desirous of      |
-| everything at the same time, the ones   |
-| who never yawn or say a commonplace     |
-| thing, but burn, burn, burn like        |
-| fabulous yellow Roman candles.          |
-|                                         |
-\ -- Jack Kerouac, "On the Road"          /
- -----------------------------------------
+ ________________________________________
+/ Lay on, MacDuff, and curs'd be him who \
+| first cries, "Hold, enough!".          |
+|                                        |
+\ -- Shakespeare                         /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
