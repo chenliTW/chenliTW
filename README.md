@@ -1,18 +1,14 @@
 Last Update Time: 
-Mon Jan  8 18:07:38 UTC 2024
+Mon Jan  8 18:28:40 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ It is right that he too should have his \
-| little chronicle, his memories, his     |
-| reason, and be able to recognize the    |
-| good in the bad, the bad in the worst,  |
-| and so grow gently old all down the     |
-| unchanging days and die one day like    |
-| any other day, only shorter.            |
-|                                         |
-\ -- Samuel Beckett, "Malone Dies"        /
- -----------------------------------------
+ _______________________________________
+/ Few things are harder to put up with  \
+| than the annoyance of a good example. |
+|                                       |
+| -- "Mark Twain, Pudd'nhead Wilson's   |
+\ Calendar"                             /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
