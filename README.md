@@ -1,12 +1,13 @@
 Last Update Time: 
-Wed Jan 10 03:37:58 UTC 2024
+Wed Jan 10 03:49:51 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: What's the difference between Bell  \
-| Labs and the Boy Scouts of America? A: |
-\ The Boy Scouts have adult supervision. /
- ----------------------------------------
+ _____________________________________
+/ Let him choose out of my files, his \
+| projects to accomplish.             |
+|                                     |
+\ -- Shakespeare, "Coriolanus"        /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
