@@ -1,13 +1,10 @@
 Last Update Time: 
-Wed Jan 10 09:38:24 UTC 2024
+Wed Jan 10 09:50:00 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________
-/ She is not refined. She is not \
-| unrefined. She keeps a parrot. |
-|                                |
-\ -- Mark Twain                  /
- --------------------------------
+ ________________________
+< Be different: conform. >
+ ------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
