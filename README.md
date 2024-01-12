@@ -1,17 +1,20 @@
 Last Update Time: 
-Fri Jan 12 23:01:01 UTC 2024
+Fri Jan 12 23:19:19 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ October 12, the Discovery.            \
-|                                       |
-| It was wonderful to find America, but |
-| it would have been more wonderful to  |
-| miss it.                              |
-|                                       |
-| -- Mark Twain, "Pudd'nhead Wilson's   |
-\ Calendar"                             /
- ---------------------------------------
+ ________________________________________
+/ Q: How does the Polish Constitution    \
+| differ from the American? A: Under the |
+| Polish Constitution citizens are       |
+| guaranteed freedom of                  |
+|                                        |
+| speech, but under the United States    |
+| constitution they are                  |
+|                                        |
+| guaranteed freedom after speech.       |
+|                                        |
+\ -- being told in Poland, 1987          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
