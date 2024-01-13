@@ -1,15 +1,12 @@
 Last Update Time: 
-Sat Jan 13 13:37:55 UTC 2024
+Sat Jan 13 13:49:54 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ All say, "How hard it is that we have  \
-| to die"--a strange complaint to come   |
-| from the mouths of people who have had |
-| to live.                               |
+/ Lay on, MacDuff, and curs'd be him who \
+| first cries, "Hold, enough!".          |
 |                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
+\ -- Shakespeare                         /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
