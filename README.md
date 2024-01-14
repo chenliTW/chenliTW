@@ -1,15 +1,12 @@
 Last Update Time: 
-Sun Jan 14 08:52:47 UTC 2024
+Sun Jan 14 09:11:01 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ There is no hunting like the hunting of \
-| man, and those who have hunted armed    |
-| men long enough and liked it, never     |
-| care for anything else thereafter.      |
-|                                         |
-\ -- Ernest Hemingway                     /
- -----------------------------------------
+ ________________________________________
+/ Living your life is a task so          \
+| difficult, it has never been attempted |
+\ before.                                /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
