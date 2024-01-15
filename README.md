@@ -1,12 +1,13 @@
 Last Update Time: 
-Mon Jan 15 10:08:38 UTC 2024
+Mon Jan 15 10:31:17 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: How many marketing people does it \
-| take to change a light bulb? A: I'll |
-\ have to get back to you on that.     /
- --------------------------------------
+ _______________________________________
+/ Q: How many IBM CPU's does it take to \
+| do a logical right shift? A: 33. 1 to |
+| hold the bits and 32 to push the      |
+\ register.                             /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
