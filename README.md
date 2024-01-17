@@ -1,14 +1,14 @@
 Last Update Time: 
-Wed Jan 17 16:42:52 UTC 2024
+Wed Jan 17 16:54:35 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Habit is habit, and not to be flung out \
-| of the window by any man, but coaxed    |
-| down-stairs a step at a time.           |
+/ There is no hunting like the hunting of \
+| man, and those who have hunted armed    |
+| men long enough and liked it, never     |
+| care for anything else thereafter.      |
 |                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar                                /
+\ -- Ernest Hemingway                     /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
