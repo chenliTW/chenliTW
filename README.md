@@ -1,15 +1,15 @@
 Last Update Time: 
-Wed Jan 17 18:43:32 UTC 2024
+Wed Jan 17 18:54:53 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ ROMEO: Courage, man; the hurt cannot be \
-| much. MERCUTIO: No, 'tis not so deep as |
-| a well, nor so wide                     |
-|                                         |
-| as a church-door; but 'tis enough,      |
-\ 'twill serve.                           /
- -----------------------------------------
+ ________________________________________
+/ This is the first age that's paid much \
+| attention to the future, which is a    |
+| little ironic since we may not have    |
+| one.                                   |
+|                                        |
+\ -- Arthur Clarke                       /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
