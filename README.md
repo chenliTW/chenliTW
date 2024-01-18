@@ -1,10 +1,22 @@
 Last Update Time: 
-Thu Jan 18 06:57:33 UTC 2024
+Thu Jan 18 07:18:02 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ By trying we can easily learn to endure \
-| adversity. Another man's, I mean.       |
+/ In the space of one hundred and         \
+| seventy-six years the Mississippi has   |
+| shortened itself two hundred and        |
+| forty-two miles. Therefore ... in the   |
+| Old Silurian Period the Mississippi     |
+| River was upward of one million three   |
+| hundred thousand miles long ... seven   |
+| hundred and forty-two years from now    |
+| the Mississippi will be only a mile and |
+| three-quarters long. ... There is       |
+| something fascinating about science.    |
+| One gets such wholesome returns of      |
+| conjecture out of such a trifling       |
+| investment of fact.                     |
 |                                         |
 \ -- Mark Twain                           /
  -----------------------------------------
