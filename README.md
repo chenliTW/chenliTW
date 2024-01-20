@@ -1,39 +1,17 @@
 Last Update Time: 
-Sat Jan 20 08:51:07 UTC 2024
+Sat Jan 20 09:08:22 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ A Tale of Two Cities LITE(tm)           \
-|                                         |
-| -- by Charles Dickens                   |
-|                                         |
-| A lawyer who looks like a French        |
-| Nobleman is executed in his place.      |
-|                                         |
-| The Metamorphosis LITE(tm)              |
-|                                         |
-| -- by Franz Kafka                       |
-|                                         |
-| A man turns into a bug and his family   |
-| gets annoyed.                           |
-|                                         |
-| Lord of the Rings LITE(tm)              |
-|                                         |
-| -- by J. R. R. Tolkien                  |
-|                                         |
-| Some guys take a long vacation to throw |
-| a ring into a volcano.                  |
-|                                         |
-| Hamlet LITE(tm)                         |
-|                                         |
-| -- by Wm. Shakespeare                   |
-|                                         |
-| A college student on vacation with      |
-| family problems, a screwy               |
-|                                         |
-| girl-friend and a mother who won't act  |
-\ her age.                                /
- -----------------------------------------
+ ________________________________________
+/ I've touch'd the highest point of all  \
+| my greatness; And from that full       |
+| meridian of my glory I haste now to my |
+| setting. I shall fall, Like a bright   |
+| exhalation in the evening And no man   |
+| see me more.                           |
+|                                        |
+\ -- Shakespeare                         /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
