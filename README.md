@@ -1,17 +1,11 @@
 Last Update Time: 
-Sun Jan 21 15:48:20 UTC 2024
+Sun Jan 21 16:00:29 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ I've touch'd the highest point of all  \
-| my greatness; And from that full       |
-| meridian of my glory I haste now to my |
-| setting. I shall fall, Like a bright   |
-| exhalation in the evening And no man   |
-| see me more.                           |
-|                                        |
-\ -- Shakespeare                         /
- ----------------------------------------
+ _____________________________________
+/ Do what comes naturally. Seethe and \
+\ fume and throw a tantrum.           /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
