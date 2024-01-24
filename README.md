@@ -1,14 +1,12 @@
 Last Update Time: 
-Wed Jan 24 11:48:50 UTC 2024
+Wed Jan 24 12:10:43 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Work consists of whatever a body is   \
-| obliged to do. Play consists of       |
-| whatever a body is not obliged to do. |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ ______________________________________
+/ Q: How can you tell when a Burroughs \
+| salesman is lying? A: When his lips  |
+\ move.                                /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
