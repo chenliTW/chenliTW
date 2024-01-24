@@ -1,11 +1,13 @@
 Last Update Time: 
-Wed Jan 24 14:04:32 UTC 2024
+Wed Jan 24 14:26:39 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You'll be called to a post requiring  \
-\ ability in handling groups of people. /
- ---------------------------------------
+ ________________________________________
+/ Q: How many college football players   \
+| does it take to screw in a light bulb? |
+| A: Only one, but he gets three credits |
+\ for it.                                /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
