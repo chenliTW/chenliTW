@@ -1,10 +1,15 @@
 Last Update Time: 
-Wed Jan 24 13:02:29 UTC 2024
+Wed Jan 24 13:25:24 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ You don't become a failure until you're \
-\ satisfied with being one.               /
+/ When I reflect upon the number of       \
+| disagreeable people who I know who have |
+| gone to a better world, I am moved to   |
+| lead a different life.                  |
+|                                         |
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
