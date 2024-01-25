@@ -1,21 +1,42 @@
 Last Update Time: 
-Thu Jan 25 21:52:03 UTC 2024
+Thu Jan 25 22:08:08 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How many DEC repairman does it take \
-| to fix a flat? A: Five; four to hold   |
-| the car up and one to swap tires.      |
-|                                        |
-| Q: How long does it take? A: It's      |
-| indeterminate.                         |
-|                                        |
-| It will depend upon how many flats     |
-| they've brought with them.             |
-|                                        |
-| Q: What happens if you've got TWO      |
-\ flats? A: They replace your generator. /
- ----------------------------------------
+ _________________________________________
+/ The Bulwer-Lytton fiction contest is    \
+| held ever year at San Jose State Univ.  |
+| by Professor Scott Rice. It is held in  |
+| memory of Edward George Earle           |
+| Bulwer-Lytton (1803-1873), a rather     |
+| prolific and popular (in his time)      |
+| novelist. He is best known today for    |
+| having written "The Last Days of        |
+| Pompeii."                               |
+|                                         |
+| Whenever Snoopy starts typing his novel |
+| from the top of his doghouse, beginning |
+| "It was a dark and stormy night..." he  |
+| is borrowing from Lord Bulwer-Lytton.   |
+| This was the line that opened his       |
+| novel, "Paul Clifford," written in      |
+| 1830. The full line reveals why it is   |
+| so bad:                                 |
+|                                         |
+| It was a dark and stormy night; the     |
+| rain fell in torrents -- except         |
+|                                         |
+| at occasional intervals, when it was    |
+| checked by a violent gust of            |
+|                                         |
+| wind which swept up the streets (for it |
+| is in London that our scene             |
+|                                         |
+| lies), rattling along the housetops,    |
+| and fiercely agitating the scanty       |
+|                                         |
+| flame of the lamps that struggled       |
+\ against the darkness.                   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
