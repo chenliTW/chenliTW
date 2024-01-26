@@ -1,21 +1,21 @@
 Last Update Time: 
-Fri Jan 26 14:55:18 UTC 2024
+Fri Jan 26 15:15:56 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Awash with unfocused desire, Everett    \
-| twisted the lobe of his one remaining   |
-| ear and felt the presence of somebody   |
-| else behind him, which caused terror to |
-| push through his nervous system like a  |
-| flash flood roaring down the mid-fork   |
-| of the Feather River before the         |
-| completion of the Oroville Dam in 1959. |
+/  My dear People.                        \
 |                                         |
-| -- Grand Panjandrum's Special Award,    |
-| 1984 Bulwer-Lytton                      |
+| My dear Bagginses and Boffins, and my   |
+| dear Tooks and Brandybucks, and Grubbs, |
+| and Chubbs, and Burrowses, and          |
+| Hornblowers, and Bolgers, Bracegirdles, |
+| Goodbodies, Brockhouses and Proudfoots. |
+| Also my good Sackville Bagginses that I |
+| welcome back at last to Bag End. Today  |
+| is my one hundred and eleventh          |
+| birthday: I am eleventy-one today!"     |
 |                                         |
-\ bad fiction contest.                    /
+\ -- J. R. R. Tolkien                     /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
