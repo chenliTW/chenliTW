@@ -1,12 +1,14 @@
 Last Update Time: 
-Sat Jan 27 22:36:12 UTC 2024
+Sat Jan 27 22:47:56 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You plan things that you do not even \
-| attempt because of your extreme      |
-\ caution.                             /
- --------------------------------------
+ ________________________________________
+/ Q: What do you call a WASP who doesn't \
+| work for his father, isn't a           |
+|                                        |
+| lawyer, and believes in social causes? |
+\ A: A failure.                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
