@@ -1,12 +1,13 @@
 Last Update Time: 
-Mon Jan 29 23:13:46 UTC 2024
+Mon Jan 29 23:26:02 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What do you say to a New Yorker with \
-| a job? A: Big Mac, fries and a Coke,    |
-\ please!                                 /
- -----------------------------------------
+ ______________________________________
+/ Q: How many Marxists does it take to \
+| screw in a light bulb? A: None: The  |
+| light bulb contains the seeds of its |
+\ own revolution.                      /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
