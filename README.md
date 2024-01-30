@@ -1,14 +1,14 @@
 Last Update Time: 
-Tue Jan 30 05:18:24 UTC 2024
+Tue Jan 30 05:29:52 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ As to the Adjective: when in doubt, \
-| strike it out.                      |
-|                                     |
-| -- Mark Twain, "Pudd'nhead Wilson's |
-\ Calendar"                           /
- -------------------------------------
+ ____________________________________
+/ The last thing one knows in        \
+| constructing a work is what to put |
+| first.                             |
+|                                    |
+\ -- Blaise Pascal                   /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
