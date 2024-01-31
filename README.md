@@ -1,14 +1,14 @@
 Last Update Time: 
-Wed Jan 31 13:47:13 UTC 2024
+Wed Jan 31 13:58:59 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ I was gratified to be able to answer \
-| promptly, and I did. I said I didn't |
-| know.                                |
-|                                      |
-\ -- Mark Twain                        /
- --------------------------------------
+ ____________________________________
+/ The last thing one knows in        \
+| constructing a work is what to put |
+| first.                             |
+|                                    |
+\ -- Blaise Pascal                   /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
