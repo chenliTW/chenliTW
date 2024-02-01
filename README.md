@@ -1,14 +1,13 @@
 Last Update Time: 
-Thu Feb  1 21:45:44 UTC 2024
+Thu Feb  1 21:57:29 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ "... an experienced, industrious, \
-| ambitious, and often quite often  |
-| picturesque liar."                |
-|                                   |
-\ -- Mark Twain                     /
- -----------------------------------
+ ____________________________________
+/ An honest tale speeds best being   \
+| plainly told.                      |
+|                                    |
+\ -- William Shakespeare, "Henry VI" /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
