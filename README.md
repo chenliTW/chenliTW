@@ -1,11 +1,14 @@
 Last Update Time: 
-Mon Feb  5 23:48:06 UTC 2024
+Mon Feb  5 23:59:52 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________
-/ Tonight's the night: Sleep in a \
-\ eucalyptus tree.                /
- ---------------------------------
+ ________________________________________
+/ Q: Why does Washington have the most   \
+| lawyers per capita and                 |
+|                                        |
+| New Jersey the most toxic waste dumps? |
+\ A: God gave New Jersey first choice.   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
