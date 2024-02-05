@@ -1,19 +1,12 @@
 Last Update Time: 
-Mon Feb  5 15:46:50 UTC 2024
+Mon Feb  5 15:58:48 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ At once it struck me what quality went \
-| to form a man of achievement,          |
-| especially in literature, and which    |
-| Shakespeare possessed so enormously -- |
-| I mean negative capability, that is,   |
-| when a man is capable of being in      |
-| uncertainties, mysteries, doubts,      |
-| without any irritable reaching after   |
-| fact and reason.                       |
-|                                        |
-\ -- John Keats                          /
+/ Q: How many Harvard MBA's does it take \
+| to screw in a light bulb? A: Just one. |
+| He grasps it firmly and the universe   |
+\ revolves around him.                   /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
