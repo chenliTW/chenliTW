@@ -1,13 +1,18 @@
 Last Update Time: 
-Wed Feb  7 21:39:34 UTC 2024
+Wed Feb  7 21:51:23 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: Why does Washington have the most   \
-| lawyers per capita and                 |
+/ We know all about the habits of the    \
+| ant, we know all about the habits of   |
+| the bee, but we know nothing at all    |
+| about the habits of the oyster. It     |
+| seems almost certain that we have been |
+| choosing the wrong time for studying   |
+| the oyster.                            |
 |                                        |
-| New Jersey the most toxic waste dumps? |
-\ A: God gave New Jersey first choice.   /
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
