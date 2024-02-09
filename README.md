@@ -1,15 +1,11 @@
 Last Update Time: 
-Fri Feb  9 19:24:55 UTC 2024
+Fri Feb  9 19:36:51 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ My only love sprung from my only hate! \
-| Too early seen unknown, and known too  |
-| late!                                  |
-|                                        |
-| -- William Shakespeare, "Romeo and     |
-\ Juliet"                                /
- ----------------------------------------
+ _____________________________________
+/ Do what comes naturally. Seethe and \
+\ fume and throw a tantrum.           /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
