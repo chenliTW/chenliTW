@@ -1,14 +1,14 @@
 Last Update Time: 
-Fri Feb  9 07:57:37 UTC 2024
+Fri Feb  9 08:20:58 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ When you are about to die, a wombat is \
-| better than no company at all.         |
-|                                        |
-| -- Roger Zelazny, "Doorways in the     |
-\ Sand"                                  /
- ----------------------------------------
+ _________________________________________
+/ Q: How does a hacker fix a function     \
+| which                                   |
+|                                         |
+| doesn't work for all of the elements in |
+\ its domain? A: He changes the domain.   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
