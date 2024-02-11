@@ -1,18 +1,11 @@
 Last Update Time: 
-Sun Feb 11 02:26:00 UTC 2024
+Sun Feb 11 02:37:44 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________
-/ To be or not to be.            \
-|                                |
-| -- Shakespeare To do is to be. |
-|                                |
-| -- Nietzsche To be is to do.   |
-|                                |
-| -- Sartre Do be do be do.      |
-|                                |
-\ -- Sinatra                     /
- --------------------------------
+ ______________________________________
+/ Never be led astray onto the path of \
+\ virtue.                              /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
