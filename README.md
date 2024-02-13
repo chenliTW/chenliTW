@@ -1,16 +1,21 @@
 Last Update Time: 
-Tue Feb 13 16:39:20 UTC 2024
+Tue Feb 13 16:51:05 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ In Marseilles they make half the toilet \
-| soap we consume in America, but the     |
-| Marseillaise only have a vague          |
-| theoretical idea of its use, which they |
-| have obtained from books of travel.     |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ________________________________________
+/ Q: How many DEC repairman does it take \
+| to fix a flat? A: Five; four to hold   |
+| the car up and one to swap tires.      |
+|                                        |
+| Q: How long does it take? A: It's      |
+| indeterminate.                         |
+|                                        |
+| It will depend upon how many flats     |
+| they've brought with them.             |
+|                                        |
+| Q: What happens if you've got TWO      |
+\ flats? A: They replace your generator. /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
