@@ -1,14 +1,13 @@
 Last Update Time: 
-Tue Feb 13 03:56:01 UTC 2024
+Tue Feb 13 04:19:31 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many Bell Labs Vice Presidents   \
-| does it take to change a light bulb? A: |
-| That's proprietary information. Answer  |
-| available from AT&T on payment          |
+/ Q: How does a hacker fix a function     \
+| which                                   |
 |                                         |
-\ of license fee (binary only).           /
+| doesn't work for all of the elements in |
+\ its domain? A: He changes the domain.   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
