@@ -1,38 +1,24 @@
 Last Update Time: 
-Tue Feb 13 13:55:30 UTC 2024
+Tue Feb 13 14:14:10 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ A Tale of Two Cities LITE(tm)           \
+/ Q: How many IBM types does it take to   \
+| change a light bulb? A: Fifteen. One to |
+| do it, and fourteen to write document   |
+| number                                  |
 |                                         |
-| -- by Charles Dickens                   |
+| GC7500439-0001, Multitasking            |
+| Incandescent Source System Facility,    |
 |                                         |
-| A lawyer who looks like a French        |
-| Nobleman is executed in his place.      |
+| of which 10% of the pages state only    |
+| "This page intentionally                |
 |                                         |
-| The Metamorphosis LITE(tm)              |
+| left blank", and 20% of the definitions |
+| are of the form "A:.....                |
 |                                         |
-| -- by Franz Kafka                       |
-|                                         |
-| A man turns into a bug and his family   |
-| gets annoyed.                           |
-|                                         |
-| Lord of the Rings LITE(tm)              |
-|                                         |
-| -- by J. R. R. Tolkien                  |
-|                                         |
-| Some guys take a long vacation to throw |
-| a ring into a volcano.                  |
-|                                         |
-| Hamlet LITE(tm)                         |
-|                                         |
-| -- by Wm. Shakespeare                   |
-|                                         |
-| A college student on vacation with      |
-| family problems, a screwy               |
-|                                         |
-| girl-friend and a mother who won't act  |
-\ her age.                                /
+| consists of sequences of non-blank      |
+\ characters separated by blanks".        /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
