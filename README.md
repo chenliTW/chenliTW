@@ -1,17 +1,14 @@
 Last Update Time: 
-Tue Feb 13 03:44:14 UTC 2024
+Tue Feb 13 03:56:01 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ It is right that he too should have his \
-| little chronicle, his memories, his     |
-| reason, and be able to recognize the    |
-| good in the bad, the bad in the worst,  |
-| and so grow gently old all down the     |
-| unchanging days and die one day like    |
-| any other day, only shorter.            |
+/ Q: How many Bell Labs Vice Presidents   \
+| does it take to change a light bulb? A: |
+| That's proprietary information. Answer  |
+| available from AT&T on payment          |
 |                                         |
-\ -- Samuel Beckett, "Malone Dies"        /
+\ of license fee (binary only).           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
