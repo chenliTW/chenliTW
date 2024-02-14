@@ -1,14 +1,13 @@
 Last Update Time: 
-Wed Feb 14 22:29:44 UTC 2024
+Wed Feb 14 22:41:33 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _______________________________________
-/ Perilous to all of us are the devices \
-| of an art deeper than we ourselves    |
-| possess.                              |
+/ Q: What do you call the money you pay \
+| to the government when                |
 |                                       |
-| -- Gandalf the Grey [J.R.R. Tolkien,  |
-\ "Lord of the Rings"]                  /
+| you ride into the country on the back |
+\ of an elephant? A: A howdah duty.     /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
