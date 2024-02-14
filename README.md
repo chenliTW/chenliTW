@@ -1,15 +1,13 @@
 Last Update Time: 
-Wed Feb 14 02:26:43 UTC 2024
+Wed Feb 14 02:38:39 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Writing is easy; all you do is sit  \
-| staring at the blank sheet of paper |
-| until drops of blood form on your   |
-| forehead.                           |
-|                                     |
-\ -- Gene Fowler                      /
- -------------------------------------
+ ________________________________________
+/ There's small choice in rotten apples. \
+|                                        |
+| -- William Shakespeare, "The Taming of |
+\ the Shrew"                             /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
