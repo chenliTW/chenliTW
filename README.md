@@ -1,15 +1,11 @@
 Last Update Time: 
-Wed Feb 14 20:28:26 UTC 2024
+Wed Feb 14 20:40:11 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ There is no hunting like the hunting of \
-| man, and those who have hunted armed    |
-| men long enough and liked it, never     |
-| care for anything else thereafter.      |
-|                                         |
-\ -- Ernest Hemingway                     /
- -----------------------------------------
+ _____________________________________
+/ You are dishonest, but never to the \
+\ point of hurting a friend.          /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
