@@ -1,25 +1,41 @@
 Last Update Time: 
-Fri Feb 16 11:35:46 UTC 2024
+Fri Feb 16 11:47:32 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ No live organism can continue for long  \
-| to exist sanely under conditions of     |
-| absolute reality; even larks and        |
-| katydids are supposed, by some, to      |
-| dream. Hill House, not sane, stood by   |
-| itself against its hills, holding       |
-| darkness within; it had stood so for    |
-| eighty years and might stand for eighty |
-| more. Within, walls continued upright,  |
-| bricks met neatly, floors were firm,    |
-| and doors were sensibly shut; silence   |
-| lay steadily against the wood and stone |
-| of Hill House, and whatever walked      |
-| there, walked alone.                    |
+/ The Bulwer-Lytton fiction contest is    \
+| held ever year at San Jose State Univ.  |
+| by Professor Scott Rice. It is held in  |
+| memory of Edward George Earle           |
+| Bulwer-Lytton (1803-1873), a rather     |
+| prolific and popular (in his time)      |
+| novelist. He is best known today for    |
+| having written "The Last Days of        |
+| Pompeii."                               |
 |                                         |
-| -- Shirley Jackson, "The Haunting of    |
-\ Hill House"                             /
+| Whenever Snoopy starts typing his novel |
+| from the top of his doghouse, beginning |
+| "It was a dark and stormy night..." he  |
+| is borrowing from Lord Bulwer-Lytton.   |
+| This was the line that opened his       |
+| novel, "Paul Clifford," written in      |
+| 1830. The full line reveals why it is   |
+| so bad:                                 |
+|                                         |
+| It was a dark and stormy night; the     |
+| rain fell in torrents -- except         |
+|                                         |
+| at occasional intervals, when it was    |
+| checked by a violent gust of            |
+|                                         |
+| wind which swept up the streets (for it |
+| is in London that our scene             |
+|                                         |
+| lies), rattling along the housetops,    |
+| and fiercely agitating the scanty       |
+|                                         |
+| flame of the lamps that struggled       |
+\ against the darkness.                   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
