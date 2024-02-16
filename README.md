@@ -1,13 +1,21 @@
 Last Update Time: 
-Fri Feb 16 20:59:12 UTC 2024
+Fri Feb 16 21:15:19 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Something's rotten in the state of \
-| Denmark.                           |
-|                                    |
-\ -- Shakespeare                     /
- ------------------------------------
+ _________________________________________
+/ Q: How many existentialists does it     \
+| take to screw in a light bulb? A: Two.  |
+| One to screw it in and one to observe   |
+| how the light bulb                      |
+|                                         |
+| itself symbolizes a single incandescent |
+| beacon of subjective                    |
+|                                         |
+| reality in a netherworld of endless     |
+| absurdity reaching out toward a         |
+|                                         |
+\ maudlin cosmos of nothingness.          /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
