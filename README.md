@@ -1,12 +1,12 @@
 Last Update Time: 
-Sat Feb 17 09:53:11 UTC 2024
+Sat Feb 17 10:11:50 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ What no spouse of a writer can ever    \
-| understand is that a writer is working |
-\ when he's staring out the window.      /
- ----------------------------------------
+ ______________________________________
+/ Q: How can you tell when a Burroughs \
+| salesman is lying? A: When his lips  |
+\ move.                                /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
