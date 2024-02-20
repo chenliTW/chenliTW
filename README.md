@@ -1,18 +1,13 @@
 Last Update Time: 
-Tue Feb 20 02:21:50 UTC 2024
+Tue Feb 20 02:33:59 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Behold, the fool saith, "Put not all    \
-| thine eggs in the one basket"--which is |
-| but a manner of saying, "Scatter your   |
-| money and your attention;" but the wise |
-| man saith, "Put all your eggs in the    |
-| one basket and--WATCH THAT BASKET."     |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
- -----------------------------------------
+ ____________________________________
+/ Tempt not a desperate man.         \
+|                                    |
+| -- William Shakespeare, "Romeo and |
+\ Juliet"                            /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
