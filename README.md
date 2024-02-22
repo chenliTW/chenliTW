@@ -1,14 +1,10 @@
 Last Update Time: 
-Thu Feb 22 01:57:07 UTC 2024
+Thu Feb 22 02:22:43 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ The last thing one knows in        \
-| constructing a work is what to put |
-| first.                             |
-|                                    |
-\ -- Blaise Pascal                   /
- ------------------------------------
+ ___________________
+< Are you a turtle? >
+ -------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
