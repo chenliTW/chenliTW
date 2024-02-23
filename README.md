@@ -1,17 +1,12 @@
 Last Update Time: 
-Fri Feb 23 04:38:54 UTC 2024
+Fri Feb 23 04:50:38 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The only people for me are the mad ones \
-| -- the ones who are mad to live, mad to |
-| talk, mad to be saved, desirous of      |
-| everything at the same time, the ones   |
-| who never yawn or say a commonplace     |
-| thing, but burn, burn, burn like        |
-| fabulous yellow Roman candles.          |
+/ The abuse of greatness is when it       \
+| disjoins remorse from power.            |
 |                                         |
-\ -- Jack Kerouac, "On the Road"          /
+\ -- William Shakespeare, "Julius Caesar" /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
