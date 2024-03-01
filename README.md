@@ -1,12 +1,17 @@
 Last Update Time: 
-Fri Mar  1 16:48:10 UTC 2024
+Fri Mar  1 17:00:07 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The first thing we do, let's kill all   \
-| the lawyers.                            |
+/ Q: What's the difference between the    \
+| 1950's and the 1980's? A: In the 80's,  |
+| a man walks into a drugstore and states |
+| loudly, "I'd                            |
 |                                         |
-\ -- Wm. Shakespeare, "Henry VI", Part IV /
+| like some condoms," and then, leaning   |
+| over the counter, whispers,             |
+|                                         |
+\ "and some cigarettes."                  /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
