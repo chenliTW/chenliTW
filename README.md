@@ -1,34 +1,24 @@
 Last Update Time: 
-Fri Mar  1 04:00:02 UTC 2024
+Fri Mar  1 04:23:34 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The Least Successful Collector          \
+/ Delores breezed along the surface of    \
+| her life like a flat stone forever      |
+| skipping along smooth water, rippling   |
+| reality sporadically but oblivious to   |
+| it consistently, until she finally lost |
+| momentum, sank, and due to an overdose  |
+| of flouride as a child which caused her |
+| to suffer from chronic apathy, doomed   |
+| herself to lie forever on the floor of  |
+| her life as useless as an appendix and  |
+| as lonely as a five-hundred pound       |
+| barbell in a steroid-free fitness       |
+| center.                                 |
 |                                         |
-| Betsy Baker played a central role in    |
-| the history of collecting. She was      |
-| employed as a servant in the house of   |
-| John Warburton (1682-1759) who had      |
-| amassed a fine collection of 58 first   |
-| edition plays, including most of the    |
-| works of Shakespeare.                   |
-|                                         |
-| One day Warburton returned home to find |
-| 55 of them charred beyond legibility.   |
-| Betsy had either burned them or used    |
-| them as pie bottoms. The remaining      |
-| three folios are now in the British     |
-| Museum.                                 |
-|                                         |
-| The only comparable literary figure was |
-| the maid who in 1835 burned the         |
-| manuscript of the first volume of       |
-| Thomas Carlyle's "The Hisory of the     |
-| French Revolution", thinking it was     |
-| wastepaper.                             |
-|                                         |
-| -- Stephen Pile, "The Book of Heroic    |
-\ Failures"                               /
+| -- Winning sentence, 1990 Bulwer-Lytton |
+\ bad fiction contest.                    /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
