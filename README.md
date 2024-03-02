@@ -1,17 +1,13 @@
 Last Update Time: 
-Sat Mar  2 04:25:47 UTC 2024
+Sat Mar  2 04:38:05 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ In India, "cold weather" is merely a    \
-| conventional phrase and has come into   |
-| use through the necessity of having     |
-| some way to distinguish between weather |
-| which will melt a brass door-knob and   |
-| weather which will only make it mushy.  |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ _______________________________________
+/ Q: How many IBM CPU's does it take to \
+| do a logical right shift? A: 33. 1 to |
+| hold the bits and 32 to push the      |
+\ register.                             /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
