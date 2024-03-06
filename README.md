@@ -1,14 +1,12 @@
 Last Update Time: 
-Wed Mar  6 05:18:33 UTC 2024
+Wed Mar  6 05:30:22 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: What do you call a WASP who doesn't \
-| work for his father, isn't a           |
-|                                        |
-| lawyer, and believes in social causes? |
-\ A: A failure.                          /
- ----------------------------------------
+ _________________________________________
+/ You will lose your present job and have \
+| to become a door to door mayonnaise     |
+\ salesman.                               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
