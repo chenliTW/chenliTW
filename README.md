@@ -1,13 +1,13 @@
 Last Update Time: 
-Thu Mar  7 08:47:45 UTC 2024
+Thu Mar  7 08:59:30 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Always the dullness of the fool is the \
-| whetstone of the wits.                 |
+/ Q: Why does Washington have the most   \
+| lawyers per capita and                 |
 |                                        |
-| -- William Shakespeare, "As You Like   |
-\ It"                                    /
+| New Jersey the most toxic waste dumps? |
+\ A: God gave New Jersey first choice.   /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
