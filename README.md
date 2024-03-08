@@ -1,16 +1,20 @@
 Last Update Time: 
-Fri Mar  8 21:39:45 UTC 2024
+Fri Mar  8 21:51:30 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How many lawyers does it take to    \
-| change a light bulb? A: You won't find |
-| a lawyer who can change a light bulb.  |
-| Now, if                                |
-|                                        |
-| you're looking for a lawyer to screw a |
-\ light bulb...                          /
- ----------------------------------------
+ _________________________________________
+/ Stop! There was first a game of         \
+| blindman's buff. Of course there was.   |
+| And I no more believe Topper was really |
+| blind than I believe he had eyes in his |
+| boots. My opinion is, that it was a     |
+| done thing between him and Scrooge's    |
+| nephew; and that the Ghost of Christmas |
+| Present knew it. The way he went after  |
+| that plump sister in the lace tucker,   |
+| was an outrage on the credulity of      |
+\ human nature.                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
