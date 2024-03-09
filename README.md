@@ -1,13 +1,13 @@
 Last Update Time: 
-Sat Mar  9 04:55:53 UTC 2024
+Sat Mar  9 05:19:02 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How do you catch a unique rabbit? A: \
-| Unique up on it!                        |
+/ Q: How does a hacker fix a function     \
+| which                                   |
 |                                         |
-| Q: How do you catch a tame rabbit? A:   |
-\ The tame way!                           /
+| doesn't work for all of the elements in |
+\ its domain? A: He changes the domain.   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
