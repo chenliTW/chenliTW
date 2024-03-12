@@ -1,18 +1,11 @@
 Last Update Time: 
-Tue Mar 12 09:47:18 UTC 2024
+Tue Mar 12 09:59:31 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Steady movement is more important than \
-| speed, much of the time. So long as    |
-| there is a regular progression of      |
-| stimuli to get your mental hooks into, |
-| there is room for lateral movement.    |
-| Once this begins, its rate is a matter |
-| of discretion.                         |
-|                                        |
-\ -- Corwin, Prince of Amber             /
- ----------------------------------------
+ _________________________________________
+/ Write yourself a threatening letter and \
+\ pen a defiant reply.                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
