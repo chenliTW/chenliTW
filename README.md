@@ -1,15 +1,15 @@
 Last Update Time: 
-Wed Mar 13 04:22:14 UTC 2024
+Wed Mar 13 04:35:08 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Perilous to all of us are the devices \
-| of an art deeper than we ourselves    |
-| possess.                              |
-|                                       |
-| -- Gandalf the Grey [J.R.R. Tolkien,  |
-\ "Lord of the Rings"]                  /
- ---------------------------------------
+ ________________________________________
+/ This is the first age that's paid much \
+| attention to the future, which is a    |
+| little ironic since we may not have    |
+| one.                                   |
+|                                        |
+\ -- Arthur Clarke                       /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
