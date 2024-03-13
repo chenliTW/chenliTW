@@ -1,17 +1,14 @@
 Last Update Time: 
-Wed Mar 13 06:23:38 UTC 2024
+Wed Mar 13 06:36:01 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ In India, "cold weather" is merely a    \
-| conventional phrase and has come into   |
-| use through the necessity of having     |
-| some way to distinguish between weather |
-| which will melt a brass door-knob and   |
-| weather which will only make it mushy.  |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ________________________________________
+/ Q: Why haven't you graduated yet? A:   \
+| Well, Dad, I could have finished years |
+| ago, but I wanted                      |
+|                                        |
+\ my dissertation to rhyme.              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
