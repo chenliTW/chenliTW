@@ -1,18 +1,14 @@
 Last Update Time: 
-Thu Mar 14 05:11:39 UTC 2024
+Thu Mar 14 05:26:09 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ The bay-trees in our country are all  \
-| wither'd And meteors fright the fixed |
-| stars of heaven; The pale-faced moon  |
-| looks bloody on the earth And         |
-| lean-look'd prophets whisper fearful  |
-| change. These signs forerun the death |
-| or fall of kings.                     |
-|                                       |
-\ -- Wm. Shakespeare, "Richard II"      /
- ---------------------------------------
+ _________________________________________
+/ In the Spring, I have counted 136       \
+| different kinds of weather inside of 24 |
+| hours.                                  |
+|                                         |
+\ -- Mark Twain, on New England weather   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
