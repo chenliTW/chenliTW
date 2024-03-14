@@ -1,11 +1,15 @@
 Last Update Time: 
-Thu Mar 14 18:23:10 UTC 2024
+Thu Mar 14 18:35:10 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You'd like to do it instantaneously, \
-\ but that's too slow.                 /
- --------------------------------------
+ ________________________________________
+/ There is always one thing to remember: \
+| writers are always selling somebody    |
+| out.                                   |
+|                                        |
+| -- Joan Didion, "Slouching Towards     |
+\ Bethlehem"                             /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
