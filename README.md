@@ -1,16 +1,12 @@
 Last Update Time: 
-Fri Mar 15 13:24:23 UTC 2024
+Fri Mar 15 13:36:13 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Swerve me? The path to my fixed purpose \
-| is laid with iron rails, whereon my     |
-| soul is grooved to run. Over unsounded  |
-| gorges, through the rifled hearts of    |
-| mountains, under torrents' beds,        |
-| unerringly I rush!                      |
+/ I have never let my schooling interfere \
+| with my education.                      |
 |                                         |
-\ -- Captain Ahab, "Moby Dick"            /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
