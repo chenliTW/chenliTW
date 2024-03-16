@@ -1,12 +1,13 @@
 Last Update Time: 
-Sat Mar 16 17:40:30 UTC 2024
+Sat Mar 16 17:52:21 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why did the lone ranger kill Tonto? \
-| A: He found out what "kimosabe" really |
-\ means.                                 /
- ----------------------------------------
+ _________________________________________
+/ He that breaks a thing to find out what \
+| it is has left the path of wisdom.      |
+|                                         |
+\ -- J.R.R. Tolkien                       /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
