@@ -1,17 +1,17 @@
 Last Update Time: 
-Sat Mar 16 22:54:27 UTC 2024
+Sat Mar 16 23:15:26 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Behold, the fool saith, "Put not all    \
-| thine eggs in the one basket"--which is |
-| but a manner of saying, "Scatter your   |
-| money and your attention;" but the wise |
-| man saith, "Put all your eggs in the    |
-| one basket and--WATCH THAT BASKET."     |
+/ The only people for me are the mad ones \
+| -- the ones who are mad to live, mad to |
+| talk, mad to be saved, desirous of      |
+| everything at the same time, the ones   |
+| who never yawn or say a commonplace     |
+| thing, but burn, burn, burn like        |
+| fabulous yellow Roman candles.          |
 |                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
+\ -- Jack Kerouac, "On the Road"          /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
