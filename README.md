@@ -1,20 +1,17 @@
 Last Update Time: 
-Mon Mar 18 02:59:20 UTC 2024
+Mon Mar 18 03:20:52 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The lovely woman-child Kaa was          \
-| mercilessly chained to the cruel post   |
-| of the warrior-chief Beast, with his    |
-| barbarian tribe now stacking wood at    |
-| her nubile feet, when the strong clear  |
-| voice of the poetic and heroic          |
-| Handsomas roared, 'Flick your Bic,      |
-| crisp that chick, and you'll feel my    |
-| steel through your last meal!'          |
+/ Q: What did Tarzan say when he saw the  \
+| elephants coming over the hill? A: "The |
+| elephants are coming over the hill."    |
 |                                         |
-| -- Winning sentence, 1984 Bulwer-Lytton |
-\ bad fiction contest.                    /
+| Q: What did he say when saw them coming |
+| over the hill wearing                   |
+|                                         |
+| sunglasses? A: Nothing, for he didn't   |
+\ recognize them.                         /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
