@@ -1,18 +1,15 @@
 Last Update Time: 
-Tue Mar 19 09:35:39 UTC 2024
+Tue Mar 19 09:47:35 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ The bay-trees in our country are all  \
-| wither'd And meteors fright the fixed |
-| stars of heaven; The pale-faced moon  |
-| looks bloody on the earth And         |
-| lean-look'd prophets whisper fearful  |
-| change. These signs forerun the death |
-| or fall of kings.                     |
-|                                       |
-\ -- Wm. Shakespeare, "Richard II"      /
- ---------------------------------------
+ ______________________________________
+/ F.S. Fitzgerald to Hemingway:        \
+|                                      |
+| "Ernest, the rich are different from |
+| us." Hemingway:                      |
+|                                      |
+\ "Yes. They have more money."         /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
