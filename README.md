@@ -1,18 +1,14 @@
 Last Update Time: 
-Tue Mar 19 06:46:31 UTC 2024
+Tue Mar 19 06:58:03 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ The only people for me are the mad ones \
-| -- the ones who are mad to live, mad to |
-| talk, mad to be saved, desirous of      |
-| everything at the same time, the ones   |
-| who never yawn or say a commonplace     |
-| thing, but burn, burn, burn like        |
-| fabulous yellow Roman candles.          |
-|                                         |
-\ -- Jack Kerouac, "On the Road"          /
- -----------------------------------------
+ ______________________________________
+/ In the first place, God made idiots; \
+| this was for practice; then he made  |
+| school boards.                       |
+|                                      |
+\ -- Mark Twain                        /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
