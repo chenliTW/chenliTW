@@ -1,18 +1,11 @@
 Last Update Time: 
-Wed Mar 20 22:42:12 UTC 2024
+Wed Mar 20 22:53:49 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Behold, the fool saith, "Put not all    \
-| thine eggs in the one basket"--which is |
-| but a manner of saying, "Scatter your   |
-| money and your attention;" but the wise |
-| man saith, "Put all your eggs in the    |
-| one basket and--WATCH THAT BASKET."     |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
- -----------------------------------------
+ _____________________________________
+/ You will have a long and unpleasant \
+\ discussion with your supervisor.    /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
