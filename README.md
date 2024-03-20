@@ -1,13 +1,10 @@
 Last Update Time: 
-Wed Mar 20 20:27:21 UTC 2024
+Wed Mar 20 20:40:00 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How many Harvard MBA's does it take \
-| to screw in a light bulb? A: Just one. |
-| He grasps it firmly and the universe   |
-\ revolves around him.                   /
- ----------------------------------------
+ __________________________
+< Advancement in position. >
+ --------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
