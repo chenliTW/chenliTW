@@ -1,11 +1,15 @@
 Last Update Time: 
-Fri Mar 22 20:11:53 UTC 2024
+Fri Mar 22 20:24:06 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Are you ever going to do the dishes? Or \
-\ will you change your major to biology?  /
- -----------------------------------------
+ _____________________________________
+/ Writing is easy; all you do is sit  \
+| staring at the blank sheet of paper |
+| until drops of blood form on your   |
+| forehead.                           |
+|                                     |
+\ -- Gene Fowler                      /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
