@@ -1,18 +1,15 @@
 Last Update Time: 
-Sun Mar 24 17:40:48 UTC 2024
+Sun Mar 24 17:52:47 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What's the difference between the    \
-| 1950's and the 1980's? A: In the 80's,  |
-| a man walks into a drugstore and states |
-| loudly, "I'd                            |
-|                                         |
-| like some condoms," and then, leaning   |
-| over the counter, whispers,             |
-|                                         |
-\ "and some cigarettes."                  /
- -----------------------------------------
+ _____________________________________
+/ Q: What do you call 15 blondes in a \
+| circle? A: A dope ring.             |
+|                                     |
+| Q: Why do blondes put their hair in |
+| ponytails? A: To cover up the valve |
+\ stem.                               /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
