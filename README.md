@@ -1,15 +1,25 @@
 Last Update Time: 
-Tue Mar 26 11:28:35 UTC 2024
+Tue Mar 26 11:40:15 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ In Marseilles they make half the toilet \
-| soap we consume in America, but the     |
-| Marseillaise only have a vague          |
-| theoretical idea of its use, which they |
-| have obtained from books of travel.     |
+/ No live organism can continue for long  \
+| to exist sanely under conditions of     |
+| absolute reality; even larks and        |
+| katydids are supposed, by some, to      |
+| dream. Hill House, not sane, stood by   |
+| itself against its hills, holding       |
+| darkness within; it had stood so for    |
+| eighty years and might stand for eighty |
+| more. Within, walls continued upright,  |
+| bricks met neatly, floors were firm,    |
+| and doors were sensibly shut; silence   |
+| lay steadily against the wood and stone |
+| of Hill House, and whatever walked      |
+| there, walked alone.                    |
 |                                         |
-\ -- Mark Twain                           /
+| -- Shirley Jackson, "The Haunting of    |
+\ Hill House"                             /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
