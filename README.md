@@ -1,12 +1,23 @@
 Last Update Time: 
-Wed Mar 27 11:50:53 UTC 2024
+Wed Mar 27 12:16:08 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ I have never let my schooling interfere \
-| with my education.                      |
+/ Q: How many gradual (sorry, that's      \
+| supposed to be "graduate") students     |
 |                                         |
-\ -- Mark Twain                           /
+| does it take to screw in a light bulb?  |
+| A: "I'm afraid we don't know, but make  |
+| my stipend tax-free, give my            |
+|                                         |
+| advisor a $30,000 grant of the          |
+| taxpayer's money, and I'm sure he       |
+|                                         |
+| can tell me how to do the gruntwork for |
+| him so he can take the                  |
+|                                         |
+| credit for answering this incredibly    |
+\ vital question."                        /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
