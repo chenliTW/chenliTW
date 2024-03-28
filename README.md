@@ -1,13 +1,11 @@
 Last Update Time: 
-Thu Mar 28 12:48:22 UTC 2024
+Thu Mar 28 12:59:39 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: What looks like a cat, flies like a \
-| bat, brays like a donkey, and          |
-|                                        |
-\ plays like a monkey? A: Nothing.       /
- ----------------------------------------
+ ______________________________________
+/ Q: What's hard going in and soft and \
+\ sticky coming out? A: Chewing gum.   /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
