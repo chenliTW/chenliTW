@@ -1,17 +1,14 @@
 Last Update Time: 
-Thu Mar 28 21:08:51 UTC 2024
+Thu Mar 28 21:21:34 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ April 1                              \
-|                                      |
-| This is the day upon which we are    |
-| reminded of what we are on the other |
-| three hundred and sixty-four.        |
-|                                      |
-| -- Mark Twain, "Pudd'nhead Wilson's  |
-\ Calendar"                            /
- --------------------------------------
+ ________________________________________
+/ Q: Why does Washington have the most   \
+| lawyers per capita and                 |
+|                                        |
+| New Jersey the most toxic waste dumps? |
+\ A: God gave New Jersey first choice.   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
