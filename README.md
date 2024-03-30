@@ -1,14 +1,10 @@
 Last Update Time: 
-Sat Mar 30 12:46:06 UTC 2024
+Sat Mar 30 12:57:47 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ ROMEO: Courage, man; the hurt cannot be \
-| much. MERCUTIO: No, 'tis not so deep as |
-| a well, nor so wide                     |
-|                                         |
-| as a church-door; but 'tis enough,      |
-\ 'twill serve.                           /
+/ Q: What is the difference between Texas \
+\ and yogurt? A: Yogurt has culture.      /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
