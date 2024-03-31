@@ -1,14 +1,11 @@
 Last Update Time: 
-Sun Mar 31 15:46:46 UTC 2024
+Sun Mar 31 15:58:33 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ Q: What does a WASP Mom make for   \
-| dinner? A: A crisp salad, a hearty |
-| soup, a lovely entree, followed by |
-|                                    |
-\ a delicious dessert.               /
- ------------------------------------
+ _________________________________________
+/ Write yourself a threatening letter and \
+\ pen a defiant reply.                    /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
