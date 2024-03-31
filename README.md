@@ -1,21 +1,23 @@
 Last Update Time: 
-Sun Mar 31 07:48:17 UTC 2024
+Sun Mar 31 08:00:03 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/  "You have heard me speak of Professor  \
-| Moriarty?"                              |
+/ Q: How many gradual (sorry, that's      \
+| supposed to be "graduate") students     |
 |                                         |
-| "The famous scientific criminal, as     |
-| famous among crooks as --"              |
+| does it take to screw in a light bulb?  |
+| A: "I'm afraid we don't know, but make  |
+| my stipend tax-free, give my            |
 |                                         |
-| "My blushes, Watson," Holmes murmured,  |
-| in a deprecating voice.                 |
+| advisor a $30,000 grant of the          |
+| taxpayer's money, and I'm sure he       |
 |                                         |
-| "I was about to say 'as he is unknown   |
-| to the public.'"                        |
+| can tell me how to do the gruntwork for |
+| him so he can take the                  |
 |                                         |
-\ -- A. Conan Doyle, "The Valley of Fear" /
+| credit for answering this incredibly    |
+\ vital question."                        /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
