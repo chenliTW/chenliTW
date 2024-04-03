@@ -1,17 +1,10 @@
 Last Update Time: 
-Wed Apr  3 20:58:04 UTC 2024
+Wed Apr  3 21:16:40 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Swerve me? The path to my fixed purpose \
-| is laid with iron rails, whereon my     |
-| soul is grooved to run. Over unsounded  |
-| gorges, through the rifled hearts of    |
-| mountains, under torrents' beds,        |
-| unerringly I rush!                      |
-|                                         |
-\ -- Captain Ahab, "Moby Dick"            /
- -----------------------------------------
+ ___________________________
+< You will wish you hadn't. >
+ ---------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
