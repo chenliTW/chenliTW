@@ -1,10 +1,11 @@
 Last Update Time: 
-Fri Apr  5 22:55:40 UTC 2024
+Fri Apr  5 23:17:36 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-< Q: Are we not men? A: We are Vaxen. >
- -------------------------------------
+ _______________________________________
+/ You'll be called to a post requiring  \
+\ ability in handling groups of people. /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
