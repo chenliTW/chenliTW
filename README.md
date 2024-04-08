@@ -1,10 +1,19 @@
 Last Update Time: 
-Mon Apr  8 07:51:42 UTC 2024
+Mon Apr  8 08:13:46 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ You will be advanced socially, without \
-\ any special effort on your part.       /
+/ At once it struck me what quality went \
+| to form a man of achievement,          |
+| especially in literature, and which    |
+| Shakespeare possessed so enormously -- |
+| I mean negative capability, that is,   |
+| when a man is capable of being in      |
+| uncertainties, mysteries, doubts,      |
+| without any irritable reaching after   |
+| fact and reason.                       |
+|                                        |
+\ -- John Keats                          /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
