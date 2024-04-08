@@ -1,12 +1,17 @@
 Last Update Time: 
-Mon Apr  8 13:42:21 UTC 2024
+Mon Apr  8 13:54:15 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: What looks like a cat, flies like a \
-| bat, brays like a donkey, and          |
+/ Steady movement is more important than \
+| speed, much of the time. So long as    |
+| there is a regular progression of      |
+| stimuli to get your mental hooks into, |
+| there is room for lateral movement.    |
+| Once this begins, its rate is a matter |
+| of discretion.                         |
 |                                        |
-\ plays like a monkey? A: Nothing.       /
+\ -- Corwin, Prince of Amber             /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
