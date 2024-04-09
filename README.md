@@ -1,12 +1,16 @@
 Last Update Time: 
-Tue Apr  9 19:37:24 UTC 2024
+Tue Apr  9 19:49:32 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________
-/ I'll burn my books.    \
-|                        |
-\ -- Christopher Marlowe /
- ------------------------
+ _________________________________________
+/ "I understand this is your first dead   \
+| client," Sabian was saying. The         |
+| absurdity of the statement made me want |
+| to laugh but they don't call me Deadpan |
+| Allie and lie.                          |
+|                                         |
+\ -- Pat Cadigan, "Mindplayers"           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
