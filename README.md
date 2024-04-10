@@ -1,13 +1,10 @@
 Last Update Time: 
-Wed Apr 10 12:57:43 UTC 2024
+Wed Apr 10 13:20:43 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ____________________________________
-/ The last thing one knows in        \
-| constructing a work is what to put |
-| first.                             |
-|                                    |
-\ -- Blaise Pascal                   /
+/ You will pioneer the first Martian \
+\ colony.                            /
  ------------------------------------
         \   ^__^
          \  (oo)\_______
