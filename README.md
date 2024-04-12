@@ -1,15 +1,11 @@
 Last Update Time: 
-Fri Apr 12 09:25:37 UTC 2024
+Fri Apr 12 09:37:35 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ There is no hunting like the hunting of \
-| man, and those who have hunted armed    |
-| men long enough and liked it, never     |
-| care for anything else thereafter.      |
-|                                         |
-\ -- Ernest Hemingway                     /
- -----------------------------------------
+ _______________________________________
+/ You will give someone a piece of your \
+\ mind, which you can ill afford.       /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
