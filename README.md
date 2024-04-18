@@ -1,13 +1,13 @@
 Last Update Time: 
-Thu Apr 18 03:16:23 UTC 2024
+Thu Apr 18 03:28:09 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: What's the difference between a dead \
-| dog in the road and a dead              |
+/ Fame is a vapor; popularity an          \
+| accident; the only earthly certainty is |
+| oblivion.                               |
 |                                         |
-| lawyer in the road? A: There are skid   |
-\ marks in front of the dog.              /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
