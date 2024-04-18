@@ -1,14 +1,14 @@
 Last Update Time: 
-Thu Apr 18 19:38:10 UTC 2024
+Thu Apr 18 19:50:05 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why should you always serve a       \
-| Southern Carolina football man         |
-|                                        |
-| soup in a plate? A: 'Cause if you give |
-\ him a bowl, he'll throw it away.       /
- ----------------------------------------
+ _______________________________________
+/ Anyone who has had a bull by the tail \
+| knows five or six more things than    |
+| someone who hasn't.                   |
+|                                       |
+\ -- Mark Twain                         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
