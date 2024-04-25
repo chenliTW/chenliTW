@@ -1,21 +1,24 @@
 Last Update Time: 
-Thu Apr 25 22:16:54 UTC 2024
+Thu Apr 25 22:29:09 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ There is no character, howsoever good   \
-| and fine, but it can be destroyed by    |
-| ridicule, howsoever poor and witless.   |
-| Observe the ass, for instance: his      |
-| character is about perfect, he is the   |
-| choicest spirit among all the humbler   |
-| animals, yet see what ridicule has      |
-| brought him to. Instead of feeling      |
-| complimented when we are called an ass, |
-| we are left in doubt.                   |
+/ The bone-chilling scream split the warm \
+| summer night in two, the first half     |
+| being before the scream when it was     |
+| fairly balmy and calm and pleasant, the |
+| second half still balmy and quite       |
+| pleasant for those who hadn't heard the |
+| scream at all, but not calm or balmy or |
+| even very nice for those who did hear   |
+| the scream, discounting the little      |
+| period of time during the actual scream |
+| itself when your ears might have been   |
+| hearing it but your brain wasn't        |
+| reacting yet to let you know.           |
 |                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
+| -- Winning sentence, 1986 Bulwer-Lytton |
+\ bad fiction contest.                    /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
