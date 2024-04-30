@@ -1,13 +1,18 @@
 Last Update Time: 
-Tue Apr 30 14:09:29 UTC 2024
+Tue Apr 30 14:26:02 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You have an unusual magnetic         \
-| personality. Don't walk too close to |
-| metal objects which are not fastened |
-\ down.                                /
- --------------------------------------
+ ________________________________________
+/ Steady movement is more important than \
+| speed, much of the time. So long as    |
+| there is a regular progression of      |
+| stimuli to get your mental hooks into, |
+| there is room for lateral movement.    |
+| Once this begins, its rate is a matter |
+| of discretion.                         |
+|                                        |
+\ -- Corwin, Prince of Amber             /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
