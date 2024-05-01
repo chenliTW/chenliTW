@@ -1,13 +1,11 @@
 Last Update Time: 
-Wed May  1 22:35:27 UTC 2024
+Wed May  1 22:47:28 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ The abuse of greatness is when it       \
-| disjoins remorse from power.            |
-|                                         |
-\ -- William Shakespeare, "Julius Caesar" /
- -----------------------------------------
+ ______________________________________
+/ Your own qualities will help prevent \
+\ your advancement in the world.       /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
