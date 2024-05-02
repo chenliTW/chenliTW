@@ -1,10 +1,19 @@
 Last Update Time: 
-Thu May  2 19:11:56 UTC 2024
+Thu May  2 19:24:02 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _______________________________________
-/ A visit to a strange place will bring \
-\ fresh work.                           /
+/ Q: Why is Poland just like the United \
+| States? A: In the United States you   |
+| can't buy anything for zlotys and in  |
+|                                       |
+| Poland you can't either, while in the |
+| U.S. you can get whatever             |
+|                                       |
+| you want for dollars, just as you can |
+| in Poland.                            |
+|                                       |
+\ -- being told in Poland, 1987         /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
