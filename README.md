@@ -1,21 +1,26 @@
 Last Update Time: 
-Thu May  2 15:38:45 UTC 2024
+Thu May  2 15:50:35 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ The true Southern watermelon is a boon \
-| apart, and not to be mentioned with    |
-| commoner things. It is chief of the    |
-| world's luxuries, king by the grace of |
-| God over all the fruits of the earth.  |
-| When one has tasted it, he knows what  |
-| the angels eat. It was not a Southern  |
-| watermelon that Eve took; we know it   |
-| because she repented.                  |
-|                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
- ----------------------------------------
+ _________________________________________
+/ No live organism can continue for long  \
+| to exist sanely under conditions of     |
+| absolute reality; even larks and        |
+| katydids are supposed, by some, to      |
+| dream. Hill House, not sane, stood by   |
+| itself against its hills, holding       |
+| darkness within; it had stood so for    |
+| eighty years and might stand for eighty |
+| more. Within, walls continued upright,  |
+| bricks met neatly, floors were firm,    |
+| and doors were sensibly shut; silence   |
+| lay steadily against the wood and stone |
+| of Hill House, and whatever walked      |
+| there, walked alone.                    |
+|                                         |
+| -- Shirley Jackson, "The Haunting of    |
+\ Hill House"                             /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
