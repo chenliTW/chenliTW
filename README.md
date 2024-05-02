@@ -1,53 +1,65 @@
 Last Update Time: 
-Thu May  2 09:15:18 UTC 2024
+Thu May  2 09:26:59 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The Least Perceptive Literary Critic    \
+/ Q: How many members of the U.S.S.       \
+| Enterprise does it take to change a     |
 |                                         |
-| The most important critic in our field  |
-| of study is Lord Halifax. A most        |
-| individual judge of poetry, he once     |
-| invited Alexander Pope round to give a  |
-| public reading of his latest poem.      |
+| light bulb? A: Seven. Scotty has to     |
+| report to Captain Kirk that the light   |
+| bulb in                                 |
 |                                         |
-| Pope, the leading poet of his day, was  |
-| greatly surprised when Lord Halifax     |
-| stopped him four or five times and      |
-| said, "I beg your pardon, Mr. Pope, but |
-| there is something in that passage that |
-| does not quite please me."              |
+| the Engineering Section is getting dim, |
+| at which point Kirk will send           |
 |                                         |
-| Pope was rendered speechless, as this   |
-| fine critic suggested sizeable and      |
-| unwise emendations to his latest        |
-| masterpiece. "Be so good as to mark the |
-| place and consider at your leisure. I'm |
-| sure you can give it a better turn."    |
+| Bones to pronounce the bulb dead        |
+| (although he'll immediately claim       |
 |                                         |
-| After the reading, a good friend of     |
-| Lord Halifax, a certain Dr. Garth, took |
-| the stunned Pope to one side. "There is |
-| no need to touch the lines," he said.   |
-| "All you need do is leave them just as  |
-| they are, call on Lord Halifax two or   |
-| three months hence, thank him for his   |
-| kind observation on those passages, and |
-| then read them to him as altered. I     |
-| have known him much longer than you     |
-| have, and will be answerable for the    |
-| event."                                 |
+| that he's a doctor, not an              |
+| electrician). Scotty, after checking    |
 |                                         |
-| Pope took his advice, called on Lord    |
-| Halifax and read the poem exactly as it |
-| was before. His unique critical         |
-| faculties had lost none of their edge.  |
-| "Ay", he commented, "now they are       |
-| perfectly right. Nothing can be         |
-| better."                                |
+| around, realizes that they have no more |
+| new light bulbs, and complains          |
 |                                         |
-| -- Stephen Pile, "The Book of Heroic    |
-\ Failures"                               /
+| that he "canna" see in the dark. Kirk   |
+| will make an emergency stop at          |
+|                                         |
+| the next uncharted planet, Alpha Regula |
+| IV, to procure a light bulb             |
+|                                         |
+| from the natives, who, are friendly,    |
+| but seem to be hiding something.        |
+|                                         |
+| Kirk, Spock, Bones, Yeoman Rand and two |
+| red shirt security officers             |
+|                                         |
+| beam down to the planet, where the two  |
+| security officers are promply           |
+|                                         |
+| killed by the natives, and the rest of  |
+| the landing party is captured.          |
+|                                         |
+| As something begins to develop between  |
+| the Captain and Yeoman Rand,            |
+|                                         |
+| Scotty, back in orbit, is attacked by a |
+| Klingon destroyer and must              |
+|                                         |
+| warp out of orbit. Although badly       |
+| outgunned, he cripples the Klingon      |
+|                                         |
+| and races back to the planet in order   |
+| to rescue Kirk et. al. who have         |
+|                                         |
+| just saved the natives' from an awful   |
+| fate and, as a reward, been             |
+|                                         |
+| given all light bulbs they can carry.   |
+| The new bulb is then inserted           |
+|                                         |
+| and the Enterprise continues on its     |
+\ five year mission.                      /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
