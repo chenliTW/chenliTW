@@ -1,53 +1,23 @@
 Last Update Time: 
-Fri May  3 18:41:10 UTC 2024
+Fri May  3 18:52:57 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The Least Perceptive Literary Critic    \
+/ So she went into the garden to cut a    \
+| cabbage leaf to make an apple pie; and  |
+| at the same time a great she-bear,      |
+| coming up the street pops its head into |
+| the shop. "What! no soap?" So he died,  |
+| and she very imprudently married the    |
+| barber; and there were present the      |
+| Picninnies, and the Grand Panjandrum    |
+| himself, with the little round button   |
+| at top, and they all fell to playing    |
+| the game of catch as catch can, till    |
+| the gunpowder ran out at the heels of   |
+| their boots.                            |
 |                                         |
-| The most important critic in our field  |
-| of study is Lord Halifax. A most        |
-| individual judge of poetry, he once     |
-| invited Alexander Pope round to give a  |
-| public reading of his latest poem.      |
-|                                         |
-| Pope, the leading poet of his day, was  |
-| greatly surprised when Lord Halifax     |
-| stopped him four or five times and      |
-| said, "I beg your pardon, Mr. Pope, but |
-| there is something in that passage that |
-| does not quite please me."              |
-|                                         |
-| Pope was rendered speechless, as this   |
-| fine critic suggested sizeable and      |
-| unwise emendations to his latest        |
-| masterpiece. "Be so good as to mark the |
-| place and consider at your leisure. I'm |
-| sure you can give it a better turn."    |
-|                                         |
-| After the reading, a good friend of     |
-| Lord Halifax, a certain Dr. Garth, took |
-| the stunned Pope to one side. "There is |
-| no need to touch the lines," he said.   |
-| "All you need do is leave them just as  |
-| they are, call on Lord Halifax two or   |
-| three months hence, thank him for his   |
-| kind observation on those passages, and |
-| then read them to him as altered. I     |
-| have known him much longer than you     |
-| have, and will be answerable for the    |
-| event."                                 |
-|                                         |
-| Pope took his advice, called on Lord    |
-| Halifax and read the poem exactly as it |
-| was before. His unique critical         |
-| faculties had lost none of their edge.  |
-| "Ay", he commented, "now they are       |
-| perfectly right. Nothing can be         |
-| better."                                |
-|                                         |
-| -- Stephen Pile, "The Book of Heroic    |
-\ Failures"                               /
+\ -- Samuel Foote                         /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
