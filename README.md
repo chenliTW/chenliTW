@@ -1,14 +1,14 @@
 Last Update Time: 
-Mon May  6 20:06:30 UTC 2024
+Mon May  6 20:23:54 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Anyone who has had a bull by the tail \
-| knows five or six more things than    |
-| someone who hasn't.                   |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ ___________________________________
+/ "... an experienced, industrious, \
+| ambitious, and often quite often  |
+| picturesque liar."                |
+|                                   |
+\ -- Mark Twain                     /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
