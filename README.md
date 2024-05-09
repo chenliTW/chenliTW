@@ -1,13 +1,17 @@
 Last Update Time: 
-Thu May  9 18:25:01 UTC 2024
+Thu May  9 18:36:57 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The fashion wears out more apparel than \
-| the man.                                |
+/ Q: What's the difference between the    \
+| 1950's and the 1980's? A: In the 80's,  |
+| a man walks into a drugstore and states |
+| loudly, "I'd                            |
 |                                         |
-| -- William Shakespeare, "Much Ado About |
-\ Nothing"                                /
+| like some condoms," and then, leaning   |
+| over the counter, whispers,             |
+|                                         |
+\ "and some cigarettes."                  /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
