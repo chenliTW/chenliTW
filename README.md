@@ -1,15 +1,13 @@
 Last Update Time: 
-Fri May 10 09:50:07 UTC 2024
+Fri May 10 10:08:44 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ All I know is what the words know, and  \
-| dead things, and that makes a handsome  |
-| little sum, with a beginning and a      |
-| middle and an end, as in the well-built |
-| phrase and the long sonata of the dead. |
-|                                         |
-\ -- Samuel Beckett                       /
+/ FORTUNE PROVIDES QUESTIONS FOR THE      \
+| GREAT ANSWERS: #5 A: The Halls of       |
+| Montezuma and the Shores of Tripoli. Q: |
+| Name two families whose kids won't join |
+\ the Marines.                            /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
