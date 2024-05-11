@@ -1,15 +1,12 @@
 Last Update Time: 
-Sat May 11 13:47:45 UTC 2024
+Sat May 11 13:59:37 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ There is always one thing to remember: \
-| writers are always selling somebody    |
-| out.                                   |
-|                                        |
-| -- Joan Didion, "Slouching Towards     |
-\ Bethlehem"                             /
- ----------------------------------------
+ _________________________________________
+/ How apt the poor are to be proud.       \
+|                                         |
+\ -- William Shakespeare, "Twelfth-Night" /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
