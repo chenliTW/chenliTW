@@ -1,15 +1,18 @@
 Last Update Time: 
-Wed May 15 08:50:55 UTC 2024
+Wed May 15 09:12:28 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ It is often the case that the man who  \
-| can't tell a lie thinks he is the best |
-| judge of one.                          |
-|                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
- ----------------------------------------
+ _______________________________________
+/ The bay-trees in our country are all  \
+| wither'd And meteors fright the fixed |
+| stars of heaven; The pale-faced moon  |
+| looks bloody on the earth And         |
+| lean-look'd prophets whisper fearful  |
+| change. These signs forerun the death |
+| or fall of kings.                     |
+|                                       |
+\ -- Wm. Shakespeare, "Richard II"      /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
