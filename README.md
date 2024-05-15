@@ -1,18 +1,13 @@
 Last Update Time: 
-Wed May 15 17:21:07 UTC 2024
+Wed May 15 17:33:06 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ The bay-trees in our country are all  \
-| wither'd And meteors fright the fixed |
-| stars of heaven; The pale-faced moon  |
-| looks bloody on the earth And         |
-| lean-look'd prophets whisper fearful  |
-| change. These signs forerun the death |
-| or fall of kings.                     |
-|                                       |
-\ -- Wm. Shakespeare, "Richard II"      /
- ---------------------------------------
+ ________________________________________
+/ Q: What do you call the scratches that \
+| you get when a female                  |
+|                                        |
+\ sheep bites you? A: Ewe nicks.         /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
