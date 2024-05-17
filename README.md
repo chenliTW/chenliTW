@@ -1,16 +1,13 @@
 Last Update Time: 
-Fri May 17 23:31:55 UTC 2024
+Fri May 17 23:43:36 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ I've touch'd the highest point of all  \
-| my greatness; And from that full       |
-| meridian of my glory I haste now to my |
-| setting. I shall fall, Like a bright   |
-| exhalation in the evening And no man   |
-| see me more.                           |
+/ He jests at scars who never felt a     \
+| wound.                                 |
 |                                        |
-\ -- Shakespeare                         /
+| -- Shakespeare, "Romeo and Juliet, II. |
+\ 2"                                     /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
