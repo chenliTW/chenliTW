@@ -1,22 +1,14 @@
 Last Update Time: 
-Sat May 18 16:08:48 UTC 2024
+Sat May 18 16:28:34 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Many enraged psychiatrists are inciting \
-| a weary butcher. The butcher is weary   |
-| and tired because he has cut meat and   |
-| steak and lamb for hours and weeks. He  |
-| does not desire to chant about anything |
-| with raving psychiatrists, but he sings |
-| about his gingivectomist, he dreams     |
-| about a single cosmologist, he thinks   |
-| about his dog. The dog is named         |
-| Herbert.                                |
-|                                         |
-| -- Racter, "The Policeman's Beard is    |
-\ Half-Constructed"                       /
- -----------------------------------------
+ _______________________________________
+/ Don't go around saying the world owes \
+| you a living. The world owes you      |
+| nothing. It was here first.           |
+|                                       |
+\ -- Mark Twain                         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
