@@ -1,22 +1,13 @@
 Last Update Time: 
-Sat May 18 01:14:17 UTC 2024
+Sat May 18 02:03:48 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Even the clearest and most perfect      \
-| circumstantial evidence is likely to be |
-| at fault, after all, and therefore      |
-| ought to be received with great         |
-| caution. Take the case of any pencil,   |
-| sharpened by any woman; if you have     |
-| witnesses, you will find she did it     |
-| with a knife; but if you take simply    |
-| the aspect of the pencil, you will say  |
-| that she did it with her teeth.         |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
- -----------------------------------------
+ _____________________________________
+/ Nothing so needs reforming as other \
+| people's habits.                    |
+|                                     |
+\ -- Mark Twain                       /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
