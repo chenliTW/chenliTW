@@ -1,12 +1,15 @@
 Last Update Time: 
-Fri May 24 02:34:21 UTC 2024
+Fri May 24 02:46:25 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ You had some happiness once, but your \
-| parents moved away, and you had to    |
-\ leave it behind.                      /
- ---------------------------------------
+ ________________________________________
+/ There is always one thing to remember: \
+| writers are always selling somebody    |
+| out.                                   |
+|                                        |
+| -- Joan Didion, "Slouching Towards     |
+\ Bethlehem"                             /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
