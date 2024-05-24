@@ -1,21 +1,16 @@
 Last Update Time: 
-Fri May 24 02:58:12 UTC 2024
+Fri May 24 03:21:53 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ I reverently believe that the maker who \
-| made us all makes everything in New     |
-| England, but the weather. I don't know  |
-| who makes that, but I think it must be  |
-| raw apprentices in the weather-clerks   |
-| factory who experiment and learn how,   |
-| in New England, for board and clothes,  |
-| and then are promoted to make weather   |
-| for countries that require a good       |
-| article, and will take their custom     |
-| elsewhere if they don't get it.         |
+/ Whenever the literary German dives into \
+| a sentence, that is the last you are    |
+| going to see of him until he emerges on |
+| the other side of his Atlantic with his |
+| verb in his mouth.                      |
 |                                         |
-\ -- Mark Twain                           /
+| -- Mark Twain "A Connecticut Yankee in  |
+\ King Arthur's Court"                    /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
