@@ -1,20 +1,11 @@
 Last Update Time: 
-Sun May 26 16:49:13 UTC 2024
+Sun May 26 17:04:06 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: Why is Poland just like the United \
-| States? A: In the United States you   |
-| can't buy anything for zlotys and in  |
-|                                       |
-| Poland you can't either, while in the |
-| U.S. you can get whatever             |
-|                                       |
-| you want for dollars, just as you can |
-| in Poland.                            |
-|                                       |
-\ -- being told in Poland, 1987         /
- ---------------------------------------
+ _________________________________________
+/ Don't look now, but the man in the moon \
+\ is laughing at you.                     /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
