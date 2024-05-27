@@ -1,10 +1,12 @@
 Last Update Time: 
-Mon May 27 23:41:25 UTC 2024
+Mon May 27 23:53:09 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________
-< Blow it out your ear. >
- -----------------------
+ _______________________________________
+/ Q: How many IBM 370's does it take to \
+| execute a job? A: Four, three to hold |
+\ it down, and one to rip its head off. /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
