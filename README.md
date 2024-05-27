@@ -1,16 +1,18 @@
 Last Update Time: 
-Mon May 27 13:37:45 UTC 2024
+Mon May 27 13:49:30 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ In Marseilles they make half the toilet \
-| soap we consume in America, but the     |
-| Marseillaise only have a vague          |
-| theoretical idea of its use, which they |
-| have obtained from books of travel.     |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ________________________________________
+/ Steady movement is more important than \
+| speed, much of the time. So long as    |
+| there is a regular progression of      |
+| stimuli to get your mental hooks into, |
+| there is room for lateral movement.    |
+| Once this begins, its rate is a matter |
+| of discretion.                         |
+|                                        |
+\ -- Corwin, Prince of Amber             /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
