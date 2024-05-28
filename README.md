@@ -1,14 +1,40 @@
 Last Update Time: 
-Tue May 28 03:23:15 UTC 2024
+Tue May 28 03:36:33 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many mathematicians does it take \
-| to screw in a light bulb? A: One. He    |
-| gives it to six Californians, thereby   |
-| reducing the problem                    |
+/  "...The name of the song is called     \
+| 'Haddocks' Eyes'!"                      |
 |                                         |
-\ to the earlier joke.                    /
+| "Oh, that's the name of the song, is    |
+| it?" Alice said, trying to feel         |
+| interested.                             |
+|                                         |
+| "No, you don't understand," the Knight  |
+| said, looking a little vexed. "That's   |
+| what the name is called. The name       |
+| really is, 'The Aged Aged Man.'"        |
+|                                         |
+| "Then I ought to have said "That's what |
+| the song is called'?" Alice corrected   |
+| herself.                                |
+|                                         |
+| "No, you oughtn't: that's quite another |
+| thing! The song is called 'Ways and     |
+| Means': but that's only what it is      |
+| called you know!"                       |
+|                                         |
+| "Well, what is the song then?" said     |
+| Alice, who was by this time completely  |
+| bewildered.                             |
+|                                         |
+| "I was coming to that," the Knight      |
+| said. "The song really is "A-sitting on |
+| a Gate": and the tune's my own          |
+| invention."                             |
+|                                         |
+| -- Lewis Carroll, "Through the Looking  |
+\ Glass"                                  /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
