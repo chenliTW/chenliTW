@@ -1,13 +1,14 @@
 Last Update Time: 
-Wed May 29 21:35:08 UTC 2024
+Wed May 29 21:46:52 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ The first thing we do, let's kill all   \
-| the lawyers.                            |
-|                                         |
-\ -- Wm. Shakespeare, "Henry VI", Part IV /
- -----------------------------------------
+ ________________________________________
+/ What good is an obscenity trial except \
+| to popularize literature?              |
+|                                        |
+| -- Nero Wolfe, "The League of          |
+\ Frightened Men"                        /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
