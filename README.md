@@ -1,14 +1,14 @@
 Last Update Time: 
-Wed May 29 21:46:52 UTC 2024
+Wed May 29 21:58:41 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ What good is an obscenity trial except \
-| to popularize literature?              |
-|                                        |
-| -- Nero Wolfe, "The League of          |
-\ Frightened Men"                        /
- ----------------------------------------
+ _________________________________________
+/ Q: What's the difference between a dead \
+| dog in the road and a dead              |
+|                                         |
+| lawyer in the road? A: There are skid   |
+\ marks in front of the dog.              /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
