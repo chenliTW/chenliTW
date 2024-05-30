@@ -1,14 +1,14 @@
 Last Update Time: 
-Thu May 30 19:28:09 UTC 2024
+Thu May 30 19:39:53 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: What do you call the money you pay \
-| to the government when                |
-|                                       |
-| you ride into the country on the back |
-\ of an elephant? A: A howdah duty.     /
- ---------------------------------------
+ ________________________________________
+/ Q: Why does Washington have the most   \
+| lawyers per capita and                 |
+|                                        |
+| New Jersey the most toxic waste dumps? |
+\ A: God gave New Jersey first choice.   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
