@@ -1,12 +1,13 @@
 Last Update Time: 
-Fri May 31 12:45:23 UTC 2024
+Fri May 31 13:01:03 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ This life is yours. Some of it was \
-| given to you; the rest, you made   |
-\ yourself.                          /
- ------------------------------------
+ ______________________________________
+/ Hell is empty and all the devils are \
+| here.                                |
+|                                      |
+\ -- Wm. Shakespeare, "The Tempest"    /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
