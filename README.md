@@ -1,17 +1,21 @@
 Last Update Time: 
-Sat Jun  1 08:32:58 UTC 2024
+Sat Jun  1 08:44:44 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: What's the difference between the    \
-| 1950's and the 1980's? A: In the 80's,  |
-| a man walks into a drugstore and states |
-| loudly, "I'd                            |
+/ There are three infallible ways of      \
+| pleasing an author, and the three form  |
+| a rising scale of compliment: 1, to     |
+| tell him you have read one of his       |
+| books; 2, to tell him you have read all |
+| of his books; 3, to ask him to let you  |
+| read the manuscript of his forthcoming  |
+| book. No. 1 admits you to his respect;  |
+| No. 2 admits you to his admiration; No. |
+| 3 carries you clear into his heart.     |
 |                                         |
-| like some condoms," and then, leaning   |
-| over the counter, whispers,             |
-|                                         |
-\ "and some cigarettes."                  /
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
