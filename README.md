@@ -1,13 +1,13 @@
 Last Update Time: 
-Sat Jun  1 22:53:20 UTC 2024
+Sat Jun  1 23:14:58 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How many college football players   \
-| does it take to screw in a light bulb? |
-| A: Only one, but he gets three credits |
-\ for it.                                /
- ----------------------------------------
+ _______________________________________
+/ As flies to wanton boys are we to the \
+| gods; they kill us for their sport.   |
+|                                       |
+\ -- Shakespeare, "King Lear"           /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
