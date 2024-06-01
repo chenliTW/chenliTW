@@ -1,14 +1,23 @@
 Last Update Time: 
-Sat Jun  1 12:54:19 UTC 2024
+Sat Jun  1 13:15:23 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Knucklehead: "Knock, knock" Pee Wee:    \
-| "Who's there?" Knucklehead: "Little ol' |
-| lady." Pee Wee: "Liddle ol' lady who?"  |
-| Knucklehead: "I didn't know you could   |
-\ yodel"                                  /
- -----------------------------------------
+ _______________________________________
+/ Delay not, Caesar. Read it instantly. \
+|                                       |
+| -- Shakespeare, "Julius Caesar" 3,1   |
+|                                       |
+| Here is a letter, read it at your     |
+| leisure.                              |
+|                                       |
+| -- Shakespeare, "Merchant of Venice"  |
+| 5,1                                   |
+|                                       |
+| [Quoted in "VMS Internals and Data    |
+| Structures", V4.4, when               |
+|                                       |
+\ referring to I/O system services.]    /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
