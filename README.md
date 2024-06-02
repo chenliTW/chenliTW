@@ -1,10 +1,14 @@
 Last Update Time: 
-Sun Jun  2 15:58:32 UTC 2024
+Sun Jun  2 16:23:46 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ You attempt things that you do not even \
-\ plan because of your extreme stupidity. /
+/ Q: Why is it that the more accuracy you \
+| demand from an interpolation            |
+|                                         |
+| function, the more expensive it becomes |
+| to compute? A: That's the Law of Spline |
+\ Demand.                                 /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
