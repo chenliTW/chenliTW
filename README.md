@@ -1,12 +1,14 @@
 Last Update Time: 
-Tue Jun  4 11:00:11 UTC 2024
+Tue Jun  4 11:18:37 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: What's the difference between Bell  \
-| Labs and the Boy Scouts of America? A: |
-\ The Boy Scouts have adult supervision. /
- ----------------------------------------
+ ____________________________________
+/ The last thing one knows in        \
+| constructing a work is what to put |
+| first.                             |
+|                                    |
+\ -- Blaise Pascal                   /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
