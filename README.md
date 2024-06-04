@@ -1,14 +1,14 @@
 Last Update Time: 
-Tue Jun  4 11:18:37 UTC 2024
+Tue Jun  4 11:30:21 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ The last thing one knows in        \
-| constructing a work is what to put |
-| first.                             |
-|                                    |
-\ -- Blaise Pascal                   /
- ------------------------------------
+ ________________________________________
+/ Q: How do you play religious roulette? \
+| A: You stand around in a circle and    |
+| blaspheme and see who gets             |
+|                                        |
+\ struck by lightning first.             /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
