@@ -1,20 +1,14 @@
 Last Update Time: 
-Tue Jun  4 23:54:08 UTC 2024
+Wed Jun  5 01:08:20 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How does the Polish Constitution    \
-| differ from the American? A: Under the |
-| Polish Constitution citizens are       |
-| guaranteed freedom of                  |
-|                                        |
-| speech, but under the United States    |
-| constitution they are                  |
-|                                        |
-| guaranteed freedom after speech.       |
-|                                        |
-\ -- being told in Poland, 1987          /
- ----------------------------------------
+ ______________________________________
+/ I was gratified to be able to answer \
+| promptly, and I did. I said I didn't |
+| know.                                |
+|                                      |
+\ -- Mark Twain                        /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
