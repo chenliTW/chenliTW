@@ -1,14 +1,24 @@
 Last Update Time: 
-Fri Jun  7 18:56:38 UTC 2024
+Fri Jun  7 19:18:05 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ A hundred years from now it is very     \
-| likely that [of Twain's works] "The     |
-| Jumping Frog" alone will be remembered. |
+/ In the space of one hundred and         \
+| seventy-six years the Mississippi has   |
+| shortened itself two hundred and        |
+| forty-two miles. Therefore ... in the   |
+| Old Silurian Period the Mississippi     |
+| River was upward of one million three   |
+| hundred thousand miles long ... seven   |
+| hundred and forty-two years from now    |
+| the Mississippi will be only a mile and |
+| three-quarters long. ... There is       |
+| something fascinating about science.    |
+| One gets such wholesome returns of      |
+| conjecture out of such a trifling       |
+| investment of fact.                     |
 |                                         |
-| -- Harry Thurston Peck (Editor of "The  |
-\ Bookman"), January 1901.                /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
