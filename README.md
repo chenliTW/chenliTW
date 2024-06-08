@@ -1,14 +1,14 @@
 Last Update Time: 
-Sat Jun  8 14:28:13 UTC 2024
+Sat Jun  8 14:40:02 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Knucklehead: "Knock, knock" Pee Wee:    \
-| "Who's there?" Knucklehead: "Little ol' |
-| lady." Pee Wee: "Liddle ol' lady who?"  |
-| Knucklehead: "I didn't know you could   |
-\ yodel"                                  /
- -----------------------------------------
+ ________________________________________
+/ Q: Why does Washington have the most   \
+| lawyers per capita and                 |
+|                                        |
+| New Jersey the most toxic waste dumps? |
+\ A: God gave New Jersey first choice.   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
