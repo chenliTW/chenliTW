@@ -1,21 +1,15 @@
 Last Update Time: 
-Sat Jun  8 03:30:10 UTC 2024
+Sat Jun  8 03:42:01 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/  "You have heard me speak of Professor  \
-| Moriarty?"                              |
+/ "I understand this is your first dead   \
+| client," Sabian was saying. The         |
+| absurdity of the statement made me want |
+| to laugh but they don't call me Deadpan |
+| Allie and lie.                          |
 |                                         |
-| "The famous scientific criminal, as     |
-| famous among crooks as --"              |
-|                                         |
-| "My blushes, Watson," Holmes murmured,  |
-| in a deprecating voice.                 |
-|                                         |
-| "I was about to say 'as he is unknown   |
-| to the public.'"                        |
-|                                         |
-\ -- A. Conan Doyle, "The Valley of Fear" /
+\ -- Pat Cadigan, "Mindplayers"           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
