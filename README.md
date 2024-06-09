@@ -1,16 +1,12 @@
 Last Update Time: 
-Sun Jun  9 18:54:44 UTC 2024
+Sun Jun  9 19:13:39 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ All I know is what the words know, and  \
-| dead things, and that makes a handsome  |
-| little sum, with a beginning and a      |
-| middle and an end, as in the well-built |
-| phrase and the long sonata of the dead. |
-|                                         |
-\ -- Samuel Beckett                       /
- -----------------------------------------
+ ________________________________________
+/ Your best consolation is the hope that \
+| the things you failed to get weren't   |
+\ really worth having.                   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
