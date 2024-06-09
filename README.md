@@ -1,11 +1,19 @@
 Last Update Time: 
-Sun Jun  9 13:55:00 UTC 2024
+Sun Jun  9 14:14:31 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _______________________________________
-/ You can create your own opportunities \
-| this week. Blackmail a senior         |
-\ executive.                            /
+/ Q: Why is Poland just like the United \
+| States? A: In the United States you   |
+| can't buy anything for zlotys and in  |
+|                                       |
+| Poland you can't either, while in the |
+| U.S. you can get whatever             |
+|                                       |
+| you want for dollars, just as you can |
+| in Poland.                            |
+|                                       |
+\ -- being told in Poland, 1987         /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
