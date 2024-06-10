@@ -1,17 +1,11 @@
 Last Update Time: 
-Mon Jun 10 15:25:10 UTC 2024
+Mon Jun 10 15:37:08 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many surrealists does it take to \
-| change a light bulb? A: Two, one to     |
-| hold the giraffe, and the other to fill |
-| the bathtub                             |
-|                                         |
-| with brightly colored machine tools.    |
-|                                         |
-| [Surrealist jokes just aren't my cup of |
-\ fur. Ed.]                               /
+/ Q: What do you say to a New Yorker with \
+| a job? A: Big Mac, fries and a Coke,    |
+\ please!                                 /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
