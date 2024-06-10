@@ -1,15 +1,14 @@
 Last Update Time: 
-Mon Jun 10 17:41:27 UTC 2024
+Mon Jun 10 17:53:11 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: Minnesotans ask, "Why aren't there \
-| more pharmacists from Alabama?" A:    |
-| Easy. It's because they can't figure  |
-| out how to get the little             |
-|                                       |
-\ bottles into the typewriter.          /
- ---------------------------------------
+ _________________________________________
+/ Q: How do you catch a unique rabbit? A: \
+| Unique up on it!                        |
+|                                         |
+| Q: How do you catch a tame rabbit? A:   |
+\ The tame way!                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
