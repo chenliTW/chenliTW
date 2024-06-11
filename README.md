@@ -1,14 +1,13 @@
 Last Update Time: 
-Tue Jun 11 11:29:52 UTC 2024
+Tue Jun 11 11:41:47 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ "... an experienced, industrious, \
-| ambitious, and often quite often  |
-| picturesque liar."                |
-|                                   |
-\ -- Mark Twain                     /
- -----------------------------------
+ _______________________________________
+/ As flies to wanton boys are we to the \
+| gods; they kill us for their sport.   |
+|                                       |
+\ -- Shakespeare, "King Lear"           /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
