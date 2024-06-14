@@ -1,13 +1,12 @@
 Last Update Time: 
-Fri Jun 14 04:38:22 UTC 2024
+Fri Jun 14 04:50:09 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: Why does Washington have the most   \
-| lawyers per capita and                 |
+/ Q: What do you call the scratches that \
+| you get when a female                  |
 |                                        |
-| New Jersey the most toxic waste dumps? |
-\ A: God gave New Jersey first choice.   /
+\ sheep bites you? A: Ewe nicks.         /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
