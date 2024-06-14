@@ -1,16 +1,12 @@
 Last Update Time: 
-Fri Jun 14 13:16:39 UTC 2024
+Fri Jun 14 13:29:43 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ In Marseilles they make half the toilet \
-| soap we consume in America, but the     |
-| Marseillaise only have a vague          |
-| theoretical idea of its use, which they |
-| have obtained from books of travel.     |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ _______________________________
+/ Don't worry. Life's too long. \
+|                               |
+\ -- Vincent Sardi, Jr.         /
+ -------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
