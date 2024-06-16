@@ -1,21 +1,21 @@
 Last Update Time: 
-Sun Jun 16 22:40:06 UTC 2024
+Sun Jun 16 22:51:55 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Even the clearest and most perfect      \
-| circumstantial evidence is likely to be |
-| at fault, after all, and therefore      |
-| ought to be received with great         |
-| caution. Take the case of any pencil,   |
-| sharpened by any woman; if you have     |
-| witnesses, you will find she did it     |
-| with a knife; but if you take simply    |
-| the aspect of the pencil, you will say  |
-| that she did it with her teeth.         |
+/ In the plot, people came to the land;   \
+| the land loved them; they worked and    |
+| struggled and had lots of children.     |
+| There was a Frenchman who talked funny  |
+| and a greenhorn from England who was a  |
+| fancy-pants but when it came to the     |
+| crunch he was all courage. Those novels |
+| would make you retch.                   |
 |                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
+| -- Canadian novelist Robertson Davies,  |
+| on the generic Canadian                 |
+|                                         |
+\ novel.                                  /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
