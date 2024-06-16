@@ -1,14 +1,11 @@
 Last Update Time: 
-Sun Jun 16 21:48:58 UTC 2024
+Sun Jun 16 22:06:13 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: What do you call the money you pay \
-| to the government when                |
-|                                       |
-| you ride into the country on the back |
-\ of an elephant? A: A howdah duty.     /
- ---------------------------------------
+ ________________________________________
+/ Q: Why do WASPs play golf ? A: So they \
+\ can dress like pimps.                  /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
