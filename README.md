@@ -1,13 +1,10 @@
 Last Update Time: 
-Sun Jun 16 10:42:36 UTC 2024
+Sun Jun 16 10:54:16 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ A kind of Batman of contemporary    \
-| letters.                            |
-|                                     |
-\ -- Philip Larkin on Anthony Burgess /
- -------------------------------------
+ ________________________________________
+< You will forget that you ever knew me. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
