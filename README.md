@@ -1,14 +1,15 @@
 Last Update Time: 
-Mon Jun 17 21:00:00 UTC 2024
+Mon Jun 17 21:20:32 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Anyone who has had a bull by the tail \
-| knows five or six more things than    |
-| someone who hasn't.                   |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ ______________________________________
+/ F.S. Fitzgerald to Hemingway:        \
+|                                      |
+| "Ernest, the rich are different from |
+| us." Hemingway:                      |
+|                                      |
+\ "Yes. They have more money."         /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
