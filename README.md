@@ -1,12 +1,12 @@
 Last Update Time: 
-Tue Jun 18 21:36:35 UTC 2024
+Tue Jun 18 21:48:20 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: How many IBM 370's does it take to \
-| execute a job? A: Four, three to hold |
-\ it down, and one to rip its head off. /
- ---------------------------------------
+ ________________________________
+/ When in doubt, tell the truth. \
+|                                |
+\ -- Mark Twain                  /
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
