@@ -1,24 +1,16 @@
 Last Update Time: 
-Wed Jun 19 12:55:23 UTC 2024
+Wed Jun 19 13:19:33 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How many hardware engineers does it \
-| take to change a light bulb? A: None.  |
-| We'll fix it in software.              |
-|                                        |
-| Q: How many system programmers does it |
-| take to change a light bulb? A: None.  |
-| The application can work around it.    |
-|                                        |
-| Q: How many software engineers does it |
-| take to change a light bulb? A: None.  |
-| We'll document it in the manual.       |
-|                                        |
-| Q: How many tech writers does it take  |
-| to change a light bulb? A: None. The   |
-\ user can figure it out.                /
- ----------------------------------------
+ _________________________________________
+/ In Marseilles they make half the toilet \
+| soap we consume in America, but the     |
+| Marseillaise only have a vague          |
+| theoretical idea of its use, which they |
+| have obtained from books of travel.     |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
