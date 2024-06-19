@@ -1,14 +1,12 @@
 Last Update Time: 
-Wed Jun 19 16:48:00 UTC 2024
+Wed Jun 19 16:59:43 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How do you play religious roulette? \
-| A: You stand around in a circle and    |
-| blaspheme and see who gets             |
-|                                        |
-\ struck by lightning first.             /
- ----------------------------------------
+ ______________________________________
+/ Q: What does it say on the bottom of \
+| Coke cans in North Dakota? A: Open   |
+\ other end.                           /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
