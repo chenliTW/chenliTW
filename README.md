@@ -1,14 +1,14 @@
 Last Update Time: 
-Wed Jun 19 13:54:46 UTC 2024
+Wed Jun 19 14:14:46 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ A classic is something that everyone   \
-| wants to have read and nobody wants to |
-| read.                                  |
+/ There is always one thing to remember: \
+| writers are always selling somebody    |
+| out.                                   |
 |                                        |
-| -- Mark Twain, "The Disappearance of   |
-\ Literature"                            /
+| -- Joan Didion, "Slouching Towards     |
+\ Bethlehem"                             /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
