@@ -1,15 +1,13 @@
 Last Update Time: 
-Sat Jun 22 05:58:29 UTC 2024
+Sat Jun 22 06:27:13 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ There is always one thing to remember: \
-| writers are always selling somebody    |
-| out.                                   |
-|                                        |
-| -- Joan Didion, "Slouching Towards     |
-\ Bethlehem"                             /
- ----------------------------------------
+ ______________________________________
+/ When one burns one's bridges, what a \
+| very nice fire it makes.             |
+|                                      |
+\ -- Dylan Thomas                      /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
