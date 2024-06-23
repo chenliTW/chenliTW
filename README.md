@@ -1,13 +1,12 @@
 Last Update Time: 
-Sun Jun 23 19:12:27 UTC 2024
+Sun Jun 23 19:24:09 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: What's the difference between a dead \
-| dog in the road and a dead              |
+/ Extreme fear can neither fight nor fly. \
 |                                         |
-| lawyer in the road? A: There are skid   |
-\ marks in front of the dog.              /
+| -- William Shakespeare, "The Rape of    |
+\ Lucrece"                                /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
