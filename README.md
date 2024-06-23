@@ -1,13 +1,10 @@
 Last Update Time: 
-Sun Jun 23 05:34:40 UTC 2024
+Sun Jun 23 05:46:36 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ If you laid all of our laws end to end, \
-| there would be no end.                  |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ________________________________________
+< Your ignorance cramps my conversation. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
