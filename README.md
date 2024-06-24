@@ -1,17 +1,17 @@
 Last Update Time: 
-Mon Jun 24 10:46:26 UTC 2024
+Mon Jun 24 10:58:10 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ You mentioned your name as if I should \
-| recognize it, but beyond the obvious   |
-| facts that you are a bachelor, a       |
-| solicitor, a freemason, and an         |
-| asthmatic, I know nothing whatever     |
-| about you.                             |
+/ When I was younger, I could remember   \
+| anything, whether it had happened or   |
+| not; but my faculties are decaying now |
+| and soon I shall be so I cannot        |
+| remember any but the things that never |
+| happened. It is sad to go to pieces    |
+| like this but we all have to do it.    |
 |                                        |
-| -- Sherlock Holmes, "The Norwood       |
-\ Builder"                               /
+\ -- Mark Twain                          /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
