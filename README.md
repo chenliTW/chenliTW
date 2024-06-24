@@ -1,12 +1,12 @@
 Last Update Time: 
-Mon Jun 24 21:48:18 UTC 2024
+Mon Jun 24 22:00:16 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: What's tiny and yellow and very,   \
-| very, dangerous? A: A canary with the |
-\ super-user password.                  /
- ---------------------------------------
+ ________________________________________
+/ Q: What's the difference between Bell  \
+| Labs and the Boy Scouts of America? A: |
+\ The Boy Scouts have adult supervision. /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
