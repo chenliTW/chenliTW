@@ -1,20 +1,24 @@
 Last Update Time: 
-Mon Jun 24 08:52:06 UTC 2024
+Mon Jun 24 09:14:02 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: Why is Poland just like the United \
-| States? A: In the United States you   |
-| can't buy anything for zlotys and in  |
-|                                       |
-| Poland you can't either, while in the |
-| U.S. you can get whatever             |
-|                                       |
-| you want for dollars, just as you can |
-| in Poland.                            |
-|                                       |
-\ -- being told in Poland, 1987         /
- ---------------------------------------
+ _________________________________________
+/ Q: How many gradual (sorry, that's      \
+| supposed to be "graduate") students     |
+|                                         |
+| does it take to screw in a light bulb?  |
+| A: "I'm afraid we don't know, but make  |
+| my stipend tax-free, give my            |
+|                                         |
+| advisor a $30,000 grant of the          |
+| taxpayer's money, and I'm sure he       |
+|                                         |
+| can tell me how to do the gruntwork for |
+| him so he can take the                  |
+|                                         |
+| credit for answering this incredibly    |
+\ vital question."                        /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
