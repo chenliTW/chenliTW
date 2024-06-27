@@ -1,14 +1,10 @@
 Last Update Time: 
-Thu Jun 27 14:53:40 UTC 2024
+Thu Jun 27 15:16:48 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why should you always serve a       \
-| Southern Carolina football man         |
-|                                        |
-| soup in a plate? A: 'Cause if you give |
-\ him a bowl, he'll throw it away.       /
- ----------------------------------------
+ __________________________________
+< You will pass away very quickly. >
+ ----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
