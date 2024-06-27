@@ -1,14 +1,16 @@
 Last Update Time: 
-Thu Jun 27 15:53:43 UTC 2024
+Thu Jun 27 16:18:42 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Tell the truth or trump--but get the \
-| trick.                               |
-|                                      |
-| -- Mark Twain, "Pudd'nhead Wilson's  |
-\ Calendar"                            /
- --------------------------------------
+ ________________________________________
+/ Q: How many lawyers does it take to    \
+| change a light bulb? A: You won't find |
+| a lawyer who can change a light bulb.  |
+| Now, if                                |
+|                                        |
+| you're looking for a lawyer to screw a |
+\ light bulb...                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
