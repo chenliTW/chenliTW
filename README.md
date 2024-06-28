@@ -1,13 +1,16 @@
 Last Update Time: 
-Fri Jun 28 07:22:57 UTC 2024
+Fri Jun 28 07:35:15 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ There is a great discovery still to be \
-| made in Literature: that of paying     |
-| literary men by the quantity they do   |
-\ NOT write.                             /
- ----------------------------------------
+ _________________________________________
+/ "I understand this is your first dead   \
+| client," Sabian was saying. The         |
+| absurdity of the statement made me want |
+| to laugh but they don't call me Deadpan |
+| Allie and lie.                          |
+|                                         |
+\ -- Pat Cadigan, "Mindplayers"           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
