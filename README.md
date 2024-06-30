@@ -1,13 +1,17 @@
 Last Update Time: 
-Sun Jun 30 21:14:17 UTC 2024
+Sun Jun 30 21:27:08 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How does a hacker fix a function     \
-| which                                   |
+/ Q: What did Tarzan say when he saw the  \
+| elephants coming over the hill? A: "The |
+| elephants are coming over the hill."    |
 |                                         |
-| doesn't work for all of the elements in |
-\ its domain? A: He changes the domain.   /
+| Q: What did he say when saw them coming |
+| over the hill wearing                   |
+|                                         |
+| sunglasses? A: Nothing, for he didn't   |
+\ recognize them.                         /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
