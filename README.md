@@ -1,18 +1,11 @@
 Last Update Time: 
-Mon Jul  1 23:49:38 UTC 2024
+Tue Jul  2 00:35:51 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ The bay-trees in our country are all  \
-| wither'd And meteors fright the fixed |
-| stars of heaven; The pale-faced moon  |
-| looks bloody on the earth And         |
-| lean-look'd prophets whisper fearful  |
-| change. These signs forerun the death |
-| or fall of kings.                     |
-|                                       |
-\ -- Wm. Shakespeare, "Richard II"      /
- ---------------------------------------
+ _____________________________________
+/ You have the capacity to learn from \
+\ mistakes. You'll learn a lot today. /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
