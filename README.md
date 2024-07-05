@@ -1,11 +1,20 @@
 Last Update Time: 
-Fri Jul  5 17:19:06 UTC 2024
+Fri Jul  5 17:31:37 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Your mode of life will be changed for \
-\ the better because of good news soon. /
- ---------------------------------------
+ ________________________________________
+/ At once it struck me what quality went \
+| to form a man of achievement,          |
+| especially in literature, and which    |
+| Shakespeare possessed so enormously -- |
+| I mean negative capability, that is,   |
+| when a man is capable of being in      |
+| uncertainties, mysteries, doubts,      |
+| without any irritable reaching after   |
+| fact and reason.                       |
+|                                        |
+\ -- John Keats                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
