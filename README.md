@@ -1,13 +1,14 @@
 Last Update Time: 
-Sat Jul  6 13:57:37 UTC 2024
+Sat Jul  6 14:17:27 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ The abuse of greatness is when it       \
-| disjoins remorse from power.            |
-|                                         |
-\ -- William Shakespeare, "Julius Caesar" /
- -----------------------------------------
+ ________________________________________
+/ Q: Why do the police always travel in  \
+| threes? A: One to do the reading, one  |
+| to do the writing, and the other keeps |
+|                                        |
+\ an eye on the two intellectuals.       /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
