@@ -1,16 +1,10 @@
 Last Update Time: 
-Sat Jul  6 21:04:40 UTC 2024
+Sat Jul  6 21:22:29 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________
-/ AWAKE! FEAR! FIRE! FOES! AWAKE! \
-|                                 |
-| FEAR! FIRE! FOES!               |
-|                                 |
-| AWAKE! AWAKE!                   |
-|                                 |
-\ -- J. R. R. Tolkien             /
- ---------------------------------
+ _____________________________________
+< Q: Are we not men? A: We are Vaxen. >
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
