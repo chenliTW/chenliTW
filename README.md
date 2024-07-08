@@ -1,14 +1,14 @@
 Last Update Time: 
-Mon Jul  8 20:40:28 UTC 2024
+Mon Jul  8 20:52:14 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: What do you call a WASP who doesn't \
-| work for his father, isn't a           |
-|                                        |
-| lawyer, and believes in social causes? |
-\ A: A failure.                          /
- ----------------------------------------
+ ____________________________________
+/ They have been at a great feast of \
+| languages, and stolen the scraps.  |
+|                                    |
+| -- William Shakespeare, "Love's    |
+\ Labour's Lost"                     /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
