@@ -1,18 +1,16 @@
 Last Update Time: 
-Tue Jul  9 15:22:36 UTC 2024
+Tue Jul  9 15:35:11 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ I got a hint of things to come when I   \
-| overheard my boss lamenting, 'The books |
-| are done and we still don't have an     |
-| author! I must sign someone today!      |
-|                                         |
-| -- Tamim Ansary, "Edutopia Magazine,    |
-| Issue 2, November 2004"                 |
-|                                         |
-\ on the topic of school textbooks        /
- -----------------------------------------
+ _____________________________________
+/ Remark of Dr. Baldwin's concerning  \
+| upstarts: We don't care to eat      |
+| toadstools that think they are      |
+| truffles.                           |
+|                                     |
+| -- Mark Twain, "Pudd'nhead Wilson's |
+\ Calendar"                           /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
