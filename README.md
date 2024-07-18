@@ -1,18 +1,14 @@
 Last Update Time: 
-Thu Jul 18 05:41:14 UTC 2024
+Thu Jul 18 05:53:06 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ We know all about the habits of the    \
-| ant, we know all about the habits of   |
-| the bee, but we know nothing at all    |
-| about the habits of the oyster. It     |
-| seems almost certain that we have been |
-| choosing the wrong time for studying   |
-| the oyster.                            |
+/ It has long been an axiom of mine that \
+| the little things are infinitely the   |
+| most important.                        |
 |                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
+| -- Sir Arthur Conan Doyle, "A Case of  |
+\ Identity"                              /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
