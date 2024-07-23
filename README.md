@@ -1,13 +1,11 @@
 Last Update Time: 
-Tue Jul 23 10:24:02 UTC 2024
+Tue Jul 23 10:37:53 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ The abuse of greatness is when it       \
-| disjoins remorse from power.            |
-|                                         |
-\ -- William Shakespeare, "Julius Caesar" /
- -----------------------------------------
+ ______________________________________
+/ Your life would be very empty if you \
+\ had nothing to regret.               /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
