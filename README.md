@@ -1,10 +1,21 @@
 Last Update Time: 
-Wed Jul 24 08:26:10 UTC 2024
+Wed Jul 24 08:41:07 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: What do you call a blind, deaf-mute, \
-\ quadraplegic Virginian? A: Trustworthy. /
+/ For the fashion of Minas Tirith was     \
+| such that it was built on seven levels, |
+| each delved into a hill, and about each |
+| was set a wall, and in each wall was a  |
+| gate.                                   |
+|                                         |
+| -- J.R.R. Tolkien, "The Return of the   |
+| King"                                   |
+|                                         |
+| [Quoted in "VMS Internals and Data      |
+| Structures", V4.4, when                 |
+|                                         |
+\ referring to system overview.]          /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
