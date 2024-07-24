@@ -1,11 +1,11 @@
 Last Update Time: 
-Wed Jul 24 12:25:41 UTC 2024
+Wed Jul 24 12:54:28 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ You own a dog, but you can only feed a \
-\ cat.                                   /
- ----------------------------------------
+ _______________________________________
+/ You will be held hostage by a radical \
+\ group.                                /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
