@@ -1,11 +1,10 @@
 Last Update Time: 
-Sun Jul 28 15:20:43 UTC 2024
+Sun Jul 28 15:32:59 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ You have an unusual equipment for    \
-\ success. Be sure to use it properly. /
- --------------------------------------
+ ___________________
+< Are you a turtle? >
+ -------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
