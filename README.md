@@ -1,19 +1,13 @@
 Last Update Time: 
-Tue Jul 30 04:35:04 UTC 2024
+Tue Jul 30 04:46:44 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: How does the Polish Constitution    \
-| differ from the American? A: Under the |
-| Polish Constitution citizens are       |
-| guaranteed freedom of                  |
+/ He jests at scars who never felt a     \
+| wound.                                 |
 |                                        |
-| speech, but under the United States    |
-| constitution they are                  |
-|                                        |
-| guaranteed freedom after speech.       |
-|                                        |
-\ -- being told in Poland, 1987          /
+| -- Shakespeare, "Romeo and Juliet, II. |
+\ 2"                                     /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
