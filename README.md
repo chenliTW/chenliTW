@@ -1,13 +1,14 @@
 Last Update Time: 
-Tue Jul 30 17:06:39 UTC 2024
+Tue Jul 30 17:26:23 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How do you catch a unique rabbit? A: \
-| Unique up on it!                        |
+/ Q: Why is it that the more accuracy you \
+| demand from an interpolation            |
 |                                         |
-| Q: How do you catch a tame rabbit? A:   |
-\ The tame way!                           /
+| function, the more expensive it becomes |
+| to compute? A: That's the Law of Spline |
+\ Demand.                                 /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
