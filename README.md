@@ -1,13 +1,15 @@
 Last Update Time: 
-Fri Aug  2 15:35:03 UTC 2024
+Fri Aug  2 15:47:11 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ The smallest worm will turn being  \
-| trodden on.                        |
-|                                    |
-\ -- William Shakespeare, "Henry VI" /
- ------------------------------------
+ ________________________________________
+/ A classic is something that everyone   \
+| wants to have read and nobody wants to |
+| read.                                  |
+|                                        |
+| -- Mark Twain, "The Disappearance of   |
+\ Literature"                            /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
