@@ -1,13 +1,17 @@
 Last Update Time: 
-Sat Aug  3 05:14:49 UTC 2024
+Sat Aug  3 05:29:44 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Writing is turning one's worst moments \
-| into money.                            |
-|                                        |
-\ -- J.P. Donleavy                       /
- ----------------------------------------
+ _________________________________________
+/ Gratitude and treachery are merely the  \
+| two extremities of the same procession. |
+| You have seen all of it that is worth   |
+| staying for when the band and the gaudy |
+| officials have gone by.                 |
+|                                         |
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
