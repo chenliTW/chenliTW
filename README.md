@@ -1,23 +1,21 @@
 Last Update Time: 
-Sat Aug  3 07:06:56 UTC 2024
+Sat Aug  3 07:21:10 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ So she went into the garden to cut a    \
-| cabbage leaf to make an apple pie; and  |
-| at the same time a great she-bear,      |
-| coming up the street pops its head into |
-| the shop. "What! no soap?" So he died,  |
-| and she very imprudently married the    |
-| barber; and there were present the      |
-| Picninnies, and the Grand Panjandrum    |
-| himself, with the little round button   |
-| at top, and they all fell to playing    |
-| the game of catch as catch can, till    |
-| the gunpowder ran out at the heels of   |
-| their boots.                            |
+/ There is no character, howsoever good   \
+| and fine, but it can be destroyed by    |
+| ridicule, howsoever poor and witless.   |
+| Observe the ass, for instance: his      |
+| character is about perfect, he is the   |
+| choicest spirit among all the humbler   |
+| animals, yet see what ridicule has      |
+| brought him to. Instead of feeling      |
+| complimented when we are called an ass, |
+| we are left in doubt.                   |
 |                                         |
-\ -- Samuel Foote                         /
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
