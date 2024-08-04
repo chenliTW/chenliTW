@@ -1,12 +1,12 @@
 Last Update Time: 
-Sun Aug  4 18:43:29 UTC 2024
+Sun Aug  4 18:55:29 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: How many Harvard MBA's does it take \
-| to screw in a light bulb? A: Just one. |
-| He grasps it firmly and the universe   |
-\ revolves around him.                   /
+/ Q: How many college football players   \
+| does it take to screw in a light bulb? |
+| A: Only one, but he gets three credits |
+\ for it.                                /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
