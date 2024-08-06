@@ -1,10 +1,10 @@
 Last Update Time: 
-Tue Aug  6 02:56:57 UTC 2024
+Tue Aug  6 03:23:21 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________
-< Don't get to bragging. >
- ------------------------
+ ________________________________________
+< Your ignorance cramps my conversation. >
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
