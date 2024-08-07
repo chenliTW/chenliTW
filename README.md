@@ -1,20 +1,9 @@
 Last Update Time: 
-Wed Aug  7 07:26:23 UTC 2024
+Wed Aug  7 07:39:13 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many existentialists does it     \
-| take to screw in a light bulb? A: Two.  |
-| One to screw it in and one to observe   |
-| how the light bulb                      |
-|                                         |
-| itself symbolizes a single incandescent |
-| beacon of subjective                    |
-|                                         |
-| reality in a netherworld of endless     |
-| absurdity reaching out toward a         |
-|                                         |
-\ maudlin cosmos of nothingness.          /
+< Q: How do you keep a moron in suspense? >
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
