@@ -1,14 +1,13 @@
 Last Update Time: 
-Fri Aug  9 06:55:22 UTC 2024
+Fri Aug  9 07:17:08 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many psychiatrists does it take  \
-| to change a light bulb? A: Only one,    |
-| but it takes a long time, and the light |
-| bulb has                                |
+/ Q: How does a hacker fix a function     \
+| which                                   |
 |                                         |
-\ to really want to change.               /
+| doesn't work for all of the elements in |
+\ its domain? A: He changes the domain.   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
