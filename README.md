@@ -1,13 +1,11 @@
 Last Update Time: 
-Sun Aug 11 12:58:55 UTC 2024
+Sun Aug 11 13:22:47 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What do you get when you cross a     \
-| mobster with an international standard? |
-| A: You get someone who makes you an     |
-\ offer that you can't understand!        /
- -----------------------------------------
+ _____________________________________
+/ You will have a long and unpleasant \
+\ discussion with your supervisor.    /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
