@@ -1,34 +1,65 @@
 Last Update Time: 
-Mon Aug 12 17:32:00 UTC 2024
+Mon Aug 12 17:43:44 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The Least Successful Collector          \
+/ Q: How many lawyers does it take to     \
+| change a light bulb? A: Whereas the     |
+| party of the first part, also known as  |
+| "Lawyer", and the party of the second   |
+| part, also known as "Light Bulb", do    |
+| hereby and forthwith agree to a         |
+| transaction wherein the party of the    |
+| second part shall be removed from the   |
+| current position as a result of failure |
+| to perform previously agreed upon       |
+| duties, i.e., the lighting,             |
+| elucidation, and otherwise illumination |
+| of the area ranging from the front      |
+| (north) door, through the entryway,     |
+| terminating at an area just inside the  |
+| primary living area, demarcated by the  |
+| beginning of the carpet, any spillover  |
+| illumination being at the option of the |
+| party of the second part and not        |
+| required by the aforementioned          |
+| agreement between the parties.          |
 |                                         |
-| Betsy Baker played a central role in    |
-| the history of collecting. She was      |
-| employed as a servant in the house of   |
-| John Warburton (1682-1759) who had      |
-| amassed a fine collection of 58 first   |
-| edition plays, including most of the    |
-| works of Shakespeare.                   |
-|                                         |
-| One day Warburton returned home to find |
-| 55 of them charred beyond legibility.   |
-| Betsy had either burned them or used    |
-| them as pie bottoms. The remaining      |
-| three folios are now in the British     |
-| Museum.                                 |
-|                                         |
-| The only comparable literary figure was |
-| the maid who in 1835 burned the         |
-| manuscript of the first volume of       |
-| Thomas Carlyle's "The Hisory of the     |
-| French Revolution", thinking it was     |
-| wastepaper.                             |
-|                                         |
-| -- Stephen Pile, "The Book of Heroic    |
-\ Failures"                               /
+| The aforementioned removal transaction  |
+| shall include, but not be limited to,   |
+| the following. The party of the first   |
+| part shall, with or without elevation   |
+| at his option, by means of a chair,     |
+| stepstool, ladder or any other means of |
+| elevation, grasp the party of the       |
+| second part and rotate the party of the |
+| second part in a counter-clockwise      |
+| direction, this point being tendered    |
+| non-negotiable. Upon reaching a point   |
+| where the party of the second part      |
+| becomes fully detached from the         |
+| receptacle, the party of the first part |
+| shall have the option of disposing of   |
+| the party of the second part in a       |
+| manner consistent with all relevant and |
+| applicable local, state and federal     |
+| statutes. Once separation and disposal  |
+| have been achieved, the party of the    |
+| first part shall have the option of     |
+| beginning installation. Aforesaid       |
+| installation shall occur in a manner    |
+| consistent with the reverse of the      |
+| procedures described in step one of     |
+| this self-same document, being careful  |
+| to note that the rotation should occur  |
+| in a clockwise direction, this point    |
+| also being non-negotiable. The above    |
+| described steps may be performed, at    |
+| the option of the party of the first    |
+| part, by any or all agents authorized   |
+| by him, the objective being to produce  |
+| the most possible revenue for the       |
+\ Partnership.                            /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
