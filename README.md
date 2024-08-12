@@ -1,18 +1,18 @@
 Last Update Time: 
-Mon Aug 12 18:55:24 UTC 2024
+Mon Aug 12 19:15:21 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ When I was younger, I could remember   \
-| anything, whether it had happened or   |
-| not; but my faculties are decaying now |
-| and soon I shall be so I cannot        |
-| remember any but the things that never |
-| happened. It is sad to go to pieces    |
-| like this but we all have to do it.    |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _______________________________________
+/ The bay-trees in our country are all  \
+| wither'd And meteors fright the fixed |
+| stars of heaven; The pale-faced moon  |
+| looks bloody on the earth And         |
+| lean-look'd prophets whisper fearful  |
+| change. These signs forerun the death |
+| or fall of kings.                     |
+|                                       |
+\ -- Wm. Shakespeare, "Richard II"      /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
