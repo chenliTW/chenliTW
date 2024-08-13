@@ -1,14 +1,14 @@
 Last Update Time: 
-Tue Aug 13 17:07:16 UTC 2024
+Tue Aug 13 17:28:42 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Noise proves nothing. Often a hen who \
-| has merely laid an egg cackles as if  |
-| she laid an asteroid.                 |
-|                                       |
-\ -- Mark Twain                         /
- ---------------------------------------
+ _________________________________________
+/ Q: How does a hacker fix a function     \
+| which                                   |
+|                                         |
+| doesn't work for all of the elements in |
+\ its domain? A: He changes the domain.   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
