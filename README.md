@@ -1,23 +1,20 @@
 Last Update Time: 
-Tue Aug 13 23:50:57 UTC 2024
+Wed Aug 14 00:49:36 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Delay not, Caesar. Read it instantly. \
-|                                       |
-| -- Shakespeare, "Julius Caesar" 3,1   |
-|                                       |
-| Here is a letter, read it at your     |
-| leisure.                              |
-|                                       |
-| -- Shakespeare, "Merchant of Venice"  |
-| 5,1                                   |
-|                                       |
-| [Quoted in "VMS Internals and Data    |
-| Structures", V4.4, when               |
-|                                       |
-\ referring to I/O system services.]    /
- ---------------------------------------
+ ________________________________________
+/ Q: How does the Polish Constitution    \
+| differ from the American? A: Under the |
+| Polish Constitution citizens are       |
+| guaranteed freedom of                  |
+|                                        |
+| speech, but under the United States    |
+| constitution they are                  |
+|                                        |
+| guaranteed freedom after speech.       |
+|                                        |
+\ -- being told in Poland, 1987          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
