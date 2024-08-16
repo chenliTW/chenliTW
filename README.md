@@ -1,11 +1,16 @@
 Last Update Time: 
-Fri Aug 16 13:37:15 UTC 2024
+Fri Aug 16 13:49:05 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ You recoil from the crude; you tend \
-\ naturally toward the exquisite.     /
- -------------------------------------
+ ____________________________________
+/ Q: What do you call a blind        \
+| pre-historic animal? A:            |
+| Diyathinkhesaurus.                 |
+|                                    |
+| Q: What do you call a blind        |
+| pre-historic animal with a dog? A: |
+\ Diyathinkhesaurus Rex.             /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
