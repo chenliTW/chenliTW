@@ -1,13 +1,12 @@
 Last Update Time: 
-Sat Aug 17 07:52:32 UTC 2024
+Sat Aug 17 08:15:43 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: What's the difference between a dead \
-| dog in the road and a dead              |
+/ Q: "What is the burning question on the \
+| mind of every dyslexic                  |
 |                                         |
-| lawyer in the road? A: There are skid   |
-\ marks in front of the dog.              /
+\ existentialist?" A: "Is there a dog?"   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
