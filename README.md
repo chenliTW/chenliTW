@@ -1,46 +1,65 @@
 Last Update Time: 
-Sun Aug 18 22:58:21 UTC 2024
+Sun Aug 18 23:22:10 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ "Speak, thou vast and venerable head,"  \
-| muttered Ahab, "which, though           |
-| ungarnished with a beard, yet here and  |
-| there lookest hoary with mosses; speak, |
-| mighty head, and tell us the secret     |
-| thing that is in thee. Of all divers,   |
-| thou has dived the deepest. That head   |
-| upon which the upper sun now gleams has |
-| moved amid the world's foundations.     |
-| Where unrecorded names and navies rust, |
-| and untold hopes and anchors rot; where |
-| in her murderous hold this frigate      |
-| earth is ballasted with bones of        |
-| millions of the drowned; there, in that |
-| awful water-land, there was thy most    |
-| familiar home. Thou hast been where     |
-| bell or diver never went; has slept by  |
-| many a sailer's side, where sleepless   |
-| mothers would give their lives to lay   |
-| them down. Thou saw'st the locked       |
-| lovers when leaping from their flaming  |
-| ship; heart to heart they sank beneath  |
-| the exulting wave; true to each other,  |
-| when heaven seemed false to them. Thou  |
-| saw'st the murdered mate when tossed by |
-| pirates from the midnight deck; for     |
-| hours he fell into the deeper midnight  |
-| of the insatiate maw; and his murderers |
-| still sailed on unharmed -- while swift |
-| lightnings shivered the neighboring     |
-| ship that would have borne a righteous  |
-| husband to outstretched, longing arms.  |
-| O head! thou has seen enough to split   |
-| the planets and make an infidel of      |
-| Abraham, and not one syllable is        |
-| thine!"                                 |
+/ Q: How many members of the U.S.S.       \
+| Enterprise does it take to change a     |
 |                                         |
-\ -- H. Melville, "Moby Dick"             /
+| light bulb? A: Seven. Scotty has to     |
+| report to Captain Kirk that the light   |
+| bulb in                                 |
+|                                         |
+| the Engineering Section is getting dim, |
+| at which point Kirk will send           |
+|                                         |
+| Bones to pronounce the bulb dead        |
+| (although he'll immediately claim       |
+|                                         |
+| that he's a doctor, not an              |
+| electrician). Scotty, after checking    |
+|                                         |
+| around, realizes that they have no more |
+| new light bulbs, and complains          |
+|                                         |
+| that he "canna" see in the dark. Kirk   |
+| will make an emergency stop at          |
+|                                         |
+| the next uncharted planet, Alpha Regula |
+| IV, to procure a light bulb             |
+|                                         |
+| from the natives, who, are friendly,    |
+| but seem to be hiding something.        |
+|                                         |
+| Kirk, Spock, Bones, Yeoman Rand and two |
+| red shirt security officers             |
+|                                         |
+| beam down to the planet, where the two  |
+| security officers are promply           |
+|                                         |
+| killed by the natives, and the rest of  |
+| the landing party is captured.          |
+|                                         |
+| As something begins to develop between  |
+| the Captain and Yeoman Rand,            |
+|                                         |
+| Scotty, back in orbit, is attacked by a |
+| Klingon destroyer and must              |
+|                                         |
+| warp out of orbit. Although badly       |
+| outgunned, he cripples the Klingon      |
+|                                         |
+| and races back to the planet in order   |
+| to rescue Kirk et. al. who have         |
+|                                         |
+| just saved the natives' from an awful   |
+| fate and, as a reward, been             |
+|                                         |
+| given all light bulbs they can carry.   |
+| The new bulb is then inserted           |
+|                                         |
+| and the Enterprise continues on its     |
+\ five year mission.                      /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
