@@ -1,15 +1,13 @@
 Last Update Time: 
-Sun Aug 18 06:14:44 UTC 2024
+Sun Aug 18 06:35:04 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How many mathematicians does it take \
-| to screw in a light bulb? A: One. He    |
-| gives it to six Californians, thereby   |
-| reducing the problem                    |
-|                                         |
-\ to the earlier joke.                    /
- -----------------------------------------
+ ________________________________________
+/ Lay on, MacDuff, and curs'd be him who \
+| first cries, "Hold, enough!".          |
+|                                        |
+\ -- Shakespeare                         /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
