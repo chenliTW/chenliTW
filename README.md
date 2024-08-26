@@ -1,32 +1,16 @@
 Last Update Time: 
-Mon Aug 26 22:30:05 UTC 2024
+Mon Aug 26 22:41:49 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: What's the contour integral around \
-| Western Europe? A: Zero, because all  |
-| the Poles are in Eastern Europe!      |
-|                                       |
-| Addendum: Actually, there ARE some    |
-| Poles in Western Europe, but they     |
-|                                       |
-| are removable!                        |
-|                                       |
-| Q: An English mathematician (I forgot |
-| who) was asked by his                 |
-|                                       |
-| very religious colleague: Do you      |
-| believe in one God? A: Yes, up to     |
-| isomorphism!                          |
-|                                       |
-| Q: What is a compact city? A: It's a  |
-| city that can be guarded by finitely  |
-| many near-sighted                     |
-|                                       |
-| policemen!                            |
-|                                       |
-\ -- Peter Lax                          /
- ---------------------------------------
+ _________________________________________
+/  You will remember, Watson, how the     \
+| dreadful business of the Abernetty      |
+| family was first brought to my notice   |
+| by the depth which the parsley had sunk |
+| into the butter upon a hot day.         |
+|                                         |
+\ -- Sherlock Holmes                      /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
