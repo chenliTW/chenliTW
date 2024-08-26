@@ -1,12 +1,12 @@
 Last Update Time: 
-Mon Aug 26 17:56:19 UTC 2024
+Mon Aug 26 18:28:05 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________
-/ I'll burn my books.    \
-|                        |
-\ -- Christopher Marlowe /
- ------------------------
+ ________________________________
+/ question = ( to ) ? be : ! be; \
+|                                |
+\ -- Wm. Shakespeare             /
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
