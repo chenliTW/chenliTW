@@ -1,11 +1,13 @@
 Last Update Time: 
-Thu Aug 29 17:18:48 UTC 2024
+Thu Aug 29 17:31:46 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: What's the difference between Bell  \
-| Labs and the Boy Scouts of America? A: |
-\ The Boy Scouts have adult supervision. /
+/ Q: Why should you always serve a       \
+| Southern Carolina football man         |
+|                                        |
+| soup in a plate? A: 'Cause if you give |
+\ him a bowl, he'll throw it away.       /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
