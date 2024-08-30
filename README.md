@@ -1,13 +1,14 @@
 Last Update Time: 
-Thu Aug 29 23:53:55 UTC 2024
+Fri Aug 30 01:14:46 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: How many IBM CPU's does it take to \
-| do a logical right shift? A: 33. 1 to |
-| hold the bits and 32 to push the      |
-\ register.                             /
- ---------------------------------------
+ ____________________________________
+/ Q: What does a WASP Mom make for   \
+| dinner? A: A crisp salad, a hearty |
+| soup, a lovely entree, followed by |
+|                                    |
+\ a delicious dessert.               /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
