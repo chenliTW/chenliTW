@@ -1,16 +1,15 @@
 Last Update Time: 
-Sat Aug 31 05:51:40 UTC 2024
+Sat Aug 31 06:15:46 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How do you shoot a blue elephant? A: \
-| With a blue-elephant gun.               |
+/ Q: How many Oregonians does it take to  \
+| screw in a light bulb? A: Three. One to |
+| screw in the light bulb and two to fend |
+| off all those                           |
 |                                         |
-| Q: How do you shoot a pink elephant? A: |
-| Twist its trunk until it turns blue,    |
-| then shoot it with                      |
-|                                         |
-\ a blue-elephant gun.                    /
+| Californians trying to share the        |
+\ experience.                             /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
