@@ -1,17 +1,21 @@
 Last Update Time: 
-Tue Sep  3 19:52:45 UTC 2024
+Tue Sep  3 20:14:50 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: What did Tarzan say when he saw the  \
-| elephants coming over the hill? A: "The |
-| elephants are coming over the hill."    |
+/ In the plot, people came to the land;   \
+| the land loved them; they worked and    |
+| struggled and had lots of children.     |
+| There was a Frenchman who talked funny  |
+| and a greenhorn from England who was a  |
+| fancy-pants but when it came to the     |
+| crunch he was all courage. Those novels |
+| would make you retch.                   |
 |                                         |
-| Q: What did he say when saw them coming |
-| over the hill wearing                   |
+| -- Canadian novelist Robertson Davies,  |
+| on the generic Canadian                 |
 |                                         |
-| sunglasses? A: Nothing, for he didn't   |
-\ recognize them.                         /
+\ novel.                                  /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
