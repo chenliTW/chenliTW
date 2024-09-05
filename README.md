@@ -1,13 +1,15 @@
 Last Update Time: 
-Thu Sep  5 02:56:48 UTC 2024
+Thu Sep  5 03:24:04 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: How many IBM CPU's does it take to \
-| do a logical right shift? A: 33. 1 to |
-| hold the bits and 32 to push the      |
-\ register.                             /
- ---------------------------------------
+ _________________________________________
+/ Q: How many Bell Labs Vice Presidents   \
+| does it take to change a light bulb? A: |
+| That's proprietary information. Answer  |
+| available from AT&T on payment          |
+|                                         |
+\ of license fee (binary only).           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
