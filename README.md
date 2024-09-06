@@ -1,12 +1,15 @@
 Last Update Time: 
-Fri Sep  6 09:41:14 UTC 2024
+Fri Sep  6 09:52:27 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ____________________________________
-/ A horse! A horse! My kingdom for a \
-| horse!                             |
+/ Q: What do you call a blind        \
+| pre-historic animal? A:            |
+| Diyathinkhesaurus.                 |
 |                                    |
-\ -- Wm. Shakespeare, "Richard III"  /
+| Q: What do you call a blind        |
+| pre-historic animal with a dog? A: |
+\ Diyathinkhesaurus Rex.             /
  ------------------------------------
         \   ^__^
          \  (oo)\_______
