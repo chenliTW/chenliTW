@@ -1,15 +1,12 @@
 Last Update Time: 
-Thu Sep 12 06:46:22 UTC 2024
+Thu Sep 12 06:58:18 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ ROMEO: Courage, man; the hurt cannot be \
-| much. MERCUTIO: No, 'tis not so deep as |
-| a well, nor so wide                     |
-|                                         |
-| as a church-door; but 'tis enough,      |
-\ 'twill serve.                           /
- -----------------------------------------
+ _______________________________
+/ Don't worry. Life's too long. \
+|                               |
+\ -- Vincent Sardi, Jr.         /
+ -------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
