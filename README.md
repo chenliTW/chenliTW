@@ -1,40 +1,35 @@
 Last Update Time: 
-Tue Sep 17 13:53:26 UTC 2024
+Tue Sep 17 14:14:23 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/  "...The name of the song is called     \
-| 'Haddocks' Eyes'!"                      |
+/ Courage is resistance to fear, mastery  \
+| of fear--not absence of fear. Except a  |
+| creature be part coward it is not a     |
+| compliment to say it is brave; it is    |
+| merely a loose misapplication of the    |
+| word. Consider the flea!--incomparably  |
+| the bravest of all the creatures of     |
+| God, if ignorance of fear were courage. |
+| Whether you are asleep or awake he will |
+| attack you, caring nothing for the fact |
+| that in bulk and strength you are to    |
+| him as are the massed armies of the     |
+| earth to a sucking child; he lives both |
+| day and night and all days and nights   |
+| in the very lap of peril and the        |
+| immediate presence of death, and yet is |
+| no more afraid than is the man who      |
+| walks the streets of a city that was    |
+| threatened by an earthquake ten         |
+| centuries before. When we speak of      |
+| Clive, Nelson, and Putnam as men who    |
+| "didn't know what fear was," we ought   |
+| always to add the flea--and put him at  |
+| the head of the procession.             |
 |                                         |
-| "Oh, that's the name of the song, is    |
-| it?" Alice said, trying to feel         |
-| interested.                             |
-|                                         |
-| "No, you don't understand," the Knight  |
-| said, looking a little vexed. "That's   |
-| what the name is called. The name       |
-| really is, 'The Aged Aged Man.'"        |
-|                                         |
-| "Then I ought to have said "That's what |
-| the song is called'?" Alice corrected   |
-| herself.                                |
-|                                         |
-| "No, you oughtn't: that's quite another |
-| thing! The song is called 'Ways and     |
-| Means': but that's only what it is      |
-| called you know!"                       |
-|                                         |
-| "Well, what is the song then?" said     |
-| Alice, who was by this time completely  |
-| bewildered.                             |
-|                                         |
-| "I was coming to that," the Knight      |
-| said. "The song really is "A-sitting on |
-| a Gate": and the tune's my own          |
-| invention."                             |
-|                                         |
-| -- Lewis Carroll, "Through the Looking  |
-\ Glass"                                  /
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
