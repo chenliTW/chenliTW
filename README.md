@@ -1,14 +1,14 @@
 Last Update Time: 
-Tue Sep 17 21:41:43 UTC 2024
+Tue Sep 17 21:53:38 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ I must have a prodigious quantity of  \
-| mind; it takes me as much as a week   |
-| sometimes to make it up.              |
-|                                       |
-\ -- Mark Twain, "The Innocents Abroad" /
- ---------------------------------------
+ ________________________________________
+/ Q: What do you call a WASP who doesn't \
+| work for his father, isn't a           |
+|                                        |
+| lawyer, and believes in social causes? |
+\ A: A failure.                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
