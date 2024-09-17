@@ -1,14 +1,13 @@
 Last Update Time: 
-Tue Sep 17 07:20:56 UTC 2024
+Tue Sep 17 07:33:42 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ There are more things in heaven and   \
-| earth, Horatio, than are dreamt of in |
-| your philosophy.                      |
-|                                       |
-\ -- Wm. Shakespeare, "Hamlet"          /
- ---------------------------------------
+ ________________________________________
+/ The very ink with which all history is \
+| written is merely fluid prejudice.     |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
