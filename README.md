@@ -1,20 +1,21 @@
 Last Update Time: 
-Fri Sep 20 11:23:27 UTC 2024
+Fri Sep 20 11:36:43 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/  The Priest's grey nimbus in a niche    \
-| where he dressed discreetly. I will not |
-| sleep here tonight. Home also I cannot  |
-| go.                                     |
+/  My dear People.                        \
 |                                         |
-| A voice, sweetened and sustained,       |
-| called to him from the sea. Turning the |
-| curve he waved his hand. A sleek brown  |
-| head, a seal's, far out on the water,   |
-| round. Usurper.                         |
+| My dear Bagginses and Boffins, and my   |
+| dear Tooks and Brandybucks, and Grubbs, |
+| and Chubbs, and Burrowses, and          |
+| Hornblowers, and Bolgers, Bracegirdles, |
+| Goodbodies, Brockhouses and Proudfoots. |
+| Also my good Sackville Bagginses that I |
+| welcome back at last to Bag End. Today  |
+| is my one hundred and eleventh          |
+| birthday: I am eleventy-one today!"     |
 |                                         |
-\ -- James Joyce, "Ulysses"               /
+\ -- J. R. R. Tolkien                     /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
