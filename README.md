@@ -1,11 +1,11 @@
 Last Update Time: 
-Fri Sep 20 16:17:30 UTC 2024
+Fri Sep 20 16:40:10 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ___________________________________
-/ Your heart is pure, and your mind \
-\ clear, and your soul devout.      /
- -----------------------------------
+ ________________________________________
+/ You will be awarded a medal for        \
+\ disregarding safety in saving someone. /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
