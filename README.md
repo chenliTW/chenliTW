@@ -1,12 +1,13 @@
 Last Update Time: 
-Fri Sep 20 14:37:39 UTC 2024
+Fri Sep 20 14:49:26 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Conscience doth make cowards of us all. \
-|                                         |
-\ -- Shakespeare                          /
- -----------------------------------------
+ _______________________________________
+/ Q: How many IBM CPU's does it take to \
+| do a logical right shift? A: 33. 1 to |
+| hold the bits and 32 to push the      |
+\ register.                             /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
