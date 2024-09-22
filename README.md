@@ -1,12 +1,14 @@
 Last Update Time: 
-Sun Sep 22 16:41:47 UTC 2024
+Sun Sep 22 16:53:42 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: How many IBM 370's does it take to \
-| execute a job? A: Four, three to hold |
-\ it down, and one to rip its head off. /
- ---------------------------------------
+ ________________________________________
+/ Q: Why does Washington have the most   \
+| lawyers per capita and                 |
+|                                        |
+| New Jersey the most toxic waste dumps? |
+\ A: God gave New Jersey first choice.   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
