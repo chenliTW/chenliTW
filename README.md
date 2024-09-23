@@ -1,16 +1,11 @@
 Last Update Time: 
-Mon Sep 23 05:18:39 UTC 2024
+Mon Sep 23 05:36:50 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How many Oregonians does it take to  \
-| screw in a light bulb? A: Three. One to |
-| screw in the light bulb and two to fend |
-| off all those                           |
-|                                         |
-| Californians trying to share the        |
-\ experience.                             /
- -----------------------------------------
+ _____________________________________
+/ You will be audited by the Internal \
+\ Revenue Service.                    /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
