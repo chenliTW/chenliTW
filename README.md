@@ -1,15 +1,23 @@
 Last Update Time: 
-Tue Sep 24 06:11:25 UTC 2024
+Tue Sep 24 06:40:15 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Consider well the proportions of       \
-| things. It is better to be a young     |
-| June-bug than an old bird of paradise. |
-|                                        |
-| -- Mark Twain, "Pudd'nhead Wilson's    |
-\ Calendar"                              /
- ----------------------------------------
+ _______________________________________
+/ Delay not, Caesar. Read it instantly. \
+|                                       |
+| -- Shakespeare, "Julius Caesar" 3,1   |
+|                                       |
+| Here is a letter, read it at your     |
+| leisure.                              |
+|                                       |
+| -- Shakespeare, "Merchant of Venice"  |
+| 5,1                                   |
+|                                       |
+| [Quoted in "VMS Internals and Data    |
+| Structures", V4.4, when               |
+|                                       |
+\ referring to I/O system services.]    /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
