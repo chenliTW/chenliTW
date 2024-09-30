@@ -1,13 +1,18 @@
 Last Update Time: 
-Mon Sep 30 05:40:00 UTC 2024
+Mon Sep 30 05:51:41 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ FORTUNE PROVIDES QUESTIONS FOR THE     \
-| GREAT ANSWERS: #4 A: Go west, young    |
-| man, go west! Q: What do wabbits do    |
-\ when they get tiwed of wunning awound? /
- ----------------------------------------
+ ________________________________
+/ To be or not to be.            \
+|                                |
+| -- Shakespeare To do is to be. |
+|                                |
+| -- Nietzsche To be is to do.   |
+|                                |
+| -- Sartre Do be do be do.      |
+|                                |
+\ -- Sinatra                     /
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
