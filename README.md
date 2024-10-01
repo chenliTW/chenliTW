@@ -1,16 +1,20 @@
 Last Update Time: 
-Tue Oct  1 12:46:56 UTC 2024
+Tue Oct  1 13:15:44 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How do you shoot a blue elephant? A: \
-| With a blue-elephant gun.               |
+/ Q: How many existentialists does it     \
+| take to screw in a light bulb? A: Two.  |
+| One to screw it in and one to observe   |
+| how the light bulb                      |
 |                                         |
-| Q: How do you shoot a pink elephant? A: |
-| Twist its trunk until it turns blue,    |
-| then shoot it with                      |
+| itself symbolizes a single incandescent |
+| beacon of subjective                    |
 |                                         |
-\ a blue-elephant gun.                    /
+| reality in a netherworld of endless     |
+| absurdity reaching out toward a         |
+|                                         |
+\ maudlin cosmos of nothingness.          /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
