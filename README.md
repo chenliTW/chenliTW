@@ -1,12 +1,21 @@
 Last Update Time: 
-Fri Oct  4 14:45:34 UTC 2024
+Fri Oct  4 14:57:36 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ It is so very hard to be an             \
-| on-your-own-take-care-of-yourself-becau |
-| se-there-is-no-one-else-to-do-it-for-yo |
-\ u grown-up.                             /
+/ For the fashion of Minas Tirith was     \
+| such that it was built on seven levels, |
+| each delved into a hill, and about each |
+| was set a wall, and in each wall was a  |
+| gate.                                   |
+|                                         |
+| -- J.R.R. Tolkien, "The Return of the   |
+| King"                                   |
+|                                         |
+| [Quoted in "VMS Internals and Data      |
+| Structures", V4.4, when                 |
+|                                         |
+\ referring to system overview.]          /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
