@@ -1,35 +1,35 @@
 Last Update Time: 
-Mon Oct  7 14:44:34 UTC 2024
+Mon Oct  7 14:56:24 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ His followers called him Mahasamatman   \
-| and said he was a god. He preferred to  |
-| drop the Maha- and the -atman, however, |
-| and called himself Sam. He never        |
-| claimed to be a god. But then, he never |
-| claimed not to be a god. Circum-        |
-| stances being what they were, neither   |
-| admission could be of any benefit.      |
-| Silence, though, could. It was in the   |
-| days of the rains that their prayers    |
-| went up, not from the fingering of      |
-| knotted prayer cords or the spinning of |
-| prayer wheels, but from the great       |
-| pray-machine in the monastery of Ratri, |
-| goddess of the Night. The               |
-| high-frequency prayers were directed    |
-| upward through the atmosphere and out   |
-| beyond it, passing into that golden     |
-| cloud called the Bridge of the Gods,    |
-| which circles the entire world, is seen |
-| as a bronze rainbow at night and is the |
-| place where the red sun becomes orange  |
-| at midday. Some of the monks doubted    |
-| the orthodoxy of this prayer            |
-| technique...                            |
+/ Courage is resistance to fear, mastery  \
+| of fear--not absence of fear. Except a  |
+| creature be part coward it is not a     |
+| compliment to say it is brave; it is    |
+| merely a loose misapplication of the    |
+| word. Consider the flea!--incomparably  |
+| the bravest of all the creatures of     |
+| God, if ignorance of fear were courage. |
+| Whether you are asleep or awake he will |
+| attack you, caring nothing for the fact |
+| that in bulk and strength you are to    |
+| him as are the massed armies of the     |
+| earth to a sucking child; he lives both |
+| day and night and all days and nights   |
+| in the very lap of peril and the        |
+| immediate presence of death, and yet is |
+| no more afraid than is the man who      |
+| walks the streets of a city that was    |
+| threatened by an earthquake ten         |
+| centuries before. When we speak of      |
+| Clive, Nelson, and Putnam as men who    |
+| "didn't know what fear was," we ought   |
+| always to add the flea--and put him at  |
+| the head of the procession.             |
 |                                         |
-\ -- Roger Zelazny, "Lord of Light"       /
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
