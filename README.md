@@ -1,13 +1,12 @@
 Last Update Time: 
-Mon Oct  7 06:32:42 UTC 2024
+Mon Oct  7 06:49:13 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: How many IBM CPU's does it take to \
-| do a logical right shift? A: 33. 1 to |
-| hold the bits and 32 to push the      |
-\ register.                             /
- ---------------------------------------
+ _________________________________________
+/ The better part of valor is discretion. \
+|                                         |
+\ -- William Shakespeare, "Henry IV"      /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
