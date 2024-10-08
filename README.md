@@ -1,18 +1,14 @@
 Last Update Time: 
-Tue Oct  8 11:18:19 UTC 2024
+Tue Oct  8 11:30:38 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ The only people for me are the mad ones \
-| -- the ones who are mad to live, mad to |
-| talk, mad to be saved, desirous of      |
-| everything at the same time, the ones   |
-| who never yawn or say a commonplace     |
-| thing, but burn, burn, burn like        |
-| fabulous yellow Roman candles.          |
-|                                         |
-\ -- Jack Kerouac, "On the Road"          /
- -----------------------------------------
+ _______________________________________
+/ Anyone who has had a bull by the tail \
+| knows five or six more things than    |
+| someone who hasn't.                   |
+|                                       |
+\ -- Mark Twain                         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
