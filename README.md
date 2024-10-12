@@ -1,23 +1,19 @@
 Last Update Time: 
-Sat Oct 12 05:51:10 UTC 2024
+Sat Oct 12 06:15:17 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: How many hardware engineers does it \
-| take to change a light bulb? A: None.  |
-| We'll fix it in software.              |
+/ Q: How does the Polish Constitution    \
+| differ from the American? A: Under the |
+| Polish Constitution citizens are       |
+| guaranteed freedom of                  |
 |                                        |
-| Q: How many system programmers does it |
-| take to change a light bulb? A: None.  |
-| The application can work around it.    |
+| speech, but under the United States    |
+| constitution they are                  |
 |                                        |
-| Q: How many software engineers does it |
-| take to change a light bulb? A: None.  |
-| We'll document it in the manual.       |
+| guaranteed freedom after speech.       |
 |                                        |
-| Q: How many tech writers does it take  |
-| to change a light bulb? A: None. The   |
-\ user can figure it out.                /
+\ -- being told in Poland, 1987          /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
