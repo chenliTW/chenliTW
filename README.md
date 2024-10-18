@@ -1,17 +1,13 @@
 Last Update Time: 
-Fri Oct 18 15:51:29 UTC 2024
+Fri Oct 18 16:14:43 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Steady movement is more important than \
-| speed, much of the time. So long as    |
-| there is a regular progression of      |
-| stimuli to get your mental hooks into, |
-| there is room for lateral movement.    |
-| Once this begins, its rate is a matter |
-| of discretion.                         |
+/ Q: Why is Christmas just like a day at \
+| the office? A: You do all of the work  |
+| and the fat guy in the suit            |
 |                                        |
-\ -- Corwin, Prince of Amber             /
+\ gets all the credit.                   /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
