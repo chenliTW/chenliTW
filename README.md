@@ -1,20 +1,24 @@
 Last Update Time: 
-Wed Oct 23 09:25:02 UTC 2024
+Wed Oct 23 09:39:43 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ A morgue is a morgue is a morgue. They  \
-| can paint the walls with aggressively   |
-| cheerful primary colors and splashy     |
-| bold graphics, but it's still a holding |
-| place for the dead until they can be    |
-| parted out to organ banks. Not that I   |
-| would have cared normally but my        |
-| viewpoint was skewed. The relentless    |
-| pleasance of the room I sat in seemed   |
-| only grotesque.                         |
+/ The bone-chilling scream split the warm \
+| summer night in two, the first half     |
+| being before the scream when it was     |
+| fairly balmy and calm and pleasant, the |
+| second half still balmy and quite       |
+| pleasant for those who hadn't heard the |
+| scream at all, but not calm or balmy or |
+| even very nice for those who did hear   |
+| the scream, discounting the little      |
+| period of time during the actual scream |
+| itself when your ears might have been   |
+| hearing it but your brain wasn't        |
+| reacting yet to let you know.           |
 |                                         |
-\ -- Pat Cadigan, "Mindplayers"           /
+| -- Winning sentence, 1986 Bulwer-Lytton |
+\ bad fiction contest.                    /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
