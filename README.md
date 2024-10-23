@@ -1,24 +1,35 @@
 Last Update Time: 
-Wed Oct 23 09:39:43 UTC 2024
+Wed Oct 23 09:51:19 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The bone-chilling scream split the warm \
-| summer night in two, the first half     |
-| being before the scream when it was     |
-| fairly balmy and calm and pleasant, the |
-| second half still balmy and quite       |
-| pleasant for those who hadn't heard the |
-| scream at all, but not calm or balmy or |
-| even very nice for those who did hear   |
-| the scream, discounting the little      |
-| period of time during the actual scream |
-| itself when your ears might have been   |
-| hearing it but your brain wasn't        |
-| reacting yet to let you know.           |
+/ His followers called him Mahasamatman   \
+| and said he was a god. He preferred to  |
+| drop the Maha- and the -atman, however, |
+| and called himself Sam. He never        |
+| claimed to be a god. But then, he never |
+| claimed not to be a god. Circum-        |
+| stances being what they were, neither   |
+| admission could be of any benefit.      |
+| Silence, though, could. It was in the   |
+| days of the rains that their prayers    |
+| went up, not from the fingering of      |
+| knotted prayer cords or the spinning of |
+| prayer wheels, but from the great       |
+| pray-machine in the monastery of Ratri, |
+| goddess of the Night. The               |
+| high-frequency prayers were directed    |
+| upward through the atmosphere and out   |
+| beyond it, passing into that golden     |
+| cloud called the Bridge of the Gods,    |
+| which circles the entire world, is seen |
+| as a bronze rainbow at night and is the |
+| place where the red sun becomes orange  |
+| at midday. Some of the monks doubted    |
+| the orthodoxy of this prayer            |
+| technique...                            |
 |                                         |
-| -- Winning sentence, 1986 Bulwer-Lytton |
-\ bad fiction contest.                    /
+\ -- Roger Zelazny, "Lord of Light"       /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
