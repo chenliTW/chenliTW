@@ -1,21 +1,12 @@
 Last Update Time: 
-Wed Oct 23 10:12:44 UTC 2024
+Wed Oct 23 10:35:40 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Many enraged psychiatrists are inciting \
-| a weary butcher. The butcher is weary   |
-| and tired because he has cut meat and   |
-| steak and lamb for hours and weeks. He  |
-| does not desire to chant about anything |
-| with raving psychiatrists, but he sings |
-| about his gingivectomist, he dreams     |
-| about a single cosmologist, he thinks   |
-| about his dog. The dog is named         |
-| Herbert.                                |
-|                                         |
-| -- Racter, "The Policeman's Beard is    |
-\ Half-Constructed"                       /
+/ Q: What do you get when you cross a     \
+| mobster with an international standard? |
+| A: You get someone who makes you an     |
+\ offer that you can't understand!        /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
