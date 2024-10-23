@@ -1,12 +1,20 @@
 Last Update Time: 
-Wed Oct 23 08:57:47 UTC 2024
+Wed Oct 23 09:25:02 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The whole world is a tuxedo and you are \
-| a pair of brown shoes.                  |
+/ A morgue is a morgue is a morgue. They  \
+| can paint the walls with aggressively   |
+| cheerful primary colors and splashy     |
+| bold graphics, but it's still a holding |
+| place for the dead until they can be    |
+| parted out to organ banks. Not that I   |
+| would have cared normally but my        |
+| viewpoint was skewed. The relentless    |
+| pleasance of the room I sat in seemed   |
+| only grotesque.                         |
 |                                         |
-\ -- George Gobel                         /
+\ -- Pat Cadigan, "Mindplayers"           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
