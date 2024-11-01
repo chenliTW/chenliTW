@@ -1,13 +1,11 @@
 Last Update Time: 
-Fri Nov  1 22:31:37 UTC 2024
+Fri Nov  1 22:43:27 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ In Marseilles they make half the toilet \
-| soap we consume in America, but the     |
-| Marseillaise only have a vague          |
-| theoretical idea of its use, which they |
-| have obtained from books of travel.     |
+/ They spell it "da Vinci" and pronounce  \
+| it "da Vinchy". Foreigners always spell |
+| better than they pronounce.             |
 |                                         |
 \ -- Mark Twain                           /
  -----------------------------------------
