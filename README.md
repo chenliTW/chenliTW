@@ -1,24 +1,40 @@
 Last Update Time: 
-Mon Nov  4 06:59:36 UTC 2024
+Mon Nov  4 07:23:08 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Delores breezed along the surface of    \
-| her life like a flat stone forever      |
-| skipping along smooth water, rippling   |
-| reality sporadically but oblivious to   |
-| it consistently, until she finally lost |
-| momentum, sank, and due to an overdose  |
-| of flouride as a child which caused her |
-| to suffer from chronic apathy, doomed   |
-| herself to lie forever on the floor of  |
-| her life as useless as an appendix and  |
-| as lonely as a five-hundred pound       |
-| barbell in a steroid-free fitness       |
-| center.                                 |
+/  "...The name of the song is called     \
+| 'Haddocks' Eyes'!"                      |
 |                                         |
-| -- Winning sentence, 1990 Bulwer-Lytton |
-\ bad fiction contest.                    /
+| "Oh, that's the name of the song, is    |
+| it?" Alice said, trying to feel         |
+| interested.                             |
+|                                         |
+| "No, you don't understand," the Knight  |
+| said, looking a little vexed. "That's   |
+| what the name is called. The name       |
+| really is, 'The Aged Aged Man.'"        |
+|                                         |
+| "Then I ought to have said "That's what |
+| the song is called'?" Alice corrected   |
+| herself.                                |
+|                                         |
+| "No, you oughtn't: that's quite another |
+| thing! The song is called 'Ways and     |
+| Means': but that's only what it is      |
+| called you know!"                       |
+|                                         |
+| "Well, what is the song then?" said     |
+| Alice, who was by this time completely  |
+| bewildered.                             |
+|                                         |
+| "I was coming to that," the Knight      |
+| said. "The song really is "A-sitting on |
+| a Gate": and the tune's my own          |
+| invention."                             |
+|                                         |
+| -- Lewis Carroll, "Through the Looking  |
+\ Glass"                                  /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
