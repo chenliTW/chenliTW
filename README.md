@@ -1,11 +1,14 @@
 Last Update Time: 
-Tue Nov  5 10:34:36 UTC 2024
+Tue Nov  5 10:46:45 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Best of all is never to have been born. \
-\ Second best is to die soon.             /
- -----------------------------------------
+ ________________________________________
+/ Q: Why does Washington have the most   \
+| lawyers per capita and                 |
+|                                        |
+| New Jersey the most toxic waste dumps? |
+\ A: God gave New Jersey first choice.   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
