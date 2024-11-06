@@ -1,18 +1,40 @@
 Last Update Time: 
-Wed Nov  6 22:19:29 UTC 2024
+Wed Nov  6 22:37:05 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ We should be careful to get out of an   \
-| experience only the wisdom that is in   |
-| it - and stay there, lest we be like    |
-| the cat that sits down on a hot         |
-| stove-lid. She will never sit down on a |
-| hot stove-lid again - and that is well; |
-| but also she will never sit down on a   |
-| cold one any more.                      |
+/  "...The name of the song is called     \
+| 'Haddocks' Eyes'!"                      |
 |                                         |
-\ -- Mark Twain                           /
+| "Oh, that's the name of the song, is    |
+| it?" Alice said, trying to feel         |
+| interested.                             |
+|                                         |
+| "No, you don't understand," the Knight  |
+| said, looking a little vexed. "That's   |
+| what the name is called. The name       |
+| really is, 'The Aged Aged Man.'"        |
+|                                         |
+| "Then I ought to have said "That's what |
+| the song is called'?" Alice corrected   |
+| herself.                                |
+|                                         |
+| "No, you oughtn't: that's quite another |
+| thing! The song is called 'Ways and     |
+| Means': but that's only what it is      |
+| called you know!"                       |
+|                                         |
+| "Well, what is the song then?" said     |
+| Alice, who was by this time completely  |
+| bewildered.                             |
+|                                         |
+| "I was coming to that," the Knight      |
+| said. "The song really is "A-sitting on |
+| a Gate": and the tune's my own          |
+| invention."                             |
+|                                         |
+| -- Lewis Carroll, "Through the Looking  |
+\ Glass"                                  /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
