@@ -1,11 +1,13 @@
 Last Update Time: 
-Fri Nov  8 22:32:42 UTC 2024
+Fri Nov  8 22:44:58 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: What's the difference between Bell  \
-| Labs and the Boy Scouts of America? A: |
-\ The Boy Scouts have adult supervision. /
+/ You may my glories and my state        \
+| dispose, But not my griefs; still am I |
+| king of those.                         |
+|                                        |
+\ -- William Shakespeare, "Richard II"   /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
