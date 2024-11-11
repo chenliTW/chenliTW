@@ -1,24 +1,25 @@
 Last Update Time: 
-Mon Nov 11 12:56:56 UTC 2024
+Mon Nov 11 13:27:41 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many IBM types does it take to   \
-| change a light bulb? A: Fifteen. One to |
-| do it, and fourteen to write document   |
-| number                                  |
+/ Q: How many Californians does it take   \
+| to screw in a light bulb? A: Five. One  |
+| to screw in the light bulb and four to  |
+| share the                               |
 |                                         |
-| GC7500439-0001, Multitasking            |
-| Incandescent Source System Facility,    |
+| experience. (Actually, Californians     |
+| don't screw in                          |
 |                                         |
-| of which 10% of the pages state only    |
-| "This page intentionally                |
+| light bulbs, they screw in hot tubs.)   |
 |                                         |
-| left blank", and 20% of the definitions |
-| are of the form "A:.....                |
+| Q: How many Oregonians does it take to  |
+| screw in a light bulb? A: Three. One to |
+| screw in the light bulb and two to fend |
+| off all                                 |
 |                                         |
-| consists of sequences of non-blank      |
-\ characters separated by blanks".        /
+| those Californians trying to share the  |
+\ experience.                             /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
