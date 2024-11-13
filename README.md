@@ -1,24 +1,14 @@
 Last Update Time: 
-Wed Nov 13 19:41:35 UTC 2024
+Wed Nov 13 19:52:52 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ So she went into the garden to cut a    \
-| cabbage leaf to make an apple pie; and  |
-| at the same time a great she-bear,      |
-| coming up the street pops its head into |
-| the shop. "What! no soap?" So he died,  |
-| and she very imprudently married the    |
-| barber; and there were present the      |
-| Picninnies, and the Grand Panjandrum    |
-| himself, with the little round button   |
-| at top, and they all fell to playing    |
-| the game of catch as catch can, till    |
-| the gunpowder ran out at the heels of   |
-| their boots.                            |
-|                                         |
-\ -- Samuel Foote                         /
- -----------------------------------------
+ ____________________________________
+/ FORTUNE PROVIDES QUESTIONS FOR THE \
+| GREAT ANSWERS: #13 A: Doc, Happy,  |
+| Bashful, Dopey, Sneezy, Sleepy, &  |
+| Grumpy Q: Who were the Democratic  |
+\ presidential candidates?           /
+ ------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
