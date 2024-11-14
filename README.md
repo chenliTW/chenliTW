@@ -1,18 +1,13 @@
 Last Update Time: 
-Thu Nov 14 06:49:18 UTC 2024
+Thu Nov 14 07:08:32 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Behold, the fool saith, "Put not all    \
-| thine eggs in the one basket"--which is |
-| but a manner of saying, "Scatter your   |
-| money and your attention;" but the wise |
-| man saith, "Put all your eggs in the    |
-| one basket and--WATCH THAT BASKET."     |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
- -----------------------------------------
+ ______________________________________
+/ "Not Hercules could have knock'd out \
+| his brains, for he had none."        |
+|                                      |
+\ -- Shakespeare                       /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
