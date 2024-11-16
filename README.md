@@ -1,21 +1,24 @@
 Last Update Time: 
-Sat Nov 16 21:38:22 UTC 2024
+Sat Nov 16 21:50:16 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ There is no character, howsoever good   \
-| and fine, but it can be destroyed by    |
-| ridicule, howsoever poor and witless.   |
-| Observe the ass, for instance: his      |
-| character is about perfect, he is the   |
-| choicest spirit among all the humbler   |
-| animals, yet see what ridicule has      |
-| brought him to. Instead of feeling      |
-| complimented when we are called an ass, |
-| we are left in doubt.                   |
+/ In the space of one hundred and         \
+| seventy-six years the Mississippi has   |
+| shortened itself two hundred and        |
+| forty-two miles. Therefore ... in the   |
+| Old Silurian Period the Mississippi     |
+| River was upward of one million three   |
+| hundred thousand miles long ... seven   |
+| hundred and forty-two years from now    |
+| the Mississippi will be only a mile and |
+| three-quarters long. ... There is       |
+| something fascinating about science.    |
+| One gets such wholesome returns of      |
+| conjecture out of such a trifling       |
+| investment of fact.                     |
 |                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
