@@ -1,13 +1,12 @@
 Last Update Time: 
-Tue Nov 19 10:55:11 UTC 2024
+Tue Nov 19 11:17:30 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ But, for my own part, it was Greek to   \
-| me.                                     |
-|                                         |
-\ -- William Shakespeare, "Julius Caesar" /
- -----------------------------------------
+ _______________________________________
+/ You should emulate your heros, but    \
+| don't carry it too far. Especially if |
+\ they are dead.                        /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
