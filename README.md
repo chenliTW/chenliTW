@@ -1,12 +1,13 @@
 Last Update Time: 
-Thu Nov 28 14:59:06 UTC 2024
+Thu Nov 28 15:26:39 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What do you say to a New Yorker with \
-| a job? A: Big Mac, fries and a Coke,    |
-\ please!                                 /
- -----------------------------------------
+ ________________________________________
+/ Rebellion lay in his way, and he found \
+| it.                                    |
+|                                        |
+\ -- William Shakespeare, "Henry IV"     /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
