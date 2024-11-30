@@ -1,12 +1,11 @@
 Last Update Time: 
-Sat Nov 30 00:52:45 UTC 2024
+Sat Nov 30 02:19:09 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ You learn to write as if to someone \
-| else because NEXT YEAR YOU WILL BE  |
-\ "SOMEONE ELSE."                     /
- -------------------------------------
+ _________________________________________
+/ Are you ever going to do the dishes? Or \
+\ will you change your major to biology?  /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
