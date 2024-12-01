@@ -1,22 +1,20 @@
 Last Update Time: 
-Sun Dec  1 21:30:06 UTC 2024
+Sun Dec  1 21:42:04 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ There is no character, howsoever good   \
-| and fine, but it can be destroyed by    |
-| ridicule, howsoever poor and witless.   |
-| Observe the ass, for instance: his      |
-| character is about perfect, he is the   |
-| choicest spirit among all the humbler   |
-| animals, yet see what ridicule has      |
-| brought him to. Instead of feeling      |
-| complimented when we are called an ass, |
-| we are left in doubt.                   |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
- -----------------------------------------
+ _______________________________________
+/ Q: Why is Poland just like the United \
+| States? A: In the United States you   |
+| can't buy anything for zlotys and in  |
+|                                       |
+| Poland you can't either, while in the |
+| U.S. you can get whatever             |
+|                                       |
+| you want for dollars, just as you can |
+| in Poland.                            |
+|                                       |
+\ -- being told in Poland, 1987         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
