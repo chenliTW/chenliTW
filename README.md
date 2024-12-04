@@ -1,25 +1,47 @@
 Last Update Time: 
-Wed Dec  4 11:59:19 UTC 2024
+Wed Dec  4 12:51:23 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ No live organism can continue for long  \
-| to exist sanely under conditions of     |
-| absolute reality; even larks and        |
-| katydids are supposed, by some, to      |
-| dream. Hill House, not sane, stood by   |
-| itself against its hills, holding       |
-| darkness within; it had stood so for    |
-| eighty years and might stand for eighty |
-| more. Within, walls continued upright,  |
-| bricks met neatly, floors were firm,    |
-| and doors were sensibly shut; silence   |
-| lay steadily against the wood and stone |
-| of Hill House, and whatever walked      |
-| there, walked alone.                    |
+/ Like an expensive sports car,           \
+| fine-tuned and well-built, Portia was   |
+| sleek, shapely, and gorgeous, her red   |
+| jumpsuit moulding her body, which was   |
+| as warm as seatcovers in July, her hair |
+| as dark as new tires, her eyes flashing |
+| like bright hubcaps, and her lips as    |
+| dewy as the beads of fresh rain on the  |
+| hood; she was a woman driven -- fueled  |
+| by a single accelerant -- and she       |
+| needed a man, a man who wouldn't shift  |
+| from his views, a man to steer her      |
+| along the right road: a man like Alf    |
+| Romeo.                                  |
 |                                         |
-| -- Shirley Jackson, "The Haunting of    |
-\ Hill House"                             /
+| -- Rachel Sheeley, winner               |
+|                                         |
+| The hair ball blocking the drain of the |
+| shower reminded Laura she would never   |
+| see her little dog Pritzi again.        |
+|                                         |
+| -- Claudia Fields, runner-up            |
+|                                         |
+| It could have been an organically based |
+| disturbance of the brain -- perhaps a   |
+| tumor or a metabolic deficiency -- but  |
+| after a thorough neurological exam it   |
+| was determined that Byron was simply a  |
+| jerk.                                   |
+|                                         |
+| -- Jeff Jahnke, runner-up               |
+|                                         |
+| Winners in the 7th Annual Bulwer-Lytton |
+| Bad Writing Contest. The contest is     |
+| named after the author of the immortal  |
+| lines: "It was a dark and stormy        |
+| night." The object of the contest is to |
+| write the opening sentence of the worst |
+\ possible novel.                         /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
