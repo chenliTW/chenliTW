@@ -1,12 +1,15 @@
 Last Update Time: 
-Sat Dec  7 08:55:23 UTC 2024
+Sat Dec  7 09:20:40 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Just because the message may never be  \
-| received does not mean it is not worth |
-\ sending.                               /
- ----------------------------------------
+ _________________________________________
+/ Q: Why is it that the more accuracy you \
+| demand from an interpolation            |
+|                                         |
+| function, the more expensive it becomes |
+| to compute? A: That's the Law of Spline |
+\ Demand.                                 /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
