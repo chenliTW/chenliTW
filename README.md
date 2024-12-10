@@ -1,24 +1,53 @@
 Last Update Time: 
-Tue Dec 10 03:52:52 UTC 2024
+Tue Dec 10 04:19:51 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The bone-chilling scream split the warm \
-| summer night in two, the first half     |
-| being before the scream when it was     |
-| fairly balmy and calm and pleasant, the |
-| second half still balmy and quite       |
-| pleasant for those who hadn't heard the |
-| scream at all, but not calm or balmy or |
-| even very nice for those who did hear   |
-| the scream, discounting the little      |
-| period of time during the actual scream |
-| itself when your ears might have been   |
-| hearing it but your brain wasn't        |
-| reacting yet to let you know.           |
+/ The Least Perceptive Literary Critic    \
 |                                         |
-| -- Winning sentence, 1986 Bulwer-Lytton |
-\ bad fiction contest.                    /
+| The most important critic in our field  |
+| of study is Lord Halifax. A most        |
+| individual judge of poetry, he once     |
+| invited Alexander Pope round to give a  |
+| public reading of his latest poem.      |
+|                                         |
+| Pope, the leading poet of his day, was  |
+| greatly surprised when Lord Halifax     |
+| stopped him four or five times and      |
+| said, "I beg your pardon, Mr. Pope, but |
+| there is something in that passage that |
+| does not quite please me."              |
+|                                         |
+| Pope was rendered speechless, as this   |
+| fine critic suggested sizeable and      |
+| unwise emendations to his latest        |
+| masterpiece. "Be so good as to mark the |
+| place and consider at your leisure. I'm |
+| sure you can give it a better turn."    |
+|                                         |
+| After the reading, a good friend of     |
+| Lord Halifax, a certain Dr. Garth, took |
+| the stunned Pope to one side. "There is |
+| no need to touch the lines," he said.   |
+| "All you need do is leave them just as  |
+| they are, call on Lord Halifax two or   |
+| three months hence, thank him for his   |
+| kind observation on those passages, and |
+| then read them to him as altered. I     |
+| have known him much longer than you     |
+| have, and will be answerable for the    |
+| event."                                 |
+|                                         |
+| Pope took his advice, called on Lord    |
+| Halifax and read the poem exactly as it |
+| was before. His unique critical         |
+| faculties had lost none of their edge.  |
+| "Ay", he commented, "now they are       |
+| perfectly right. Nothing can be         |
+| better."                                |
+|                                         |
+| -- Stephen Pile, "The Book of Heroic    |
+\ Failures"                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
