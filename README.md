@@ -1,50 +1,23 @@
 Last Update Time: 
-Tue Dec 10 16:10:23 UTC 2024
+Tue Dec 10 16:40:44 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ We were young and our happiness dazzled \
-| us with its strength. But there was     |
-| also a terrible betrayal that lay       |
-| within me like a Merle Haggard song at  |
-| a French restaurant. [...]              |
+/ Q: How many journalists does it take to \
+| screw in a light bulb? A: Three. One to |
+| report it as an inspired government     |
+| program to bring                        |
 |                                         |
-| I could not tell the girl about the     |
-| woman of the tollway, of her milk white |
-| BMW and her Jordache smile. There had   |
-| been a fight. I had punched her         |
-| boyfriend, who fought the mechanical    |
-| bulls. Everyone told him, "You ride the |
-| bull, senor. You do not fight it." But  |
-| he was lean and tough like a bad        |
-| rib-eye and he fought the bull. And     |
-| then he fought me. And when we finished |
-| there were no winners, just men doing   |
-| what men must do. [...]                 |
+| light to the people, one to report it   |
+| as a diabolical government plot         |
 |                                         |
-| "Stop the car," the girl said.          |
+| to deprive the poor of darkness, and    |
+| one to win a Pulitzer prize for         |
 |                                         |
-| There was a look of terrible sadness in |
-| her eyes. She knew about the woman of   |
-| the tollway. I knew not how. I started  |
-| to speak, but she raised an arm and     |
-| spoke with a quiet and peace I will     |
-| never forget.                           |
+| reporting that Electric Company hired a |
+| light bulb-assassin to break            |
 |                                         |
-| "I do not ask for whom's the tollway    |
-| belle," she said, "the tollway belle's  |
-| for thee."                              |
-|                                         |
-| The next morning our youth was a        |
-| memory, and our happiness was a lie.    |
-| Life is like a bad margarita with good  |
-| tequila, I thought as I poured whiskey  |
-| onto my granola and faced a new day.    |
-|                                         |
-| -- Peter Applebome, International       |
-| Imitation Hemingway                     |
-|                                         |
-\ Competition                             /
+\ the bulb in the first place.            /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
