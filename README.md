@@ -1,18 +1,12 @@
 Last Update Time: 
-Wed Dec 11 16:56:21 UTC 2024
+Wed Dec 11 17:21:16 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What did Tarzan say when he saw the  \
-| elephants coming over the hill? A: "The |
-| elephants are coming over the hill."    |
-|                                         |
-| Q: What did he say when saw them coming |
-| over the hill wearing                   |
-|                                         |
-| sunglasses? A: Nothing, for he didn't   |
-\ recognize them.                         /
- -----------------------------------------
+ _____________________________________
+/ Q: What is printed on the bottom of \
+| beer bottles in Minnesota? A: Open  |
+\ other end.                          /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
