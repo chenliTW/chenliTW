@@ -1,12 +1,21 @@
 Last Update Time: 
-Sun Dec 15 07:53:28 UTC 2024
+Sun Dec 15 08:20:47 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ The first thing we do, let's kill all   \
-| the lawyers.                            |
+/ I reverently believe that the maker who \
+| made us all makes everything in New     |
+| England, but the weather. I don't know  |
+| who makes that, but I think it must be  |
+| raw apprentices in the weather-clerks   |
+| factory who experiment and learn how,   |
+| in New England, for board and clothes,  |
+| and then are promoted to make weather   |
+| for countries that require a good       |
+| article, and will take their custom     |
+| elsewhere if they don't get it.         |
 |                                         |
-\ -- Wm. Shakespeare, "Henry VI", Part IV /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
