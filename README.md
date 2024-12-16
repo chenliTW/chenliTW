@@ -1,15 +1,13 @@
 Last Update Time: 
-Mon Dec 16 09:14:12 UTC 2024
+Mon Dec 16 09:34:59 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ There is always one thing to remember: \
-| writers are always selling somebody    |
-| out.                                   |
-|                                        |
-| -- Joan Didion, "Slouching Towards     |
-\ Bethlehem"                             /
- ----------------------------------------
+ _________________________________________
+/  A man was reading The Canterbury Tales \
+| one Saturday morning, when his wife     |
+| asked "What have you got there?"        |
+\ Replied he, "Just my cup and Chaucer."  /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
