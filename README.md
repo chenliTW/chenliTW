@@ -1,14 +1,11 @@
 Last Update Time: 
-Tue Dec 17 19:10:08 UTC 2024
+Tue Dec 17 19:25:25 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ____________________________________
-/ The last thing one knows in        \
-| constructing a work is what to put |
-| first.                             |
-|                                    |
-\ -- Blaise Pascal                   /
- ------------------------------------
+ _________________________________________
+/ If you stand on your head, you will get \
+\ footprints in your hair.                /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
