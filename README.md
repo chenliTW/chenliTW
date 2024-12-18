@@ -1,13 +1,17 @@
 Last Update Time: 
-Wed Dec 18 11:54:19 UTC 2024
+Wed Dec 18 12:36:12 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ What good is an obscenity trial except \
-| to popularize literature?              |
+/ Q: Why don't Scotsmen ever have coffee \
+| the way they like it? A: Well, they    |
+| like it with two lumps of sugar. If    |
+| they drink                             |
 |                                        |
-| -- Nero Wolfe, "The League of          |
-\ Frightened Men"                        /
+| it at home, they only take one, and if |
+| they drink it while                    |
+|                                        |
+\ visiting, they always take three.      /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
