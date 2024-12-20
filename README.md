@@ -1,15 +1,21 @@
 Last Update Time: 
-Fri Dec 20 16:28:44 UTC 2024
+Fri Dec 20 16:44:55 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many bureaucrats does it take to \
-| screw in a light bulb? A: Two. One to   |
-| assure everyone that everything         |
-| possible is being                       |
+/ For the fashion of Minas Tirith was     \
+| such that it was built on seven levels, |
+| each delved into a hill, and about each |
+| was set a wall, and in each wall was a  |
+| gate.                                   |
 |                                         |
-| done while the other screws the bulb    |
-\ into the water faucet.                  /
+| -- J.R.R. Tolkien, "The Return of the   |
+| King"                                   |
+|                                         |
+| [Quoted in "VMS Internals and Data      |
+| Structures", V4.4, when                 |
+|                                         |
+\ referring to system overview.]          /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
