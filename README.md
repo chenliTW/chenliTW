@@ -1,10 +1,12 @@
 Last Update Time: 
-Sat Dec 21 03:01:12 UTC 2024
+Sat Dec 21 03:27:27 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: What do you call a blind, deaf-mute, \
-\ quadraplegic Virginian? A: Trustworthy. /
+/ The abuse of greatness is when it       \
+| disjoins remorse from power.            |
+|                                         |
+\ -- William Shakespeare, "Julius Caesar" /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
