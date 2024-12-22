@@ -1,11 +1,13 @@
 Last Update Time: 
-Sun Dec 22 15:34:05 UTC 2024
+Sun Dec 22 15:45:49 UTC 2024
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: What's a WASP's idea of             \
-\ open-mindedness? A: Dating a Canadian. /
- ----------------------------------------
+ _________________________________________
+/ The abuse of greatness is when it       \
+| disjoins remorse from power.            |
+|                                         |
+\ -- William Shakespeare, "Julius Caesar" /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
