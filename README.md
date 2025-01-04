@@ -1,13 +1,22 @@
 Last Update Time: 
-Sat Jan  4 21:28:47 UTC 2025
+Sat Jan  4 21:40:29 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ The very ink with which all history is \
-| written is merely fluid prejudice.     |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _________________________________________
+/ For the fashion of Minas Tirith was     \
+| such that it was built on seven levels, |
+| each delved into a hill, and about each |
+| was set a wall, and in each wall was a  |
+| gate.                                   |
+|                                         |
+| -- J.R.R. Tolkien, "The Return of the   |
+| King"                                   |
+|                                         |
+| [Quoted in "VMS Internals and Data      |
+| Structures", V4.4, when                 |
+|                                         |
+\ referring to system overview.]          /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
