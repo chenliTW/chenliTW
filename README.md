@@ -1,65 +1,47 @@
 Last Update Time: 
-Mon Jan  6 09:19:47 UTC 2025
+Mon Jan  6 09:35:52 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many members of the U.S.S.       \
-| Enterprise does it take to change a     |
+/ Like an expensive sports car,           \
+| fine-tuned and well-built, Portia was   |
+| sleek, shapely, and gorgeous, her red   |
+| jumpsuit moulding her body, which was   |
+| as warm as seatcovers in July, her hair |
+| as dark as new tires, her eyes flashing |
+| like bright hubcaps, and her lips as    |
+| dewy as the beads of fresh rain on the  |
+| hood; she was a woman driven -- fueled  |
+| by a single accelerant -- and she       |
+| needed a man, a man who wouldn't shift  |
+| from his views, a man to steer her      |
+| along the right road: a man like Alf    |
+| Romeo.                                  |
 |                                         |
-| light bulb? A: Seven. Scotty has to     |
-| report to Captain Kirk that the light   |
-| bulb in                                 |
+| -- Rachel Sheeley, winner               |
 |                                         |
-| the Engineering Section is getting dim, |
-| at which point Kirk will send           |
+| The hair ball blocking the drain of the |
+| shower reminded Laura she would never   |
+| see her little dog Pritzi again.        |
 |                                         |
-| Bones to pronounce the bulb dead        |
-| (although he'll immediately claim       |
+| -- Claudia Fields, runner-up            |
 |                                         |
-| that he's a doctor, not an              |
-| electrician). Scotty, after checking    |
+| It could have been an organically based |
+| disturbance of the brain -- perhaps a   |
+| tumor or a metabolic deficiency -- but  |
+| after a thorough neurological exam it   |
+| was determined that Byron was simply a  |
+| jerk.                                   |
 |                                         |
-| around, realizes that they have no more |
-| new light bulbs, and complains          |
+| -- Jeff Jahnke, runner-up               |
 |                                         |
-| that he "canna" see in the dark. Kirk   |
-| will make an emergency stop at          |
-|                                         |
-| the next uncharted planet, Alpha Regula |
-| IV, to procure a light bulb             |
-|                                         |
-| from the natives, who, are friendly,    |
-| but seem to be hiding something.        |
-|                                         |
-| Kirk, Spock, Bones, Yeoman Rand and two |
-| red shirt security officers             |
-|                                         |
-| beam down to the planet, where the two  |
-| security officers are promply           |
-|                                         |
-| killed by the natives, and the rest of  |
-| the landing party is captured.          |
-|                                         |
-| As something begins to develop between  |
-| the Captain and Yeoman Rand,            |
-|                                         |
-| Scotty, back in orbit, is attacked by a |
-| Klingon destroyer and must              |
-|                                         |
-| warp out of orbit. Although badly       |
-| outgunned, he cripples the Klingon      |
-|                                         |
-| and races back to the planet in order   |
-| to rescue Kirk et. al. who have         |
-|                                         |
-| just saved the natives' from an awful   |
-| fate and, as a reward, been             |
-|                                         |
-| given all light bulbs they can carry.   |
-| The new bulb is then inserted           |
-|                                         |
-| and the Enterprise continues on its     |
-\ five year mission.                      /
+| Winners in the 7th Annual Bulwer-Lytton |
+| Bad Writing Contest. The contest is     |
+| named after the author of the immortal  |
+| lines: "It was a dark and stormy        |
+| night." The object of the contest is to |
+| write the opening sentence of the worst |
+\ possible novel.                         /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
