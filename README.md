@@ -1,15 +1,12 @@
 Last Update Time: 
-Fri Jan 10 17:56:02 UTC 2025
+Fri Jan 10 18:30:01 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Writing is easy; all you do is sit  \
-| staring at the blank sheet of paper |
-| until drops of blood form on your   |
-| forehead.                           |
-|                                     |
-\ -- Gene Fowler                      /
- -------------------------------------
+ ________________________________________
+/ If you learn one useless thing every   \
+| day, in a single year you'll learn 365 |
+\ useless things.                        /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
