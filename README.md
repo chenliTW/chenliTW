@@ -1,13 +1,17 @@
 Last Update Time: 
-Mon Jan 13 04:56:18 UTC 2025
+Mon Jan 13 05:22:36 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: Why should you always serve a       \
-| Southern Carolina football man         |
+/ Q: Why don't Scotsmen ever have coffee \
+| the way they like it? A: Well, they    |
+| like it with two lumps of sugar. If    |
+| they drink                             |
 |                                        |
-| soup in a plate? A: 'Cause if you give |
-\ him a bowl, he'll throw it away.       /
+| it at home, they only take one, and if |
+| they drink it while                    |
+|                                        |
+\ visiting, they always take three.      /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
