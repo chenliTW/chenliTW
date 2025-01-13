@@ -1,13 +1,13 @@
 Last Update Time: 
-Mon Jan 13 22:40:56 UTC 2025
+Mon Jan 13 22:52:40 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Let him choose out of my files, his \
-| projects to accomplish.             |
-|                                     |
-\ -- Shakespeare, "Coriolanus"        /
- -------------------------------------
+ _________________________________________
+/ The first thing we do, let's kill all   \
+| the lawyers.                            |
+|                                         |
+\ -- Wm. Shakespeare, "Henry VI", Part IV /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
