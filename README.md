@@ -1,14 +1,10 @@
 Last Update Time: 
-Tue Jan 14 18:59:30 UTC 2025
+Tue Jan 14 19:18:01 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ This is the first age that's paid much \
-| attention to the future, which is a    |
-| little ironic since we may not have    |
-| one.                                   |
-|                                        |
-\ -- Arthur Clarke                       /
+/ You will be Told about it Tomorrow. Go \
+\ Home and Prepare Thyself.              /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
