@@ -1,11 +1,14 @@
 Last Update Time: 
-Sun Jan 26 12:20:57 UTC 2025
+Sun Jan 26 12:52:34 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: How many lawyers does it take to    \
-| change a light bulb? A: One. Only it's |
-\ his light bulb when he's done.         /
+/ There is always one thing to remember: \
+| writers are always selling somebody    |
+| out.                                   |
+|                                        |
+| -- Joan Didion, "Slouching Towards     |
+\ Bethlehem"                             /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
