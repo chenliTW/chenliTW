@@ -1,13 +1,19 @@
 Last Update Time: 
-Mon Jan 27 08:51:40 UTC 2025
+Mon Jan 27 09:15:16 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _______________________________________
-/ Noise proves nothing. Often a hen who \
-| has merely laid an egg cackles as if  |
-| she laid an asteroid.                 |
+/ Q: Why is Poland just like the United \
+| States? A: In the United States you   |
+| can't buy anything for zlotys and in  |
 |                                       |
-\ -- Mark Twain                         /
+| Poland you can't either, while in the |
+| U.S. you can get whatever             |
+|                                       |
+| you want for dollars, just as you can |
+| in Poland.                            |
+|                                       |
+\ -- being told in Poland, 1987         /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
