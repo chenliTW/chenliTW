@@ -1,15 +1,13 @@
 Last Update Time: 
-Mon Feb  3 14:55:50 UTC 2025
+Mon Feb  3 15:22:11 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many bureaucrats does it take to \
-| screw in a light bulb? A: Two. One to   |
-| assure everyone that everything         |
-| possible is being                       |
+/ Q: How does a hacker fix a function     \
+| which                                   |
 |                                         |
-| done while the other screws the bulb    |
-\ into the water faucet.                  /
+| doesn't work for all of the elements in |
+\ its domain? A: He changes the domain.   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
