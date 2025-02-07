@@ -1,20 +1,17 @@
 Last Update Time: 
-Fri Feb  7 21:50:39 UTC 2025
+Fri Feb  7 22:09:46 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many existentialists does it     \
-| take to screw in a light bulb? A: Two.  |
-| One to screw it in and one to observe   |
-| how the light bulb                      |
+/ It is right that he too should have his \
+| little chronicle, his memories, his     |
+| reason, and be able to recognize the    |
+| good in the bad, the bad in the worst,  |
+| and so grow gently old all down the     |
+| unchanging days and die one day like    |
+| any other day, only shorter.            |
 |                                         |
-| itself symbolizes a single incandescent |
-| beacon of subjective                    |
-|                                         |
-| reality in a netherworld of endless     |
-| absurdity reaching out toward a         |
-|                                         |
-\ maudlin cosmos of nothingness.          /
+\ -- Samuel Beckett, "Malone Dies"        /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
