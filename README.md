@@ -1,13 +1,18 @@
 Last Update Time: 
-Fri Feb  7 23:51:58 UTC 2025
+Sat Feb  8 01:02:21 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: What do monsters eat? A: Things.   \
-|                                       |
-| Q: What do monsters drink? A: Coke.   |
-\ (Because Things go better with Coke.) /
- ---------------------------------------
+ ________________________________
+/ To be or not to be.            \
+|                                |
+| -- Shakespeare To do is to be. |
+|                                |
+| -- Nietzsche To be is to do.   |
+|                                |
+| -- Sartre Do be do be do.      |
+|                                |
+\ -- Sinatra                     /
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
