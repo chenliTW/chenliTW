@@ -1,49 +1,41 @@
 Last Update Time: 
-Tue Feb 11 03:43:21 UTC 2025
+Tue Feb 11 03:54:59 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Well, anyway, I was reading this James  \
-| Bond book, and right away I realized    |
-| that like most books, it had too many   |
-| words. The plot was the same one that   |
-| all James Bond books have: An evil      |
-| person tries to blow up the world, but  |
-| James Bond kills him and his henchmen   |
-| and makes love to several attractive    |
-| women. There, that's it: 24 words. But  |
-| the guy who wrote the book took         |
-| *thousands* of words to say it.         |
+/ The Bulwer-Lytton fiction contest is    \
+| held ever year at San Jose State Univ.  |
+| by Professor Scott Rice. It is held in  |
+| memory of Edward George Earle           |
+| Bulwer-Lytton (1803-1873), a rather     |
+| prolific and popular (in his time)      |
+| novelist. He is best known today for    |
+| having written "The Last Days of        |
+| Pompeii."                               |
 |                                         |
-| Or consider "The Brothers Karamazov",   |
-| by the famous Russian alcoholic Fyodor  |
-| Dostoyevsky. It's about these two       |
-| brothers who kill their father. Or      |
-| maybe only one of them kills the        |
-| father. It's impossible to tell because |
-| what they mostly do is talk for nearly  |
-| a thousand pages. If all Russians talk  |
-| as much as the Karamazovs did, I don't  |
-| see how they found time to become a     |
-| major world power.                      |
+| Whenever Snoopy starts typing his novel |
+| from the top of his doghouse, beginning |
+| "It was a dark and stormy night..." he  |
+| is borrowing from Lord Bulwer-Lytton.   |
+| This was the line that opened his       |
+| novel, "Paul Clifford," written in      |
+| 1830. The full line reveals why it is   |
+| so bad:                                 |
 |                                         |
-| I'm told that Dostoyevsky wrote "The    |
-| Brothers Karamazov" to raise the        |
-| question of whether there is a God. So  |
-| why didn't he just come right out and   |
-| say: "Is there a God? It sure beats the |
-| heck out of me."                        |
+| It was a dark and stormy night; the     |
+| rain fell in torrents -- except         |
 |                                         |
-| Other famous works could easily have    |
-| been summarized in a few words:         |
+| at occasional intervals, when it was    |
+| checked by a violent gust of            |
 |                                         |
-| * "Moby Dick" -- Don't mess around with |
-| large whales because they symbolize     |
+| wind which swept up the streets (for it |
+| is in London that our scene             |
 |                                         |
-| nature and will kill you. * "A Tale of  |
-| Two Cities" -- French people are crazy. |
+| lies), rattling along the housetops,    |
+| and fiercely agitating the scanty       |
 |                                         |
-\ -- Dave Barry                           /
+| flame of the lamps that struggled       |
+\ against the darkness.                   /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
