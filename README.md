@@ -1,22 +1,13 @@
 Last Update Time: 
-Sat Feb 15 22:31:01 UTC 2025
+Sat Feb 15 22:43:42 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ There is no character, howsoever good   \
-| and fine, but it can be destroyed by    |
-| ridicule, howsoever poor and witless.   |
-| Observe the ass, for instance: his      |
-| character is about perfect, he is the   |
-| choicest spirit among all the humbler   |
-| animals, yet see what ridicule has      |
-| brought him to. Instead of feeling      |
-| complimented when we are called an ass, |
-| we are left in doubt.                   |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
- -----------------------------------------
+ _______________________________________
+/ Q: How many IBM CPU's does it take to \
+| do a logical right shift? A: 33. 1 to |
+| hold the bits and 32 to push the      |
+\ register.                             /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
