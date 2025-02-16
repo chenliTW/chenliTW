@@ -1,14 +1,20 @@
 Last Update Time: 
-Sun Feb 16 10:48:56 UTC 2025
+Sun Feb 16 11:03:45 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Zounds! I was never so bethumped with   \
-| words since I first called my brother's |
-| father dad.                             |
-|                                         |
-\ -- William Shakespeare, "Kind John"     /
- -----------------------------------------
+ _______________________________________
+/ Q: Why is Poland just like the United \
+| States? A: In the United States you   |
+| can't buy anything for zlotys and in  |
+|                                       |
+| Poland you can't either, while in the |
+| U.S. you can get whatever             |
+|                                       |
+| you want for dollars, just as you can |
+| in Poland.                            |
+|                                       |
+\ -- being told in Poland, 1987         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
