@@ -1,23 +1,15 @@
 Last Update Time: 
-Mon Feb 17 16:59:47 UTC 2025
+Mon Feb 17 17:22:39 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Delay not, Caesar. Read it instantly. \
-|                                       |
-| -- Shakespeare, "Julius Caesar" 3,1   |
-|                                       |
-| Here is a letter, read it at your     |
-| leisure.                              |
-|                                       |
-| -- Shakespeare, "Merchant of Venice"  |
-| 5,1                                   |
-|                                       |
-| [Quoted in "VMS Internals and Data    |
-| Structures", V4.4, when               |
-|                                       |
-\ referring to I/O system services.]    /
- ---------------------------------------
+ ________________________________________
+/ It is often the case that the man who  \
+| can't tell a lie thinks he is the best |
+| judge of one.                          |
+|                                        |
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
