@@ -1,20 +1,12 @@
 Last Update Time: 
-Wed Feb 26 23:37:40 UTC 2025
+Wed Feb 26 23:49:37 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: Why is Poland just like the United \
-| States? A: In the United States you   |
-| can't buy anything for zlotys and in  |
-|                                       |
-| Poland you can't either, while in the |
-| U.S. you can get whatever             |
-|                                       |
-| you want for dollars, just as you can |
-| in Poland.                            |
-|                                       |
-\ -- being told in Poland, 1987         /
- ---------------------------------------
+ ________________________________________
+/ Q: How many lawyers does it take to    \
+| change a light bulb? A: One. Only it's |
+\ his light bulb when he's done.         /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
