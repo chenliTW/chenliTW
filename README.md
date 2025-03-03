@@ -1,20 +1,21 @@
 Last Update Time: 
-Mon Mar  3 19:29:09 UTC 2025
+Mon Mar  3 19:40:59 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/  The Priest's grey nimbus in a niche    \
-| where he dressed discreetly. I will not |
-| sleep here tonight. Home also I cannot  |
-| go.                                     |
+/ There is no character, howsoever good   \
+| and fine, but it can be destroyed by    |
+| ridicule, howsoever poor and witless.   |
+| Observe the ass, for instance: his      |
+| character is about perfect, he is the   |
+| choicest spirit among all the humbler   |
+| animals, yet see what ridicule has      |
+| brought him to. Instead of feeling      |
+| complimented when we are called an ass, |
+| we are left in doubt.                   |
 |                                         |
-| A voice, sweetened and sustained,       |
-| called to him from the sea. Turning the |
-| curve he waved his hand. A sleek brown  |
-| head, a seal's, far out on the water,   |
-| round. Usurper.                         |
-|                                         |
-\ -- James Joyce, "Ulysses"               /
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
