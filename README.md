@@ -1,19 +1,22 @@
 Last Update Time: 
-Tue Mar  4 07:54:09 UTC 2025
+Tue Mar  4 08:21:55 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: How does the Polish Constitution    \
-| differ from the American? A: Under the |
-| Polish Constitution citizens are       |
-| guaranteed freedom of                  |
+/ Sheriff Chameleotoptor sighed with an  \
+| air of weary sadness, and then turned  |
+| to Doppelgutt and said 'The Senator    |
+| must really have been on a bender this |
+| time -- he left a party in Cleveland,  |
+| Ohio, at 11:30 last night, and they    |
+| found his car this morning in the      |
+| smokestack of a British aircraft       |
+| carrier in the Formosa Straits.'       |
 |                                        |
-| speech, but under the United States    |
-| constitution they are                  |
+| -- Grand Panjandrum's Special Award,   |
+| 1985 Bulwer-Lytton                     |
 |                                        |
-| guaranteed freedom after speech.       |
-|                                        |
-\ -- being told in Poland, 1987          /
+\ bad fiction contest.                   /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
