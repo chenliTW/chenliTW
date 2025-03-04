@@ -1,18 +1,13 @@
 Last Update Time: 
-Tue Mar  4 13:40:49 UTC 2025
+Tue Mar  4 13:50:38 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ The bay-trees in our country are all  \
-| wither'd And meteors fright the fixed |
-| stars of heaven; The pale-faced moon  |
-| looks bloody on the earth And         |
-| lean-look'd prophets whisper fearful  |
-| change. These signs forerun the death |
-| or fall of kings.                     |
-|                                       |
-\ -- Wm. Shakespeare, "Richard II"      /
- ---------------------------------------
+ ______________________________________
+/ All things that are, are with more   \
+| spirit chased than enjoyed.          |
+|                                      |
+\ -- Shakespeare, "Merchant of Venice" /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
