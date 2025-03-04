@@ -1,20 +1,16 @@
 Last Update Time: 
-Tue Mar  4 18:40:36 UTC 2025
+Tue Mar  4 18:52:46 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How does the Polish Constitution    \
-| differ from the American? A: Under the |
-| Polish Constitution citizens are       |
-| guaranteed freedom of                  |
-|                                        |
-| speech, but under the United States    |
-| constitution they are                  |
-|                                        |
-| guaranteed freedom after speech.       |
-|                                        |
-\ -- being told in Poland, 1987          /
- ----------------------------------------
+ _________________________________________
+/ When I reflect upon the number of       \
+| disagreeable people who I know who have |
+| gone to a better world, I am moved to   |
+| lead a different life.                  |
+|                                         |
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
