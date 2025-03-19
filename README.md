@@ -1,13 +1,20 @@
 Last Update Time: 
-Wed Mar 19 07:23:58 UTC 2025
+Wed Mar 19 07:37:38 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ The very ink with which all history is \
-| written is merely fluid prejudice.     |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _______________________________________
+/ Q: Why is Poland just like the United \
+| States? A: In the United States you   |
+| can't buy anything for zlotys and in  |
+|                                       |
+| Poland you can't either, while in the |
+| U.S. you can get whatever             |
+|                                       |
+| you want for dollars, just as you can |
+| in Poland.                            |
+|                                       |
+\ -- being told in Poland, 1987         /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
