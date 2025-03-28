@@ -1,14 +1,13 @@
 Last Update Time: 
-Fri Mar 28 13:46:21 UTC 2025
+Fri Mar 28 13:58:06 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ The man who sets out to carry a cat by \
-| its tail learns something that will    |
-| always be useful and which never will  |
-| grow dim or doubtful.                  |
+/ Q: Why does Washington have the most   \
+| lawyers per capita and                 |
 |                                        |
-\ -- Mark Twain                          /
+| New Jersey the most toxic waste dumps? |
+\ A: God gave New Jersey first choice.   /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
