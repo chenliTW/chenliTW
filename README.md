@@ -1,14 +1,11 @@
 Last Update Time: 
-Mon Mar 31 14:25:14 UTC 2025
+Mon Mar 31 14:43:42 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ______________________________________
-/ F.S. Fitzgerald to Hemingway:        \
-|                                      |
-| "Ernest, the rich are different from |
-| us." Hemingway:                      |
-|                                      |
-\ "Yes. They have more money."         /
+/ Q: How can you tell when a Burroughs \
+| salesman is lying? A: When his lips  |
+\ move.                                /
  --------------------------------------
         \   ^__^
          \  (oo)\_______
