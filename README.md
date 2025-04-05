@@ -1,11 +1,12 @@
 Last Update Time: 
-Sat Apr  5 08:36:32 UTC 2025
+Sat Apr  5 08:48:47 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _______________________________________
-/ Q: What's the difference between USL  \
-| and the Titanic? A: The Titanic had a |
-\ band.                                 /
+/ Q: How many IBM CPU's does it take to \
+| do a logical right shift? A: 33. 1 to |
+| hold the bits and 32 to push the      |
+\ register.                             /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
