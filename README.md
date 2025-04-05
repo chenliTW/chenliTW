@@ -1,12 +1,19 @@
 Last Update Time: 
-Sat Apr  5 09:07:19 UTC 2025
+Sat Apr  5 09:27:45 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ No violence, gentlemen -- no violence, \
-| I beg of you! Consider the furniture!  |
+/ At once it struck me what quality went \
+| to form a man of achievement,          |
+| especially in literature, and which    |
+| Shakespeare possessed so enormously -- |
+| I mean negative capability, that is,   |
+| when a man is capable of being in      |
+| uncertainties, mysteries, doubts,      |
+| without any irritable reaching after   |
+| fact and reason.                       |
 |                                        |
-\ -- Sherlock Holmes                     /
+\ -- John Keats                          /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
