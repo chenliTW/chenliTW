@@ -1,20 +1,17 @@
 Last Update Time: 
-Sun Apr 13 11:38:33 UTC 2025
+Sun Apr 13 11:50:19 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/  The Priest's grey nimbus in a niche    \
-| where he dressed discreetly. I will not |
-| sleep here tonight. Home also I cannot  |
-| go.                                     |
+/ I got a hint of things to come when I   \
+| overheard my boss lamenting, 'The books |
+| are done and we still don't have an     |
+| author! I must sign someone today!      |
 |                                         |
-| A voice, sweetened and sustained,       |
-| called to him from the sea. Turning the |
-| curve he waved his hand. A sleek brown  |
-| head, a seal's, far out on the water,   |
-| round. Usurper.                         |
+| -- Tamim Ansary, "Edutopia Magazine,    |
+| Issue 2, November 2004"                 |
 |                                         |
-\ -- James Joyce, "Ulysses"               /
+\ on the topic of school textbooks        /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
