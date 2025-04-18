@@ -1,13 +1,22 @@
 Last Update Time: 
-Fri Apr 18 19:15:06 UTC 2025
+Fri Apr 18 19:27:02 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: How many IBM CPU's does it take to \
-| do a logical right shift? A: 33. 1 to |
-| hold the bits and 32 to push the      |
-\ register.                             /
- ---------------------------------------
+ _________________________________________
+/ Even the clearest and most perfect      \
+| circumstantial evidence is likely to be |
+| at fault, after all, and therefore      |
+| ought to be received with great         |
+| caution. Take the case of any pencil,   |
+| sharpened by any woman; if you have     |
+| witnesses, you will find she did it     |
+| with a knife; but if you take simply    |
+| the aspect of the pencil, you will say  |
+| that she did it with her teeth.         |
+|                                         |
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
