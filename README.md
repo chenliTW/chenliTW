@@ -1,15 +1,18 @@
 Last Update Time: 
-Fri Apr 18 15:46:12 UTC 2025
+Fri Apr 18 15:58:00 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ F.S. Fitzgerald to Hemingway:        \
-|                                      |
-| "Ernest, the rich are different from |
-| us." Hemingway:                      |
-|                                      |
-\ "Yes. They have more money."         /
- --------------------------------------
+ _________________________________________
+/ Behold, the fool saith, "Put not all    \
+| thine eggs in the one basket"--which is |
+| but a manner of saying, "Scatter your   |
+| money and your attention;" but the wise |
+| man saith, "Put all your eggs in the    |
+| one basket and--WATCH THAT BASKET."     |
+|                                         |
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
