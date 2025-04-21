@@ -1,15 +1,15 @@
 Last Update Time: 
-Mon Apr 21 19:09:03 UTC 2025
+Mon Apr 21 19:26:16 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ In a museum in Havana, there are two    \
-| skulls of Christopher Columbus, "one    |
-| when he was a boy and one when he was a |
-| man."                                   |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ _____________________________________
+/ Writing is easy; all you do is sit  \
+| staring at the blank sheet of paper |
+| until drops of blood form on your   |
+| forehead.                           |
+|                                     |
+\ -- Gene Fowler                      /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
