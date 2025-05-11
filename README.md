@@ -1,18 +1,18 @@
 Last Update Time: 
-Sun May 11 15:13:08 UTC 2025
+Sun May 11 15:31:54 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How many surrealists does it take to \
-| change a light bulb? A: Two, one to     |
-| hold the giraffe, and the other to fill |
-| the bathtub                             |
-|                                         |
-| with brightly colored machine tools.    |
-|                                         |
-| [Surrealist jokes just aren't my cup of |
-\ fur. Ed.]                               /
- -----------------------------------------
+ ________________________________
+/ To be or not to be.            \
+|                                |
+| -- Shakespeare To do is to be. |
+|                                |
+| -- Nietzsche To be is to do.   |
+|                                |
+| -- Sartre Do be do be do.      |
+|                                |
+\ -- Sinatra                     /
+ --------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
