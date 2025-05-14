@@ -1,19 +1,13 @@
 Last Update Time: 
-Wed May 14 13:37:29 UTC 2025
+Wed May 14 13:55:01 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: How does the Polish Constitution    \
-| differ from the American? A: Under the |
-| Polish Constitution citizens are       |
-| guaranteed freedom of                  |
+/ Hain't we got all the fools in town on \
+| our side? And hain't that a big enough |
+| majority in any town?                  |
 |                                        |
-| speech, but under the United States    |
-| constitution they are                  |
-|                                        |
-| guaranteed freedom after speech.       |
-|                                        |
-\ -- being told in Poland, 1987          /
+\ -- Mark Twain, "Huckleberry Finn"      /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
