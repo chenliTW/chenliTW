@@ -1,13 +1,20 @@
 Last Update Time: 
-Sun May 18 13:32:13 UTC 2025
+Sun May 18 13:44:50 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: What do you call a principal female  \
-| opera singer whose high C               |
+/ A morgue is a morgue is a morgue. They  \
+| can paint the walls with aggressively   |
+| cheerful primary colors and splashy     |
+| bold graphics, but it's still a holding |
+| place for the dead until they can be    |
+| parted out to organ banks. Not that I   |
+| would have cared normally but my        |
+| viewpoint was skewed. The relentless    |
+| pleasance of the room I sat in seemed   |
+| only grotesque.                         |
 |                                         |
-| is lower than those of other principal  |
-\ female opera singers? A: A deep C diva. /
+\ -- Pat Cadigan, "Mindplayers"           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
