@@ -1,15 +1,13 @@
 Last Update Time: 
-Tue May 20 14:17:01 UTC 2025
+Tue May 20 14:41:15 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ I don't know half of you half as well  \
-| as I should like; and I like less than |
-| half of you half as well as you        |
-| deserve.                               |
-|                                        |
-\ -- J. R. R. Tolkien                    /
- ----------------------------------------
+ _______________________________________
+/ Q: How many IBM CPU's does it take to \
+| do a logical right shift? A: 33. 1 to |
+| hold the bits and 32 to push the      |
+\ register.                             /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
