@@ -1,17 +1,15 @@
 Last Update Time: 
-Fri May 23 12:00:08 UTC 2025
+Fri May 23 12:54:04 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ I've touch'd the highest point of all  \
-| my greatness; And from that full       |
-| meridian of my glory I haste now to my |
-| setting. I shall fall, Like a bright   |
-| exhalation in the evening And no man   |
-| see me more.                           |
-|                                        |
-\ -- Shakespeare                         /
- ----------------------------------------
+ _______________________________________
+/ Q: Minnesotans ask, "Why aren't there \
+| more pharmacists from Alabama?" A:    |
+| Easy. It's because they can't figure  |
+| out how to get the little             |
+|                                       |
+\ bottles into the typewriter.          /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
