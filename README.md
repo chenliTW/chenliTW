@@ -1,18 +1,11 @@
 Last Update Time: 
-Mon May 26 22:48:40 UTC 2025
+Mon May 26 23:00:31 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ It is right that he too should have his \
-| little chronicle, his memories, his     |
-| reason, and be able to recognize the    |
-| good in the bad, the bad in the worst,  |
-| and so grow gently old all down the     |
-| unchanging days and die one day like    |
-| any other day, only shorter.            |
-|                                         |
-\ -- Samuel Beckett, "Malone Dies"        /
- -----------------------------------------
+ ________________________________________
+/ Q: Why do WASPs play golf ? A: So they \
+\ can dress like pimps.                  /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
