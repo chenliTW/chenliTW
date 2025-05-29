@@ -1,22 +1,17 @@
 Last Update Time: 
-Thu May 29 22:53:36 UTC 2025
+Thu May 29 23:17:27 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ "What's this? Trix? Aunt! Trix? You?    \
-| You're after the prize! What is it?" He |
-| picked up the box and studied the back. |
-| "A glow-in-the-dark squid! Have you got |
-| it out of there yet?" He tilted the     |
-| box, angling the little colored balls   |
-| of cereal so as to see the bottom, and  |
-| nearly spilling them onto the table     |
-| top. "Here it is!" He hauled out a      |
-| little cream-colored, glitter-sprinkled |
-| squid, three-inches long and made out   |
-| of rubbery plastic.                     |
+/ The only people for me are the mad ones \
+| -- the ones who are mad to live, mad to |
+| talk, mad to be saved, desirous of      |
+| everything at the same time, the ones   |
+| who never yawn or say a commonplace     |
+| thing, but burn, burn, burn like        |
+| fabulous yellow Roman candles.          |
 |                                         |
-\ -- James P. Blaylock, "The Last Coin"   /
+\ -- Jack Kerouac, "On the Road"          /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
