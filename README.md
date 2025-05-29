@@ -1,21 +1,15 @@
 Last Update Time: 
-Thu May 29 12:33:57 UTC 2025
+Thu May 29 13:17:17 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ There are three infallible ways of      \
-| pleasing an author, and the three form  |
-| a rising scale of compliment: 1, to     |
-| tell him you have read one of his       |
-| books; 2, to tell him you have read all |
-| of his books; 3, to ask him to let you  |
-| read the manuscript of his forthcoming  |
-| book. No. 1 admits you to his respect;  |
-| No. 2 admits you to his admiration; No. |
-| 3 carries you clear into his heart.     |
+/  You will remember, Watson, how the     \
+| dreadful business of the Abernetty      |
+| family was first brought to my notice   |
+| by the depth which the parsley had sunk |
+| into the butter upon a hot day.         |
 |                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
+\ -- Sherlock Holmes                      /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
