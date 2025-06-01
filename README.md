@@ -1,13 +1,15 @@
 Last Update Time: 
-Sun Jun  1 23:39:53 UTC 2025
+Sun Jun  1 23:51:39 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ When one burns one's bridges, what a \
-| very nice fire it makes.             |
-|                                      |
-\ -- Dylan Thomas                      /
- --------------------------------------
+ _________________________________________
+/ There is no hunting like the hunting of \
+| man, and those who have hunted armed    |
+| men long enough and liked it, never     |
+| care for anything else thereafter.      |
+|                                         |
+\ -- Ernest Hemingway                     /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
