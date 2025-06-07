@@ -1,13 +1,12 @@
 Last Update Time: 
-Sat Jun  7 18:40:55 UTC 2025
+Sat Jun  7 18:54:04 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _______________________________________
-/ Whenever you find that you are on the \
-| side of the majority, it is time to   |
-| reform.                               |
-|                                       |
-\ -- Mark Twain                         /
+/ Q: How many IBM CPU's does it take to \
+| do a logical right shift? A: 33. 1 to |
+| hold the bits and 32 to push the      |
+\ register.                             /
  ---------------------------------------
         \   ^__^
          \  (oo)\_______
