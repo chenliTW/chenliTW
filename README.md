@@ -1,16 +1,15 @@
 Last Update Time: 
-Fri Jun 13 11:42:05 UTC 2025
+Fri Jun 13 11:53:47 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ For years a secret shame destroyed my \
-| peace-- I'd not read Eliot, Auden or  |
-| MacNiece. But now I think a thought   |
-| that brings me hope: Neither had      |
-| Chaucer, Shakespeare, Milton, Pope.   |
-|                                       |
-\ -- Justin Richardson.                 /
- ---------------------------------------
+ ________________________________________
+/ It is often the case that the man who  \
+| can't tell a lie thinks he is the best |
+| judge of one.                          |
+|                                        |
+| -- Mark Twain, "Pudd'nhead Wilson's    |
+\ Calendar"                              /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
