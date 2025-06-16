@@ -1,12 +1,14 @@
 Last Update Time: 
-Mon Jun 16 13:53:34 UTC 2025
+Mon Jun 16 14:20:40 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Many pages make a thick book, except \
-| for pocket Bibles which are on very  |
-\ very thin paper.                     /
- --------------------------------------
+ ________________________________________
+/ Q: Why does Washington have the most   \
+| lawyers per capita and                 |
+|                                        |
+| New Jersey the most toxic waste dumps? |
+\ A: God gave New Jersey first choice.   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
