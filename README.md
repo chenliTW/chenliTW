@@ -1,13 +1,14 @@
 Last Update Time: 
-Thu Jun 19 15:50:43 UTC 2025
+Thu Jun 19 16:15:21 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ The human race has one really effective \
-| weapon, and that is laughter.           |
-|                                         |
-\ -- Mark Twain                           /
- -----------------------------------------
+ ________________________________________
+/ Q: Why does Washington have the most   \
+| lawyers per capita and                 |
+|                                        |
+| New Jersey the most toxic waste dumps? |
+\ A: God gave New Jersey first choice.   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
