@@ -1,17 +1,14 @@
 Last Update Time: 
-Fri Jun 20 20:19:40 UTC 2025
+Fri Jun 20 20:39:20 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Gratitude and treachery are merely the  \
-| two extremities of the same procession. |
-| You have seen all of it that is worth   |
-| staying for when the band and the gaudy |
-| officials have gone by.                 |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
- -----------------------------------------
+ ________________________________________
+/ Its name is Public Opinion. It is held \
+| in reverence. It settles everything.   |
+| Some think it is the voice of God.     |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
