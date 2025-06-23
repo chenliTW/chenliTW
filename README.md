@@ -1,14 +1,14 @@
 Last Update Time: 
-Mon Jun 23 05:53:48 UTC 2025
+Mon Jun 23 06:32:01 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Few things are harder to put up with  \
-| than the annoyance of a good example. |
-|                                       |
-| -- "Mark Twain, Pudd'nhead Wilson's   |
-\ Calendar"                             /
- ---------------------------------------
+ _________________________________________
+/ Soap and education are not as sudden as \
+| a massacre, but they are more deadly in |
+| the long run.                           |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
