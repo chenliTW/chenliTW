@@ -1,18 +1,18 @@
 Last Update Time: 
-Tue Jun 24 16:55:17 UTC 2025
+Tue Jun 24 17:22:41 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: Why don't Scotsmen ever have coffee \
-| the way they like it? A: Well, they    |
-| like it with two lumps of sugar. If    |
-| they drink                             |
-|                                        |
-| it at home, they only take one, and if |
-| they drink it while                    |
-|                                        |
-\ visiting, they always take three.      /
- ----------------------------------------
+ _________________________________________
+/ The only people for me are the mad ones \
+| -- the ones who are mad to live, mad to |
+| talk, mad to be saved, desirous of      |
+| everything at the same time, the ones   |
+| who never yawn or say a commonplace     |
+| thing, but burn, burn, burn like        |
+| fabulous yellow Roman candles.          |
+|                                         |
+\ -- Jack Kerouac, "On the Road"          /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
