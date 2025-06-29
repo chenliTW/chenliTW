@@ -1,13 +1,12 @@
 Last Update Time: 
-Sun Jun 29 22:51:21 UTC 2025
+Sun Jun 29 23:13:24 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ FORTUNE PROVIDES QUESTIONS FOR THE      \
-| GREAT ANSWERS: #5 A: The Halls of       |
-| Montezuma and the Shores of Tripoli. Q: |
-| Name two families whose kids won't join |
-\ the Marines.                            /
+/ The first thing we do, let's kill all   \
+| the lawyers.                            |
+|                                         |
+\ -- Wm. Shakespeare, "Henry VI", Part IV /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
