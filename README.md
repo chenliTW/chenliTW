@@ -1,12 +1,14 @@
 Last Update Time: 
-Wed Jul  2 08:31:16 UTC 2025
+Wed Jul  2 08:55:37 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: What do you get when you cross the   \
-| Godfather with an attorney? A: An offer |
-\ you can't understand.                   /
- -----------------------------------------
+ ________________________________________
+/ Q: Why does Washington have the most   \
+| lawyers per capita and                 |
+|                                        |
+| New Jersey the most toxic waste dumps? |
+\ A: God gave New Jersey first choice.   /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
