@@ -1,14 +1,18 @@
 Last Update Time: 
-Tue Jul  8 07:32:15 UTC 2025
+Tue Jul  8 07:46:41 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Q: How do you catch a unique rabbit? A: \
-| Unique up on it!                        |
-|                                         |
-| Q: How do you catch a tame rabbit? A:   |
-\ The tame way!                           /
- -----------------------------------------
+ ________________________________________
+/ Steady movement is more important than \
+| speed, much of the time. So long as    |
+| there is a regular progression of      |
+| stimuli to get your mental hooks into, |
+| there is room for lateral movement.    |
+| Once this begins, its rate is a matter |
+| of discretion.                         |
+|                                        |
+\ -- Corwin, Prince of Amber             /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
