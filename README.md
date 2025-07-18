@@ -1,15 +1,15 @@
 Last Update Time: 
-Fri Jul 18 17:59:33 UTC 2025
+Fri Jul 18 18:41:46 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: Minnesotans ask, "Why aren't there \
-| more pharmacists from Alabama?" A:    |
-| Easy. It's because they can't figure  |
-| out how to get the little             |
-|                                       |
-\ bottles into the typewriter.          /
- ---------------------------------------
+ _________________________________________
+/ Q: Why is it that the more accuracy you \
+| demand from an interpolation            |
+|                                         |
+| function, the more expensive it becomes |
+| to compute? A: That's the Law of Spline |
+\ Demand.                                 /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
