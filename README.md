@@ -1,14 +1,14 @@
 Last Update Time: 
-Fri Jul 18 18:41:46 UTC 2025
+Fri Jul 18 18:59:30 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: Why is it that the more accuracy you \
-| demand from an interpolation            |
+/ There is no hunting like the hunting of \
+| man, and those who have hunted armed    |
+| men long enough and liked it, never     |
+| care for anything else thereafter.      |
 |                                         |
-| function, the more expensive it becomes |
-| to compute? A: That's the Law of Spline |
-\ Demand.                                 /
+\ -- Ernest Hemingway                     /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
