@@ -1,14 +1,14 @@
 Last Update Time: 
-Fri Jul 25 20:59:31 UTC 2025
+Fri Jul 25 21:27:44 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Habit is habit, and not to be flung out \
-| of the window by any man, but coaxed    |
-| down-stairs a step at a time.           |
+/ The only way to keep your health is to  \
+| eat what you don't want, drink what you |
+| don't like, and do what you'd rather    |
+| not.                                    |
 |                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar                                /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
