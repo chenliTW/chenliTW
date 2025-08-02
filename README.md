@@ -1,50 +1,19 @@
 Last Update Time: 
-Sat Aug  2 17:52:49 UTC 2025
+Sat Aug  2 18:25:38 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ We were young and our happiness dazzled \
-| us with its strength. But there was     |
-| also a terrible betrayal that lay       |
-| within me like a Merle Haggard song at  |
-| a French restaurant. [...]              |
+/ The countdown had stalled at 'T' minus  \
+| 69 seconds when Desiree, the first      |
+| female ape to go up in space, winked at |
+| me slyly and pouted her thick, rubbery  |
+| lips unmistakably -- the first of many  |
+| such advances during what would prove   |
+| to be the longest, and most memorable,  |
+| space voyage of my career.              |
 |                                         |
-| I could not tell the girl about the     |
-| woman of the tollway, of her milk white |
-| BMW and her Jordache smile. There had   |
-| been a fight. I had punched her         |
-| boyfriend, who fought the mechanical    |
-| bulls. Everyone told him, "You ride the |
-| bull, senor. You do not fight it." But  |
-| he was lean and tough like a bad        |
-| rib-eye and he fought the bull. And     |
-| then he fought me. And when we finished |
-| there were no winners, just men doing   |
-| what men must do. [...]                 |
-|                                         |
-| "Stop the car," the girl said.          |
-|                                         |
-| There was a look of terrible sadness in |
-| her eyes. She knew about the woman of   |
-| the tollway. I knew not how. I started  |
-| to speak, but she raised an arm and     |
-| spoke with a quiet and peace I will     |
-| never forget.                           |
-|                                         |
-| "I do not ask for whom's the tollway    |
-| belle," she said, "the tollway belle's  |
-| for thee."                              |
-|                                         |
-| The next morning our youth was a        |
-| memory, and our happiness was a lie.    |
-| Life is like a bad margarita with good  |
-| tequila, I thought as I poured whiskey  |
-| onto my granola and faced a new day.    |
-|                                         |
-| -- Peter Applebome, International       |
-| Imitation Hemingway                     |
-|                                         |
-\ Competition                             /
+| -- Winning sentence, 1985 Bulwer-Lytton |
+\ bad fiction contest.                    /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
