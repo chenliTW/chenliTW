@@ -1,18 +1,11 @@
 Last Update Time: 
-Wed Aug 13 21:57:06 UTC 2025
+Wed Aug 13 22:25:31 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ When I was younger, I could remember   \
-| anything, whether it had happened or   |
-| not; but my faculties are decaying now |
-| and soon I shall be so I cannot        |
-| remember any but the things that never |
-| happened. It is sad to go to pieces    |
-| like this but we all have to do it.    |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _______________________________________
+/ You will be held hostage by a radical \
+\ group.                                /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
