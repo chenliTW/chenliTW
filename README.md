@@ -1,65 +1,35 @@
 Last Update Time: 
-Tue Aug 19 22:42:45 UTC 2025
+Tue Aug 19 22:55:16 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many members of the U.S.S.       \
-| Enterprise does it take to change a     |
+/ Courage is resistance to fear, mastery  \
+| of fear--not absence of fear. Except a  |
+| creature be part coward it is not a     |
+| compliment to say it is brave; it is    |
+| merely a loose misapplication of the    |
+| word. Consider the flea!--incomparably  |
+| the bravest of all the creatures of     |
+| God, if ignorance of fear were courage. |
+| Whether you are asleep or awake he will |
+| attack you, caring nothing for the fact |
+| that in bulk and strength you are to    |
+| him as are the massed armies of the     |
+| earth to a sucking child; he lives both |
+| day and night and all days and nights   |
+| in the very lap of peril and the        |
+| immediate presence of death, and yet is |
+| no more afraid than is the man who      |
+| walks the streets of a city that was    |
+| threatened by an earthquake ten         |
+| centuries before. When we speak of      |
+| Clive, Nelson, and Putnam as men who    |
+| "didn't know what fear was," we ought   |
+| always to add the flea--and put him at  |
+| the head of the procession.             |
 |                                         |
-| light bulb? A: Seven. Scotty has to     |
-| report to Captain Kirk that the light   |
-| bulb in                                 |
-|                                         |
-| the Engineering Section is getting dim, |
-| at which point Kirk will send           |
-|                                         |
-| Bones to pronounce the bulb dead        |
-| (although he'll immediately claim       |
-|                                         |
-| that he's a doctor, not an              |
-| electrician). Scotty, after checking    |
-|                                         |
-| around, realizes that they have no more |
-| new light bulbs, and complains          |
-|                                         |
-| that he "canna" see in the dark. Kirk   |
-| will make an emergency stop at          |
-|                                         |
-| the next uncharted planet, Alpha Regula |
-| IV, to procure a light bulb             |
-|                                         |
-| from the natives, who, are friendly,    |
-| but seem to be hiding something.        |
-|                                         |
-| Kirk, Spock, Bones, Yeoman Rand and two |
-| red shirt security officers             |
-|                                         |
-| beam down to the planet, where the two  |
-| security officers are promply           |
-|                                         |
-| killed by the natives, and the rest of  |
-| the landing party is captured.          |
-|                                         |
-| As something begins to develop between  |
-| the Captain and Yeoman Rand,            |
-|                                         |
-| Scotty, back in orbit, is attacked by a |
-| Klingon destroyer and must              |
-|                                         |
-| warp out of orbit. Although badly       |
-| outgunned, he cripples the Klingon      |
-|                                         |
-| and races back to the planet in order   |
-| to rescue Kirk et. al. who have         |
-|                                         |
-| just saved the natives' from an awful   |
-| fate and, as a reward, been             |
-|                                         |
-| given all light bulbs they can carry.   |
-| The new bulb is then inserted           |
-|                                         |
-| and the Enterprise continues on its     |
-\ five year mission.                      /
+| -- Mark Twain, "Pudd'nhead Wilson's     |
+\ Calendar"                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
