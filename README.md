@@ -1,17 +1,15 @@
 Last Update Time: 
-Wed Aug 20 22:46:34 UTC 2025
+Wed Aug 20 22:56:55 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ I've touch'd the highest point of all  \
-| my greatness; And from that full       |
-| meridian of my glory I haste now to my |
-| setting. I shall fall, Like a bright   |
-| exhalation in the evening And no man   |
-| see me more.                           |
-|                                        |
-\ -- Shakespeare                         /
- ----------------------------------------
+ _________________________________________
+/ Q: Why is it that the more accuracy you \
+| demand from an interpolation            |
+|                                         |
+| function, the more expensive it becomes |
+| to compute? A: That's the Law of Spline |
+\ Demand.                                 /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
