@@ -1,14 +1,14 @@
 Last Update Time: 
-Fri Aug 22 14:38:51 UTC 2025
+Fri Aug 22 14:50:38 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: What do you call the money you pay \
-| to the government when                |
-|                                       |
-| you ride into the country on the back |
-\ of an elephant? A: A howdah duty.     /
- ---------------------------------------
+ _________________________________________
+/ Q: How does a hacker fix a function     \
+| which                                   |
+|                                         |
+| doesn't work for all of the elements in |
+\ its domain? A: He changes the domain.   /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
