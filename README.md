@@ -1,50 +1,17 @@
 Last Update Time: 
-Wed Sep 10 13:53:52 UTC 2025
+Wed Sep 10 14:14:18 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ We were young and our happiness dazzled \
-| us with its strength. But there was     |
-| also a terrible betrayal that lay       |
-| within me like a Merle Haggard song at  |
-| a French restaurant. [...]              |
+/ I got a hint of things to come when I   \
+| overheard my boss lamenting, 'The books |
+| are done and we still don't have an     |
+| author! I must sign someone today!      |
 |                                         |
-| I could not tell the girl about the     |
-| woman of the tollway, of her milk white |
-| BMW and her Jordache smile. There had   |
-| been a fight. I had punched her         |
-| boyfriend, who fought the mechanical    |
-| bulls. Everyone told him, "You ride the |
-| bull, senor. You do not fight it." But  |
-| he was lean and tough like a bad        |
-| rib-eye and he fought the bull. And     |
-| then he fought me. And when we finished |
-| there were no winners, just men doing   |
-| what men must do. [...]                 |
+| -- Tamim Ansary, "Edutopia Magazine,    |
+| Issue 2, November 2004"                 |
 |                                         |
-| "Stop the car," the girl said.          |
-|                                         |
-| There was a look of terrible sadness in |
-| her eyes. She knew about the woman of   |
-| the tollway. I knew not how. I started  |
-| to speak, but she raised an arm and     |
-| spoke with a quiet and peace I will     |
-| never forget.                           |
-|                                         |
-| "I do not ask for whom's the tollway    |
-| belle," she said, "the tollway belle's  |
-| for thee."                              |
-|                                         |
-| The next morning our youth was a        |
-| memory, and our happiness was a lie.    |
-| Life is like a bad margarita with good  |
-| tequila, I thought as I poured whiskey  |
-| onto my granola and faced a new day.    |
-|                                         |
-| -- Peter Applebome, International       |
-| Imitation Hemingway                     |
-|                                         |
-\ Competition                             /
+\ on the topic of school textbooks        /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
