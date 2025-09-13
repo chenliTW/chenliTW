@@ -1,24 +1,23 @@
 Last Update Time: 
-Sat Sep 13 05:40:30 UTC 2025
+Sat Sep 13 05:54:13 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many IBM types does it take to   \
-| change a light bulb? A: Fifteen. One to |
-| do it, and fourteen to write document   |
-| number                                  |
+/ Q: How many gradual (sorry, that's      \
+| supposed to be "graduate") students     |
 |                                         |
-| GC7500439-0001, Multitasking            |
-| Incandescent Source System Facility,    |
+| does it take to screw in a light bulb?  |
+| A: "I'm afraid we don't know, but make  |
+| my stipend tax-free, give my            |
 |                                         |
-| of which 10% of the pages state only    |
-| "This page intentionally                |
+| advisor a $30,000 grant of the          |
+| taxpayer's money, and I'm sure he       |
 |                                         |
-| left blank", and 20% of the definitions |
-| are of the form "A:.....                |
+| can tell me how to do the gruntwork for |
+| him so he can take the                  |
 |                                         |
-| consists of sequences of non-blank      |
-\ characters separated by blanks".        /
+| credit for answering this incredibly    |
+\ vital question."                        /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
