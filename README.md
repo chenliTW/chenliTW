@@ -1,23 +1,21 @@
 Last Update Time: 
-Tue Sep 16 04:26:25 UTC 2025
+Tue Sep 16 04:43:35 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many journalists does it take to \
-| screw in a light bulb? A: Three. One to |
-| report it as an inspired government     |
-| program to bring                        |
+/ In the plot, people came to the land;   \
+| the land loved them; they worked and    |
+| struggled and had lots of children.     |
+| There was a Frenchman who talked funny  |
+| and a greenhorn from England who was a  |
+| fancy-pants but when it came to the     |
+| crunch he was all courage. Those novels |
+| would make you retch.                   |
 |                                         |
-| light to the people, one to report it   |
-| as a diabolical government plot         |
+| -- Canadian novelist Robertson Davies,  |
+| on the generic Canadian                 |
 |                                         |
-| to deprive the poor of darkness, and    |
-| one to win a Pulitzer prize for         |
-|                                         |
-| reporting that Electric Company hired a |
-| light bulb-assassin to break            |
-|                                         |
-\ the bulb in the first place.            /
+\ novel.                                  /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
