@@ -1,20 +1,11 @@
 Last Update Time: 
-Thu Sep 25 21:44:24 UTC 2025
+Thu Sep 25 21:56:07 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ At once it struck me what quality went \
-| to form a man of achievement,          |
-| especially in literature, and which    |
-| Shakespeare possessed so enormously -- |
-| I mean negative capability, that is,   |
-| when a man is capable of being in      |
-| uncertainties, mysteries, doubts,      |
-| without any irritable reaching after   |
-| fact and reason.                       |
-|                                        |
-\ -- John Keats                          /
- ----------------------------------------
+ _____________________________________
+/ You have the power to influence all \
+\ with whom you come in contact.      /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
