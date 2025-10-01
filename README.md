@@ -1,15 +1,34 @@
 Last Update Time: 
-Wed Oct  1 15:42:16 UTC 2025
+Wed Oct  1 15:54:06 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: Where's the Lone Ranger take his     \
-| garbage? A: To the dump, to the dump,   |
-| to the dump dump dump!                  |
+/ The Least Successful Collector          \
 |                                         |
-| Q: What's the Pink Panther say when he  |
-| steps on an ant hill? A: Dead ant, dead |
-\ ant, dead ant dead ant dead ant...      /
+| Betsy Baker played a central role in    |
+| the history of collecting. She was      |
+| employed as a servant in the house of   |
+| John Warburton (1682-1759) who had      |
+| amassed a fine collection of 58 first   |
+| edition plays, including most of the    |
+| works of Shakespeare.                   |
+|                                         |
+| One day Warburton returned home to find |
+| 55 of them charred beyond legibility.   |
+| Betsy had either burned them or used    |
+| them as pie bottoms. The remaining      |
+| three folios are now in the British     |
+| Museum.                                 |
+|                                         |
+| The only comparable literary figure was |
+| the maid who in 1835 burned the         |
+| manuscript of the first volume of       |
+| Thomas Carlyle's "The Hisory of the     |
+| French Revolution", thinking it was     |
+| wastepaper.                             |
+|                                         |
+| -- Stephen Pile, "The Book of Heroic    |
+\ Failures"                               /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
