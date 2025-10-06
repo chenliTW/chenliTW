@@ -1,15 +1,12 @@
 Last Update Time: 
-Mon Oct  6 16:31:10 UTC 2025
+Mon Oct  6 16:48:18 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _____________________________________
-/ Writing is easy; all you do is sit  \
-| staring at the blank sheet of paper |
-| until drops of blood form on your   |
-| forehead.                           |
-|                                     |
-\ -- Gene Fowler                      /
- -------------------------------------
+ ________________________
+/ I'll burn my books.    \
+|                        |
+\ -- Christopher Marlowe /
+ ------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
