@@ -1,25 +1,13 @@
 Last Update Time: 
-Thu Oct  9 21:35:59 UTC 2025
+Thu Oct  9 21:49:52 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ No live organism can continue for long  \
-| to exist sanely under conditions of     |
-| absolute reality; even larks and        |
-| katydids are supposed, by some, to      |
-| dream. Hill House, not sane, stood by   |
-| itself against its hills, holding       |
-| darkness within; it had stood so for    |
-| eighty years and might stand for eighty |
-| more. Within, walls continued upright,  |
-| bricks met neatly, floors were firm,    |
-| and doors were sensibly shut; silence   |
-| lay steadily against the wood and stone |
-| of Hill House, and whatever walked      |
-| there, walked alone.                    |
+/ If one cannot enjoy reading a book over \
+| and over again, there is no use in      |
+| reading it at all.                      |
 |                                         |
-| -- Shirley Jackson, "The Haunting of    |
-\ Hill House"                             /
+\ -- Oscar Wilde                          /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
