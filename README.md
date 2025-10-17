@@ -1,23 +1,18 @@
 Last Update Time: 
-Fri Oct 17 10:27:20 UTC 2025
+Fri Oct 17 10:45:17 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ Mind! I don't mean to say that I know,  \
-| of my own knowledge, what there is      |
-| particularly dead about a door-nail. I  |
-| might have been inclined, myself, to    |
-| regard a coffin-nail as the deadest     |
-| piece of ironmongery in the trade. But  |
-| the wisdom of our ancestors is in the   |
-| simile; and my unhallowed hands shall   |
-| not disturb it, or the Country's done   |
-| for. You will therefore permit me to    |
-| repeat, emphatically, that Marley was   |
-| as dead as a door-nail.                 |
-|                                         |
-\ -- Charles Dickens, "A Christmas Carol" /
- -----------------------------------------
+ ________________________________________
+/ When I was younger, I could remember   \
+| anything, whether it had happened or   |
+| not; but my faculties are decaying now |
+| and soon I shall be so I cannot        |
+| remember any but the things that never |
+| happened. It is sad to go to pieces    |
+| like this but we all have to do it.    |
+|                                        |
+\ -- Mark Twain                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
