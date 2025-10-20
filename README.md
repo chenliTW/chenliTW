@@ -1,10 +1,19 @@
 Last Update Time: 
-Mon Oct 20 04:49:33 UTC 2025
+Mon Oct 20 04:59:57 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: How was Thomas J. Watson buried? A: \
-\ 9 edge down.                           /
+/ Q: How does the Polish Constitution    \
+| differ from the American? A: Under the |
+| Polish Constitution citizens are       |
+| guaranteed freedom of                  |
+|                                        |
+| speech, but under the United States    |
+| constitution they are                  |
+|                                        |
+| guaranteed freedom after speech.       |
+|                                        |
+\ -- being told in Poland, 1987          /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
