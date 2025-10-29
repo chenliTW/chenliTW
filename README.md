@@ -1,19 +1,19 @@
 Last Update Time: 
-Wed Oct 29 22:38:53 UTC 2025
+Wed Oct 29 22:50:30 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ Q: How does the Polish Constitution    \
-| differ from the American? A: Under the |
-| Polish Constitution citizens are       |
-| guaranteed freedom of                  |
+/ Unless hours were cups of sack, and    \
+| minutes capons, and clocks the tongues |
+| of bawds, and dials the signs of       |
+| leaping houses, and the blessed sun    |
+| himself a fair, hot wench in           |
+| flame-colored taffeta, I see no reason |
+| why thou shouldst be so superfluous to |
+| demand the time of the day. I wasted   |
+| time and now doth time waste me.       |
 |                                        |
-| speech, but under the United States    |
-| constitution they are                  |
-|                                        |
-| guaranteed freedom after speech.       |
-|                                        |
-\ -- being told in Poland, 1987          /
+\ -- William Shakespeare                 /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
