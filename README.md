@@ -1,32 +1,12 @@
 Last Update Time: 
-Fri Nov 14 20:18:40 UTC 2025
+Fri Nov 14 20:38:20 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: What's the contour integral around \
-| Western Europe? A: Zero, because all  |
-| the Poles are in Eastern Europe!      |
-|                                       |
-| Addendum: Actually, there ARE some    |
-| Poles in Western Europe, but they     |
-|                                       |
-| are removable!                        |
-|                                       |
-| Q: An English mathematician (I forgot |
-| who) was asked by his                 |
-|                                       |
-| very religious colleague: Do you      |
-| believe in one God? A: Yes, up to     |
-| isomorphism!                          |
-|                                       |
-| Q: What is a compact city? A: It's a  |
-| city that can be guarded by finitely  |
-| many near-sighted                     |
-|                                       |
-| policemen!                            |
-|                                       |
-\ -- Peter Lax                          /
- ---------------------------------------
+ _________________________________________
+/ You may be infinitely smaller than some \
+| things, but you're infinitely larger    |
+\ than others.                            /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
