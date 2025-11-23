@@ -1,15 +1,20 @@
 Last Update Time: 
-Sun Nov 23 01:51:26 UTC 2025
+Sun Nov 23 03:22:46 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ F.S. Fitzgerald to Hemingway:        \
-|                                      |
-| "Ernest, the rich are different from |
-| us." Hemingway:                      |
-|                                      |
-\ "Yes. They have more money."         /
- --------------------------------------
+ ________________________________________
+/ At once it struck me what quality went \
+| to form a man of achievement,          |
+| especially in literature, and which    |
+| Shakespeare possessed so enormously -- |
+| I mean negative capability, that is,   |
+| when a man is capable of being in      |
+| uncertainties, mysteries, doubts,      |
+| without any irritable reaching after   |
+| fact and reason.                       |
+|                                        |
+\ -- John Keats                          /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
