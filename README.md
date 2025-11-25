@@ -1,10 +1,23 @@
 Last Update Time: 
-Tue Nov 25 18:39:03 UTC 2025
+Tue Nov 25 18:54:48 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ You own a dog, but you can only feed a \
-\ cat.                                   /
+/ Q: How many hardware engineers does it \
+| take to change a light bulb? A: None.  |
+| We'll fix it in software.              |
+|                                        |
+| Q: How many system programmers does it |
+| take to change a light bulb? A: None.  |
+| The application can work around it.    |
+|                                        |
+| Q: How many software engineers does it |
+| take to change a light bulb? A: None.  |
+| We'll document it in the manual.       |
+|                                        |
+| Q: How many tech writers does it take  |
+| to change a light bulb? A: None. The   |
+\ user can figure it out.                /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
