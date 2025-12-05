@@ -1,14 +1,19 @@
 Last Update Time: 
-Fri Dec  5 23:21:02 UTC 2025
+Fri Dec  5 23:36:34 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ I don't know half of you half as well  \
-| as I should like; and I like less than |
-| half of you half as well as you        |
-| deserve.                               |
+/ At once it struck me what quality went \
+| to form a man of achievement,          |
+| especially in literature, and which    |
+| Shakespeare possessed so enormously -- |
+| I mean negative capability, that is,   |
+| when a man is capable of being in      |
+| uncertainties, mysteries, doubts,      |
+| without any irritable reaching after   |
+| fact and reason.                       |
 |                                        |
-\ -- J. R. R. Tolkien                    /
+\ -- John Keats                          /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
