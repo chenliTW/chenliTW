@@ -1,12 +1,11 @@
 Last Update Time: 
-Thu Dec 11 15:58:57 UTC 2025
+Thu Dec 11 16:43:03 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ Q: What do you have when you have a   \
-| lawyer buried up to his neck in sand? |
-\ A: Not enough sand.                   /
- ---------------------------------------
+ ______________________________________
+/ Q: Why did Menachem Begin invade     \
+\ Lebanon? A: To impress Jodie Foster. /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
