@@ -1,22 +1,18 @@
 Last Update Time: 
-Sun Dec 14 21:25:56 UTC 2025
+Sun Dec 14 21:40:29 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _________________________________________
-/ There are three infallible ways of      \
-| pleasing an author, and the three form  |
-| a rising scale of compliment: 1, to     |
-| tell him you have read one of his       |
-| books; 2, to tell him you have read all |
-| of his books; 3, to ask him to let you  |
-| read the manuscript of his forthcoming  |
-| book. No. 1 admits you to his respect;  |
-| No. 2 admits you to his admiration; No. |
-| 3 carries you clear into his heart.     |
-|                                         |
-| -- Mark Twain, "Pudd'nhead Wilson's     |
-\ Calendar"                               /
- -----------------------------------------
+ _______________________________________
+/ The bay-trees in our country are all  \
+| wither'd And meteors fright the fixed |
+| stars of heaven; The pale-faced moon  |
+| looks bloody on the earth And         |
+| lean-look'd prophets whisper fearful  |
+| change. These signs forerun the death |
+| or fall of kings.                     |
+|                                       |
+\ -- Wm. Shakespeare, "Richard II"      /
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
