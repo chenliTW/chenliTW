@@ -1,20 +1,12 @@
 Last Update Time: 
-Tue Dec 16 14:36:56 UTC 2025
+Tue Dec 16 14:56:45 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ At once it struck me what quality went \
-| to form a man of achievement,          |
-| especially in literature, and which    |
-| Shakespeare possessed so enormously -- |
-| I mean negative capability, that is,   |
-| when a man is capable of being in      |
-| uncertainties, mysteries, doubts,      |
-| without any irritable reaching after   |
-| fact and reason.                       |
-|                                        |
-\ -- John Keats                          /
- ----------------------------------------
+ _________________________________________
+/ Q: What do you say to a New Yorker with \
+| a job? A: Big Mac, fries and a Coke,    |
+\ please!                                 /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
