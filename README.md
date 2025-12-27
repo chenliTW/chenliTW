@@ -1,12 +1,15 @@
 Last Update Time: 
-Sat Dec 27 10:46:38 UTC 2025
+Sat Dec 27 10:58:16 UTC 2025
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ______________________________________
-/ Q: What happens when four WASPs find \
-| themselves in the same room? A: A    |
-\ dinner party.                        /
- --------------------------------------
+ ________________________________________
+/ There is always one thing to remember: \
+| writers are always selling somebody    |
+| out.                                   |
+|                                        |
+| -- Joan Didion, "Slouching Towards     |
+\ Bethlehem"                             /
+ ----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
