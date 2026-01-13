@@ -1,14 +1,23 @@
 Last Update Time: 
-Tue Jan 13 05:35:54 UTC 2026
+Tue Jan 13 05:52:34 UTC 2026
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ O, it is excellent To have a giant's    \
-| strength; but it is tyrannous To use it |
-| like a giant.                           |
+/ Q: How many gradual (sorry, that's      \
+| supposed to be "graduate") students     |
 |                                         |
-| -- Shakespeare, "Measure for Measure",  |
-\ II, 2                                   /
+| does it take to screw in a light bulb?  |
+| A: "I'm afraid we don't know, but make  |
+| my stipend tax-free, give my            |
+|                                         |
+| advisor a $30,000 grant of the          |
+| taxpayer's money, and I'm sure he       |
+|                                         |
+| can tell me how to do the gruntwork for |
+| him so he can take the                  |
+|                                         |
+| credit for answering this incredibly    |
+\ vital question."                        /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
