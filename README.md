@@ -1,18 +1,15 @@
 Last Update Time: 
-Wed Jan 28 21:21:39 UTC 2026
+Wed Jan 28 21:51:38 UTC 2026
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ When I was younger, I could remember   \
-| anything, whether it had happened or   |
-| not; but my faculties are decaying now |
-| and soon I shall be so I cannot        |
-| remember any but the things that never |
-| happened. It is sad to go to pieces    |
-| like this but we all have to do it.    |
-|                                        |
-\ -- Mark Twain                          /
- ----------------------------------------
+ _________________________________________
+/ In a museum in Havana, there are two    \
+| skulls of Christopher Columbus, "one    |
+| when he was a boy and one when he was a |
+| man."                                   |
+|                                         |
+\ -- Mark Twain                           /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
