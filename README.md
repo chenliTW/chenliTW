@@ -1,15 +1,15 @@
 Last Update Time: 
-Wed Feb  4 09:55:22 UTC 2026
+Wed Feb  4 10:45:32 UTC 2026
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- _______________________________________
-/ One of the most striking differences  \
-| between a cat and a lie is that a cat |
-| has only nine lives.                  |
-|                                       |
-| -- Mark Twain, "Pudd'nhead Wilson's   |
-\ Calendar"                             /
- ---------------------------------------
+ _________________________________________
+/ Q: Why is it that the more accuracy you \
+| demand from an interpolation            |
+|                                         |
+| function, the more expensive it becomes |
+| to compute? A: That's the Law of Spline |
+\ Demand.                                 /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
