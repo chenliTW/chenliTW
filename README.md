@@ -1,12 +1,13 @@
 Last Update Time: 
-Mon Mar  9 21:49:38 UTC 2026
+Mon Mar  9 22:17:32 UTC 2026
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  ________________________________________
-/ There's small choice in rotten apples. \
+/ Q: Why does Washington have the most   \
+| lawyers per capita and                 |
 |                                        |
-| -- William Shakespeare, "The Taming of |
-\ the Shrew"                             /
+| New Jersey the most toxic waste dumps? |
+\ A: God gave New Jersey first choice.   /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
