@@ -1,14 +1,15 @@
 Last Update Time: 
-Thu Mar 12 21:52:25 UTC 2026
+Thu Mar 12 22:22:20 UTC 2026
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Kiss me, Kate, we will be married o'   \
-| Sunday.                                |
-|                                        |
-| -- William Shakespeare, "The Taming of |
-\ the Shrew"                             /
- ----------------------------------------
+ _________________________________________
+/ Q: Why is it that the more accuracy you \
+| demand from an interpolation            |
+|                                         |
+| function, the more expensive it becomes |
+| to compute? A: That's the Law of Spline |
+\ Demand.                                 /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
