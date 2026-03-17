@@ -1,20 +1,23 @@
 Last Update Time: 
-Tue Mar 17 21:02:57 UTC 2026
+Tue Mar 17 21:51:15 UTC 2026
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ Q: How many existentialists does it     \
-| take to screw in a light bulb? A: Two.  |
-| One to screw it in and one to observe   |
-| how the light bulb                      |
+/ Q: How many gradual (sorry, that's      \
+| supposed to be "graduate") students     |
 |                                         |
-| itself symbolizes a single incandescent |
-| beacon of subjective                    |
+| does it take to screw in a light bulb?  |
+| A: "I'm afraid we don't know, but make  |
+| my stipend tax-free, give my            |
 |                                         |
-| reality in a netherworld of endless     |
-| absurdity reaching out toward a         |
+| advisor a $30,000 grant of the          |
+| taxpayer's money, and I'm sure he       |
 |                                         |
-\ maudlin cosmos of nothingness.          /
+| can tell me how to do the gruntwork for |
+| him so he can take the                  |
+|                                         |
+| credit for answering this incredibly    |
+\ vital question."                        /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
