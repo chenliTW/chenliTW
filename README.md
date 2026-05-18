@@ -1,12 +1,15 @@
 Last Update Time: 
-Mon May 18 19:08:18 UTC 2026
+Mon May 18 20:43:56 UTC 2026
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ Q: How many lawyers does it take to    \
-| change a light bulb? A: One. Only it's |
-\ his light bulb when he's done.         /
- ----------------------------------------
+ _________________________________________
+/ Q: Why is it that the more accuracy you \
+| demand from an interpolation            |
+|                                         |
+| function, the more expensive it becomes |
+| to compute? A: That's the Law of Spline |
+\ Demand.                                 /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
