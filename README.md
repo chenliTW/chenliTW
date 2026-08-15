@@ -1,35 +1,14 @@
 Last Update Time: 
-Sat Aug 15 23:19:18 UTC 2026
+Sat Aug 15 23:39:57 UTC 2026
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
  _________________________________________
-/ His followers called him Mahasamatman   \
-| and said he was a god. He preferred to  |
-| drop the Maha- and the -atman, however, |
-| and called himself Sam. He never        |
-| claimed to be a god. But then, he never |
-| claimed not to be a god. Circum-        |
-| stances being what they were, neither   |
-| admission could be of any benefit.      |
-| Silence, though, could. It was in the   |
-| days of the rains that their prayers    |
-| went up, not from the fingering of      |
-| knotted prayer cords or the spinning of |
-| prayer wheels, but from the great       |
-| pray-machine in the monastery of Ratri, |
-| goddess of the Night. The               |
-| high-frequency prayers were directed    |
-| upward through the atmosphere and out   |
-| beyond it, passing into that golden     |
-| cloud called the Bridge of the Gods,    |
-| which circles the entire world, is seen |
-| as a bronze rainbow at night and is the |
-| place where the red sun becomes orange  |
-| at midday. Some of the monks doubted    |
-| the orthodoxy of this prayer            |
-| technique...                            |
+/ The only way to keep your health is to  \
+| eat what you don't want, drink what you |
+| don't like, and do what you'd rather    |
+| not.                                    |
 |                                         |
-\ -- Roger Zelazny, "Lord of Light"       /
+\ -- Mark Twain                           /
  -----------------------------------------
         \   ^__^
          \  (oo)\_______
