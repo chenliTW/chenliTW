@@ -1,14 +1,15 @@
 Last Update Time: 
-Fri Aug 21 23:49:01 UTC 2026
+Sat Aug 22 00:29:54 UTC 2026
 <br>![](https://img.shields.io/badge/%E5%A4%A7%E5%AE%B6-%E5%AE%89%E5%AE%89-green)<br>
 ```
- ________________________________________
-/ When you are about to die, a wombat is \
-| better than no company at all.         |
-|                                        |
-| -- Roger Zelazny, "Doorways in the     |
-\ Sand"                                  /
- ----------------------------------------
+ _________________________________________
+/ Q: Why is it that the more accuracy you \
+| demand from an interpolation            |
+|                                         |
+| function, the more expensive it becomes |
+| to compute? A: That's the Law of Spline |
+\ Demand.                                 /
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
